@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2466309/scafati-v-greenfield/", "blocked": false, "citation": {"case_name": "Scafati v. Greenfield", "docket_number": "1104", "document_uris": ["/api/rest/v2/document/2466309/"], "federal_cite_one": "390 U.S. 713", "federal_cite_three": null, "federal_cite_two": null, "id": 2439081, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2439081/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-04-22", "date_modified": "2015-05-26T11:14:54.442571", "docket": "/api/rest/v2/docket/2569688/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>390 U.S. 713 (1968)</b></center>\n<center><h1>SCAFATI, CORRECTIONAL SUPERINTENDENT<br>\nv.<br>\nGREENFIELD.</h1></center>\n<center>No. 1104.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 22, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS.\n<p><i>Elliot L. Richardson,</i> Attorney General of Massachusetts, <i>Willie J. Davis</i> and <i>Howard M. Miller,</i> Assistant Attorneys General, and <i>Richard L. Levine,</i> Deputy Assistant Attorney General, for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The motion of appellee for leave to proceed <i>in forma pauperis</i> is granted. The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE WHITE would note probable jurisdiction and set the case for oral argument.</p>\n</div>", "html_with_citations": "", "id": 2466309, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2466309/", "sha1": "72f7878980c7ab2cfdfaf790063946519c5f8f3c", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-30T02:43:18.928069"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "390 U.S. 713", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2466309/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Scafati v. Greenfield", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1104", 
+    "id": 2439081, 
+    "resource_uri": "/api/rest/v2/citation/2439081/"
+  }, 
+  "id": 2466309, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-04-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>390 U.S. 713 (1968)</b></center>\n<center><h1>SCAFATI, CORRECTIONAL SUPERINTENDENT<br>\nv.<br>\nGREENFIELD.</h1></center>\n<center>No. 1104.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 22, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS.\n<p><i>Elliot L. Richardson,</i> Attorney General of Massachusetts, <i>Willie J. Davis</i> and <i>Howard M. Miller,</i> Assistant Attorneys General, and <i>Richard L. Levine,</i> Deputy Assistant Attorney General, for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The motion of appellee for leave to proceed <i>in forma pauperis</i> is granted. The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE WHITE would note probable jurisdiction and set the case for oral argument.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:43:18.928069", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "72f7878980c7ab2cfdfaf790063946519c5f8f3c", 
+  "date_modified": "2015-05-26T11:14:54.442571", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2466309/scafati-v-greenfield/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2569688/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2466309/"
+}

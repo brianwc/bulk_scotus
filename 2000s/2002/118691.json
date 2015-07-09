@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/118691/molinari-v-illinois-department-of-insurance/", "blocked": false, "citation": {"case_name": "Molinari v. Illinois Department of Insurance", "docket_number": "01-965", "document_uris": ["/api/rest/v2/document/118691/"], "federal_cite_one": "535 U.S. 928", "federal_cite_three": null, "federal_cite_two": null, "id": 103044, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/103044/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-03-18", "date_modified": "2014-12-21T02:16:53.609441", "docket": "/api/rest/v2/docket/50002/", "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.928.01-965.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">535 U.S. 928</p>\n    <p class=\"parties\">MOLINARI<br><i>v.</i><br>ILLINOIS DEPARTMENT OF INSURANCE.</p>\n    <p class=\"docket\">No. 01-965.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">March 18, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">928</span></span></p>\n    <p class=\"parties\">MOLINARI<br><i>v.</i><br>ILLINOIS DEPARTMENT OF INSURANCE.</p>\n    <p class=\"docket\">No. 01-965.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">March 18, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 118691, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/118691/", "sha1": "01c5ed0b151aad944e12b6457aa341b0e3b03b6a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:40"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "535 U.S. 928", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/118691/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Molinari v. Illinois Department of Insurance", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-965", 
+    "id": 103044, 
+    "resource_uri": "/api/rest/v2/citation/103044/"
+  }, 
+  "id": 118691, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-03-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.928.01-965.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:40", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">928</span></span></p>\n    <p class=\"parties\">MOLINARI<br><i>v.</i><br>ILLINOIS DEPARTMENT OF INSURANCE.</p>\n    <p class=\"docket\">No. 01-965.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">March 18, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "01c5ed0b151aad944e12b6457aa341b0e3b03b6a", 
+  "date_modified": "2014-12-21T02:16:53.609441", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/118691/molinari-v-illinois-department-of-insurance/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/50002/", 
+  "html": "<p class=\"case_cite\">535 U.S. 928</p>\n    <p class=\"parties\">MOLINARI<br><i>v.</i><br>ILLINOIS DEPARTMENT OF INSURANCE.</p>\n    <p class=\"docket\">No. 01-965.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">March 18, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/118691/"
+}

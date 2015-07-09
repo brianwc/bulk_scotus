@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087703/trans-world-airlines-inc-v-flight-attendants/", "blocked": false, "citation": {"case_name": "Trans World Airlines, Inc. v. Flight Attendants", "docket_number": "86-1650", "document_uris": ["/api/rest/v2/document/1087703/"], "federal_cite_one": "485 U.S. 175", "federal_cite_three": null, "federal_cite_two": null, "id": 1060474, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060474/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1988-03-02", "date_modified": "2014-10-30T17:51:54.967396", "docket": "/api/rest/v2/docket/2589142/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>485 U.S. 175 (1988)</b></center>\n<center><h1>TRANS WORLD AIRLINES, INC.<br>\nv.<br>\nINDEPENDENT FEDERATION OF FLIGHT ATTENDANTS</h1></center>\n<center>No. 86-1650.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 12, 1988</center>\n<center>Decided March 2, 1988</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT\n<p><i>Murray Gartner</i> argued the cause for petitioner. With him on the briefs were <i>Paul E. Donnelly, Mark A. Buckstein,</i> and <i>Michael A. Katz.</i></p>\n<p><i>Steven A. Fehr</i> argued the cause for respondent. With him on the brief were <i>William A. Jolley, Doyle R. Pryor,</i> and <i>Scott A. Raisher.</i><sup>[*]</sup></p>\n<p><i>Marsha Berzon, William Mahoney, John Clarke, Jr.,</i> and <i>Laurence Gold</i> filed a brief for the American Federation of Labor and Congress of Industrial Organizations et al. as <i>amici curiae</i> urging affirmance.</p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Court of Appeals for the Eighth Circuit is affirmed by an equally divided Court.</p>\n<p>JUSTICE KENNEDY took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging reversal were filed for the Crossover Flight Attendants by <i>Mark P. Johnson;</i> and for Some Working TWA Flight Attendants by <i>Robert F. Gore, Rossie D. Alston, Jr.,</i> and <i>Rex H. Reed.</i></p>\n\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">485</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">175</span></span> (1988)</b></center>\n<center><h1>TRANS WORLD AIRLINES, INC.<br>\nv.<br>\nINDEPENDENT FEDERATION OF FLIGHT ATTENDANTS</h1></center>\n<center>No. 86-1650.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 12, 1988</center>\n<center>Decided March 2, 1988</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT\n<p><i>Murray Gartner</i> argued the cause for petitioner. With him on the briefs were <i>Paul E. Donnelly, Mark A. Buckstein,</i> and <i>Michael A. Katz.</i></p>\n<p><i>Steven A. Fehr</i> argued the cause for respondent. With him on the brief were <i>William A. Jolley, Doyle R. Pryor,</i> and <i>Scott A. Raisher.</i><sup>[*]</sup></p>\n<p><i>Marsha Berzon, William Mahoney, John Clarke, Jr.,</i> and <i>Laurence Gold</i> filed a brief for the American Federation of Labor and Congress of Industrial Organizations et al. as <i>amici curiae</i> urging affirmance.</p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Court of Appeals for the Eighth Circuit is affirmed by an equally divided Court.</p>\n<p>JUSTICE KENNEDY took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging reversal were filed for the Crossover Flight Attendants by <i>Mark P. Johnson;</i> and for Some Working TWA Flight Attendants by <i>Robert F. Gore, Rossie D. Alston, Jr.,</i> and <i>Rex H. Reed.</i></p>\n\n</div>", "id": 1087703, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087703/", "sha1": "8ab34385dad8c134936fd70028d7d3d8c58d27e5", "source": "L", "time_retrieved": "2013-10-29T19:16:33.307219"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "485 U.S. 175", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087703/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Trans World Airlines, Inc. v. Flight Attendants", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "86-1650", 
+    "id": 1060474, 
+    "resource_uri": "/api/rest/v2/citation/1060474/"
+  }, 
+  "id": 1087703, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1988-03-02", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>485 U.S. 175 (1988)</b></center>\n<center><h1>TRANS WORLD AIRLINES, INC.<br>\nv.<br>\nINDEPENDENT FEDERATION OF FLIGHT ATTENDANTS</h1></center>\n<center>No. 86-1650.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 12, 1988</center>\n<center>Decided March 2, 1988</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT\n<p><i>Murray Gartner</i> argued the cause for petitioner. With him on the briefs were <i>Paul E. Donnelly, Mark A. Buckstein,</i> and <i>Michael A. Katz.</i></p>\n<p><i>Steven A. Fehr</i> argued the cause for respondent. With him on the brief were <i>William A. Jolley, Doyle R. Pryor,</i> and <i>Scott A. Raisher.</i><sup>[*]</sup></p>\n<p><i>Marsha Berzon, William Mahoney, John Clarke, Jr.,</i> and <i>Laurence Gold</i> filed a brief for the American Federation of Labor and Congress of Industrial Organizations et al. as <i>amici curiae</i> urging affirmance.</p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Court of Appeals for the Eighth Circuit is affirmed by an equally divided Court.</p>\n<p>JUSTICE KENNEDY took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging reversal were filed for the Crossover Flight Attendants by <i>Mark P. Johnson;</i> and for Some Working TWA Flight Attendants by <i>Robert F. Gore, Rossie D. Alston, Jr.,</i> and <i>Rex H. Reed.</i></p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T19:16:33.307219", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">485</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">175</span></span> (1988)</b></center>\n<center><h1>TRANS WORLD AIRLINES, INC.<br>\nv.<br>\nINDEPENDENT FEDERATION OF FLIGHT ATTENDANTS</h1></center>\n<center>No. 86-1650.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 12, 1988</center>\n<center>Decided March 2, 1988</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT\n<p><i>Murray Gartner</i> argued the cause for petitioner. With him on the briefs were <i>Paul E. Donnelly, Mark A. Buckstein,</i> and <i>Michael A. Katz.</i></p>\n<p><i>Steven A. Fehr</i> argued the cause for respondent. With him on the brief were <i>William A. Jolley, Doyle R. Pryor,</i> and <i>Scott A. Raisher.</i><sup>[*]</sup></p>\n<p><i>Marsha Berzon, William Mahoney, John Clarke, Jr.,</i> and <i>Laurence Gold</i> filed a brief for the American Federation of Labor and Congress of Industrial Organizations et al. as <i>amici curiae</i> urging affirmance.</p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Court of Appeals for the Eighth Circuit is affirmed by an equally divided Court.</p>\n<p>JUSTICE KENNEDY took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging reversal were filed for the Crossover Flight Attendants by <i>Mark P. Johnson;</i> and for Some Working TWA Flight Attendants by <i>Robert F. Gore, Rossie D. Alston, Jr.,</i> and <i>Rex H. Reed.</i></p>\n\n</div>", 
+  "sha1": "8ab34385dad8c134936fd70028d7d3d8c58d27e5", 
+  "date_modified": "2014-10-30T17:51:54.967396", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087703/trans-world-airlines-inc-v-flight-attendants/", 
+  "citation_count": 5, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2589142/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087703/"
+}

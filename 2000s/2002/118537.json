@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/118537/washington-state-medical-quality-assurance/", "blocked": false, "citation": {"case_name": "Washington State Medical Quality Assurance Commission v. Nguyen", "docket_number": "01-734", "document_uris": ["/api/rest/v2/document/118537/"], "federal_cite_one": "535 U.S. 904", "federal_cite_three": null, "federal_cite_two": null, "id": 102890, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/102890/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-03-04", "date_modified": "2014-12-21T02:16:44.875775", "docket": "/api/rest/v2/docket/1334355/", "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.904.01-734.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">535 U.S. 904</p>\n    <p class=\"parties\">WASHINGTON STATE MEDICAL QUALITY ASSURANCE COMMISSION<br><i>v.</i><br>NGUYEN.</p>\n    <p class=\"docket\">No. 01-734.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">March 4, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Wash. Certiorari denied. Reported below: 144 Wash. 2d 516, 29 P. 3d 689.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">904</span></span></p>\n    <p class=\"parties\">WASHINGTON STATE MEDICAL QUALITY ASSURANCE COMMISSION<br><i>v.</i><br>NGUYEN.</p>\n    <p class=\"docket\">No. 01-734.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">March 4, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Wash. Certiorari denied. Reported below: 144 Wash. 2d 516, 29 P. 3d 689.</p>\n    </div>\n    ", "id": 118537, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/118537/", "sha1": "a6b56ba32a61d0b9dfcd97c62c79b05c9a3b7519", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:38"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "535 U.S. 904", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/118537/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Washington State Medical Quality Assurance Commission v. Nguyen", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-734", 
+    "id": 102890, 
+    "resource_uri": "/api/rest/v2/citation/102890/"
+  }, 
+  "id": 118537, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-03-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.904.01-734.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:38", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">904</span></span></p>\n    <p class=\"parties\">WASHINGTON STATE MEDICAL QUALITY ASSURANCE COMMISSION<br><i>v.</i><br>NGUYEN.</p>\n    <p class=\"docket\">No. 01-734.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">March 4, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Wash. Certiorari denied. Reported below: 144 Wash. 2d 516, 29 P. 3d 689.</p>\n    </div>\n    ", 
+  "sha1": "a6b56ba32a61d0b9dfcd97c62c79b05c9a3b7519", 
+  "date_modified": "2014-12-21T02:16:44.875775", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/118537/washington-state-medical-quality-assurance/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1334355/", 
+  "html": "<p class=\"case_cite\">535 U.S. 904</p>\n    <p class=\"parties\">WASHINGTON STATE MEDICAL QUALITY ASSURANCE COMMISSION<br><i>v.</i><br>NGUYEN.</p>\n    <p class=\"docket\">No. 01-734.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">March 4, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Wash. Certiorari denied. Reported below: 144 Wash. 2d 516, 29 P. 3d 689.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/118537/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/135264/ellison-v-sandia-national-laboratories-et-al/", "blocked": false, "citation": {"case_name": "Ellison v. Sandia National Laboratories", "docket_number": "03-177", "document_uris": ["/api/rest/v2/document/135264/"], "federal_cite_one": "541 U.S. 957", "federal_cite_three": null, "federal_cite_two": null, "id": 119617, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/119617/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-03-22", "date_modified": "2014-12-21T02:20:00.840861", "docket": "/api/rest/v2/docket/2224876/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.957.03-177.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 957</p>\n    <p class=\"parties\">ELLISON<br>v.<br>SANDIA NATIONAL LABORATORIES ET AL.</p>\n    <p class=\"docket\">No. 03-177.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 22, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">540 U. S. 880; Petitions for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">957</span></span></p>\n    <p class=\"parties\">ELLISON<br>v.<br>SANDIA NATIONAL LABORATORIES ET AL.</p>\n    <p class=\"docket\">No. 03-177.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 22, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">540 U. S. 880; Petitions for rehearing denied.</p>\n    </div>\n    ", "id": 135264, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/135264/", "sha1": "7479d3e87954ffee530f8f1e46d83cf31205b11e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:19"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 957", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/135264/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ellison v. Sandia National Laboratories", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-177", 
+    "id": 119617, 
+    "resource_uri": "/api/rest/v2/citation/119617/"
+  }, 
+  "id": 135264, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-03-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.957.03-177.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:19", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">957</span></span></p>\n    <p class=\"parties\">ELLISON<br>v.<br>SANDIA NATIONAL LABORATORIES ET AL.</p>\n    <p class=\"docket\">No. 03-177.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 22, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">540 U. S. 880; Petitions for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "7479d3e87954ffee530f8f1e46d83cf31205b11e", 
+  "date_modified": "2014-12-21T02:20:00.840861", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/135264/ellison-v-sandia-national-laboratories-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2224876/", 
+  "html": "<p class=\"case_cite\">541 U.S. 957</p>\n    <p class=\"parties\">ELLISON<br>v.<br>SANDIA NATIONAL LABORATORIES ET AL.</p>\n    <p class=\"docket\">No. 03-177.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 22, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">540 U. S. 880; Petitions for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/135264/"
+}

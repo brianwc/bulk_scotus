@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087671/gray-v-illinois/", "blocked": false, "citation": {"case_name": "Gray v. Illinois", "docket_number": "1494, Misc", "document_uris": ["/api/rest/v2/document/1087671/"], "federal_cite_one": "384 U.S. 718", "federal_cite_three": null, "federal_cite_two": null, "id": 1060442, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060442/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-06-13", "date_modified": "2014-10-30T17:41:20.245180", "docket": "/api/rest/v2/docket/2553432/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>384 U.S. 718 (1966)</b></center>\n<center><h1>GRAY<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 1494, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 13, 1966.</center>\nAPPEAL FROM THE SUPREME COURT OF ILLINOIS.\n<p><i>Elmer Gertz</i> for appellant.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, and <i>Richard A. Michael</i> and <i>Philip J. Rock,</i> Assistant Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1087671, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087671/", "sha1": "d7b21c203175658a2a55d69219915284d7f1e574", "source": "L", "time_retrieved": "2013-10-29T19:13:43.999822"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "384 U.S. 718", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087671/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gray v. Illinois", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1494, Misc", 
+    "id": 1060442, 
+    "resource_uri": "/api/rest/v2/citation/1060442/"
+  }, 
+  "id": 1087671, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-06-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>384 U.S. 718 (1966)</b></center>\n<center><h1>GRAY<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 1494, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 13, 1966.</center>\nAPPEAL FROM THE SUPREME COURT OF ILLINOIS.\n<p><i>Elmer Gertz</i> for appellant.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, and <i>Richard A. Michael</i> and <i>Philip J. Rock,</i> Assistant Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:13:43.999822", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d7b21c203175658a2a55d69219915284d7f1e574", 
+  "date_modified": "2014-10-30T17:41:20.245180", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087671/gray-v-illinois/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2553432/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087671/"
+}

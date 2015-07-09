@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1208182/duluth-ss-ar-co-v-michigan-corporation-and-securit/", "blocked": false, "citation": {"case_name": "Duluth, SS & AR Co. v. Michigan Corporation and Securities Comm'n", "docket_number": "712", "document_uris": ["/api/rest/v2/document/1208182/"], "federal_cite_one": "359 U.S. 310", "federal_cite_three": null, "federal_cite_two": null, "id": 1180953, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1180953/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1959-04-20", "date_modified": "2014-10-30T17:43:35.040917", "docket": "/api/rest/v2/docket/2560533/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>359 U.S. 310 (1959)</b></center>\n<center><h1>DULUTH, SOUTH SHORE &amp; ATLANTIC RAILROAD CO.<br>\nv.<br>\nMICHIGAN CORPORATION AND SECURITIES COMMISSION ET AL.</h1></center>\n<center>No. 712.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 20, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF MICHIGAN.\n<p><i>Henry I. Armstrong, Jr.</i> and <i>Louis F. Dahling</i> for appellant.</p>\n<p><i>Paul L. Adams,</i> Attorney General of Michigan, <i>Samuel J. Torina,</i> Solicitor General, and <i>William D. Dexter,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1208182, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1208182/", "sha1": "cdee9f4f8911ceff5a99ac1a112df8397187a590", "source": "L", "time_retrieved": "2013-10-29T22:00:30.844279"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "359 U.S. 310", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1208182/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Duluth, SS & AR Co. v. Michigan Corporation and Securities Comm'n", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "712", 
+    "id": 1180953, 
+    "resource_uri": "/api/rest/v2/citation/1180953/"
+  }, 
+  "id": 1208182, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1959-04-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>359 U.S. 310 (1959)</b></center>\n<center><h1>DULUTH, SOUTH SHORE &amp; ATLANTIC RAILROAD CO.<br>\nv.<br>\nMICHIGAN CORPORATION AND SECURITIES COMMISSION ET AL.</h1></center>\n<center>No. 712.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 20, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF MICHIGAN.\n<p><i>Henry I. Armstrong, Jr.</i> and <i>Louis F. Dahling</i> for appellant.</p>\n<p><i>Paul L. Adams,</i> Attorney General of Michigan, <i>Samuel J. Torina,</i> Solicitor General, and <i>William D. Dexter,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:00:30.844279", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "cdee9f4f8911ceff5a99ac1a112df8397187a590", 
+  "date_modified": "2014-10-30T17:43:35.040917", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1208182/duluth-ss-ar-co-v-michigan-corporation-and-securit/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2560533/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1208182/"
+}

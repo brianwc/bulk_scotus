@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1475741/united-states-v-abatoir-place/", "blocked": false, "citation": {"case_name": "United States v. Abatoir Place", "docket_number": null, "document_uris": ["/api/rest/v2/document/1475741/"], "federal_cite_one": "106 U.S. 160", "federal_cite_three": null, "federal_cite_two": null, "id": 1448512, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1448512/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1882-11-20", "date_modified": "2014-10-30T17:47:19.691673", "docket": "/api/rest/v2/docket/2573682/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>106 U.S. 160 (____)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nABATOIR PLACE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*161</span> The Solicitor-General for the United States.</p>\n<p>Mr. Edward Salamon, contra.</p>\n<p>MR. JUSTICE WOODS, after stating the case, delivered the opinion of the court.</p>\n<p>We are of opinion that the refusal of the District Court to grant a certificate of reasonable cause is not a matter which can be reviewed in the Circuit Court or in this court. It is only from final judgments that a writ of error lies from the District to the Circuit Court, or from the latter court to the Supreme Court.</p>\n<p>The granting or the refusal to grant the certificate is not a final judgment in the sense of the statute which allows writs of <span class=\"star-pagination\">*162</span> error. The certificate, when granted, is no part of the original case. It is a collateral matter which arises after final judgment.</p>\n<p>It is granted to protect the person at whose instance the seizure was made, should an action of trespass be brought against him by the claimant for the wrongful seizure of the latter's property. The granting of the certificate of reasonable cause is, therefore, only antecedent and ancillary to another suit, and is not a final judgment in the case in which it is given. It is not final or effectual for any purpose unless certain facts subsequent to the judgment are shown, namely, the immediate return to the claimant or his agent of the property seized in the original suit.</p>\n<p>This court has decided that a refusal to enter an exoneretur on a bail bond, that judgments awarding, or refusing to award, or setting aside writs of restitution in actions of ejectment, that a judgment on a writ of error coram nobis, that a judgment refusing a writ of venditioni exponas, that a refusal to quash an execution or to quash a forthcoming bond, were not final judgments, to which a writ of error would lie. Boyle v. Zacharie, 6 Pet. 635; Pickett's Heirs v. Legerwood, 7 id. 144; Smith v. Trabue, 9 id. 4; Evans v. Gee, 14 id. 1; Amis v. Smith, 16 id. 303; Morsell v. Hall, 13 How. 212; McCargo v. Chapman, 20 id. 555; Gregg v. Forsyth, 2 Wall. 56; Barton v. Forsyth, 5 id. 190. See also Barker v. Hollier, 8 Mee. &amp; W. 513.</p>\n<p>These authorities lead to the opinion we have expressed in this case.</p>\n<p>Judgment affirmed.</p>\n</div>", "html_with_citations": "", "id": 1475741, "judges": "Woods, After Stating the Case", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1475741/", "sha1": "7f992ef50ef8f702627bf2a88b16dc1275305e58", "source": "L", "time_retrieved": "2013-10-29T23:24:42.354696"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "106 U.S. 160", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1475741/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Abatoir Place", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1448512, 
+    "resource_uri": "/api/rest/v2/citation/1448512/"
+  }, 
+  "id": 1475741, 
+  "blocked": false, 
+  "judges": "Woods, After Stating the Case", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1882-11-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>106 U.S. 160 (____)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nABATOIR PLACE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*161</span> The Solicitor-General for the United States.</p>\n<p>Mr. Edward Salamon, contra.</p>\n<p>MR. JUSTICE WOODS, after stating the case, delivered the opinion of the court.</p>\n<p>We are of opinion that the refusal of the District Court to grant a certificate of reasonable cause is not a matter which can be reviewed in the Circuit Court or in this court. It is only from final judgments that a writ of error lies from the District to the Circuit Court, or from the latter court to the Supreme Court.</p>\n<p>The granting or the refusal to grant the certificate is not a final judgment in the sense of the statute which allows writs of <span class=\"star-pagination\">*162</span> error. The certificate, when granted, is no part of the original case. It is a collateral matter which arises after final judgment.</p>\n<p>It is granted to protect the person at whose instance the seizure was made, should an action of trespass be brought against him by the claimant for the wrongful seizure of the latter's property. The granting of the certificate of reasonable cause is, therefore, only antecedent and ancillary to another suit, and is not a final judgment in the case in which it is given. It is not final or effectual for any purpose unless certain facts subsequent to the judgment are shown, namely, the immediate return to the claimant or his agent of the property seized in the original suit.</p>\n<p>This court has decided that a refusal to enter an exoneretur on a bail bond, that judgments awarding, or refusing to award, or setting aside writs of restitution in actions of ejectment, that a judgment on a writ of error coram nobis, that a judgment refusing a writ of venditioni exponas, that a refusal to quash an execution or to quash a forthcoming bond, were not final judgments, to which a writ of error would lie. Boyle v. Zacharie, 6 Pet. 635; Pickett's Heirs v. Legerwood, 7 id. 144; Smith v. Trabue, 9 id. 4; Evans v. Gee, 14 id. 1; Amis v. Smith, 16 id. 303; Morsell v. Hall, 13 How. 212; McCargo v. Chapman, 20 id. 555; Gregg v. Forsyth, 2 Wall. 56; Barton v. Forsyth, 5 id. 190. See also Barker v. Hollier, 8 Mee. &amp; W. 513.</p>\n<p>These authorities lead to the opinion we have expressed in this case.</p>\n<p>Judgment affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:24:42.354696", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "7f992ef50ef8f702627bf2a88b16dc1275305e58", 
+  "date_modified": "2014-10-30T17:47:19.691673", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1475741/united-states-v-abatoir-place/", 
+  "citation_count": 3, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2573682/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1475741/"
+}

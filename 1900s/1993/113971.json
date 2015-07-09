@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/113971/de-la-beckwith-v-mississippi/", "blocked": false, "citation": {"case_name": "De La Beckwith v. Mississippi", "docket_number": "93-5259", "document_uris": ["/api/rest/v2/document/113971/"], "federal_cite_one": "510 U.S. 884", "federal_cite_three": null, "federal_cite_two": null, "id": 98330, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/98330/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-10-04", "date_modified": "2014-12-21T02:13:38.629275", "docket": "/api/rest/v2/docket/2351968/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.884.93-5259.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 884</p>\n    <p class=\"parties\">De la Beckwith<br>v.<br>Mississippi.</p>\n    <p class=\"docket\">No. 93-5259.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Miss.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 615 So. 2d 1134.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">884</span></span></p>\n    <p class=\"parties\">De la Beckwith<br>v.<br>Mississippi.</p>\n    <p class=\"docket\">No. 93-5259.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Miss.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 615 So. 2d 1134.</p>\n    </div>\n    ", "id": 113971, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/113971/", "sha1": "1456a855c3159cbadec1b9bc0f438fc4395c9f4b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:21"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 884", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/113971/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "De La Beckwith v. Mississippi", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-5259", 
+    "id": 98330, 
+    "resource_uri": "/api/rest/v2/citation/98330/"
+  }, 
+  "id": 113971, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.884.93-5259.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:21", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">884</span></span></p>\n    <p class=\"parties\">De la Beckwith<br>v.<br>Mississippi.</p>\n    <p class=\"docket\">No. 93-5259.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Miss.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 615 So. 2d 1134.</p>\n    </div>\n    ", 
+  "sha1": "1456a855c3159cbadec1b9bc0f438fc4395c9f4b", 
+  "date_modified": "2014-12-21T02:13:38.629275", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/113971/de-la-beckwith-v-mississippi/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2351968/", 
+  "html": "<p class=\"case_cite\">510 U.S. 884</p>\n    <p class=\"parties\">De la Beckwith<br>v.<br>Mississippi.</p>\n    <p class=\"docket\">No. 93-5259.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Miss.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 615 So. 2d 1134.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/113971/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/142545/conyers-v-merit-systems-protection-board/", "blocked": false, "citation": {"case_name": "Conyers v. Merit Systems Protection Board", "docket_number": "04-8008", "document_uris": ["/api/rest/v2/document/142545/"], "federal_cite_one": "543 U.S. 1171", "federal_cite_three": null, "federal_cite_two": null, "id": 126897, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/126897/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-02-22", "date_modified": "2014-12-21T02:21:09.214120", "docket": "/api/rest/v2/docket/2310727/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1171.04-8008.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1171</p>\n    <p class=\"parties\">CONYERS<br>v.<br>MERIT SYSTEMS PROTECTION BOARD.</p>\n    <p class=\"docket\">No. 04-8008.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 388 F. 3d 1380.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1171</span></span></p>\n    <p class=\"parties\">CONYERS<br>v.<br>MERIT SYSTEMS PROTECTION BOARD.</p>\n    <p class=\"docket\">No. 04-8008.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 388 F. 3d 1380.</p>\n    </div>\n    ", "id": 142545, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/142545/", "sha1": "32b5eda4141ddd937bfaae1f9e644d6bfc71bd27", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:34:10"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1171", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/142545/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Conyers v. Merit Systems Protection Board", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-8008", 
+    "id": 126897, 
+    "resource_uri": "/api/rest/v2/citation/126897/"
+  }, 
+  "id": 142545, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-02-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1171.04-8008.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:34:10", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1171</span></span></p>\n    <p class=\"parties\">CONYERS<br>v.<br>MERIT SYSTEMS PROTECTION BOARD.</p>\n    <p class=\"docket\">No. 04-8008.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 388 F. 3d 1380.</p>\n    </div>\n    ", 
+  "sha1": "32b5eda4141ddd937bfaae1f9e644d6bfc71bd27", 
+  "date_modified": "2014-12-21T02:21:09.214120", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/142545/conyers-v-merit-systems-protection-board/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2310727/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1171</p>\n    <p class=\"parties\">CONYERS<br>v.<br>MERIT SYSTEMS PROTECTION BOARD.</p>\n    <p class=\"docket\">No. 04-8008.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 388 F. 3d 1380.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/142545/"
+}

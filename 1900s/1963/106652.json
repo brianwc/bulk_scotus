@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106652/bently-v-alaska/", "blocked": false, "citation": {"case_name": "Bently v. Alaska", "docket_number": "648, Misc", "document_uris": ["/api/rest/v2/document/106652/"], "federal_cite_one": "374 U.S. 107", "federal_cite_three": null, "federal_cite_two": null, "id": 91035, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91035/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-06-10", "date_modified": "2014-12-21T01:53:36.018562", "docket": "/api/rest/v2/docket/176468/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">374 U.S. 107</p>\n    <p class=\"case_cite\">83 S.Ct. 1689</p>\n    <p class=\"case_cite\">10 L.Ed.2d 1028</p>\n    <p class=\"parties\">Donald Allen BENTLEY<br>v.<br>ALASKA.</p>\n    <p class=\"docket\">No. 648, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 10, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Donald Allen Bentley, pro se.</p>\n      <p class=\"indent\">George N. Hayes, Atty. Gen. of Alaska, and John K. Brubaker, Asst. Atty. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Alaska.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Alaska for reconsideration in light of Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, and Mooney v. Holohan, 294 U.S. 103, 55 S.Ct. 340, 79 L.Ed. 791.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>374 U.S. 107 (1963)</b></center>\n<center><h1>BENTLEY<br>\nv.<br>\nALASKA.</h1></center>\n<center>No. 648, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ALASKA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>George N. Hayes,</i> Attorney General of Alaska, and <i>John K. Brubaker,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Alaska for reconsideration in light of <i>Brady</i> v. <i>Maryland,</i> 373 U. S. 83, and <i>Mooney</i> v. <i>Holohan,</i> 294 U. S. 103.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">374</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">107</span></span> (1963)</b></center>\n<center><h1>BENTLEY<br>\nv.<br>\nALASKA.</h1></center>\n<center>No. 648, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ALASKA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>George N. Hayes,</i> Attorney General of Alaska, and <i>John K. Brubaker,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Alaska for reconsideration in light of <i>Brady</i> v. <i>Maryland,</i> 373 U. S. 83, and <i>Mooney</i> v. <i>Holohan,</i> 294 U. S. 103.</p>\n</div>", "id": 106652, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106652/", "sha1": "badab85a421720cb3b7f78b7291ecc21045b7e03", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "374 U.S. 107", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106652/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bently v. Alaska", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "648, Misc", 
+    "id": 91035, 
+    "resource_uri": "/api/rest/v2/citation/91035/"
+  }, 
+  "id": 106652, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-06-10", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>374 U.S. 107 (1963)</b></center>\n<center><h1>BENTLEY<br>\nv.<br>\nALASKA.</h1></center>\n<center>No. 648, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ALASKA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>George N. Hayes,</i> Attorney General of Alaska, and <i>John K. Brubaker,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Alaska for reconsideration in light of <i>Brady</i> v. <i>Maryland,</i> 373 U. S. 83, and <i>Mooney</i> v. <i>Holohan,</i> 294 U. S. 103.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">374</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">107</span></span> (1963)</b></center>\n<center><h1>BENTLEY<br>\nv.<br>\nALASKA.</h1></center>\n<center>No. 648, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ALASKA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>George N. Hayes,</i> Attorney General of Alaska, and <i>John K. Brubaker,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Alaska for reconsideration in light of <i>Brady</i> v. <i>Maryland,</i> 373 U. S. 83, and <i>Mooney</i> v. <i>Holohan,</i> 294 U. S. 103.</p>\n</div>", 
+  "sha1": "badab85a421720cb3b7f78b7291ecc21045b7e03", 
+  "date_modified": "2014-12-21T01:53:36.018562", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106652/bently-v-alaska/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/176468/", 
+  "html": "<p class=\"case_cite\">374 U.S. 107</p>\n    <p class=\"case_cite\">83 S.Ct. 1689</p>\n    <p class=\"case_cite\">10 L.Ed.2d 1028</p>\n    <p class=\"parties\">Donald Allen BENTLEY<br>v.<br>ALASKA.</p>\n    <p class=\"docket\">No. 648, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 10, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Donald Allen Bentley, pro se.</p>\n      <p class=\"indent\">George N. Hayes, Atty. Gen. of Alaska, and John K. Brubaker, Asst. Atty. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Alaska.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Alaska for reconsideration in light of Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, and Mooney v. Holohan, 294 U.S. 103, 55 S.Ct. 340, 79 L.Ed. 791.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106652/"
+}

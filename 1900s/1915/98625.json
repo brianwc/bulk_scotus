@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/98625/robert-m-purcell-et-al-plaintiffs-in-error-v/", "blocked": false, "citation": {"case_name": "Robert M. Purcell, in Error v. Quaker Realty Company, Limited", "docket_number": "152", "document_uris": ["/api/rest/v2/document/98625/"], "federal_cite_one": "239 U.S. 635", "federal_cite_three": null, "federal_cite_two": null, "id": 83008, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/83008/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1915-11-29", "date_modified": "2014-12-21T01:36:01.013124", "docket": "/api/rest/v2/docket/2045140/", "download_url": "http://bulk.resource.org/courts.gov/c/US/239/239.US.635.152.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">239 U.S. 635</p>\n    <p class=\"case_cite\">70 S. Ct. 283</p>\n    <p class=\"case_cite\">60 L. Ed. 479</p>\n    <p class=\"parties\">ROBERT M. PURCELL et al., Plaintiffs in Error,<br>v.<br>QUAKER REALTY COMPANY, LIMITED.</p>\n    <p class=\"docket\">No. 152.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 10, 1916</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. E. Howard McCaleb for plaintiffs in error.</p>\n      <p class=\"indent\">Mr. William Winans Wall for defendants in error.</p>\n      <p class=\"indent\">Per Curiam:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Dismissed for want of jurisdiction upon the authority of (1) Castillo v. McConnico, 168 U. S. 674, 42 L. ed. 622, 18 Sup. Ct. Rep. 229; De Bearn v. Safe Deposit &amp; T. Co. 233 U. S. 24, 34, 58 L. ed. 833, 837, 34 Sup. Ct. Rep. 584; McDonald v. Oregon R. &amp; Nav. Co. 233 U. S. 665, 669, 670, 58 L. ed. 1145, 1148, 1149, 34 Sup. Ct. Rep. 772; (2) Ross v. Oregon, 227 U. S. 150, 161, 57 L. ed. 458, 463, 33 Sup. Ct. Rep. 220, Ann. Cas. 1914C, 224; Moore-Mansfield Constr. Co. v. Electrical Installation Co. 234 U. S. 619, 624, 58 L. ed. 1503, 1505, 34 Sup. Ct. Rep. 941; Willoughby v. Chicago, cago, 235 U. S. 45, 59 L. ed. 123, 35 Sup. Ct. Rep. 23; Cleveland &amp; P. R. Co. v. Cleveland, 235 U. S. 50, 59 L. ed. 127, 35 Sup. Ct. Rep. 21.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">239</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">635</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">70</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">283</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">60</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">479</span></span></p>\n    <p class=\"parties\">ROBERT M. PURCELL et al., Plaintiffs in Error,<br>v.<br>QUAKER REALTY COMPANY, LIMITED.</p>\n    <p class=\"docket\">No. 152.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 10, 1916</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. E. Howard McCaleb for plaintiffs in error.</p>\n      <p class=\"indent\">Mr. William Winans Wall for defendants in error.</p>\n      <p class=\"indent\">Per Curiam:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Dismissed for want of jurisdiction upon the authority of (1) Castillo v. McConnico, 168 U. S. 674, 42 L. ed. 622, 18 Sup. Ct. Rep. 229; De Bearn v. Safe Deposit &amp; T. Co. 233 U. S. 24, 34, 58 L. ed. 833, 837, 34 Sup. Ct. Rep. 584; McDonald v. Oregon R. &amp; Nav. Co. 233 U. S. 665, 669, 670, 58 L. ed. 1145, 1148, 1149, 34 Sup. Ct. Rep. 772; (2) Ross v. Oregon, 227 U. S. 150, 161, 57 L. ed. 458, 463, 33 Sup. Ct. Rep. 220, Ann. Cas. 1914C, 224; Moore-Mansfield Constr. Co. v. Electrical Installation Co. 234 U. S. 619, 624, 58 L. ed. 1503, 1505, 34 Sup. Ct. Rep. 941; Willoughby v. Chicago, cago, 235 U. S. 45, 59 L. ed. 123, 35 Sup. Ct. Rep. 23; Cleveland &amp; P. R. Co. v. Cleveland, 235 U. S. 50, 59 L. ed. 127, 35 Sup. Ct. Rep. 21.</p>\n    </div>\n    ", "id": 98625, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/98625/", "sha1": "586d8386640d694fa5fa0aa20f4c46e0c6af363b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:44:50"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "239 U.S. 635", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/98625/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Robert M. Purcell, in Error v. Quaker Realty Company, Limited", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "152", 
+    "id": 83008, 
+    "resource_uri": "/api/rest/v2/citation/83008/"
+  }, 
+  "id": 98625, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1915-11-29", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/239/239.US.635.152.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:44:50", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">239</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">635</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">70</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">283</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">60</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">479</span></span></p>\n    <p class=\"parties\">ROBERT M. PURCELL et al., Plaintiffs in Error,<br>v.<br>QUAKER REALTY COMPANY, LIMITED.</p>\n    <p class=\"docket\">No. 152.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 10, 1916</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. E. Howard McCaleb for plaintiffs in error.</p>\n      <p class=\"indent\">Mr. William Winans Wall for defendants in error.</p>\n      <p class=\"indent\">Per Curiam:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Dismissed for want of jurisdiction upon the authority of (1) Castillo v. McConnico, 168 U. S. 674, 42 L. ed. 622, 18 Sup. Ct. Rep. 229; De Bearn v. Safe Deposit &amp; T. Co. 233 U. S. 24, 34, 58 L. ed. 833, 837, 34 Sup. Ct. Rep. 584; McDonald v. Oregon R. &amp; Nav. Co. 233 U. S. 665, 669, 670, 58 L. ed. 1145, 1148, 1149, 34 Sup. Ct. Rep. 772; (2) Ross v. Oregon, 227 U. S. 150, 161, 57 L. ed. 458, 463, 33 Sup. Ct. Rep. 220, Ann. Cas. 1914C, 224; Moore-Mansfield Constr. Co. v. Electrical Installation Co. 234 U. S. 619, 624, 58 L. ed. 1503, 1505, 34 Sup. Ct. Rep. 941; Willoughby v. Chicago, cago, 235 U. S. 45, 59 L. ed. 123, 35 Sup. Ct. Rep. 23; Cleveland &amp; P. R. Co. v. Cleveland, 235 U. S. 50, 59 L. ed. 127, 35 Sup. Ct. Rep. 21.</p>\n    </div>\n    ", 
+  "sha1": "586d8386640d694fa5fa0aa20f4c46e0c6af363b", 
+  "date_modified": "2014-12-21T01:36:01.013124", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/98625/robert-m-purcell-et-al-plaintiffs-in-error-v/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2045140/", 
+  "html": "<p class=\"case_cite\">239 U.S. 635</p>\n    <p class=\"case_cite\">70 S. Ct. 283</p>\n    <p class=\"case_cite\">60 L. Ed. 479</p>\n    <p class=\"parties\">ROBERT M. PURCELL et al., Plaintiffs in Error,<br>v.<br>QUAKER REALTY COMPANY, LIMITED.</p>\n    <p class=\"docket\">No. 152.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 10, 1916</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. E. Howard McCaleb for plaintiffs in error.</p>\n      <p class=\"indent\">Mr. William Winans Wall for defendants in error.</p>\n      <p class=\"indent\">Per Curiam:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Dismissed for want of jurisdiction upon the authority of (1) Castillo v. McConnico, 168 U. S. 674, 42 L. ed. 622, 18 Sup. Ct. Rep. 229; De Bearn v. Safe Deposit &amp; T. Co. 233 U. S. 24, 34, 58 L. ed. 833, 837, 34 Sup. Ct. Rep. 584; McDonald v. Oregon R. &amp; Nav. Co. 233 U. S. 665, 669, 670, 58 L. ed. 1145, 1148, 1149, 34 Sup. Ct. Rep. 772; (2) Ross v. Oregon, 227 U. S. 150, 161, 57 L. ed. 458, 463, 33 Sup. Ct. Rep. 220, Ann. Cas. 1914C, 224; Moore-Mansfield Constr. Co. v. Electrical Installation Co. 234 U. S. 619, 624, 58 L. ed. 1503, 1505, 34 Sup. Ct. Rep. 941; Willoughby v. Chicago, cago, 235 U. S. 45, 59 L. ed. 123, 35 Sup. Ct. Rep. 23; Cleveland &amp; P. R. Co. v. Cleveland, 235 U. S. 50, 59 L. ed. 127, 35 Sup. Ct. Rep. 21.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/98625/"
+}

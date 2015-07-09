@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2521730/hill-v-davis/", "blocked": false, "citation": {"case_name": "Hill v. Davis", "docket_number": "1079", "document_uris": ["/api/rest/v2/document/2521730/"], "federal_cite_one": "378 U.S. 565", "federal_cite_three": null, "federal_cite_two": null, "id": 2494502, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2494502/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-06-22", "date_modified": "2014-10-30T04:47:18.444090", "docket": "/api/rest/v2/docket/721547/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>378 U.S. 565 (1964)</b></center>\n<center><h1>HILL, AUDITOR OF CLARKE COUNTY, IOWA, ET AL.<br>\nv.<br>\nDAVIS ET AL.</h1></center>\n<center>No. 1079.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF IOWA.\n<p><i>Ward Reynoldson</i> for appellants.</p>\n<p><i>Robert F. Wilson</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment below is affirmed. <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533. The case is remanded for further proceedings, with respect to relief, consistent with the views stated in our opinions in <i>Reynolds</i> v. <i>Sims</i> and in the other cases relating to state legislative apportionment decided along with <i>Reynolds,</i> should that become necessary. Since this appeal presents no question as to the correctness of the District Court's later decision upholding the validity of the temporary reapportionment plan enacted by the Iowa General Assembly in February 1964, we do not consider or pass upon this matter.</p>\n<p>MR. JUSTICE CLARK would affirm on the grounds stated in his opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 587.</p>\n<p>MR. JUSTICE STEWART would affirm the judgment insofar as it holds that Iowa's system of legislative apportionment violates the Equal Protection Clause.</p>\n<p>MR. JUSTICE HARLAN dissents for the reasons stated in his dissenting opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 589.</p>\n</div>", "html_with_citations": "", "id": 2521730, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2521730/", "sha1": "e83e19a598b2aaf44a9aef9767cec29a9b0db21e", "source": "L", "time_retrieved": "2013-10-30T03:09:28.230531"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "378 U.S. 565", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2521730/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hill v. Davis", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1079", 
+    "id": 2494502, 
+    "resource_uri": "/api/rest/v2/citation/2494502/"
+  }, 
+  "id": 2521730, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-06-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>378 U.S. 565 (1964)</b></center>\n<center><h1>HILL, AUDITOR OF CLARKE COUNTY, IOWA, ET AL.<br>\nv.<br>\nDAVIS ET AL.</h1></center>\n<center>No. 1079.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF IOWA.\n<p><i>Ward Reynoldson</i> for appellants.</p>\n<p><i>Robert F. Wilson</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment below is affirmed. <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533. The case is remanded for further proceedings, with respect to relief, consistent with the views stated in our opinions in <i>Reynolds</i> v. <i>Sims</i> and in the other cases relating to state legislative apportionment decided along with <i>Reynolds,</i> should that become necessary. Since this appeal presents no question as to the correctness of the District Court's later decision upholding the validity of the temporary reapportionment plan enacted by the Iowa General Assembly in February 1964, we do not consider or pass upon this matter.</p>\n<p>MR. JUSTICE CLARK would affirm on the grounds stated in his opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 587.</p>\n<p>MR. JUSTICE STEWART would affirm the judgment insofar as it holds that Iowa's system of legislative apportionment violates the Equal Protection Clause.</p>\n<p>MR. JUSTICE HARLAN dissents for the reasons stated in his dissenting opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 589.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:09:28.230531", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e83e19a598b2aaf44a9aef9767cec29a9b0db21e", 
+  "date_modified": "2014-10-30T04:47:18.444090", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2521730/hill-v-davis/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/721547/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2521730/"
+}

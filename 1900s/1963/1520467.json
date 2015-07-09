@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1520467/henry-v-rock-hill/", "blocked": false, "citation": {"case_name": "Henry v. Rock Hill", "docket_number": "97", "document_uris": ["/api/rest/v2/document/1520467/"], "federal_cite_one": "375 U.S. 6", "federal_cite_three": null, "federal_cite_two": null, "id": 1493238, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1493238/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-10-14", "date_modified": "2014-10-29T23:33:25.268269", "docket": "/api/rest/v2/docket/96404/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>375 U.S. 6 (1963)</b></center>\n<center><h1>HENRY ET AL.<br>\nv.<br>\nCITY OF ROCK HILL.</h1></center>\n<center>No. 97.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA.\n<p><i>Jack Greenberg, Constance Baker Motley, Matthew J. Perry, Lincoln C. Jenkins, Jr., Donald James Sampson</i> and <i>Willie T. Smith, Jr.</i> for petitioners.</p>\n<p><i>Daniel R. McLeod,</i> Attorney General of South Carolina, and <i>Everett N. Brandon,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted. The judgment is vacated and the case is remanded to the Supreme Court of South Carolina for further consideration in light of <i>Edwards</i> v. <i>South Carolina,</i> 372 U. S. 229.</p>\n</div>", "html_with_citations": "", "id": 1520467, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1520467/", "sha1": "87f817a3e1a90a3dccd63d207e24293928263d92", "source": "L", "time_retrieved": "2013-10-29T23:33:57.707369"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 6", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1520467/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Henry v. Rock Hill", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "97", 
+    "id": 1493238, 
+    "resource_uri": "/api/rest/v2/citation/1493238/"
+  }, 
+  "id": 1520467, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-10-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 6 (1963)</b></center>\n<center><h1>HENRY ET AL.<br>\nv.<br>\nCITY OF ROCK HILL.</h1></center>\n<center>No. 97.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA.\n<p><i>Jack Greenberg, Constance Baker Motley, Matthew J. Perry, Lincoln C. Jenkins, Jr., Donald James Sampson</i> and <i>Willie T. Smith, Jr.</i> for petitioners.</p>\n<p><i>Daniel R. McLeod,</i> Attorney General of South Carolina, and <i>Everett N. Brandon,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted. The judgment is vacated and the case is remanded to the Supreme Court of South Carolina for further consideration in light of <i>Edwards</i> v. <i>South Carolina,</i> 372 U. S. 229.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:33:57.707369", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "87f817a3e1a90a3dccd63d207e24293928263d92", 
+  "date_modified": "2014-10-29T23:33:25.268269", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1520467/henry-v-rock-hill/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/96404/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1520467/"
+}

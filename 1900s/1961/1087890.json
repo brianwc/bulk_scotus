@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087890/commissioner-v-milwaukee-suburban-transport-corp/", "blocked": false, "citation": {"case_name": "Commissioner v. Milwaukee & Suburban Transport Corp.", "docket_number": "843", "document_uris": ["/api/rest/v2/document/1087890/"], "federal_cite_one": "367 U.S. 906", "federal_cite_three": null, "federal_cite_two": null, "id": 1060661, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060661/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-06-19", "date_modified": "2014-10-29T23:24:55.094565", "docket": "/api/rest/v2/docket/78254/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>367 U.S. 906 (1961)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE<br>\nv.<br>\nMILWAUKEE &amp; SUBURBAN TRANSPORT CORP.</h1></center>\n<center>No. 843.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 19, 1961.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Solicitor General Cox, Assistant Attorney General Oberdorfer, Harry Baum</i> and <i>Joseph Kovner</i> for petitioner.</p>\n<p><i>Richard R. Teschner</i> and <i>Warren W. Browning</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded in light of <i>American Automobile Association</i> v. <i>United States, ante,</i> p. 687, and <i>United States</i> v. <i>Consolidated Edison Company of New York, Inc.,</i> 366 U. S. 380.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n</div>", "html_with_citations": "", "id": 1087890, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087890/", "sha1": "b470c4d4d5df1e875238862aba849c2d4716e0a2", "source": "L", "time_retrieved": "2013-10-29T20:00:09.745787"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "367 U.S. 906", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087890/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Commissioner v. Milwaukee & Suburban Transport Corp.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "843", 
+    "id": 1060661, 
+    "resource_uri": "/api/rest/v2/citation/1060661/"
+  }, 
+  "id": 1087890, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-06-19", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>367 U.S. 906 (1961)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE<br>\nv.<br>\nMILWAUKEE &amp; SUBURBAN TRANSPORT CORP.</h1></center>\n<center>No. 843.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 19, 1961.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Solicitor General Cox, Assistant Attorney General Oberdorfer, Harry Baum</i> and <i>Joseph Kovner</i> for petitioner.</p>\n<p><i>Richard R. Teschner</i> and <i>Warren W. Browning</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded in light of <i>American Automobile Association</i> v. <i>United States, ante,</i> p. 687, and <i>United States</i> v. <i>Consolidated Edison Company of New York, Inc.,</i> 366 U. S. 380.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:00:09.745787", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "b470c4d4d5df1e875238862aba849c2d4716e0a2", 
+  "date_modified": "2014-10-29T23:24:55.094565", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087890/commissioner-v-milwaukee-suburban-transport-corp/", 
+  "citation_count": 6, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/78254/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087890/"
+}

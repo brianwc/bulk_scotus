@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1491542/garner-v-ashley-furniture-industries-inc/", "blocked": false, "citation": {"case_name": "Garner v. ASHLEY FURNITURE INDUSTRIES, INC.", "docket_number": "05-507", "document_uris": ["/api/rest/v2/document/1491542/"], "federal_cite_one": "548 U.S. 923", "federal_cite_three": null, "federal_cite_two": null, "id": 1464313, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1464313/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-06-30", "date_modified": "2014-10-29T23:06:51.737511", "docket": "/api/rest/v2/docket/39035/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>548 U.S. 923 (2006)</b></center>\n<center><h1>GARNER<br>\nv.<br>\nASHLEY FURNITURE INDUSTRIES, INC.</h1></center>\n<center>No. 05-507.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Burlington N. &amp; S. F. R. Co.</i> v. <i>White, ante,</i> p. 53.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">923</span></span> (2006)</b></center>\n<center><h1>GARNER<br>\nv.<br>\nASHLEY FURNITURE INDUSTRIES, INC.</h1></center>\n<center>No. 05-507.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Burlington N. &amp; S. F. R. Co.</i> v. <i>White, ante,</i> p. 53.</p>\n</div>", "id": 1491542, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1491542/", "sha1": "dde89ec33f4a990f614a4ec5b525f39ebb95d05c", "source": "L", "time_retrieved": "2013-10-29T23:28:13.992266"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "548 U.S. 923", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1491542/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Garner v. ASHLEY FURNITURE INDUSTRIES, INC.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-507", 
+    "id": 1464313, 
+    "resource_uri": "/api/rest/v2/citation/1464313/"
+  }, 
+  "id": 1491542, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-06-30", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>548 U.S. 923 (2006)</b></center>\n<center><h1>GARNER<br>\nv.<br>\nASHLEY FURNITURE INDUSTRIES, INC.</h1></center>\n<center>No. 05-507.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Burlington N. &amp; S. F. R. Co.</i> v. <i>White, ante,</i> p. 53.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:28:13.992266", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">923</span></span> (2006)</b></center>\n<center><h1>GARNER<br>\nv.<br>\nASHLEY FURNITURE INDUSTRIES, INC.</h1></center>\n<center>No. 05-507.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Burlington N. &amp; S. F. R. Co.</i> v. <i>White, ante,</i> p. 53.</p>\n</div>", 
+  "sha1": "dde89ec33f4a990f614a4ec5b525f39ebb95d05c", 
+  "date_modified": "2014-10-29T23:06:51.737511", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1491542/garner-v-ashley-furniture-industries-inc/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/39035/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1491542/"
+}

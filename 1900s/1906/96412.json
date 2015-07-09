@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/96412/travelers-ins-co-v-prewitt/", "blocked": false, "citation": {"case_name": "Travelers Ins. Co. v. Prewitt", "docket_number": "184", "document_uris": ["/api/rest/v2/document/96412/"], "federal_cite_one": "200 U.S. 450", "federal_cite_three": null, "federal_cite_two": null, "id": 80795, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/80795/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1906-02-19", "date_modified": "2014-12-21T01:34:29.583373", "docket": "/api/rest/v2/docket/2580509/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">200 U.S. 450</p>\n    <p class=\"case_cite\">26 S.Ct. 316</p>\n    <p class=\"case_cite\">50 L.Ed. 549</p>\n    <p class=\"parties\">TRAVELERS INSURANCE COMPANY, of Hartford,  Connecticut, <i>Plff. in Err.</i>,<br>v.<br>HENRY R. PREWITT, Insurance Commissioner of the  State of Kentucky.</p>\n    <p class=\"docket\">No. 184.</p>\n    <p class=\"date\">Argued January 16, 1906.</p>\n    <p class=\"date\">Decided February 19, 1906.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Messrs.</i> <i>Edmund F. Trabue,</i> John G. Johnson, <i>William Bro Smith, John D. Doolan</i>, and <i>Attilla Cox, Jr.</i>, for plaintiff in error.</p>\n      <p class=\"indent\"><i>Messrs.</i> <i>J. H. Hazelrigg, N. B. Hays, H. R. Prewitt,</i> and <i>Hazelrigg &amp; Hazelrigg</i> for defendant in error.</p>\n      <p class=\"indent\"><i>Per</i> Mr. Justice Peckham:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case involves the same principle as that decided in the foregoing case, and, for the reasons stated in the opinion above, <i>the writ of error to the Court of Appeals of the State of Kentucky is dismissed</i>.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>200 U.S. 450 (1906)</b></center>\n<center><h1>TRAVELERS INSURANCE COMPANY<br>\nv.<br>\nPREWITT, INSURANCE COMMISSIONER OF KENTUCKY.</h1></center>\n<center>No. 184.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 16, 1906.</center>\n<center>Decided February 19, 1906.</center>\nERROR TO THE COURT OF APPEALS OF THE STATE OF KENTUCKY.\n<p><i>Mr. John G. Johnson</i> and <i>Mr. Edmund F. Trabue,</i> with whom <i>Mr. John D. Doolan, Mr. Attilla Cox, Jr.,</i> and <i>Mr. William Bro Smith</i> were on the brief, for plaintiff in error.</p>\n<p><i>Mr. J.H. Hazelrigg,</i> with whom <i>Mr. N.B. Hays,</i> Attorney General of the State of Kentucky, and <i>Mr. H.R. Prewitt</i> were on the brief, for defendant in error.</p>\n<p>MR. JUSTICE PECKHAM:</p>\n<p>This case involves the same principle as that decided in the foregoing case, and, for the reasons stated in the opinion above, the writ of error to the Court of Appeals of the State of Kentucky is</p>\n<p><i>Dismissed.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">200</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">450</span></span> (1906)</b></center>\n<center><h1>TRAVELERS INSURANCE COMPANY<br>\nv.<br>\nPREWITT, INSURANCE COMMISSIONER OF KENTUCKY.</h1></center>\n<center>No. 184.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 16, 1906.</center>\n<center>Decided February 19, 1906.</center>\nERROR TO THE COURT OF APPEALS OF THE STATE OF KENTUCKY.\n<p><i>Mr. John G. Johnson</i> and <i>Mr. Edmund F. Trabue,</i> with whom <i>Mr. John D. Doolan, Mr. Attilla Cox, Jr.,</i> and <i>Mr. William Bro Smith</i> were on the brief, for plaintiff in error.</p>\n<p><i>Mr. J.H. Hazelrigg,</i> with whom <i>Mr. N.B. Hays,</i> Attorney General of the State of Kentucky, and <i>Mr. H.R. Prewitt</i> were on the brief, for defendant in error.</p>\n<p>MR. JUSTICE PECKHAM:</p>\n<p>This case involves the same principle as that decided in the foregoing case, and, for the reasons stated in the opinion above, the writ of error to the Court of Appeals of the State of Kentucky is</p>\n<p><i>Dismissed.</i></p>\n</div>", "id": 96412, "judges": "Mr. Justice Peckham:", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/96412/", "sha1": "2efeaf1e1b2f958c58b9898ac749228a3538008b", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:41:33"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "200 U.S. 450", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/96412/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Travelers Ins. Co. v. Prewitt", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "184", 
+    "id": 80795, 
+    "resource_uri": "/api/rest/v2/citation/80795/"
+  }, 
+  "id": 96412, 
+  "blocked": false, 
+  "judges": "Mr. Justice Peckham:", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1906-02-19", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>200 U.S. 450 (1906)</b></center>\n<center><h1>TRAVELERS INSURANCE COMPANY<br>\nv.<br>\nPREWITT, INSURANCE COMMISSIONER OF KENTUCKY.</h1></center>\n<center>No. 184.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 16, 1906.</center>\n<center>Decided February 19, 1906.</center>\nERROR TO THE COURT OF APPEALS OF THE STATE OF KENTUCKY.\n<p><i>Mr. John G. Johnson</i> and <i>Mr. Edmund F. Trabue,</i> with whom <i>Mr. John D. Doolan, Mr. Attilla Cox, Jr.,</i> and <i>Mr. William Bro Smith</i> were on the brief, for plaintiff in error.</p>\n<p><i>Mr. J.H. Hazelrigg,</i> with whom <i>Mr. N.B. Hays,</i> Attorney General of the State of Kentucky, and <i>Mr. H.R. Prewitt</i> were on the brief, for defendant in error.</p>\n<p>MR. JUSTICE PECKHAM:</p>\n<p>This case involves the same principle as that decided in the foregoing case, and, for the reasons stated in the opinion above, the writ of error to the Court of Appeals of the State of Kentucky is</p>\n<p><i>Dismissed.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:41:33", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">200</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">450</span></span> (1906)</b></center>\n<center><h1>TRAVELERS INSURANCE COMPANY<br>\nv.<br>\nPREWITT, INSURANCE COMMISSIONER OF KENTUCKY.</h1></center>\n<center>No. 184.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 16, 1906.</center>\n<center>Decided February 19, 1906.</center>\nERROR TO THE COURT OF APPEALS OF THE STATE OF KENTUCKY.\n<p><i>Mr. John G. Johnson</i> and <i>Mr. Edmund F. Trabue,</i> with whom <i>Mr. John D. Doolan, Mr. Attilla Cox, Jr.,</i> and <i>Mr. William Bro Smith</i> were on the brief, for plaintiff in error.</p>\n<p><i>Mr. J.H. Hazelrigg,</i> with whom <i>Mr. N.B. Hays,</i> Attorney General of the State of Kentucky, and <i>Mr. H.R. Prewitt</i> were on the brief, for defendant in error.</p>\n<p>MR. JUSTICE PECKHAM:</p>\n<p>This case involves the same principle as that decided in the foregoing case, and, for the reasons stated in the opinion above, the writ of error to the Court of Appeals of the State of Kentucky is</p>\n<p><i>Dismissed.</i></p>\n</div>", 
+  "sha1": "2efeaf1e1b2f958c58b9898ac749228a3538008b", 
+  "date_modified": "2014-12-21T01:34:29.583373", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/96412/travelers-ins-co-v-prewitt/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2580509/", 
+  "html": "<p class=\"case_cite\">200 U.S. 450</p>\n    <p class=\"case_cite\">26 S.Ct. 316</p>\n    <p class=\"case_cite\">50 L.Ed. 549</p>\n    <p class=\"parties\">TRAVELERS INSURANCE COMPANY, of Hartford,  Connecticut, <i>Plff. in Err.</i>,<br>v.<br>HENRY R. PREWITT, Insurance Commissioner of the  State of Kentucky.</p>\n    <p class=\"docket\">No. 184.</p>\n    <p class=\"date\">Argued January 16, 1906.</p>\n    <p class=\"date\">Decided February 19, 1906.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Messrs.</i> <i>Edmund F. Trabue,</i> John G. Johnson, <i>William Bro Smith, John D. Doolan</i>, and <i>Attilla Cox, Jr.</i>, for plaintiff in error.</p>\n      <p class=\"indent\"><i>Messrs.</i> <i>J. H. Hazelrigg, N. B. Hays, H. R. Prewitt,</i> and <i>Hazelrigg &amp; Hazelrigg</i> for defendant in error.</p>\n      <p class=\"indent\"><i>Per</i> Mr. Justice Peckham:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case involves the same principle as that decided in the foregoing case, and, for the reasons stated in the opinion above, <i>the writ of error to the Court of Appeals of the State of Kentucky is dismissed</i>.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/96412/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117212/hamilton-v-kirkpatrick-ante-p-1054/", "blocked": false, "citation": {"case_name": "Hamilton v. Kirkpatrick, Ante, P. 1054", "docket_number": "93-6626", "document_uris": ["/api/rest/v2/document/117212/"], "federal_cite_one": "510 U.S. 1160", "federal_cite_three": null, "federal_cite_two": null, "id": 101571, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101571/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-02-22", "date_modified": "2014-12-21T02:14:05.371683", "docket": "/api/rest/v2/docket/2061085/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1160.93-6626.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1160</p>\n    <p class=\"parties\">Hamilton<br>v.<br>Kirkpatrick, ante, p. 1054.</p>\n    <p class=\"docket\">No. 93-6626.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1160</span></span></p>\n    <p class=\"parties\">Hamilton<br>v.<br>Kirkpatrick, ante, p. 1054.</p>\n    <p class=\"docket\">No. 93-6626.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "id": 117212, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117212/", "sha1": "bb54ab0312955f53bc67af99c1fb1acacb1ebeaa", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:07"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1160", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117212/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hamilton v. Kirkpatrick, Ante, P. 1054", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-6626", 
+    "id": 101571, 
+    "resource_uri": "/api/rest/v2/citation/101571/"
+  }, 
+  "id": 117212, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-02-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1160.93-6626.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:07", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1160</span></span></p>\n    <p class=\"parties\">Hamilton<br>v.<br>Kirkpatrick, ante, p. 1054.</p>\n    <p class=\"docket\">No. 93-6626.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "bb54ab0312955f53bc67af99c1fb1acacb1ebeaa", 
+  "date_modified": "2014-12-21T02:14:05.371683", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117212/hamilton-v-kirkpatrick-ante-p-1054/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2061085/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1160</p>\n    <p class=\"parties\">Hamilton<br>v.<br>Kirkpatrick, ante, p. 1054.</p>\n    <p class=\"docket\">No. 93-6626.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117212/"
+}

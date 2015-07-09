@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/124119/maryland-v-drury/", "blocked": false, "citation": {"case_name": "Maryland v. Drury", "docket_number": "01-1774", "document_uris": ["/api/rest/v2/document/124119/"], "federal_cite_one": "537 U.S. 942", "federal_cite_three": null, "federal_cite_two": null, "id": 108472, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/108472/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-07", "date_modified": "2014-12-21T02:17:51.297794", "docket": "/api/rest/v2/docket/1607262/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.942.01-1774.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 942</p>\n    <p class=\"parties\">MARYLAND<br>v.<br>DRURY.</p>\n    <p class=\"docket\">No. 01-1774.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF MARYLAND.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Md. Motion of respondent for leave to proceed <i>in forma pauperis</i> granted. Certiorari denied. Reported below: 368 Md. 331, 793 A. 2d 567.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">942</span></span></p>\n    <p class=\"parties\">MARYLAND<br>v.<br>DRURY.</p>\n    <p class=\"docket\">No. 01-1774.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF MARYLAND.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Md. Motion of respondent for leave to proceed <i>in forma pauperis</i> granted. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1464404\"><a href=\"/opinion/1464404/drury-v-state/\"><span class=\"volume\">368</span> <span class=\"reporter\">Md.</span> <span class=\"page\">331</span></a></span>, 793 A. 2d 567.</p>\n    </div>\n    ", "id": 124119, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/124119/", "sha1": "a9f59a79d36ebc969b9e6afef2f02747abcb1f0b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:14"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 942", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/124119/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Maryland v. Drury", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-1774", 
+    "id": 108472, 
+    "resource_uri": "/api/rest/v2/citation/108472/"
+  }, 
+  "id": 124119, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.942.01-1774.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:14", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">942</span></span></p>\n    <p class=\"parties\">MARYLAND<br>v.<br>DRURY.</p>\n    <p class=\"docket\">No. 01-1774.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF MARYLAND.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Md. Motion of respondent for leave to proceed <i>in forma pauperis</i> granted. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1464404\"><a href=\"/opinion/1464404/drury-v-state/\"><span class=\"volume\">368</span> <span class=\"reporter\">Md.</span> <span class=\"page\">331</span></a></span>, 793 A. 2d 567.</p>\n    </div>\n    ", 
+  "sha1": "a9f59a79d36ebc969b9e6afef2f02747abcb1f0b", 
+  "date_modified": "2014-12-21T02:17:51.297794", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/124119/maryland-v-drury/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1607262/", 
+  "html": "<p class=\"case_cite\">537 U.S. 942</p>\n    <p class=\"parties\">MARYLAND<br>v.<br>DRURY.</p>\n    <p class=\"docket\">No. 01-1774.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF MARYLAND.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Md. Motion of respondent for leave to proceed <i>in forma pauperis</i> granted. Certiorari denied. Reported below: 368 Md. 331, 793 A. 2d 567.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/124119/"
+}

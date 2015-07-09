@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106117/cooper-v-pitchess/", "blocked": false, "citation": {"case_name": "Cooper v. Pitchess", "docket_number": "278", "document_uris": ["/api/rest/v2/document/106117/"], "federal_cite_one": "364 U.S. 294", "federal_cite_three": null, "federal_cite_two": null, "id": 90500, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90500/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-10-17", "date_modified": "2014-12-21T01:51:44.724458", "docket": "/api/rest/v2/docket/2516284/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">364 U.S. 294</p>\n    <p class=\"case_cite\">81 S.Ct. 104</p>\n    <p class=\"case_cite\">5 L.Ed.2d 83</p>\n    <p class=\"parties\">George COOPER et al.<br>v.<br>Peter J. PITCHESS, Sheriff of County of Los  Angeles, et al.</p>\n    <p class=\"docket\">No. 278.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 17, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Stanley Fleishman and Sam Rosenwein, for appellants.</p>\n      <p class=\"indent\">Harold W. Kennedy, William Lamoreaux, William B. McKesson, Ralph F. Bagley and Victor H. Blanch, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The CHIEF JUSTICE and Mr. Justice BLACK are of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>364 U.S. 294 (1960)</b></center>\n<center><h1>COOPER ET AL.<br>\nv.<br>\nPITCHESS, SHERIFF, LOS ANGELES COUNTY, ET AL.</h1></center>\n<center>No. 278.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 17, 1960.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Stanley Fleishman</i> and <i>Sam Rosenwein</i> for appellants.</p>\n<p><i>Harold W. Kennedy, William Lamoreaux, William B. McKesson, Ralph F. Bagley</i> and <i>Victor H. Blanch</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>THE CHIEF JUSTICE and MR. JUSTICE BLACK are of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">364</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">294</span></span> (1960)</b></center>\n<center><h1>COOPER ET AL.<br>\nv.<br>\nPITCHESS, SHERIFF, LOS ANGELES COUNTY, ET AL.</h1></center>\n<center>No. 278.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 17, 1960.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Stanley Fleishman</i> and <i>Sam Rosenwein</i> for appellants.</p>\n<p><i>Harold W. Kennedy, William Lamoreaux, William B. McKesson, Ralph F. Bagley</i> and <i>Victor H. Blanch</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>THE CHIEF JUSTICE and MR. JUSTICE BLACK are of the opinion that probable jurisdiction should be noted.</p>\n</div>", "id": 106117, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106117/", "sha1": "d57653d822d067e648b1f5de2b617969f207724f", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:51"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "364 U.S. 294", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106117/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Cooper v. Pitchess", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "278", 
+    "id": 90500, 
+    "resource_uri": "/api/rest/v2/citation/90500/"
+  }, 
+  "id": 106117, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-10-17", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>364 U.S. 294 (1960)</b></center>\n<center><h1>COOPER ET AL.<br>\nv.<br>\nPITCHESS, SHERIFF, LOS ANGELES COUNTY, ET AL.</h1></center>\n<center>No. 278.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 17, 1960.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Stanley Fleishman</i> and <i>Sam Rosenwein</i> for appellants.</p>\n<p><i>Harold W. Kennedy, William Lamoreaux, William B. McKesson, Ralph F. Bagley</i> and <i>Victor H. Blanch</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>THE CHIEF JUSTICE and MR. JUSTICE BLACK are of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:51", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">364</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">294</span></span> (1960)</b></center>\n<center><h1>COOPER ET AL.<br>\nv.<br>\nPITCHESS, SHERIFF, LOS ANGELES COUNTY, ET AL.</h1></center>\n<center>No. 278.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 17, 1960.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Stanley Fleishman</i> and <i>Sam Rosenwein</i> for appellants.</p>\n<p><i>Harold W. Kennedy, William Lamoreaux, William B. McKesson, Ralph F. Bagley</i> and <i>Victor H. Blanch</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>THE CHIEF JUSTICE and MR. JUSTICE BLACK are of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "sha1": "d57653d822d067e648b1f5de2b617969f207724f", 
+  "date_modified": "2014-12-21T01:51:44.724458", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106117/cooper-v-pitchess/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2516284/", 
+  "html": "<p class=\"case_cite\">364 U.S. 294</p>\n    <p class=\"case_cite\">81 S.Ct. 104</p>\n    <p class=\"case_cite\">5 L.Ed.2d 83</p>\n    <p class=\"parties\">George COOPER et al.<br>v.<br>Peter J. PITCHESS, Sheriff of County of Los  Angeles, et al.</p>\n    <p class=\"docket\">No. 278.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 17, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Stanley Fleishman and Sam Rosenwein, for appellants.</p>\n      <p class=\"indent\">Harold W. Kennedy, William Lamoreaux, William B. McKesson, Ralph F. Bagley and Victor H. Blanch, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The CHIEF JUSTICE and Mr. Justice BLACK are of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106117/"
+}

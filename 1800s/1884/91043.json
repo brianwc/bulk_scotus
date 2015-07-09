@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/91043/ex-parte-cota/", "blocked": false, "citation": {"case_name": "Ex Parte Cota", "docket_number": null, "document_uris": ["/api/rest/v2/document/91043/"], "federal_cite_one": "110 U.S. 385", "federal_cite_three": null, "federal_cite_two": null, "id": 75423, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/75423/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1884-02-04", "date_modified": "2014-12-21T01:29:40.936073", "docket": "/api/rest/v2/docket/2478376/", "download_url": "http://bulk.resource.org/courts.gov/c/US/110/110.US.385.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">110 U.S. 385</p>\n    <p class=\"case_cite\">4 S.Ct. 25</p>\n    <p class=\"case_cite\">28 L.Ed. 172</p>\n    <p class=\"parties\"><i>Ex parte</i> COTA.</p>\n    <p class=\"date\">February 4, 1884.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Maury</i>, for respondent.</p>\n      <p class=\"indent\">No brief filed for petitioner.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">It was decided at the last term in <i>Ex parte Tom Tong</i>, 108 U. S. [S. C. 2 SUP. CT. REP. 871,] that this court could not take jurisdiction of a certificate of division in opinion between the judges of a circuit court in proceedings under a writ of <i>habeas corpus</i> until final judgment has been rendered in accordance with the opinion of the presiding justice or judge. This is such a case, and it is consequently remanded to the circuit court for further proceedings according to law.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">110</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">385</span></span></p>\n    <p class=\"case_cite\">4 S.Ct. 25</p>\n    <p class=\"case_cite\">28 L.Ed. 172</p>\n    <p class=\"parties\"><i>Ex parte</i> COTA.</p>\n    <p class=\"date\">February 4, 1884.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Maury</i>, for respondent.</p>\n      <p class=\"indent\">No brief filed for petitioner.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">It was decided at the last term in <i>Ex parte Tom Tong</i>, 108 U. S. [S. C. 2 SUP. CT. REP. 871,] that this court could not take jurisdiction of a certificate of division in opinion between the judges of a circuit court in proceedings under a writ of <i>habeas corpus</i> until final judgment has been rendered in accordance with the opinion of the presiding justice or judge. This is such a case, and it is consequently remanded to the circuit court for further proceedings according to law.</p>\n    </div>\n    ", "id": 91043, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/91043/", "sha1": "e6d8179f9d01043664edca55624d5ead1e20ea4f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:02:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "110 U.S. 385", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/91043/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ex Parte Cota", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 75423, 
+    "resource_uri": "/api/rest/v2/citation/75423/"
+  }, 
+  "id": 91043, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1884-02-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/110/110.US.385.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:02:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">110</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">385</span></span></p>\n    <p class=\"case_cite\">4 S.Ct. 25</p>\n    <p class=\"case_cite\">28 L.Ed. 172</p>\n    <p class=\"parties\"><i>Ex parte</i> COTA.</p>\n    <p class=\"date\">February 4, 1884.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Maury</i>, for respondent.</p>\n      <p class=\"indent\">No brief filed for petitioner.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">It was decided at the last term in <i>Ex parte Tom Tong</i>, 108 U. S. [S. C. 2 SUP. CT. REP. 871,] that this court could not take jurisdiction of a certificate of division in opinion between the judges of a circuit court in proceedings under a writ of <i>habeas corpus</i> until final judgment has been rendered in accordance with the opinion of the presiding justice or judge. This is such a case, and it is consequently remanded to the circuit court for further proceedings according to law.</p>\n    </div>\n    ", 
+  "sha1": "e6d8179f9d01043664edca55624d5ead1e20ea4f", 
+  "date_modified": "2014-12-21T01:29:40.936073", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/91043/ex-parte-cota/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2478376/", 
+  "html": "<p class=\"case_cite\">110 U.S. 385</p>\n    <p class=\"case_cite\">4 S.Ct. 25</p>\n    <p class=\"case_cite\">28 L.Ed. 172</p>\n    <p class=\"parties\"><i>Ex parte</i> COTA.</p>\n    <p class=\"date\">February 4, 1884.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Maury</i>, for respondent.</p>\n      <p class=\"indent\">No brief filed for petitioner.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">It was decided at the last term in <i>Ex parte Tom Tong</i>, 108 U. S. [S. C. 2 SUP. CT. REP. 871,] that this court could not take jurisdiction of a certificate of division in opinion between the judges of a circuit court in proceedings under a writ of <i>habeas corpus</i> until final judgment has been rendered in accordance with the opinion of the presiding justice or judge. This is such a case, and it is consequently remanded to the circuit court for further proceedings according to law.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/91043/"
+}

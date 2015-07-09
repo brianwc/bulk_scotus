@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2381718/mdills-v-mdill/", "blocked": false, "citation": {"case_name": "Mdill's v. Mdill", "docket_number": null, "document_uris": ["/api/rest/v2/document/2381718/"], "federal_cite_one": "1 U.S. 63", "federal_cite_three": null, "federal_cite_two": null, "id": 2354490, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2354490/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1782-04-01", "date_modified": "2014-10-30T17:46:38.264466", "docket": "/api/rest/v2/docket/2571386/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>1 U.S. 63 (1782)</b></center>\n<center><b>1 Dall. 63</b></center>\n<center><h1>M`DILL'S Lessee<br>\nversus<br>\nM`DILL.<sup>[*]</sup></h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*64</span> BY THE COURT:  The signing of a Deed is now the material part of the execution; the seal has become a mere form, and a written, or ink seal, as it is called, is good. Any Deed under seal, when proved, is proper to be given in evidence. 6 Mod. 45. And, we are of opinion, that a Deed, the execution of which is sworn to by one witness before a magistrate, who certifies the same, is within the rule. Besides, the last Act of Assembly certainly allows the proof of one witness to be sufficient.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  This Cause was tried at Lancaster, N.P. on the 18th May 1781, before M`KEAN, C.J. ATLER and EVANS Justices.</p>\n<p>[*]  See post Hamilton's Lessee versus Galloway. S.P.</p>\n\n</div>", "html_with_citations": "", "id": 2381718, "judges": "By the Court: â the Signing of a Deed is Now the Material Part of the Execution the Seal Has Become a Mere Form", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2381718/", "sha1": "57df67b427845c20ee7b202bee1417ca1086e832", "source": "L", "time_retrieved": "2013-10-30T02:18:20.420826"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "1 U.S. 63", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2381718/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Mdill's v. Mdill", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2354490, 
+    "resource_uri": "/api/rest/v2/citation/2354490/"
+  }, 
+  "id": 2381718, 
+  "blocked": false, 
+  "judges": "By the Court: \u00e2\u0097 the Signing of a Deed is Now the Material Part of the Execution the Seal Has Become a Mere Form", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1782-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>1 U.S. 63 (1782)</b></center>\n<center><b>1 Dall. 63</b></center>\n<center><h1>M`DILL'S Lessee<br>\nversus<br>\nM`DILL.<sup>[*]</sup></h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*64</span> BY THE COURT: \u0097 The signing of a Deed is now the material part of the execution; the seal has become a mere form, and a written, or ink seal, as it is called, is good. Any Deed under seal, when proved, is proper to be given in evidence. 6 Mod. 45. And, we are of opinion, that a Deed, the execution of which is sworn to by one witness before a magistrate, who certifies the same, is within the rule. Besides, the last Act of Assembly certainly allows the proof of one witness to be sufficient.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  This Cause was tried at Lancaster, N.P. on the 18th May 1781, before M`KEAN, C.J. ATLER and EVANS Justices.</p>\n<p>[*]  See post Hamilton's Lessee versus Galloway. S.P.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T02:18:20.420826", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "57df67b427845c20ee7b202bee1417ca1086e832", 
+  "date_modified": "2014-10-30T17:46:38.264466", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2381718/mdills-v-mdill/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2571386/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2381718/"
+}

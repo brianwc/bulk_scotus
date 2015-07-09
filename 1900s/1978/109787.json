@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/109787/larry-pressler-member-united-states-house-of/", "blocked": false, "citation": {"case_name": "Larry Pressler, Member, United States House of Representatives v. W. M. Blumenthal, Secretary of the Treasury", "docket_number": "77-450", "document_uris": ["/api/rest/v2/document/109787/"], "federal_cite_one": "434 U.S. 1028", "federal_cite_three": null, "federal_cite_two": null, "id": 94146, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/94146/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1978-01-16", "date_modified": "2014-12-21T02:01:55.813525", "docket": "/api/rest/v2/docket/2109516/", "download_url": "http://bulk.resource.org/courts.gov/c/US/434/434.US.1028.77-450.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">434 U.S. 1028</p>\n    <p class=\"case_cite\">98 S.Ct. 758</p>\n    <p class=\"case_cite\">54 L.Ed.2d 776</p>\n    <p class=\"parties\">Larry PRESSLER, Member, United States House of  Representatives<br>v.<br>W. M. BLUMENTHAL, Secretary of the Treasury, et al</p>\n    <p class=\"docket\">No. 77-450</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 16, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The motion of James M. Jeffords et al. for leave to file a brief, as <i>amici curiae,</i> is granted.</p>\n      <p class=\"indent\">The judgment is affirmed.</p>\n      <p class=\"indent\">Mr. Justice REHNQUIST, concurring.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In joining the summary affirmance of the judgment of the District Court in this case, I think it important to point out that such affirmance does not necessarily reflect this Court's agreement with the conclusion reached by the District Court on the merits of the Ascertainment Clause question.  The District Court decided that appellant did have standing to litigate this issue by virtue of the fact that he was a Member of Congress, but decided the issue against him on the merits.  Our \"unexplicated affirmance\" without opinion could rest as readily on our conclusion that appellant lacked standing to litigate the merits of the question as it could on agreement with the District Court's resolution of the merits of the question.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">434</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1028</span></span></p>\n    <p class=\"case_cite\">98 S.Ct. 758</p>\n    <p class=\"case_cite\">54 L.Ed.2d 776</p>\n    <p class=\"parties\">Larry PRESSLER, Member, United States House of  Representatives<br>v.<br>W. M. BLUMENTHAL, Secretary of the Treasury, et al</p>\n    <p class=\"docket\">No. 77-450</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 16, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The motion of James M. Jeffords et al. for leave to file a brief, as <i>amici curiae,</i> is granted.</p>\n      <p class=\"indent\">The judgment is affirmed.</p>\n      <p class=\"indent\">Mr. Justice REHNQUIST, concurring.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In joining the summary affirmance of the judgment of the District Court in this case, I think it important to point out that such affirmance does not necessarily reflect this Court's agreement with the conclusion reached by the District Court on the merits of the Ascertainment Clause question.  The District Court decided that appellant did have standing to litigate this issue by virtue of the fact that he was a Member of Congress, but decided the issue against him on the merits.  Our \"unexplicated affirmance\" without opinion could rest as readily on our conclusion that appellant lacked standing to litigate the merits of the question as it could on agreement with the District Court's resolution of the merits of the question.</p>\n    </div>\n    ", "id": 109787, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/109787/", "sha1": "51a2cdc963dc3fa608593a1cd279bc0b5e1f0aa1", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:12:16"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "434 U.S. 1028", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/109787/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Larry Pressler, Member, United States House of Representatives v. W. M. Blumenthal, Secretary of the Treasury", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "77-450", 
+    "id": 94146, 
+    "resource_uri": "/api/rest/v2/citation/94146/"
+  }, 
+  "id": 109787, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1978-01-16", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/434/434.US.1028.77-450.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:12:16", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">434</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1028</span></span></p>\n    <p class=\"case_cite\">98 S.Ct. 758</p>\n    <p class=\"case_cite\">54 L.Ed.2d 776</p>\n    <p class=\"parties\">Larry PRESSLER, Member, United States House of  Representatives<br>v.<br>W. M. BLUMENTHAL, Secretary of the Treasury, et al</p>\n    <p class=\"docket\">No. 77-450</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 16, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The motion of James M. Jeffords et al. for leave to file a brief, as <i>amici curiae,</i> is granted.</p>\n      <p class=\"indent\">The judgment is affirmed.</p>\n      <p class=\"indent\">Mr. Justice REHNQUIST, concurring.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In joining the summary affirmance of the judgment of the District Court in this case, I think it important to point out that such affirmance does not necessarily reflect this Court's agreement with the conclusion reached by the District Court on the merits of the Ascertainment Clause question.  The District Court decided that appellant did have standing to litigate this issue by virtue of the fact that he was a Member of Congress, but decided the issue against him on the merits.  Our \"unexplicated affirmance\" without opinion could rest as readily on our conclusion that appellant lacked standing to litigate the merits of the question as it could on agreement with the District Court's resolution of the merits of the question.</p>\n    </div>\n    ", 
+  "sha1": "51a2cdc963dc3fa608593a1cd279bc0b5e1f0aa1", 
+  "date_modified": "2014-12-21T02:01:55.813525", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/109787/larry-pressler-member-united-states-house-of/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2109516/", 
+  "html": "<p class=\"case_cite\">434 U.S. 1028</p>\n    <p class=\"case_cite\">98 S.Ct. 758</p>\n    <p class=\"case_cite\">54 L.Ed.2d 776</p>\n    <p class=\"parties\">Larry PRESSLER, Member, United States House of  Representatives<br>v.<br>W. M. BLUMENTHAL, Secretary of the Treasury, et al</p>\n    <p class=\"docket\">No. 77-450</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 16, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The motion of James M. Jeffords et al. for leave to file a brief, as <i>amici curiae,</i> is granted.</p>\n      <p class=\"indent\">The judgment is affirmed.</p>\n      <p class=\"indent\">Mr. Justice REHNQUIST, concurring.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In joining the summary affirmance of the judgment of the District Court in this case, I think it important to point out that such affirmance does not necessarily reflect this Court's agreement with the conclusion reached by the District Court on the merits of the Ascertainment Clause question.  The District Court decided that appellant did have standing to litigate this issue by virtue of the fact that he was a Member of Congress, but decided the issue against him on the merits.  Our \"unexplicated affirmance\" without opinion could rest as readily on our conclusion that appellant lacked standing to litigate the merits of the question as it could on agreement with the District Court's resolution of the merits of the question.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/109787/"
+}

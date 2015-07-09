@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/137290/brown-v-ohio/", "blocked": false, "citation": {"case_name": "Brown v. Ohio", "docket_number": "03-9933", "document_uris": ["/api/rest/v2/document/137290/"], "federal_cite_one": "542 U.S. 924", "federal_cite_three": null, "federal_cite_two": null, "id": 121643, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121643/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 11, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-21", "date_modified": "2014-12-21T02:20:25.834197", "docket": "/api/rest/v2/docket/1420043/", "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.924.03-9933.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">542 U.S. 924</p>\n    <p class=\"parties\">BROWN<br>v.<br>OHIO.</p>\n    <p class=\"docket\">No. 03-9933.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 21, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Ohio, Mahoning County. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">924</span></span></p>\n    <p class=\"parties\">BROWN<br>v.<br>OHIO.</p>\n    <p class=\"docket\">No. 03-9933.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 21, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Ohio, Mahoning County. Certiorari denied.</p>\n    </div>\n    ", "id": 137290, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/137290/", "sha1": "4b715725db7157995c3fc61f84736def9ba15bce", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:31:33"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "542 U.S. 924", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/137290/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Brown v. Ohio", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9933", 
+    "id": 121643, 
+    "resource_uri": "/api/rest/v2/citation/121643/"
+  }, 
+  "id": 137290, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.924.03-9933.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:31:33", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">924</span></span></p>\n    <p class=\"parties\">BROWN<br>v.<br>OHIO.</p>\n    <p class=\"docket\">No. 03-9933.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 21, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Ohio, Mahoning County. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "4b715725db7157995c3fc61f84736def9ba15bce", 
+  "date_modified": "2014-12-21T02:20:25.834197", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/137290/brown-v-ohio/", 
+  "citation_count": 11, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1420043/", 
+  "html": "<p class=\"case_cite\">542 U.S. 924</p>\n    <p class=\"parties\">BROWN<br>v.<br>OHIO.</p>\n    <p class=\"docket\">No. 03-9933.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 21, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Ohio, Mahoning County. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/137290/"
+}

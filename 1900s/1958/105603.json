@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105603/ladner-v-united-states/", "blocked": false, "citation": {"case_name": "Ladner v. United States", "docket_number": "41", "document_uris": ["/api/rest/v2/document/105603/"], "federal_cite_one": "355 U.S. 282", "federal_cite_three": "2 L. Ed. 2d 270", "federal_cite_two": "78 S. Ct. 336", "id": 89986, "lexis_cite": "1958 U.S. LEXIS 1682", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/89986/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 9, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-05-26", "date_modified": "2014-12-22T09:17:33.748568", "docket": "/api/rest/v2/docket/2115266/", "download_url": "http://bulk.resource.org/courts.gov/c/US/355/355.US.282.41.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">355 U.S. 282</p>\n    <p class=\"case_cite\">78 S.Ct. 336</p>\n    <p class=\"case_cite\">2 L.Ed.2d 270</p>\n    <p class=\"parties\">Lovander LADNER, petitioner,<br>v.<br>UNITED STATES of America.</p>\n    <p class=\"docket\">No. 41.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 6, 1958</p>\n    <p class=\"date\">Judgment Vacated May 26, 1958.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Harold Rosenwald, for petitioner.</p>\n      <p class=\"indent\">Mr. Harold B. Sand (Solicitor General Rankin, Mr. Warren Olney, III, former Asst. Atty. Gen., Beatrice Rosenberg and Julia P. Cooper, on the brief), for the United States.</p>\n      <p class=\"center\">See 356 U.S. 969, 78 S.Ct. 1004.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BRENNAN took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>355 U.S. 282 (1958)</b></center>\n<center><h1>LADNER<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 41.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1957.</center>\n<center>Decided January 6, 1958.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>Harold Rosenwald,</i> acting under appointment by the Court, 352 U. S. 959, argued the cause and filed a brief for petitioner.</p>\n<p><i>Leonard B. Sand</i> argued the cause for the United States. On the brief were <i>Solicitor General Rankin, Warren Olney, III,</i> then Assistant Attorney General, <i>Beatrice Rosenberg</i> and <i>Julia P. Cooper.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">282</span></span> (1958)</b></center>\n<center><h1>LADNER<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 41.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1957.</center>\n<center>Decided January 6, 1958.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>Harold Rosenwald,</i> acting under appointment by the Court, 352 U. S. 959, argued the cause and filed a brief for petitioner.</p>\n<p><i>Leonard B. Sand</i> argued the cause for the United States. On the brief were <i>Solicitor General Rankin, Warren Olney, III,</i> then Assistant Attorney General, <i>Beatrice Rosenberg</i> and <i>Julia P. Cooper.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", "id": 105603, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105603/", "sha1": "0ed95dcd55395a90cc7e1783f89426c83efb2ca2", "source": "LR", "supreme_court_db_id": "1957-031", "time_retrieved": "2010-04-28T09:55:37"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "355 U.S. 282", 
+    "federal_cite_two": "78 S. Ct. 336", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "2 L. Ed. 2d 270", 
+    "lexis_cite": "1958 U.S. LEXIS 1682", 
+    "document_uris": [
+      "/api/rest/v2/document/105603/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ladner v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "41", 
+    "id": 89986, 
+    "resource_uri": "/api/rest/v2/citation/89986/"
+  }, 
+  "id": 105603, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-05-26", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/355/355.US.282.41.html", 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>355 U.S. 282 (1958)</b></center>\n<center><h1>LADNER<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 41.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1957.</center>\n<center>Decided January 6, 1958.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>Harold Rosenwald,</i> acting under appointment by the Court, 352 U. S. 959, argued the cause and filed a brief for petitioner.</p>\n<p><i>Leonard B. Sand</i> argued the cause for the United States. On the brief were <i>Solicitor General Rankin, Warren Olney, III,</i> then Assistant Attorney General, <i>Beatrice Rosenberg</i> and <i>Julia P. Cooper.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:37", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">282</span></span> (1958)</b></center>\n<center><h1>LADNER<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 41.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1957.</center>\n<center>Decided January 6, 1958.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>Harold Rosenwald,</i> acting under appointment by the Court, 352 U. S. 959, argued the cause and filed a brief for petitioner.</p>\n<p><i>Leonard B. Sand</i> argued the cause for the United States. On the brief were <i>Solicitor General Rankin, Warren Olney, III,</i> then Assistant Attorney General, <i>Beatrice Rosenberg</i> and <i>Julia P. Cooper.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "0ed95dcd55395a90cc7e1783f89426c83efb2ca2", 
+  "date_modified": "2014-12-22T09:17:33.748568", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105603/ladner-v-united-states/", 
+  "citation_count": 9, 
+  "supreme_court_db_id": "1957-031", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2115266/", 
+  "html": "<p class=\"case_cite\">355 U.S. 282</p>\n    <p class=\"case_cite\">78 S.Ct. 336</p>\n    <p class=\"case_cite\">2 L.Ed.2d 270</p>\n    <p class=\"parties\">Lovander LADNER, petitioner,<br>v.<br>UNITED STATES of America.</p>\n    <p class=\"docket\">No. 41.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 6, 1958</p>\n    <p class=\"date\">Judgment Vacated May 26, 1958.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Harold Rosenwald, for petitioner.</p>\n      <p class=\"indent\">Mr. Harold B. Sand (Solicitor General Rankin, Mr. Warren Olney, III, former Asst. Atty. Gen., Beatrice Rosenberg and Julia P. Cooper, on the brief), for the United States.</p>\n      <p class=\"center\">See 356 U.S. 969, 78 S.Ct. 1004.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BRENNAN took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105603/"
+}

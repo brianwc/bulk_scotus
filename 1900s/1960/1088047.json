@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088047/sims-motor-transport-lines-inc-v-united-states/", "blocked": false, "citation": {"case_name": "Sims Motor Transport Lines, Inc. v. United States", "docket_number": "823", "document_uris": ["/api/rest/v2/document/1088047/"], "federal_cite_one": "362 U.S. 637", "federal_cite_three": null, "federal_cite_two": null, "id": 1060818, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060818/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-05-23", "date_modified": "2014-10-30T17:50:02.469104", "docket": "/api/rest/v2/docket/2583016/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>362 U.S. 637 (1960)</b></center>\n<center><h1>SIMS MOTOR TRANSPORT LINES, INC.,<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 823.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 23, 1960.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Harold T. Halfpenny</i> and <i>Mary Shaw</i> for appellant.</p>\n<p><i>Solicitor General Rankin, Acting Assistant Attorney General Bicks, Richard A. Solomon, Henry Geller</i> and <i>Robert W. Ginnane</i> for the United States and the Interstate Commerce Commission.</p>\n<p><i>Roland Rice</i> and <i>Franklin R. Overmyer</i> for Holland Motor Express, Inc., et al.</p>\n<p>PER CURIAM.</p>\n<p>The motions of Holland Motor Express, Inc., et al., for leave to be named parties appellee and for leave to file a motion to affirm are granted. The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1088047, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088047/", "sha1": "78c4fe4b4bd50704ac9f0e39ac4cd2d614ee8679", "source": "L", "time_retrieved": "2013-10-29T20:43:49.125395"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "362 U.S. 637", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088047/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Sims Motor Transport Lines, Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "823", 
+    "id": 1060818, 
+    "resource_uri": "/api/rest/v2/citation/1060818/"
+  }, 
+  "id": 1088047, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-05-23", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>362 U.S. 637 (1960)</b></center>\n<center><h1>SIMS MOTOR TRANSPORT LINES, INC.,<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 823.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 23, 1960.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Harold T. Halfpenny</i> and <i>Mary Shaw</i> for appellant.</p>\n<p><i>Solicitor General Rankin, Acting Assistant Attorney General Bicks, Richard A. Solomon, Henry Geller</i> and <i>Robert W. Ginnane</i> for the United States and the Interstate Commerce Commission.</p>\n<p><i>Roland Rice</i> and <i>Franklin R. Overmyer</i> for Holland Motor Express, Inc., et al.</p>\n<p>PER CURIAM.</p>\n<p>The motions of Holland Motor Express, Inc., et al., for leave to be named parties appellee and for leave to file a motion to affirm are granted. The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:43:49.125395", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "78c4fe4b4bd50704ac9f0e39ac4cd2d614ee8679", 
+  "date_modified": "2014-10-30T17:50:02.469104", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088047/sims-motor-transport-lines-inc-v-united-states/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2583016/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088047/"
+}

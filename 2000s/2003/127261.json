@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/127261/njai-v-pittsburgh-board-of-public-education-et/", "blocked": true, "citation": {"case_name": "N'jai v. Pittsburgh Board of Public Education", "docket_number": "02-7848", "document_uris": ["/api/rest/v2/document/127261/"], "federal_cite_one": "537 U.S. 1199", "federal_cite_three": null, "federal_cite_two": null, "id": 111614, "lexis_cite": "", "neutral_cite": "", "resource_uri": "/api/rest/v2/citation/111614/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": "2012-10-05", "date_filed": "2003-02-24", "date_modified": "2014-12-21T02:18:15.585385", "docket": "/api/rest/v2/docket/2189814/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1199.02-7848.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1199</p>\r\n    <p class=\"parties\">N'JAI<br>v.<br>PITTSBURGH BOARD OF PUBLIC EDUCATION ET AL.</p>\r\n    <p class=\"docket\">No. 02-7848.</p>\r\n    <p class=\"court\">Supreme Court of United States.</p>\r\n    <p class=\"date\">February 24, 2003.</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">CERTIORARI TO THE COMMONWEALTH COURT OF PENNSYLVANIA.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Commw. Ct. Pa. Certiorari denied. Reported below: 799 A. 2d 995.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1199</span></span></p>\r\n    <p class=\"parties\">N'JAI<br>v.<br>PITTSBURGH BOARD OF PUBLIC EDUCATION ET AL.</p>\r\n    <p class=\"docket\">No. 02-7848.</p>\r\n    <p class=\"court\">Supreme Court of United States.</p>\r\n    <p class=\"date\">February 24, 2003.</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">CERTIORARI TO THE COMMONWEALTH COURT OF PENNSYLVANIA.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Commw. Ct. Pa. Certiorari denied. Reported below: 799 A. 2d 995.</p>\r\n    </div>\r\n    ", "id": 127261, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/127261/", "sha1": "e09bb272d04ce697a7767a912af42f229227451e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:58"}
+{
+  "date_blocked": "2012-10-05", 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1199", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/127261/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "N'jai v. Pittsburgh Board of Public Education", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": "", 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-7848", 
+    "id": 111614, 
+    "resource_uri": "/api/rest/v2/citation/111614/"
+  }, 
+  "id": 127261, 
+  "blocked": true, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-02-24", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1199.02-7848.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:58", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1199</span></span></p>\r\n    <p class=\"parties\">N'JAI<br>v.<br>PITTSBURGH BOARD OF PUBLIC EDUCATION ET AL.</p>\r\n    <p class=\"docket\">No. 02-7848.</p>\r\n    <p class=\"court\">Supreme Court of United States.</p>\r\n    <p class=\"date\">February 24, 2003.</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">CERTIORARI TO THE COMMONWEALTH COURT OF PENNSYLVANIA.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Commw. Ct. Pa. Certiorari denied. Reported below: 799 A. 2d 995.</p>\r\n    </div>\r\n    ", 
+  "sha1": "e09bb272d04ce697a7767a912af42f229227451e", 
+  "date_modified": "2014-12-21T02:18:15.585385", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/127261/njai-v-pittsburgh-board-of-public-education-et/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2189814/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1199</p>\r\n    <p class=\"parties\">N'JAI<br>v.<br>PITTSBURGH BOARD OF PUBLIC EDUCATION ET AL.</p>\r\n    <p class=\"docket\">No. 02-7848.</p>\r\n    <p class=\"court\">Supreme Court of United States.</p>\r\n    <p class=\"date\">February 24, 2003.</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">CERTIORARI TO THE COMMONWEALTH COURT OF PENNSYLVANIA.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Commw. Ct. Pa. Certiorari denied. Reported below: 799 A. 2d 995.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/127261/"
+}

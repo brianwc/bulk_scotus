@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1380185/brenner-v-hofstetter/", "blocked": false, "citation": {"case_name": "Brenner v. Hofstetter", "docket_number": "46", "document_uris": ["/api/rest/v2/document/1380185/"], "federal_cite_one": "389 U.S. 5", "federal_cite_three": null, "federal_cite_two": null, "id": 1352956, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1352956/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-10-09", "date_modified": "2014-10-30T13:33:46.448845", "docket": "/api/rest/v2/docket/1926937/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>389 U.S. 5 (1967)</b></center>\n<center><h1>BRENNER, COMMISSIONER OF PATENTS<br>\nv.<br>\nHOFSTETTER.</h1></center>\n<center>No. 46.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 9, 1967.</center>\nCERTIORARI TO THE UNITED STATES COURT OF CUSTOMS AND PATENT APPEALS.\n<p><i>Solicitor General Marshall, Assistant Attorney General Sanders</i> and <i>Morton Hollander</i> for petitioner.</p>\n<p><i>Paul N. Kokulis</i> and <i>Lawrence A. Hymo</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>Upon consideration of the respondent's suggestion of mootness the judgment is vacated and the case is remanded to the United States Court of Customs and Patent Appeals with directions to dismiss the appeal to that court as moot.</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 1380185, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1380185/", "sha1": "1c02bcb3ba2a4b2cb1f1a74b9ca2db508beb800b", "source": "L", "time_retrieved": "2013-10-29T22:52:34.028736"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 5", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1380185/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Brenner v. Hofstetter", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "46", 
+    "id": 1352956, 
+    "resource_uri": "/api/rest/v2/citation/1352956/"
+  }, 
+  "id": 1380185, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-10-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 5 (1967)</b></center>\n<center><h1>BRENNER, COMMISSIONER OF PATENTS<br>\nv.<br>\nHOFSTETTER.</h1></center>\n<center>No. 46.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 9, 1967.</center>\nCERTIORARI TO THE UNITED STATES COURT OF CUSTOMS AND PATENT APPEALS.\n<p><i>Solicitor General Marshall, Assistant Attorney General Sanders</i> and <i>Morton Hollander</i> for petitioner.</p>\n<p><i>Paul N. Kokulis</i> and <i>Lawrence A. Hymo</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>Upon consideration of the respondent's suggestion of mootness the judgment is vacated and the case is remanded to the United States Court of Customs and Patent Appeals with directions to dismiss the appeal to that court as moot.</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:52:34.028736", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "1c02bcb3ba2a4b2cb1f1a74b9ca2db508beb800b", 
+  "date_modified": "2014-10-30T13:33:46.448845", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1380185/brenner-v-hofstetter/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1926937/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1380185/"
+}

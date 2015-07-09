@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117352/rodriguez-v-united-states/", "blocked": false, "citation": {"case_name": "Rodriguez v. United States", "docket_number": "93-7679", "document_uris": ["/api/rest/v2/document/117352/"], "federal_cite_one": "510 U.S. 1170", "federal_cite_three": null, "federal_cite_two": null, "id": 101711, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101711/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-02-28", "date_modified": "2014-12-22T09:17:25.393934", "docket": "/api/rest/v2/docket/2131090/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1170.93-7679.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1170</p>\n    <p class=\"parties\">Rodriguez<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 93-7679.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 8 F. 3d 23.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1170</span></span></p>\n    <p class=\"parties\">Rodriguez<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 93-7679.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 8 F. 3d 23.</p>\n    </div>\n    ", "id": 117352, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117352/", "sha1": "4b75b2e340d37c485c5cc48b464fe4d5cb03244a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:09"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1170", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117352/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Rodriguez v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-7679", 
+    "id": 101711, 
+    "resource_uri": "/api/rest/v2/citation/101711/"
+  }, 
+  "id": 117352, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-02-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1170.93-7679.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:09", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1170</span></span></p>\n    <p class=\"parties\">Rodriguez<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 93-7679.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 8 F. 3d 23.</p>\n    </div>\n    ", 
+  "sha1": "4b75b2e340d37c485c5cc48b464fe4d5cb03244a", 
+  "date_modified": "2014-12-22T09:17:25.393934", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117352/rodriguez-v-united-states/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2131090/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1170</p>\n    <p class=\"parties\">Rodriguez<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 93-7679.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 8 F. 3d 23.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117352/"
+}

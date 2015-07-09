@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106467/harris-v-florida-real-estate-commn/", "blocked": false, "citation": {"case_name": "Harris v. Florida Real Estate Comm'n", "docket_number": "100", "document_uris": ["/api/rest/v2/document/106467/"], "federal_cite_one": "371 U.S. 7", "federal_cite_three": null, "federal_cite_two": null, "id": 90850, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90850/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-11-13", "date_modified": "2014-12-21T01:52:25.015532", "docket": "/api/rest/v2/docket/2520572/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">371 U.S. 7</p>\n    <p class=\"case_cite\">83 S.Ct. 19</p>\n    <p class=\"case_cite\">9 L.Ed.2d 47</p>\n    <p class=\"parties\">Milton J. HARRIS<br>v.<br>FLORIDA REAL ESTATE COMM'N, etc., et al.</p>\n    <p class=\"docket\">No. 100.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 8, 1962</p>\n    <p class=\"date\">Rehearing Denied Nov. 13, 1962.</p>\n    <div class=\"prelims\">\n      <p>See 371 U.S. 906, 83 S.Ct. 203.</p>\n      <p class=\"indent\">M. H. Rosenhouse, for appellant.</p>\n      <p class=\"indent\">Benjamin T. Shuman, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice GOLDBERG took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>371 U.S. 7 (1962)</b></center>\n<center><h1>HARRIS<br>\nv.<br>\nFLORIDA REAL ESTATE COMMISSION ET AL.</h1></center>\n<center>No. 100.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE SUPREME COURT OF FLORIDA.\n<p><i>M. H. Rosenhouse</i> for appellant.</p>\n<p><i>Benjamin T. Shuman</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">7</span></span> (1962)</b></center>\n<center><h1>HARRIS<br>\nv.<br>\nFLORIDA REAL ESTATE COMMISSION ET AL.</h1></center>\n<center>No. 100.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE SUPREME COURT OF FLORIDA.\n<p><i>M. H. Rosenhouse</i> for appellant.</p>\n<p><i>Benjamin T. Shuman</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", "id": 106467, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106467/", "sha1": "25e9331feaca95b5b3bf1587619825bf99a80aab", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:41"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "371 U.S. 7", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106467/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Harris v. Florida Real Estate Comm'n", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "100", 
+    "id": 90850, 
+    "resource_uri": "/api/rest/v2/citation/90850/"
+  }, 
+  "id": 106467, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-11-13", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>371 U.S. 7 (1962)</b></center>\n<center><h1>HARRIS<br>\nv.<br>\nFLORIDA REAL ESTATE COMMISSION ET AL.</h1></center>\n<center>No. 100.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE SUPREME COURT OF FLORIDA.\n<p><i>M. H. Rosenhouse</i> for appellant.</p>\n<p><i>Benjamin T. Shuman</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:41", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">7</span></span> (1962)</b></center>\n<center><h1>HARRIS<br>\nv.<br>\nFLORIDA REAL ESTATE COMMISSION ET AL.</h1></center>\n<center>No. 100.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE SUPREME COURT OF FLORIDA.\n<p><i>M. H. Rosenhouse</i> for appellant.</p>\n<p><i>Benjamin T. Shuman</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "25e9331feaca95b5b3bf1587619825bf99a80aab", 
+  "date_modified": "2014-12-21T01:52:25.015532", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106467/harris-v-florida-real-estate-commn/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2520572/", 
+  "html": "<p class=\"case_cite\">371 U.S. 7</p>\n    <p class=\"case_cite\">83 S.Ct. 19</p>\n    <p class=\"case_cite\">9 L.Ed.2d 47</p>\n    <p class=\"parties\">Milton J. HARRIS<br>v.<br>FLORIDA REAL ESTATE COMM'N, etc., et al.</p>\n    <p class=\"docket\">No. 100.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 8, 1962</p>\n    <p class=\"date\">Rehearing Denied Nov. 13, 1962.</p>\n    <div class=\"prelims\">\n      <p>See 371 U.S. 906, 83 S.Ct. 203.</p>\n      <p class=\"indent\">M. H. Rosenhouse, for appellant.</p>\n      <p class=\"indent\">Benjamin T. Shuman, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice GOLDBERG took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106467/"
+}

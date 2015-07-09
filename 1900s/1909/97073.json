@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/97073/george-w-thomas-plaintiff-in-error-v-south/", "blocked": false, "citation": {"case_name": "George W. Thomas, in Error v. South Side Elevated Railway Company", "docket_number": "157", "document_uris": ["/api/rest/v2/document/97073/"], "federal_cite_one": "214 U.S. 496", "federal_cite_three": null, "federal_cite_two": null, "id": 81456, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/81456/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1909-04-26", "date_modified": "2014-12-21T01:35:01.050634", "docket": "/api/rest/v2/docket/2044897/", "download_url": "http://bulk.resource.org/courts.gov/c/US/214/214.US.496.157.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">214 U.S. 496</p>\n    <p class=\"case_cite\">29 S.Ct. 698</p>\n    <p class=\"case_cite\">53 L.Ed. 1059</p>\n    <p class=\"parties\">GEORGE W. THOMAS, Plaintiff in Error,<br>v.<br>SOUTH SIDE ELEVATED RAILWAY COMPANY.</p>\n    <p class=\"docket\">No. 157.</p>\n    <p class=\"date\">April 26, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. George W. Thomas, <i>in propria persona</i>.</p>\n      <p class=\"indent\">Messrs. Monroe L. Willard and Cecil Page for defendant in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Writ of Error dismissed for want of jurisdiction. Stevens v. Nichols, 157 U. S. 370, 39 L. ed. 736, 15 Sup. Ct. Rep. 640; Loeber v. Schroeder, 149 U. S. 580, 37 L. ed. 856, 13 Sup. Ct. Rep. 934; Central Land Co. v. Laidley, 159 U. S. 103, 40 L. ed. 91, 16 Sup. Ct. Rep. 80; A. Backus, Jr., &amp; Sons v. Fort Street Union Depot Co. 169 U. S. 557, 42 L. ed. 853, 18 Sup. Ct. Rep. 445; Ballard v. Hunter, 204 U. S. 241, 51 L. ed. 461, 27 Sup. Ct. Rep. 261; Tracy v. Ginzberg, 205 U. S. 170, 51 L. ed. 755, 27 Sup. Ct. Rep. 461; Rusch v. John Duncan Land &amp; Min. Co. 211 U. S. 526, 53 L. ed. &#8212;&#8212;, 29 Sup. Ct. Rep. 172.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">496</span></span></p>\n    <p class=\"case_cite\">29 S.Ct. 698</p>\n    <p class=\"case_cite\">53 L.Ed. 1059</p>\n    <p class=\"parties\">GEORGE W. THOMAS, Plaintiff in Error,<br>v.<br>SOUTH SIDE ELEVATED RAILWAY COMPANY.</p>\n    <p class=\"docket\">No. 157.</p>\n    <p class=\"date\">April 26, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. George W. Thomas, <i>in propria persona</i>.</p>\n      <p class=\"indent\">Messrs. Monroe L. Willard and Cecil Page for defendant in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Writ of Error dismissed for want of jurisdiction. Stevens v. Nichols, 157 U. S. 370, 39 L. ed. 736, 15 Sup. Ct. Rep. 640; Loeber v. Schroeder, 149 U. S. 580, 37 L. ed. 856, 13 Sup. Ct. Rep. 934; Central Land Co. v. Laidley, 159 U. S. 103, 40 L. ed. 91, 16 Sup. Ct. Rep. 80; A. Backus, Jr., &amp; Sons v. Fort Street Union Depot Co. 169 U. S. 557, 42 L. ed. 853, 18 Sup. Ct. Rep. 445; Ballard v. Hunter, 204 U. S. 241, 51 L. ed. 461, 27 Sup. Ct. Rep. 261; Tracy v. Ginzberg, 205 U. S. 170, 51 L. ed. 755, 27 Sup. Ct. Rep. 461; Rusch v. John Duncan Land &amp; Min. Co. 211 U. S. 526, 53 L. ed. &#8212;&#8212;, 29 Sup. Ct. Rep. 172.</p>\n    </div>\n    ", "id": 97073, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/97073/", "sha1": "262f8c924a9042e9ed5ad34847c32a7efaeecbf6", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:42:18"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "214 U.S. 496", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/97073/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "George W. Thomas, in Error v. South Side Elevated Railway Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "157", 
+    "id": 81456, 
+    "resource_uri": "/api/rest/v2/citation/81456/"
+  }, 
+  "id": 97073, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1909-04-26", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/214/214.US.496.157.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:42:18", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">496</span></span></p>\n    <p class=\"case_cite\">29 S.Ct. 698</p>\n    <p class=\"case_cite\">53 L.Ed. 1059</p>\n    <p class=\"parties\">GEORGE W. THOMAS, Plaintiff in Error,<br>v.<br>SOUTH SIDE ELEVATED RAILWAY COMPANY.</p>\n    <p class=\"docket\">No. 157.</p>\n    <p class=\"date\">April 26, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. George W. Thomas, <i>in propria persona</i>.</p>\n      <p class=\"indent\">Messrs. Monroe L. Willard and Cecil Page for defendant in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Writ of Error dismissed for want of jurisdiction. Stevens v. Nichols, 157 U. S. 370, 39 L. ed. 736, 15 Sup. Ct. Rep. 640; Loeber v. Schroeder, 149 U. S. 580, 37 L. ed. 856, 13 Sup. Ct. Rep. 934; Central Land Co. v. Laidley, 159 U. S. 103, 40 L. ed. 91, 16 Sup. Ct. Rep. 80; A. Backus, Jr., &amp; Sons v. Fort Street Union Depot Co. 169 U. S. 557, 42 L. ed. 853, 18 Sup. Ct. Rep. 445; Ballard v. Hunter, 204 U. S. 241, 51 L. ed. 461, 27 Sup. Ct. Rep. 261; Tracy v. Ginzberg, 205 U. S. 170, 51 L. ed. 755, 27 Sup. Ct. Rep. 461; Rusch v. John Duncan Land &amp; Min. Co. 211 U. S. 526, 53 L. ed. &#8212;&#8212;, 29 Sup. Ct. Rep. 172.</p>\n    </div>\n    ", 
+  "sha1": "262f8c924a9042e9ed5ad34847c32a7efaeecbf6", 
+  "date_modified": "2014-12-21T01:35:01.050634", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/97073/george-w-thomas-plaintiff-in-error-v-south/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2044897/", 
+  "html": "<p class=\"case_cite\">214 U.S. 496</p>\n    <p class=\"case_cite\">29 S.Ct. 698</p>\n    <p class=\"case_cite\">53 L.Ed. 1059</p>\n    <p class=\"parties\">GEORGE W. THOMAS, Plaintiff in Error,<br>v.<br>SOUTH SIDE ELEVATED RAILWAY COMPANY.</p>\n    <p class=\"docket\">No. 157.</p>\n    <p class=\"date\">April 26, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. George W. Thomas, <i>in propria persona</i>.</p>\n      <p class=\"indent\">Messrs. Monroe L. Willard and Cecil Page for defendant in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Writ of Error dismissed for want of jurisdiction. Stevens v. Nichols, 157 U. S. 370, 39 L. ed. 736, 15 Sup. Ct. Rep. 640; Loeber v. Schroeder, 149 U. S. 580, 37 L. ed. 856, 13 Sup. Ct. Rep. 934; Central Land Co. v. Laidley, 159 U. S. 103, 40 L. ed. 91, 16 Sup. Ct. Rep. 80; A. Backus, Jr., &amp; Sons v. Fort Street Union Depot Co. 169 U. S. 557, 42 L. ed. 853, 18 Sup. Ct. Rep. 445; Ballard v. Hunter, 204 U. S. 241, 51 L. ed. 461, 27 Sup. Ct. Rep. 261; Tracy v. Ginzberg, 205 U. S. 170, 51 L. ed. 755, 27 Sup. Ct. Rep. 461; Rusch v. John Duncan Land &amp; Min. Co. 211 U. S. 526, 53 L. ed. &#8212;&#8212;, 29 Sup. Ct. Rep. 172.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/97073/"
+}

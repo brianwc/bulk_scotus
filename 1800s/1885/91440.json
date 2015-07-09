@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/91440/boston-hydraulic-gold-min-co-v-eagle-copper/", "blocked": false, "citation": {"case_name": "Boston Hydraulic Gold Min. Co. v. Eagle Copper & Silver Min. Co", "docket_number": null, "document_uris": ["/api/rest/v2/document/91440/"], "federal_cite_one": "115 U.S. 221", "federal_cite_three": null, "federal_cite_two": null, "id": 75820, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/75820/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1885-11-02", "date_modified": "2014-12-21T01:29:55.168216", "docket": "/api/rest/v2/docket/2244740/", "download_url": "http://bulk.resource.org/courts.gov/c/US/115/115.US.221.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">6 S.Ct. 33</p>\n    <p class=\"case_cite\">115 U.S. 221</p>\n    <p class=\"case_cite\">29 L.Ed. 392</p>\n    <p class=\"parties\">BOSTON HYDRAULIC GOLD MIN. CO.<br>v.<br>EAGLE COPPER &amp; SILVER MIN. CO.</p>\n    <p class=\"date\">Filed October 26, 1885.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">No appearance for plaintiff in error.</p>\n      <p class=\"indent\"><i>G. A. Nourse</i>, for defendant in error.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">When this cause was reached on the call of the docket it was submitted by the defendant in error on a printed brief. An assignment of errors was not annexed to or returned with the writ of error, as required by section 997, Rev. St. At the last term the counsel for the plaintiff in error was permitted to withdraw his appearance, and no one has taken his place. No argument has been submitted in behalf of the plaintiff in error, and no errors have been assigned in any form. We therefore affirm the judgment without opening the record.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\">6 S.Ct. 33</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">115</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">221</span></span></p>\n    <p class=\"case_cite\">29 L.Ed. 392</p>\n    <p class=\"parties\">BOSTON HYDRAULIC GOLD MIN. CO.<br>v.<br>EAGLE COPPER &amp; SILVER MIN. CO.</p>\n    <p class=\"date\">Filed October 26, 1885.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">No appearance for plaintiff in error.</p>\n      <p class=\"indent\"><i>G. A. Nourse</i>, for defendant in error.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">When this cause was reached on the call of the docket it was submitted by the defendant in error on a printed brief. An assignment of errors was not annexed to or returned with the writ of error, as required by section 997, Rev. St. At the last term the counsel for the plaintiff in error was permitted to withdraw his appearance, and no one has taken his place. No argument has been submitted in behalf of the plaintiff in error, and no errors have been assigned in any form. We therefore affirm the judgment without opening the record.</p>\n    </div>\n    ", "id": 91440, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/91440/", "sha1": "bba448749943ede551075d546500f77ba10b991f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:03:21"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "115 U.S. 221", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/91440/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Boston Hydraulic Gold Min. Co. v. Eagle Copper & Silver Min. Co", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 75820, 
+    "resource_uri": "/api/rest/v2/citation/75820/"
+  }, 
+  "id": 91440, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1885-11-02", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/115/115.US.221.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:03:21", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\">6 S.Ct. 33</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">115</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">221</span></span></p>\n    <p class=\"case_cite\">29 L.Ed. 392</p>\n    <p class=\"parties\">BOSTON HYDRAULIC GOLD MIN. CO.<br>v.<br>EAGLE COPPER &amp; SILVER MIN. CO.</p>\n    <p class=\"date\">Filed October 26, 1885.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">No appearance for plaintiff in error.</p>\n      <p class=\"indent\"><i>G. A. Nourse</i>, for defendant in error.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">When this cause was reached on the call of the docket it was submitted by the defendant in error on a printed brief. An assignment of errors was not annexed to or returned with the writ of error, as required by section 997, Rev. St. At the last term the counsel for the plaintiff in error was permitted to withdraw his appearance, and no one has taken his place. No argument has been submitted in behalf of the plaintiff in error, and no errors have been assigned in any form. We therefore affirm the judgment without opening the record.</p>\n    </div>\n    ", 
+  "sha1": "bba448749943ede551075d546500f77ba10b991f", 
+  "date_modified": "2014-12-21T01:29:55.168216", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/91440/boston-hydraulic-gold-min-co-v-eagle-copper/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2244740/", 
+  "html": "<p class=\"case_cite\">6 S.Ct. 33</p>\n    <p class=\"case_cite\">115 U.S. 221</p>\n    <p class=\"case_cite\">29 L.Ed. 392</p>\n    <p class=\"parties\">BOSTON HYDRAULIC GOLD MIN. CO.<br>v.<br>EAGLE COPPER &amp; SILVER MIN. CO.</p>\n    <p class=\"date\">Filed October 26, 1885.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">No appearance for plaintiff in error.</p>\n      <p class=\"indent\"><i>G. A. Nourse</i>, for defendant in error.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">When this cause was reached on the call of the docket it was submitted by the defendant in error on a printed brief. An assignment of errors was not annexed to or returned with the writ of error, as required by section 997, Rev. St. At the last term the counsel for the plaintiff in error was permitted to withdraw his appearance, and no one has taken his place. No argument has been submitted in behalf of the plaintiff in error, and no errors have been assigned in any form. We therefore affirm the judgment without opening the record.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/91440/"
+}

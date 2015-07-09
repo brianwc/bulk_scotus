@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/84762/clarke-v-bazadone/", "blocked": false, "citation": {"case_name": "Clarke v. Bazadone", "docket_number": null, "document_uris": ["/api/rest/v2/document/84762/"], "federal_cite_one": "5 U.S. 212", "federal_cite_three": null, "federal_cite_two": null, "id": 51778, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/51778/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1803-02-17", "date_modified": "2014-12-21T01:23:42.755883", "docket": "/api/rest/v2/docket/2579495/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">5 U.S. 212</p>\n    <p class=\"case_cite\">1 Cranch 212</p>\n    <p class=\"case_cite\">2 L.Ed. 285</p>\n    <p class=\"parties\">CLARKE<br>v.<br>BAZADONE.</p>\n    <p class=\"date\">February Term, 1803</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">WRIT of error to the general court of the territory north west of the river Ohio.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">This court was established by an ordinance of the colonial congress, during the confederation. The only question decided in the case, was, whether the writ of error would lie.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The writ of error was quashed, on the ground that the act of congress establishing the territory had not authorized an appeal or writ of error, to the supreme court of the United States.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>5 U.S. 212 (____)</b></center>\n<center><b>1 Cranch 212</b></center>\n<center><h1>CLARKE<br>\nv.<br>\nBAZADONE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mason, for the plaintiff in error.</p>\n<p>WRIT of error to the general court of the territory north west of the river Ohio.</p>\n<p>This court was established by an ordinance of the colonial congress, during the confederation. The only question decided in the case, was, whether the writ of error would lie.</p>\n<p>The writ of error was quashed, on the ground that the act of congress establishing the territory had not authorized an appeal or writ of error, to the supreme court of the United States.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">5</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">212</span></span> (____)</b></center>\n<center><b>1 Cranch 212</b></center>\n<center><h1>CLARKE<br>\nv.<br>\nBAZADONE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mason, for the plaintiff in error.</p>\n<p>WRIT of error to the general court of the territory north west of the river Ohio.</p>\n<p>This court was established by an ordinance of the colonial congress, during the confederation. The only question decided in the case, was, whether the writ of error would lie.</p>\n<p>The writ of error was quashed, on the ground that the act of congress establishing the territory had not authorized an appeal or writ of error, to the supreme court of the United States.</p>\n</div>", "id": 84762, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/84762/", "sha1": "1bb61752bf8b6d25a518a31156e939a1c5ac1038", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T08:59:28"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "5 U.S. 212", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/84762/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Clarke v. Bazadone", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 51778, 
+    "resource_uri": "/api/rest/v2/citation/51778/"
+  }, 
+  "id": 84762, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1803-02-17", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>5 U.S. 212 (____)</b></center>\n<center><b>1 Cranch 212</b></center>\n<center><h1>CLARKE<br>\nv.<br>\nBAZADONE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mason, for the plaintiff in error.</p>\n<p>WRIT of error to the general court of the territory north west of the river Ohio.</p>\n<p>This court was established by an ordinance of the colonial congress, during the confederation. The only question decided in the case, was, whether the writ of error would lie.</p>\n<p>The writ of error was quashed, on the ground that the act of congress establishing the territory had not authorized an appeal or writ of error, to the supreme court of the United States.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T08:59:28", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">5</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">212</span></span> (____)</b></center>\n<center><b>1 Cranch 212</b></center>\n<center><h1>CLARKE<br>\nv.<br>\nBAZADONE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mason, for the plaintiff in error.</p>\n<p>WRIT of error to the general court of the territory north west of the river Ohio.</p>\n<p>This court was established by an ordinance of the colonial congress, during the confederation. The only question decided in the case, was, whether the writ of error would lie.</p>\n<p>The writ of error was quashed, on the ground that the act of congress establishing the territory had not authorized an appeal or writ of error, to the supreme court of the United States.</p>\n</div>", 
+  "sha1": "1bb61752bf8b6d25a518a31156e939a1c5ac1038", 
+  "date_modified": "2014-12-21T01:23:42.755883", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/84762/clarke-v-bazadone/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2579495/", 
+  "html": "<p class=\"case_cite\">5 U.S. 212</p>\n    <p class=\"case_cite\">1 Cranch 212</p>\n    <p class=\"case_cite\">2 L.Ed. 285</p>\n    <p class=\"parties\">CLARKE<br>v.<br>BAZADONE.</p>\n    <p class=\"date\">February Term, 1803</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">WRIT of error to the general court of the territory north west of the river Ohio.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">This court was established by an ordinance of the colonial congress, during the confederation. The only question decided in the case, was, whether the writ of error would lie.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The writ of error was quashed, on the ground that the act of congress establishing the territory had not authorized an appeal or writ of error, to the supreme court of the United States.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/84762/"
+}

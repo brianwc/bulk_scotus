@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087725/ford-v-louisiana/", "blocked": false, "citation": {"case_name": "Ford v. Louisiana", "docket_number": "329", "document_uris": ["/api/rest/v2/document/1087725/"], "federal_cite_one": "379 U.S. 10", "federal_cite_three": null, "federal_cite_two": null, "id": 1060496, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060496/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-10-12", "date_modified": "2014-10-30T02:00:21.799489", "docket": "/api/rest/v2/docket/381594/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>379 U.S. 10 (1964)</b></center>\n<center><h1>FORD<br>\nv.<br>\nLOUISIANA.</h1></center>\n<center>No. 329.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 12, 1964.</center>\nAPPEAL FROM THE SUPREME COURT OF LOUISIANA.\n<p><i>Floyd J. Reed</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1087725, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087725/", "sha1": "dcdd8e175811c42df9400eb3cd4d3e0b9bdfb4d5", "source": "L", "time_retrieved": "2013-10-29T19:17:32.314449"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "379 U.S. 10", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087725/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ford v. Louisiana", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "329", 
+    "id": 1060496, 
+    "resource_uri": "/api/rest/v2/citation/1060496/"
+  }, 
+  "id": 1087725, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-10-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>379 U.S. 10 (1964)</b></center>\n<center><h1>FORD<br>\nv.<br>\nLOUISIANA.</h1></center>\n<center>No. 329.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 12, 1964.</center>\nAPPEAL FROM THE SUPREME COURT OF LOUISIANA.\n<p><i>Floyd J. Reed</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:17:32.314449", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "dcdd8e175811c42df9400eb3cd4d3e0b9bdfb4d5", 
+  "date_modified": "2014-10-30T02:00:21.799489", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087725/ford-v-louisiana/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/381594/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087725/"
+}

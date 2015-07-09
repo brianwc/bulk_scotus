@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/104411/edwin-b-h-tower-jr-petitioner-v-water/", "blocked": false, "citation": {"case_name": "Edwin B. H. Tower, Jr. v. Water Hammer Arrester Corp", "docket_number": "717", "document_uris": ["/api/rest/v2/document/104411/"], "federal_cite_one": "330 U.S. 853", "federal_cite_three": null, "federal_cite_two": null, "id": 88794, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/88794/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1947-02-10", "date_modified": "2014-12-21T01:48:06.735942", "docket": "/api/rest/v2/docket/443380/", "download_url": "http://bulk.resource.org/courts.gov/c/US/330/330.US.853.717.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">330 U.S. 853</p>\n    <p class=\"case_cite\">67 S.Ct. 674</p>\n    <p class=\"case_cite\">91 L.Ed. 1296</p>\n    <p class=\"parties\">Edwin B. H. TOWER, Jr., petitioner,<br>v.<br>WATER HAMMER ARRESTER CORP.</p>\n    <p class=\"docket\">No. 717.</p>\n    <p class=\"date\">February 10, 1947</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Harold Olsen, of Chicago, Ill., for petitioner.</p>\n      <p class=\"indent\">Messrs. Bertram Wm. Coltman, Ralph E. Brown and Sidney Neuman, of Chicago, Ill., for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for rehearing is denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">330</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">853</span></span></p>\n    <p class=\"case_cite\">67 S.Ct. 674</p>\n    <p class=\"case_cite\">91 L.Ed. 1296</p>\n    <p class=\"parties\">Edwin B. H. TOWER, Jr., petitioner,<br>v.<br>WATER HAMMER ARRESTER CORP.</p>\n    <p class=\"docket\">No. 717.</p>\n    <p class=\"date\">February 10, 1947</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Harold Olsen, of Chicago, Ill., for petitioner.</p>\n      <p class=\"indent\">Messrs. Bertram Wm. Coltman, Ralph E. Brown and Sidney Neuman, of Chicago, Ill., for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for rehearing is denied.</p>\n    </div>\n    ", "id": 104411, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/104411/", "sha1": "6854bad3b2d364e231134fa620f1da911289f147", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "330 U.S. 853", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/104411/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Edwin B. H. Tower, Jr. v. Water Hammer Arrester Corp", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "717", 
+    "id": 88794, 
+    "resource_uri": "/api/rest/v2/citation/88794/"
+  }, 
+  "id": 104411, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1947-02-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/330/330.US.853.717.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:54:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">330</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">853</span></span></p>\n    <p class=\"case_cite\">67 S.Ct. 674</p>\n    <p class=\"case_cite\">91 L.Ed. 1296</p>\n    <p class=\"parties\">Edwin B. H. TOWER, Jr., petitioner,<br>v.<br>WATER HAMMER ARRESTER CORP.</p>\n    <p class=\"docket\">No. 717.</p>\n    <p class=\"date\">February 10, 1947</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Harold Olsen, of Chicago, Ill., for petitioner.</p>\n      <p class=\"indent\">Messrs. Bertram Wm. Coltman, Ralph E. Brown and Sidney Neuman, of Chicago, Ill., for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for rehearing is denied.</p>\n    </div>\n    ", 
+  "sha1": "6854bad3b2d364e231134fa620f1da911289f147", 
+  "date_modified": "2014-12-21T01:48:06.735942", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/104411/edwin-b-h-tower-jr-petitioner-v-water/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/443380/", 
+  "html": "<p class=\"case_cite\">330 U.S. 853</p>\n    <p class=\"case_cite\">67 S.Ct. 674</p>\n    <p class=\"case_cite\">91 L.Ed. 1296</p>\n    <p class=\"parties\">Edwin B. H. TOWER, Jr., petitioner,<br>v.<br>WATER HAMMER ARRESTER CORP.</p>\n    <p class=\"docket\">No. 717.</p>\n    <p class=\"date\">February 10, 1947</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Harold Olsen, of Chicago, Ill., for petitioner.</p>\n      <p class=\"indent\">Messrs. Bertram Wm. Coltman, Ralph E. Brown and Sidney Neuman, of Chicago, Ill., for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for rehearing is denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/104411/"
+}

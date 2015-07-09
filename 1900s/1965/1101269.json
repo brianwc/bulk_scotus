@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1101269/texas-v-new-jersey/", "blocked": false, "citation": {"case_name": "Texas v. New Jersey", "docket_number": "13 ORIG", "document_uris": ["/api/rest/v2/document/1101269/"], "federal_cite_one": "380 U.S. 518", "federal_cite_three": "14 L. Ed. 2d 49", "federal_cite_two": "85 S. Ct. 1136", "id": 1074040, "lexis_cite": "1965 U.S. LEXIS 1893", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1074040/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 8, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-04-26", "date_modified": "2014-12-19T17:53:34.910899", "docket": "/api/rest/v2/docket/494192/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>380 U.S. 518 (1965)</b></center>\n<center><h1>TEXAS<br>\nv.<br>\nNEW JERSEY ET AL.</h1></center>\n<center>No. 13, Original.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 1, 1965.</center>\n<center>Decree entered April 26, 1965.</center>\n<p></p>\n<h2>FINAL DECREE.</h2>\n<p>This cause having come on to be heard on the Report of the Special Master heretofore appointed by the Court, and the exceptions filed thereto, and having been argued by counsel for the several parties, and this Court having stated its conclusions in its opinion announced on February 1, 1965, 379 U. S. 674, and having considered the positions of the respective parties as to the terms of the decree,</p>\n<p>IT IS ORDERED, ADJUDGED AND DECREED AS FOLLOWS:</p>\n<p>1. Each item of property in question in this case as to which a last-known address of the person entitled thereto is shown on the books and records of defendant Sun Oil Company is subject to escheat or custodial taking only by the State of that last-known address, as shown on the books and records of defendant Sun Oil Company, to the extent of that State's power under its own laws to escheat or to take custodially.</p>\n<p>2. Each item of property in question in this case as to which there is no address of the person entitled thereto shown on the books and records of defendant Sun Oil Company is subject to escheat or custodial taking only by New Jersey, the State in which Sun Oil Company was incorporated, to the extent of New Jersey's power under its own laws to escheat or to take custodially, subject to the right of any other State to recover such property from New Jersey upon proof that the last-known address of the creditor was within that other State's borders.</p>\n<p><span class=\"star-pagination\">*519</span> 3. Each item of property in question in this case as to which the last-known address of the person entitled thereto as shown on the books and records of defendant Sun Oil Company is in a State, the laws of which do not provide for the escheat of such property, is subject to escheat or custodial taking only by New Jersey, the State in which Sun Oil Company was incorporated, to the extent of New Jersey's power under its own laws to escheat or to take custodially, subject to the right of the State of the last-known address to recover the property from New Jersey if and when the law of the State of the last-known address makes provision for escheat or custodial taking of such property.</p>\n<p>4. Any relief prayed for by any party to this action which is not hereby granted is denied.</p>\n</div>", "html_with_citations": "", "id": 1101269, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1101269/", "sha1": "08c3bf5c65dddcd5e9c469f8c5bbd1e8258e84b1", "source": "L", "supreme_court_db_id": "1964-080", "time_retrieved": "2013-10-29T20:58:41.175192"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "380 U.S. 518", 
+    "federal_cite_two": "85 S. Ct. 1136", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "14 L. Ed. 2d 49", 
+    "lexis_cite": "1965 U.S. LEXIS 1893", 
+    "document_uris": [
+      "/api/rest/v2/document/1101269/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Texas v. New Jersey", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "13 ORIG", 
+    "id": 1074040, 
+    "resource_uri": "/api/rest/v2/citation/1074040/"
+  }, 
+  "id": 1101269, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-04-26", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>380 U.S. 518 (1965)</b></center>\n<center><h1>TEXAS<br>\nv.<br>\nNEW JERSEY ET AL.</h1></center>\n<center>No. 13, Original.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 1, 1965.</center>\n<center>Decree entered April 26, 1965.</center>\n<p></p>\n<h2>FINAL DECREE.</h2>\n<p>This cause having come on to be heard on the Report of the Special Master heretofore appointed by the Court, and the exceptions filed thereto, and having been argued by counsel for the several parties, and this Court having stated its conclusions in its opinion announced on February 1, 1965, 379 U. S. 674, and having considered the positions of the respective parties as to the terms of the decree,</p>\n<p>IT IS ORDERED, ADJUDGED AND DECREED AS FOLLOWS:</p>\n<p>1. Each item of property in question in this case as to which a last-known address of the person entitled thereto is shown on the books and records of defendant Sun Oil Company is subject to escheat or custodial taking only by the State of that last-known address, as shown on the books and records of defendant Sun Oil Company, to the extent of that State's power under its own laws to escheat or to take custodially.</p>\n<p>2. Each item of property in question in this case as to which there is no address of the person entitled thereto shown on the books and records of defendant Sun Oil Company is subject to escheat or custodial taking only by New Jersey, the State in which Sun Oil Company was incorporated, to the extent of New Jersey's power under its own laws to escheat or to take custodially, subject to the right of any other State to recover such property from New Jersey upon proof that the last-known address of the creditor was within that other State's borders.</p>\n<p><span class=\"star-pagination\">*519</span> 3. Each item of property in question in this case as to which the last-known address of the person entitled thereto as shown on the books and records of defendant Sun Oil Company is in a State, the laws of which do not provide for the escheat of such property, is subject to escheat or custodial taking only by New Jersey, the State in which Sun Oil Company was incorporated, to the extent of New Jersey's power under its own laws to escheat or to take custodially, subject to the right of the State of the last-known address to recover the property from New Jersey if and when the law of the State of the last-known address makes provision for escheat or custodial taking of such property.</p>\n<p>4. Any relief prayed for by any party to this action which is not hereby granted is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:58:41.175192", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "08c3bf5c65dddcd5e9c469f8c5bbd1e8258e84b1", 
+  "date_modified": "2014-12-19T17:53:34.910899", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1101269/texas-v-new-jersey/", 
+  "citation_count": 8, 
+  "supreme_court_db_id": "1964-080", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/494192/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1101269/"
+}

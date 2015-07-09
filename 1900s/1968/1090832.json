@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1090832/bates-v-nelson/", "blocked": false, "citation": {"case_name": "Bates v. Nelson", "docket_number": "86, Misc", "document_uris": ["/api/rest/v2/document/1090832/"], "federal_cite_one": "393 U.S. 16", "federal_cite_three": null, "federal_cite_two": null, "id": 1063603, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1063603/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-10-14", "date_modified": "2014-10-30T15:28:55.438288", "docket": "/api/rest/v2/docket/2181927/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>393 U.S. 16 (1968)</b></center>\n<center><h1>BATES ET AL.<br>\nv.<br>\nNELSON, WARDEN.</h1></center>\n<center>No. 86, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1968.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Richard Gladstein, Norman Leonard,</i> and <i>Ruth Jacobs</i> for petitioners.</p>\n<p><i>Thomas C. Lynch,</i> Attorney General of California, <i>Albert W. Harris, Jr.,</i> Assistant Attorney General, and <i>Charles R. B. Kirk,</i> Deputy Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motions to supplement the petition for a writ of certiorari and for leave to proceed <i>in forma pauperis</i> are granted. The petition for a writ of certiorari is also granted. The judgment is vacated and the case is remanded to the Court of Appeals for further consideration in light of <i>Burgett</i> v. <i>Texas,</i> 389 U. S. 109; <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123; and <i>Roberts</i> v. <i>Russell,</i> 392 U. S. 293.</p>\n</div>", "html_with_citations": "", "id": 1090832, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1090832/", "sha1": "faf3e0814b9a2432f50221d233c6acb387651918", "source": "L", "time_retrieved": "2013-10-29T20:48:08.158606"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 16", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1090832/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bates v. Nelson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "86, Misc", 
+    "id": 1063603, 
+    "resource_uri": "/api/rest/v2/citation/1063603/"
+  }, 
+  "id": 1090832, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-10-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 16 (1968)</b></center>\n<center><h1>BATES ET AL.<br>\nv.<br>\nNELSON, WARDEN.</h1></center>\n<center>No. 86, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1968.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Richard Gladstein, Norman Leonard,</i> and <i>Ruth Jacobs</i> for petitioners.</p>\n<p><i>Thomas C. Lynch,</i> Attorney General of California, <i>Albert W. Harris, Jr.,</i> Assistant Attorney General, and <i>Charles R. B. Kirk,</i> Deputy Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motions to supplement the petition for a writ of certiorari and for leave to proceed <i>in forma pauperis</i> are granted. The petition for a writ of certiorari is also granted. The judgment is vacated and the case is remanded to the Court of Appeals for further consideration in light of <i>Burgett</i> v. <i>Texas,</i> 389 U. S. 109; <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123; and <i>Roberts</i> v. <i>Russell,</i> 392 U. S. 293.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:48:08.158606", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "faf3e0814b9a2432f50221d233c6acb387651918", 
+  "date_modified": "2014-10-30T15:28:55.438288", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1090832/bates-v-nelson/", 
+  "citation_count": 7, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2181927/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1090832/"
+}

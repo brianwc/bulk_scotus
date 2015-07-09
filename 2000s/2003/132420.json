@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/132420/duckworth-v-united-states/", "blocked": false, "citation": {"case_name": "Duckworth v. United States", "docket_number": "03-5256", "document_uris": ["/api/rest/v2/document/132420/"], "federal_cite_one": "540 U.S. 897", "federal_cite_three": null, "federal_cite_two": null, "id": 116773, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/116773/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-10-06", "date_modified": "2014-12-21T02:19:27.444556", "docket": "/api/rest/v2/docket/407803/", "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.897.03-5256.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">540 U.S. 897</p>\n    <p class=\"parties\">DUCKWORTH<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-5256.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 64 Fed. Appx. 545.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">897</span></span></p>\n    <p class=\"parties\">DUCKWORTH<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-5256.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 64 Fed. Appx. 545.</p>\n    </div>\n    ", "id": 132420, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/132420/", "sha1": "5e0a7e6a3e50f9b45ef1a0e42a69fddfecaa6f3e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:57"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "540 U.S. 897", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/132420/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Duckworth v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-5256", 
+    "id": 116773, 
+    "resource_uri": "/api/rest/v2/citation/116773/"
+  }, 
+  "id": 132420, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-10-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.897.03-5256.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:57", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">897</span></span></p>\n    <p class=\"parties\">DUCKWORTH<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-5256.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 64 Fed. Appx. 545.</p>\n    </div>\n    ", 
+  "sha1": "5e0a7e6a3e50f9b45ef1a0e42a69fddfecaa6f3e", 
+  "date_modified": "2014-12-21T02:19:27.444556", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/132420/duckworth-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/407803/", 
+  "html": "<p class=\"case_cite\">540 U.S. 897</p>\n    <p class=\"parties\">DUCKWORTH<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-5256.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 64 Fed. Appx. 545.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/132420/"
+}

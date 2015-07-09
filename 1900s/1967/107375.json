@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107375/city-of-galveston-et-al-v-united-states-et-al/", "blocked": false, "citation": {"case_name": "City of Galveston v. United States", "docket_number": "827", "document_uris": ["/api/rest/v2/document/107375/"], "federal_cite_one": "386 U.S. 269", "federal_cite_three": null, "federal_cite_two": null, "id": 91734, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91734/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-03-13", "date_modified": "2014-12-21T01:55:18.301727", "docket": "/api/rest/v2/docket/2349654/", "download_url": "http://bulk.resource.org/courts.gov/c/US/386/386.US.269.827.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">386 U.S. 269</p>\n    <p class=\"case_cite\">87 S.Ct. 1018</p>\n    <p class=\"case_cite\">18 L.Ed.2d 38</p>\n    <p class=\"parties\">CITY OF GALVESTON et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 827.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The ATCHISON, TOPEKA &amp; SANTA FE RY. CO. et al.</p>\n      <p>v.</p>\n      <p>UNITED STATES.</p>\n      <p>No. 828.</p>\n      <p class=\"center\">Supreme Court of the United States</p>\n      <p>March 13, 1967</p>\n      <p class=\"indent\">Harold E. Spencer and Nuel D. Belnap, for appellants City of Galveston and others.</p>\n      <p class=\"indent\">Don McDevitt, Sterling W. Steves, Harvey Huston and Milton E. Nelson, Jr., for appellants Atchison, Topeka &amp; Santa Fe Ry. Co. and others.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Irwin A. Seibel, Robert W. Ginnane and Leonard S. Goodman, for the United States and others.</p>\n      <p class=\"indent\">Frank A. Leffingwell, for appellees Nueces County Nav. Dist. No. 1 and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">269</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 1018</p>\n    <p class=\"case_cite\">18 L.Ed.2d 38</p>\n    <p class=\"parties\">CITY OF GALVESTON et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 827.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The ATCHISON, TOPEKA &amp; SANTA FE RY. CO. et al.</p>\n      <p>v.</p>\n      <p>UNITED STATES.</p>\n      <p>No. 828.</p>\n      <p class=\"center\">Supreme Court of the United States</p>\n      <p>March 13, 1967</p>\n      <p class=\"indent\">Harold E. Spencer and Nuel D. Belnap, for appellants City of Galveston and others.</p>\n      <p class=\"indent\">Don McDevitt, Sterling W. Steves, Harvey Huston and Milton E. Nelson, Jr., for appellants Atchison, Topeka &amp; Santa Fe Ry. Co. and others.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Irwin A. Seibel, Robert W. Ginnane and Leonard S. Goodman, for the United States and others.</p>\n      <p class=\"indent\">Frank A. Leffingwell, for appellees Nueces County Nav. Dist. No. 1 and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ", "id": 107375, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107375/", "sha1": "0e27b06e5493a936a8d610c6c82f4861496d68e1", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:00"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "386 U.S. 269", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107375/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "City of Galveston v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "827", 
+    "id": 91734, 
+    "resource_uri": "/api/rest/v2/citation/91734/"
+  }, 
+  "id": 107375, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-03-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/386/386.US.269.827.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:00", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">269</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 1018</p>\n    <p class=\"case_cite\">18 L.Ed.2d 38</p>\n    <p class=\"parties\">CITY OF GALVESTON et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 827.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The ATCHISON, TOPEKA &amp; SANTA FE RY. CO. et al.</p>\n      <p>v.</p>\n      <p>UNITED STATES.</p>\n      <p>No. 828.</p>\n      <p class=\"center\">Supreme Court of the United States</p>\n      <p>March 13, 1967</p>\n      <p class=\"indent\">Harold E. Spencer and Nuel D. Belnap, for appellants City of Galveston and others.</p>\n      <p class=\"indent\">Don McDevitt, Sterling W. Steves, Harvey Huston and Milton E. Nelson, Jr., for appellants Atchison, Topeka &amp; Santa Fe Ry. Co. and others.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Irwin A. Seibel, Robert W. Ginnane and Leonard S. Goodman, for the United States and others.</p>\n      <p class=\"indent\">Frank A. Leffingwell, for appellees Nueces County Nav. Dist. No. 1 and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "sha1": "0e27b06e5493a936a8d610c6c82f4861496d68e1", 
+  "date_modified": "2014-12-21T01:55:18.301727", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107375/city-of-galveston-et-al-v-united-states-et-al/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2349654/", 
+  "html": "<p class=\"case_cite\">386 U.S. 269</p>\n    <p class=\"case_cite\">87 S.Ct. 1018</p>\n    <p class=\"case_cite\">18 L.Ed.2d 38</p>\n    <p class=\"parties\">CITY OF GALVESTON et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 827.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The ATCHISON, TOPEKA &amp; SANTA FE RY. CO. et al.</p>\n      <p>v.</p>\n      <p>UNITED STATES.</p>\n      <p>No. 828.</p>\n      <p class=\"center\">Supreme Court of the United States</p>\n      <p>March 13, 1967</p>\n      <p class=\"indent\">Harold E. Spencer and Nuel D. Belnap, for appellants City of Galveston and others.</p>\n      <p class=\"indent\">Don McDevitt, Sterling W. Steves, Harvey Huston and Milton E. Nelson, Jr., for appellants Atchison, Topeka &amp; Santa Fe Ry. Co. and others.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Irwin A. Seibel, Robert W. Ginnane and Leonard S. Goodman, for the United States and others.</p>\n      <p class=\"indent\">Frank A. Leffingwell, for appellees Nueces County Nav. Dist. No. 1 and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107375/"
+}

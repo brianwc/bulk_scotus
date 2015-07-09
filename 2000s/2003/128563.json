@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/128563/trueblood-v-davis-superintendent-indiana-state/", "blocked": false, "citation": {"case_name": "Trueblood v. Davis, Superintendent, Indiana State Prison", "docket_number": "02-9112", "document_uris": ["/api/rest/v2/document/128563/"], "federal_cite_one": "538 U.S. 952", "federal_cite_three": null, "federal_cite_two": null, "id": 112916, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/112916/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-03-31", "date_modified": "2014-12-21T02:18:37.704824", "docket": "/api/rest/v2/docket/499466/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.952.02-9112.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 952</p>\n    <p class=\"parties\">TRUEBLOOD<br>v.<br>DAVIS, SUPERINTENDENT, INDIANA STATE PRISON.</p>\n    <p class=\"docket\">No. 02-9112.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 301 F. 3d 784.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">952</span></span></p>\n    <p class=\"parties\">TRUEBLOOD<br>v.<br>DAVIS, SUPERINTENDENT, INDIANA STATE PRISON.</p>\n    <p class=\"docket\">No. 02-9112.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 301 F. 3d 784.</p>\n    </div>\n    ", "id": 128563, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/128563/", "sha1": "6fa7253ecf85fbc84cec0cc1b543c3c2f1e0c6f1", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:26:30"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 952", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/128563/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Trueblood v. Davis, Superintendent, Indiana State Prison", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-9112", 
+    "id": 112916, 
+    "resource_uri": "/api/rest/v2/citation/112916/"
+  }, 
+  "id": 128563, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-03-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.952.02-9112.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:26:30", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">952</span></span></p>\n    <p class=\"parties\">TRUEBLOOD<br>v.<br>DAVIS, SUPERINTENDENT, INDIANA STATE PRISON.</p>\n    <p class=\"docket\">No. 02-9112.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 301 F. 3d 784.</p>\n    </div>\n    ", 
+  "sha1": "6fa7253ecf85fbc84cec0cc1b543c3c2f1e0c6f1", 
+  "date_modified": "2014-12-21T02:18:37.704824", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/128563/trueblood-v-davis-superintendent-indiana-state/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/499466/", 
+  "html": "<p class=\"case_cite\">538 U.S. 952</p>\n    <p class=\"parties\">TRUEBLOOD<br>v.<br>DAVIS, SUPERINTENDENT, INDIANA STATE PRISON.</p>\n    <p class=\"docket\">No. 02-9112.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 301 F. 3d 784.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/128563/"
+}

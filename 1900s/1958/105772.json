@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105772/steinbeck-v-gerosa/", "blocked": false, "citation": {"case_name": "Steinbeck v. Gerosa", "docket_number": "294", "document_uris": ["/api/rest/v2/document/105772/"], "federal_cite_one": "358 U.S. 39", "federal_cite_three": null, "federal_cite_two": null, "id": 90155, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90155/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 10, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-10-13", "date_modified": "2014-12-21T01:51:07.751903", "docket": "/api/rest/v2/docket/1311987/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">358 U.S. 39</p>\n    <p class=\"case_cite\">79 S.Ct. 64</p>\n    <p class=\"case_cite\">3 L.Ed.2d 45</p>\n    <p class=\"parties\">John E. STEINBECK, appellant,<br>v.<br>Lawrence E. GEROSA, Comptroller of the City of New  York, and George M. Bragalini, as Treasurer of the  City of New York.</p>\n    <p class=\"docket\">No. 294.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 13, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Irwin Karp, for appellant.</p>\n      <p class=\"indent\">Messrs. Peter Campbell Brown and Stanley Buchsbaum for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>358 U.S. 39 (1958)</b></center>\n<center><h1>STEINBECK<br>\nv.<br>\nGEROSA, COMPTROLLER OF NEW YORK CITY, ET AL.</h1></center>\n<center>No. 294.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1958.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Irwin Karp</i> for appellant.</p>\n<p><i>Peter Campbell Brown</i> and <i>Stanley Buchsbaum</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE BLACK is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">358</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">39</span></span> (1958)</b></center>\n<center><h1>STEINBECK<br>\nv.<br>\nGEROSA, COMPTROLLER OF NEW YORK CITY, ET AL.</h1></center>\n<center>No. 294.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1958.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Irwin Karp</i> for appellant.</p>\n<p><i>Peter Campbell Brown</i> and <i>Stanley Buchsbaum</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE BLACK is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "id": 105772, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105772/", "sha1": "cd830b3aa91ee89aaeb4e21b792fb004572da1d1", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "358 U.S. 39", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/105772/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Steinbeck v. Gerosa", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "294", 
+    "id": 90155, 
+    "resource_uri": "/api/rest/v2/citation/90155/"
+  }, 
+  "id": 105772, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-10-13", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>358 U.S. 39 (1958)</b></center>\n<center><h1>STEINBECK<br>\nv.<br>\nGEROSA, COMPTROLLER OF NEW YORK CITY, ET AL.</h1></center>\n<center>No. 294.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1958.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Irwin Karp</i> for appellant.</p>\n<p><i>Peter Campbell Brown</i> and <i>Stanley Buchsbaum</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE BLACK is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">358</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">39</span></span> (1958)</b></center>\n<center><h1>STEINBECK<br>\nv.<br>\nGEROSA, COMPTROLLER OF NEW YORK CITY, ET AL.</h1></center>\n<center>No. 294.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1958.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Irwin Karp</i> for appellant.</p>\n<p><i>Peter Campbell Brown</i> and <i>Stanley Buchsbaum</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE BLACK is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "sha1": "cd830b3aa91ee89aaeb4e21b792fb004572da1d1", 
+  "date_modified": "2014-12-21T01:51:07.751903", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105772/steinbeck-v-gerosa/", 
+  "citation_count": 10, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1311987/", 
+  "html": "<p class=\"case_cite\">358 U.S. 39</p>\n    <p class=\"case_cite\">79 S.Ct. 64</p>\n    <p class=\"case_cite\">3 L.Ed.2d 45</p>\n    <p class=\"parties\">John E. STEINBECK, appellant,<br>v.<br>Lawrence E. GEROSA, Comptroller of the City of New  York, and George M. Bragalini, as Treasurer of the  City of New York.</p>\n    <p class=\"docket\">No. 294.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 13, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Irwin Karp, for appellant.</p>\n      <p class=\"indent\">Messrs. Peter Campbell Brown and Stanley Buchsbaum for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105772/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/95209/international-navigation-company-petitioner-v/", "blocked": false, "citation": {"case_name": "International Navigation Company v. Farr & Bailey Manufacturing Company", "docket_number": "509", "document_uris": ["/api/rest/v2/document/95209/"], "federal_cite_one": "176 U.S. 684", "federal_cite_three": null, "federal_cite_two": null, "id": 79590, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/79590/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1900-03-05", "date_modified": "2014-12-21T01:33:12.263413", "docket": "/api/rest/v2/docket/2079092/", "download_url": "http://bulk.resource.org/courts.gov/c/US/176/176.US.684.509.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">176 U.S. 684</p>\r\n    <p class=\"case_cite\">20 S.Ct. 1031</p>\r\n    <p class=\"case_cite\">44 L.Ed. 638</p>\r\n    <p class=\"parties\">INTERNATIONAL NAVIGATION COMPANY, <i>Petitioner</i>,<br>v.<br>FARR &amp; BAILEY MANUFACTURING COMPANY.</p>\r\n    <p class=\"docket\">No. 509.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 5, 1900</p>\r\n    <p class=\"indent\">Granted.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> See 39 C. C. A. 197, 98 Fed. Rep. 636.</p>\r\n      </div>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">176</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">684</span></span></p>\r\n    <p class=\"case_cite\">20 S.Ct. 1031</p>\r\n    <p class=\"case_cite\">44 L.Ed. 638</p>\r\n    <p class=\"parties\">INTERNATIONAL NAVIGATION COMPANY, <i>Petitioner</i>,<br>v.<br>FARR &amp; BAILEY MANUFACTURING COMPANY.</p>\r\n    <p class=\"docket\">No. 509.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 5, 1900</p>\r\n    <p class=\"indent\">Granted.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> See 39 C. C. A. 197, 98 Fed. Rep. 636.</p>\r\n      </div>\r\n    </div>\r\n    ", "id": 95209, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/95209/", "sha1": "61ba46536048e0876af1eabb53637362ccceecce", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:38:09"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "176 U.S. 684", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/95209/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "International Navigation Company v. Farr & Bailey Manufacturing Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "509", 
+    "id": 79590, 
+    "resource_uri": "/api/rest/v2/citation/79590/"
+  }, 
+  "id": 95209, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1900-03-05", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/176/176.US.684.509.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:38:09", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">176</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">684</span></span></p>\r\n    <p class=\"case_cite\">20 S.Ct. 1031</p>\r\n    <p class=\"case_cite\">44 L.Ed. 638</p>\r\n    <p class=\"parties\">INTERNATIONAL NAVIGATION COMPANY, <i>Petitioner</i>,<br>v.<br>FARR &amp; BAILEY MANUFACTURING COMPANY.</p>\r\n    <p class=\"docket\">No. 509.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 5, 1900</p>\r\n    <p class=\"indent\">Granted.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> See 39 C. C. A. 197, 98 Fed. Rep. 636.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "sha1": "61ba46536048e0876af1eabb53637362ccceecce", 
+  "date_modified": "2014-12-21T01:33:12.263413", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/95209/international-navigation-company-petitioner-v/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2079092/", 
+  "html": "<p class=\"case_cite\">176 U.S. 684</p>\r\n    <p class=\"case_cite\">20 S.Ct. 1031</p>\r\n    <p class=\"case_cite\">44 L.Ed. 638</p>\r\n    <p class=\"parties\">INTERNATIONAL NAVIGATION COMPANY, <i>Petitioner</i>,<br>v.<br>FARR &amp; BAILEY MANUFACTURING COMPANY.</p>\r\n    <p class=\"docket\">No. 509.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 5, 1900</p>\r\n    <p class=\"indent\">Granted.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> See 39 C. C. A. 197, 98 Fed. Rep. 636.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/95209/"
+}

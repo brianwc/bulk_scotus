@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1300139/hollingsworth-v-adams/", "blocked": false, "citation": {"case_name": "Hollingsworth v. Adams", "docket_number": null, "document_uris": ["/api/rest/v2/document/1300139/"], "federal_cite_one": "2 U.S. 396", "federal_cite_three": null, "federal_cite_two": null, "id": 1272910, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1272910/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1798-04-01", "date_modified": "2014-10-30T17:44:41.760365", "docket": "/api/rest/v2/docket/2564910/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 396 (____)</b></center>\n<center><b>2 Dall. 396</b></center>\n<center><h1>HOLLINGSWORTH<br>\nversus<br>\nADAMS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Thomas and Hallowell, on behalf of the plaintiff, wished for time to enquire into the practice; but not being able on the next day to assign any satisfactory reason in maintenance of the action.</p>\n<p>THE COURT directed the writ to be quashed with costs.</p>\n</div>", "html_with_citations": "", "id": 1300139, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1300139/", "sha1": "78a380231271c43d74f99a49f0bddb81b083665f", "source": "L", "time_retrieved": "2013-10-29T22:23:59.022242"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 396", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1300139/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hollingsworth v. Adams", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1272910, 
+    "resource_uri": "/api/rest/v2/citation/1272910/"
+  }, 
+  "id": 1300139, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1798-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 396 (____)</b></center>\n<center><b>2 Dall. 396</b></center>\n<center><h1>HOLLINGSWORTH<br>\nversus<br>\nADAMS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Thomas and Hallowell, on behalf of the plaintiff, wished for time to enquire into the practice; but not being able on the next day to assign any satisfactory reason in maintenance of the action.</p>\n<p>THE COURT directed the writ to be quashed with costs.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:23:59.022242", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "78a380231271c43d74f99a49f0bddb81b083665f", 
+  "date_modified": "2014-10-30T17:44:41.760365", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1300139/hollingsworth-v-adams/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2564910/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1300139/"
+}

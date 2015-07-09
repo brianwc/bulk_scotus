@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/137697/casey-v-lavan-superintendent-state/", "blocked": false, "citation": {"case_name": "Casey v. Lavan, Superintendent, State Correctional Institution at Dallas", "docket_number": "03-10226", "document_uris": ["/api/rest/v2/document/137697/"], "federal_cite_one": "542 U.S. 962", "federal_cite_three": null, "federal_cite_two": null, "id": 122050, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/122050/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-09-03", "date_modified": "2014-12-21T02:20:30.085106", "docket": "/api/rest/v2/docket/1386393/", "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.962.03-10226.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">542 U.S. 962</p>\n    <p class=\"parties\">CASEY<br>v.<br>LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL.</p>\n    <p class=\"docket\">No. 03-10226.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">September 3, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>ante,</i> p. 910. Petition for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">962</span></span></p>\n    <p class=\"parties\">CASEY<br>v.<br>LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL.</p>\n    <p class=\"docket\">No. 03-10226.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">September 3, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>ante,</i> p. 910. Petition for rehearing denied.</p>\n    </div>\n    ", "id": 137697, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/137697/", "sha1": "779083d1d34d118b8993b07074638642e7bb90d4", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:31:54"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "542 U.S. 962", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/137697/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Casey v. Lavan, Superintendent, State Correctional Institution at Dallas", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-10226", 
+    "id": 122050, 
+    "resource_uri": "/api/rest/v2/citation/122050/"
+  }, 
+  "id": 137697, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-09-03", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.962.03-10226.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:31:54", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">962</span></span></p>\n    <p class=\"parties\">CASEY<br>v.<br>LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL.</p>\n    <p class=\"docket\">No. 03-10226.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">September 3, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>ante,</i> p. 910. Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "779083d1d34d118b8993b07074638642e7bb90d4", 
+  "date_modified": "2014-12-21T02:20:30.085106", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/137697/casey-v-lavan-superintendent-state/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1386393/", 
+  "html": "<p class=\"case_cite\">542 U.S. 962</p>\n    <p class=\"parties\">CASEY<br>v.<br>LAVAN, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT DALLAS, ET AL.</p>\n    <p class=\"docket\">No. 03-10226.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">September 3, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>ante,</i> p. 910. Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/137697/"
+}

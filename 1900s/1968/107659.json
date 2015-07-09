@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107659/jehovahs-witnesses-in-state-of-wash-v-king-county-/", "blocked": false, "citation": {"case_name": "Jehovah's Witnesses in State of Wash. v. King County Hospital Unit No. 1", "docket_number": "1111", "document_uris": ["/api/rest/v2/document/107659/"], "federal_cite_one": "390 U.S. 598", "federal_cite_three": null, "federal_cite_two": null, "id": 92018, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92018/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 15, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-05-27", "date_modified": "2014-12-21T01:55:52.273364", "docket": "/api/rest/v2/docket/73116/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">390 U.S. 598</p>\n    <p class=\"case_cite\">88 S.Ct. 1260</p>\n    <p class=\"case_cite\">20 L.Ed.2d 158</p>\n    <p class=\"parties\">JEHOVAH'S WITNESSES IN the STATE OF WASHINGTON et al.<br>v.<br>KING COUNTY HOSPITAL UNIT NO. 1 (HARBORVIEW) et al.</p>\n    <p class=\"docket\">No. 1111.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1967.</p>\n    <p class=\"date\">April 8, 1968</p>\n    <p class=\"date\">Rehearing Denied May 27, 1968.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 391 U.S. 961, 88 S.Ct. 1844.</p>\n      <p class=\"indent\">Victor V. Blackwell, Daniel Brink and Kenneth S. Jacobs, for appellants.</p>\n      <p class=\"indent\">John J O'Connell, Atty. Gen. of Washington, James B. Wilson, Asst. Atty. Gen., and James E. Kennedy, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed, Prince v. Com. of Massachusetts, 321 U.S. 158, 64 S.Ct. 438, 88 L.Ed. 645.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS and Mr. Justice HARLAN would note probable jurisdiction and set the case for oral argument.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>390 U.S. 598 (1968)</b></center>\n<center><h1>JEHOVAH'S WITNESSES IN THE STATE OF WASHINGTON ET AL.<br>\nv.<br>\nKING COUNTY HOSPITAL UNIT NO. 1 (HARBORVIEW) ET AL.</h1></center>\n<center>No. 1111.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 8, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WASHINGTON.\n<p><i>Victor V. Blackwell, Daniel Brink</i> and <i>Kenneth S. Jacobs</i> for appellants.</p>\n<p><i>John J. O'Connell,</i> Attorney General of Washington, <i>James B. Wilson,</i> Assistant Attorney General, and <i>James E. Kennedy</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed, <i>Prince</i> v. <i>Massachusetts,</i> 321 U. S. 158.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE HARLAN would note probable jurisdiction and set the case for oral argument.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">390</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">598</span></span> (1968)</b></center>\n<center><h1>JEHOVAH'S WITNESSES IN THE STATE OF WASHINGTON ET AL.<br>\nv.<br>\nKING COUNTY HOSPITAL UNIT NO. 1 (HARBORVIEW) ET AL.</h1></center>\n<center>No. 1111.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 8, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WASHINGTON.\n<p><i>Victor V. Blackwell, Daniel Brink</i> and <i>Kenneth S. Jacobs</i> for appellants.</p>\n<p><i>John J. O'Connell,</i> Attorney General of Washington, <i>James B. Wilson,</i> Assistant Attorney General, and <i>James E. Kennedy</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed, <i>Prince</i> v. <i>Massachusetts,</i> 321 U. S. 158.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE HARLAN would note probable jurisdiction and set the case for oral argument.</p>\n</div>", "id": 107659, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107659/", "sha1": "99e3c770ea4f113edffac17c1a2bf103ead51471", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:12"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "390 U.S. 598", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107659/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jehovah's Witnesses in State of Wash. v. King County Hospital Unit No. 1", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1111", 
+    "id": 92018, 
+    "resource_uri": "/api/rest/v2/citation/92018/"
+  }, 
+  "id": 107659, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-05-27", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>390 U.S. 598 (1968)</b></center>\n<center><h1>JEHOVAH'S WITNESSES IN THE STATE OF WASHINGTON ET AL.<br>\nv.<br>\nKING COUNTY HOSPITAL UNIT NO. 1 (HARBORVIEW) ET AL.</h1></center>\n<center>No. 1111.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 8, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WASHINGTON.\n<p><i>Victor V. Blackwell, Daniel Brink</i> and <i>Kenneth S. Jacobs</i> for appellants.</p>\n<p><i>John J. O'Connell,</i> Attorney General of Washington, <i>James B. Wilson,</i> Assistant Attorney General, and <i>James E. Kennedy</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed, <i>Prince</i> v. <i>Massachusetts,</i> 321 U. S. 158.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE HARLAN would note probable jurisdiction and set the case for oral argument.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:12", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">390</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">598</span></span> (1968)</b></center>\n<center><h1>JEHOVAH'S WITNESSES IN THE STATE OF WASHINGTON ET AL.<br>\nv.<br>\nKING COUNTY HOSPITAL UNIT NO. 1 (HARBORVIEW) ET AL.</h1></center>\n<center>No. 1111.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 8, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WASHINGTON.\n<p><i>Victor V. Blackwell, Daniel Brink</i> and <i>Kenneth S. Jacobs</i> for appellants.</p>\n<p><i>John J. O'Connell,</i> Attorney General of Washington, <i>James B. Wilson,</i> Assistant Attorney General, and <i>James E. Kennedy</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed, <i>Prince</i> v. <i>Massachusetts,</i> 321 U. S. 158.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE HARLAN would note probable jurisdiction and set the case for oral argument.</p>\n</div>", 
+  "sha1": "99e3c770ea4f113edffac17c1a2bf103ead51471", 
+  "date_modified": "2014-12-21T01:55:52.273364", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107659/jehovahs-witnesses-in-state-of-wash-v-king-county-/", 
+  "citation_count": 15, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/73116/", 
+  "html": "<p class=\"case_cite\">390 U.S. 598</p>\n    <p class=\"case_cite\">88 S.Ct. 1260</p>\n    <p class=\"case_cite\">20 L.Ed.2d 158</p>\n    <p class=\"parties\">JEHOVAH'S WITNESSES IN the STATE OF WASHINGTON et al.<br>v.<br>KING COUNTY HOSPITAL UNIT NO. 1 (HARBORVIEW) et al.</p>\n    <p class=\"docket\">No. 1111.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1967.</p>\n    <p class=\"date\">April 8, 1968</p>\n    <p class=\"date\">Rehearing Denied May 27, 1968.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 391 U.S. 961, 88 S.Ct. 1844.</p>\n      <p class=\"indent\">Victor V. Blackwell, Daniel Brink and Kenneth S. Jacobs, for appellants.</p>\n      <p class=\"indent\">John J O'Connell, Atty. Gen. of Washington, James B. Wilson, Asst. Atty. Gen., and James E. Kennedy, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed, Prince v. Com. of Massachusetts, 321 U.S. 158, 64 S.Ct. 438, 88 L.Ed. 645.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS and Mr. Justice HARLAN would note probable jurisdiction and set the case for oral argument.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107659/"
+}

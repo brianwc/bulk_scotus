@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/124878/dianne-c-v-sonoma-county-human-services/", "blocked": false, "citation": {"case_name": "Dianne C. v. Sonoma County Human Services Department", "docket_number": "02-6362", "document_uris": ["/api/rest/v2/document/124878/"], "federal_cite_one": "537 U.S. 1009", "federal_cite_three": null, "federal_cite_two": null, "id": 109231, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/109231/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-11-04", "date_modified": "2014-12-21T02:17:57.012548", "docket": "/api/rest/v2/docket/992094/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1009.02-6362.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1009</p>\n    <p class=\"parties\">DIANNE C.<br>v.<br>SONOMA COUNTY HUMAN SERVICES DEPARTMENT.</p>\n    <p class=\"docket\">No. 02-6362.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 4, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA FOR THE FIRST APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 1st App. Dist. Certiorari denied. Reported below: 96 Cal. App. 4th 805, 117 Cal. Rptr. 2d 813.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1009</span></span></p>\n    <p class=\"parties\">DIANNE C.<br>v.<br>SONOMA COUNTY HUMAN SERVICES DEPARTMENT.</p>\n    <p class=\"docket\">No. 02-6362.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 4, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA FOR THE FIRST APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 1st App. Dist. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2246978\"><a href=\"/opinion/2246978/in-re-brittany-k/\"><span class=\"volume\">96</span> <span class=\"reporter\">Cal. App. 4th</span> <span class=\"page\">805</span></a></span>, 117 Cal. Rptr. 2d 813.</p>\n    </div>\n    ", "id": 124878, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/124878/", "sha1": "adbae4c64061ab0dc5a06427016a8c4deb5ca695", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:24"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1009", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/124878/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dianne C. v. Sonoma County Human Services Department", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-6362", 
+    "id": 109231, 
+    "resource_uri": "/api/rest/v2/citation/109231/"
+  }, 
+  "id": 124878, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-11-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1009.02-6362.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:24", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1009</span></span></p>\n    <p class=\"parties\">DIANNE C.<br>v.<br>SONOMA COUNTY HUMAN SERVICES DEPARTMENT.</p>\n    <p class=\"docket\">No. 02-6362.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 4, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA FOR THE FIRST APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 1st App. Dist. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2246978\"><a href=\"/opinion/2246978/in-re-brittany-k/\"><span class=\"volume\">96</span> <span class=\"reporter\">Cal. App. 4th</span> <span class=\"page\">805</span></a></span>, 117 Cal. Rptr. 2d 813.</p>\n    </div>\n    ", 
+  "sha1": "adbae4c64061ab0dc5a06427016a8c4deb5ca695", 
+  "date_modified": "2014-12-21T02:17:57.012548", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/124878/dianne-c-v-sonoma-county-human-services/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/992094/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1009</p>\n    <p class=\"parties\">DIANNE C.<br>v.<br>SONOMA COUNTY HUMAN SERVICES DEPARTMENT.</p>\n    <p class=\"docket\">No. 02-6362.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 4, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA FOR THE FIRST APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 1st App. Dist. Certiorari denied. Reported below: 96 Cal. App. 4th 805, 117 Cal. Rptr. 2d 813.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/124878/"
+}

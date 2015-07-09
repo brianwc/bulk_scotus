@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1380269/united-national-life-insurance-co-v-california/", "blocked": false, "citation": {"case_name": "United National Life Insurance Co. v. California", "docket_number": "669", "document_uris": ["/api/rest/v2/document/1380269/"], "federal_cite_one": "389 U.S. 330", "federal_cite_three": null, "federal_cite_two": null, "id": 1353040, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1353040/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-12-11", "date_modified": "2014-10-30T10:59:14.178109", "docket": "/api/rest/v2/docket/1598884/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>389 U.S. 330 (1967)</b></center>\n<center><h1>UNITED NATIONAL LIFE INSURANCE CO. ET AL.<br>\nv.<br>\nCALIFORNIA.</h1></center>\n<center>No. 669.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 11, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Hugh P. Cox, Henry P. Sailer, Dennis G. Lyons</i> and <i>William W. Vaughn</i> for appellants.</p>\n<p><i>Thomas C. Lynch,</i> Attorney General of California, and <i>H. Warren Siegel,</i> Deputy Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART are of the opinion that probable jurisdiction should be noted and the case assigned for oral argument.</p>\n<p>MR. JUSTICE FORTAS took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 1380269, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1380269/", "sha1": "58e5532f1955511ee823eeefeb378e91ad18ce25", "source": "L", "time_retrieved": "2013-10-29T22:52:34.902324"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 330", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1380269/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United National Life Insurance Co. v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "669", 
+    "id": 1353040, 
+    "resource_uri": "/api/rest/v2/citation/1353040/"
+  }, 
+  "id": 1380269, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-12-11", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 330 (1967)</b></center>\n<center><h1>UNITED NATIONAL LIFE INSURANCE CO. ET AL.<br>\nv.<br>\nCALIFORNIA.</h1></center>\n<center>No. 669.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 11, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Hugh P. Cox, Henry P. Sailer, Dennis G. Lyons</i> and <i>William W. Vaughn</i> for appellants.</p>\n<p><i>Thomas C. Lynch,</i> Attorney General of California, and <i>H. Warren Siegel,</i> Deputy Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART are of the opinion that probable jurisdiction should be noted and the case assigned for oral argument.</p>\n<p>MR. JUSTICE FORTAS took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:52:34.902324", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "58e5532f1955511ee823eeefeb378e91ad18ce25", 
+  "date_modified": "2014-10-30T10:59:14.178109", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1380269/united-national-life-insurance-co-v-california/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1598884/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1380269/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2466108/new-orleans-v-united-states-ex-rel-gainess-adminis/", "blocked": false, "citation": {"case_name": "New Orleans v. United States Ex Rel. Gaines's Administrators", "docket_number": "2, 3", "document_uris": ["/api/rest/v2/document/2466108/"], "federal_cite_one": "131 U.S. 220", "federal_cite_three": null, "federal_cite_two": null, "id": 2438880, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2438880/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1889-05-13", "date_modified": "2014-10-30T05:48:16.355675", "docket": "/api/rest/v2/docket/869269/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>131 U.S. 220 (1889)</b></center>\n<center><h1>New Orleans<br>\nv.<br>\nUnited States ex rel.: Gaines's Administrators.<br>\nNew Orleans<br>\nv.<br>\nUnited States ex rel.: Gaines's Administrators.</h1></center>\n<center>Nos. 2, 3.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 13, 14, 1887.</center>\n<center>Decided May 13, 1889.</center>\n<p><i>Mr. Henry C. Miller</i> and <i>Mr. J.R. Beckwith</i> for appellant. <i>Mr. John A. Campbell, Mr. Thomas J. Semmes</i> and <i>Mr. Alfred Goldthwaite</i> for appellees.</p>\n<p>MR. JUSTICE BRADLEY delivered the opinion of the court.</p>\n<p>The decision just made in the case of <i>The City of New Orleans</i> v. <i>Myra Clark Gaines</i> renders it necessary that the judgment or decree in this case should be reversed, and <span class=\"star-pagination\">*221</span> it is reversed accordingly, and the cause remanded with instructions to dismiss the petition.</p>\n<p><i>Reversed.</i></p>\n</div>", "html_with_citations": "", "id": 2466108, "judges": "Bradley", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2466108/", "sha1": "13bae82a9ea8874148b690043c162922f904f26c", "source": "L", "time_retrieved": "2013-10-30T02:43:15.138943"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "131 U.S. 220", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2466108/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "New Orleans v. United States Ex Rel. Gaines's Administrators", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "2, 3", 
+    "id": 2438880, 
+    "resource_uri": "/api/rest/v2/citation/2438880/"
+  }, 
+  "id": 2466108, 
+  "blocked": false, 
+  "judges": "Bradley", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1889-05-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>131 U.S. 220 (1889)</b></center>\n<center><h1>New Orleans<br>\nv.<br>\nUnited States ex rel.: Gaines's Administrators.<br>\nNew Orleans<br>\nv.<br>\nUnited States ex rel.: Gaines's Administrators.</h1></center>\n<center>Nos. 2, 3.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 13, 14, 1887.</center>\n<center>Decided May 13, 1889.</center>\n<p><i>Mr. Henry C. Miller</i> and <i>Mr. J.R. Beckwith</i> for appellant. <i>Mr. John A. Campbell, Mr. Thomas J. Semmes</i> and <i>Mr. Alfred Goldthwaite</i> for appellees.</p>\n<p>MR. JUSTICE BRADLEY delivered the opinion of the court.</p>\n<p>The decision just made in the case of <i>The City of New Orleans</i> v. <i>Myra Clark Gaines</i> renders it necessary that the judgment or decree in this case should be reversed, and <span class=\"star-pagination\">*221</span> it is reversed accordingly, and the cause remanded with instructions to dismiss the petition.</p>\n<p><i>Reversed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:43:15.138943", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "13bae82a9ea8874148b690043c162922f904f26c", 
+  "date_modified": "2014-10-30T05:48:16.355675", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2466108/new-orleans-v-united-states-ex-rel-gainess-adminis/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/869269/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2466108/"
+}

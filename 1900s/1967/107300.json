@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107300/frank-p-battaglia-et-al-v-united-states-et-al/", "blocked": false, "citation": {"case_name": "Frank P. Battaglia v. United States", "docket_number": "564", "document_uris": ["/api/rest/v2/document/107300/"], "federal_cite_one": "385 U.S. 115", "federal_cite_three": null, "federal_cite_two": null, "id": 91659, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91659/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-01-16", "date_modified": "2014-12-21T01:55:12.791336", "docket": "/api/rest/v2/docket/1498793/", "download_url": "http://bulk.resource.org/courts.gov/c/US/385/385.US.115.564.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">385 U.S. 115</p>\n    <p class=\"case_cite\">87 S.Ct. 338</p>\n    <p class=\"case_cite\">17 L.Ed.2d 207</p>\n    <p class=\"parties\">Frank P. BATTAGLIA et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 564.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1966.</p>\n    <p class=\"date\">November 21, 1966</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Earle V. White, for appellants.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robbert Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">Randall B. Kester, John F. Weisser, Jr., James W. Nisbet, J. D. Feeney and Ed White, for railroad appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN is of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">385</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">115</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 338</p>\n    <p class=\"case_cite\">17 L.Ed.2d 207</p>\n    <p class=\"parties\">Frank P. BATTAGLIA et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 564.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1966.</p>\n    <p class=\"date\">November 21, 1966</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Earle V. White, for appellants.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robbert Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">Randall B. Kester, John F. Weisser, Jr., James W. Nisbet, J. D. Feeney and Ed White, for railroad appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN is of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    ", "id": 107300, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107300/", "sha1": "39413f88d68344a1f89f4f955e915a8bdd8d6747", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:58"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "385 U.S. 115", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107300/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Frank P. Battaglia v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "564", 
+    "id": 91659, 
+    "resource_uri": "/api/rest/v2/citation/91659/"
+  }, 
+  "id": 107300, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-01-16", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/385/385.US.115.564.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:58", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">385</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">115</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 338</p>\n    <p class=\"case_cite\">17 L.Ed.2d 207</p>\n    <p class=\"parties\">Frank P. BATTAGLIA et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 564.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1966.</p>\n    <p class=\"date\">November 21, 1966</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Earle V. White, for appellants.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robbert Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">Randall B. Kester, John F. Weisser, Jr., James W. Nisbet, J. D. Feeney and Ed White, for railroad appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN is of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    ", 
+  "sha1": "39413f88d68344a1f89f4f955e915a8bdd8d6747", 
+  "date_modified": "2014-12-21T01:55:12.791336", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107300/frank-p-battaglia-et-al-v-united-states-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1498793/", 
+  "html": "<p class=\"case_cite\">385 U.S. 115</p>\n    <p class=\"case_cite\">87 S.Ct. 338</p>\n    <p class=\"case_cite\">17 L.Ed.2d 207</p>\n    <p class=\"parties\">Frank P. BATTAGLIA et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 564.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1966.</p>\n    <p class=\"date\">November 21, 1966</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Earle V. White, for appellants.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robbert Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">Randall B. Kester, John F. Weisser, Jr., James W. Nisbet, J. D. Feeney and Ed White, for railroad appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN is of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107300/"
+}

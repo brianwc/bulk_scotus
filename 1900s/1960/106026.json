@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106026/mcgann-v-united-states/", "blocked": false, "citation": {"case_name": "McGann v. United States", "docket_number": "488 M", "document_uris": ["/api/rest/v2/document/106026/"], "federal_cite_one": "362 U.S. 309", "federal_cite_three": "4 L. Ed. 2d 734", "federal_cite_two": "80 S. Ct. 725", "id": 90409, "lexis_cite": "1960 U.S. LEXIS 1415", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90409/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-03-28", "date_modified": "2014-12-21T01:51:29.015520", "docket": "/api/rest/v2/docket/2560193/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">362 U.S. 309</p>\n    <p class=\"case_cite\">80 S.Ct. 725</p>\n    <p class=\"case_cite\">4 L.Ed.2d 734</p>\n    <p class=\"parties\">Clarence Duke McGANN<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 488, Misc.</p>\n    <p class=\"date\">Decided March 28, 1960.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Clarence Duke McGann, pro se.</p>\n      <p class=\"indent\">Solicitor General Rankin, for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed in forma pauperis and the petition for writ of certiorari are granted. Upon the suggestion of the Solicitor General that inasmuch as the petitioner had been granted leave to proceed in forma pauperis by the District Court, the application to the Court of Appeals was unnecessary, the judgment of the Court of Appeals is vacated and the case is remanded to that Court for further proceedings.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>362 U.S. 309 (1960)</b></center>\n<center><h1>McGANN<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 488, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 28, 1960.</center>\nON PETITION FOR A WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Solicitor General Rankin</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. Upon the suggestion of the Solicitor General that inasmuch as the petitioner had been granted leave to proceed <i>in forma pauperis</i> by the District Court, the application to the Court of Appeals was unnecessary, the judgment of the Court of Appeals is vacated and the case is remanded to that Court for further proceedings.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">362</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">309</span></span> (1960)</b></center>\n<center><h1>McGANN<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 488, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 28, 1960.</center>\nON PETITION FOR A WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Solicitor General Rankin</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. Upon the suggestion of the Solicitor General that inasmuch as the petitioner had been granted leave to proceed <i>in forma pauperis</i> by the District Court, the application to the Court of Appeals was unnecessary, the judgment of the Court of Appeals is vacated and the case is remanded to that Court for further proceedings.</p>\n</div>", "id": 106026, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106026/", "sha1": "1c833682e4388e03635f60f2e052c8fb467b80ef", "source": "LR", "supreme_court_db_id": "1959-057", "time_retrieved": "2010-04-28T09:55:47"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "362 U.S. 309", 
+    "federal_cite_two": "80 S. Ct. 725", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "4 L. Ed. 2d 734", 
+    "lexis_cite": "1960 U.S. LEXIS 1415", 
+    "document_uris": [
+      "/api/rest/v2/document/106026/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "McGann v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "488 M", 
+    "id": 90409, 
+    "resource_uri": "/api/rest/v2/citation/90409/"
+  }, 
+  "id": 106026, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-03-28", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>362 U.S. 309 (1960)</b></center>\n<center><h1>McGANN<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 488, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 28, 1960.</center>\nON PETITION FOR A WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Solicitor General Rankin</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. Upon the suggestion of the Solicitor General that inasmuch as the petitioner had been granted leave to proceed <i>in forma pauperis</i> by the District Court, the application to the Court of Appeals was unnecessary, the judgment of the Court of Appeals is vacated and the case is remanded to that Court for further proceedings.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:47", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">362</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">309</span></span> (1960)</b></center>\n<center><h1>McGANN<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 488, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 28, 1960.</center>\nON PETITION FOR A WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Solicitor General Rankin</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. Upon the suggestion of the Solicitor General that inasmuch as the petitioner had been granted leave to proceed <i>in forma pauperis</i> by the District Court, the application to the Court of Appeals was unnecessary, the judgment of the Court of Appeals is vacated and the case is remanded to that Court for further proceedings.</p>\n</div>", 
+  "sha1": "1c833682e4388e03635f60f2e052c8fb467b80ef", 
+  "date_modified": "2014-12-21T01:51:29.015520", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106026/mcgann-v-united-states/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": "1959-057", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2560193/", 
+  "html": "<p class=\"case_cite\">362 U.S. 309</p>\n    <p class=\"case_cite\">80 S.Ct. 725</p>\n    <p class=\"case_cite\">4 L.Ed.2d 734</p>\n    <p class=\"parties\">Clarence Duke McGANN<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 488, Misc.</p>\n    <p class=\"date\">Decided March 28, 1960.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Clarence Duke McGann, pro se.</p>\n      <p class=\"indent\">Solicitor General Rankin, for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed in forma pauperis and the petition for writ of certiorari are granted. Upon the suggestion of the Solicitor General that inasmuch as the petitioner had been granted leave to proceed in forma pauperis by the District Court, the application to the Court of Appeals was unnecessary, the judgment of the Court of Appeals is vacated and the case is remanded to that Court for further proceedings.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106026/"
+}

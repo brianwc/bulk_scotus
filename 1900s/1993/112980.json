@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/112980/tennessee-v-bane-and-tennessee-v-smith/", "blocked": false, "citation": {"case_name": "Tennessee v. Bane and Tennessee v. Smith", "docket_number": "93-19", "document_uris": ["/api/rest/v2/document/112980/"], "federal_cite_one": "510 U.S. 808", "federal_cite_three": null, "federal_cite_two": null, "id": 97339, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/97339/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-10-04", "date_modified": "2014-12-21T02:13:21.968102", "docket": "/api/rest/v2/docket/1591069/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.808.93-19.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 808</p>\n    <p class=\"parties\">Tennessee<br>v.<br>Bane; and<br>Tennessee<br>v.<br>Smith.</p>\n    <p class=\"docket\">No. 93-19.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Tenn.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of respondent John Michael Bane for leave to proceed <i>in forma pauperis</i> granted.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">808</span></span></p>\n    <p class=\"parties\">Tennessee<br>v.<br>Bane; and<br>Tennessee<br>v.<br>Smith.</p>\n    <p class=\"docket\">No. 93-19.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Tenn.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of respondent John Michael Bane for leave to proceed <i>in forma pauperis</i> granted.</p>\n    </div>\n    ", "id": 112980, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/112980/", "sha1": "181e86e2fa462fdcca2897ce8b88e64bca7969fd", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:00"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 808", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/112980/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Tennessee v. Bane and Tennessee v. Smith", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-19", 
+    "id": 97339, 
+    "resource_uri": "/api/rest/v2/citation/97339/"
+  }, 
+  "id": 112980, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.808.93-19.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:00", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">808</span></span></p>\n    <p class=\"parties\">Tennessee<br>v.<br>Bane; and<br>Tennessee<br>v.<br>Smith.</p>\n    <p class=\"docket\">No. 93-19.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Tenn.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of respondent John Michael Bane for leave to proceed <i>in forma pauperis</i> granted.</p>\n    </div>\n    ", 
+  "sha1": "181e86e2fa462fdcca2897ce8b88e64bca7969fd", 
+  "date_modified": "2014-12-21T02:13:21.968102", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/112980/tennessee-v-bane-and-tennessee-v-smith/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1591069/", 
+  "html": "<p class=\"case_cite\">510 U.S. 808</p>\n    <p class=\"parties\">Tennessee<br>v.<br>Bane; and<br>Tennessee<br>v.<br>Smith.</p>\n    <p class=\"docket\">No. 93-19.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Tenn.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of respondent John Michael Bane for leave to proceed <i>in forma pauperis</i> granted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/112980/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/115919/howlett-v-birkdale-shipping-co/", "blocked": false, "citation": {"case_name": "Howlett v. Birkdale Shipping Co.", "docket_number": "93-670", "document_uris": ["/api/rest/v2/document/115919/"], "federal_cite_one": "510 U.S. 1039", "federal_cite_three": null, "federal_cite_two": null, "id": 100278, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/100278/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-01-10", "date_modified": "2014-12-21T02:13:53.196284", "docket": "/api/rest/v2/docket/1376842/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1039.93-670.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1039</p>\n    <p class=\"parties\">Howlett<br>v.<br>Birkdale Shipping Co.,</p>\n    <p class=\"docket\">No. 93-670.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the S. A. C. A. 3d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari granted limited to Question 1 presented by the petition. Reported below: 998 F. 2d 1003.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1039</span></span></p>\n    <p class=\"parties\">Howlett<br>v.<br>Birkdale Shipping Co.,</p>\n    <p class=\"docket\">No. 93-670.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the S. A. C. A. 3d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari granted limited to Question 1 presented by the petition. Reported below: 998 F. 2d 1003.</p>\n    </div>\n    ", "id": 115919, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/115919/", "sha1": "96ccfcf489cf67504de088befe532c7545ed561b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1039", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/115919/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Howlett v. Birkdale Shipping Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-670", 
+    "id": 100278, 
+    "resource_uri": "/api/rest/v2/citation/100278/"
+  }, 
+  "id": 115919, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-01-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1039.93-670.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1039</span></span></p>\n    <p class=\"parties\">Howlett<br>v.<br>Birkdale Shipping Co.,</p>\n    <p class=\"docket\">No. 93-670.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the S. A. C. A. 3d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari granted limited to Question 1 presented by the petition. Reported below: 998 F. 2d 1003.</p>\n    </div>\n    ", 
+  "sha1": "96ccfcf489cf67504de088befe532c7545ed561b", 
+  "date_modified": "2014-12-21T02:13:53.196284", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/115919/howlett-v-birkdale-shipping-co/", 
+  "citation_count": 5, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1376842/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1039</p>\n    <p class=\"parties\">Howlett<br>v.<br>Birkdale Shipping Co.,</p>\n    <p class=\"docket\">No. 93-670.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the S. A. C. A. 3d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari granted limited to Question 1 presented by the petition. Reported below: 998 F. 2d 1003.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/115919/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088071/grossman-v-mcdonough/", "blocked": false, "citation": {"case_name": "Grossman v. McDonough", "docket_number": "06-10053", "document_uris": ["/api/rest/v2/document/1088071/"], "federal_cite_one": "127 S. Ct. 2430", "federal_cite_three": null, "federal_cite_two": null, "id": 1060842, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060842/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 19, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-05-21", "date_modified": "2014-10-30T00:27:00.010635", "docket": "/api/rest/v2/docket/196507/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 2430 (2007)</b></center>\n<center><h1>Martin E. GROSSMAN, petitioner,<br>\nv.<br>\nJames R. McDONOUGH, Secretary, Florida Department of Corrections, et al.</h1></center>\n<center>No. 06-10053.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 21, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b>127 S.Ct. 2430 (2007)</b></center>\n<center><h1>Martin E. GROSSMAN, petitioner,<br>\nv.<br>\nJames R. McDONOUGH, Secretary, Florida Department of Corrections, et al.</h1></center>\n<center>No. 06-10053.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 21, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n</div>", "id": 1088071, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088071/", "sha1": "e6a540a7b48f5db7a79080ec462f26682ca7642b", "source": "L", "time_retrieved": "2013-10-29T20:45:11.405974"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 2430", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088071/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Grossman v. McDonough", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-10053", 
+    "id": 1060842, 
+    "resource_uri": "/api/rest/v2/citation/1060842/"
+  }, 
+  "id": 1088071, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-05-21", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 2430 (2007)</b></center>\n<center><h1>Martin E. GROSSMAN, petitioner,<br>\nv.<br>\nJames R. McDONOUGH, Secretary, Florida Department of Corrections, et al.</h1></center>\n<center>No. 06-10053.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 21, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:45:11.405974", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b>127 S.Ct. 2430 (2007)</b></center>\n<center><h1>Martin E. GROSSMAN, petitioner,<br>\nv.<br>\nJames R. McDONOUGH, Secretary, Florida Department of Corrections, et al.</h1></center>\n<center>No. 06-10053.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 21, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.</p>\n</div>", 
+  "sha1": "e6a540a7b48f5db7a79080ec462f26682ca7642b", 
+  "date_modified": "2014-10-30T00:27:00.010635", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088071/grossman-v-mcdonough/", 
+  "citation_count": 19, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/196507/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088071/"
+}

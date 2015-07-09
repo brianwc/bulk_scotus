@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106184/thompson-v-whittier/", "blocked": false, "citation": {"case_name": "Thompson v. Whittier", "docket_number": "500", "document_uris": ["/api/rest/v2/document/106184/"], "federal_cite_one": "365 U.S. 465", "federal_cite_three": null, "federal_cite_two": null, "id": 90567, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90567/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-02-27", "date_modified": "2014-12-21T01:51:49.112031", "docket": "/api/rest/v2/docket/1472207/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">365 U.S. 465</p>\n    <p class=\"case_cite\">81 S.Ct. 712</p>\n    <p class=\"case_cite\">5 L.Ed.2d 704</p>\n    <p class=\"parties\">Robert G. THOMPSON, appellant,<br>v.<br>Sumner G. WHITTIER, Administrator of Veterans' Affairs.</p>\n    <p class=\"docket\">No. 500.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 27, 1961</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mary M. Kaufman, for appellant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Solicitor GeneralRankin, Assistant Attorney General Yeagley, and Kevin T. Maroney, for appellee.</p>\n    </div>\n    <p class=\"indent\">PER CURIAM</p>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>365 U.S. 465 (1961)</b></center>\n<center><h1>THOMPSON<br>\nv.<br>\nWHITTIER, ADMINISTRATOR OF VETERANS AFFAIRS.</h1></center>\n<center>No. 500.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 27, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Mary M. Kaufman</i> for appellant.</p>\n<p><i>Solicitor General Rankin, Assistant Attorney General Yeagley</i> and <i>Kevin T. Maroney</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted. The case does not arise under 28 U. S. C. § 2282, requiring the convening of a three-judge court. See <i>I. L. G. W. U.</i> v. <i>Donnelly Garment Co.,</i> 304 U. S. 243. Therefore it cannot be directly brought here for review under 28 U. S. C. § 1253, and the appeal must be dismissed. Appellant is free to pursue his perfected appeal in the Court of Appeals.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">365</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">465</span></span> (1961)</b></center>\n<center><h1>THOMPSON<br>\nv.<br>\nWHITTIER, ADMINISTRATOR OF VETERANS AFFAIRS.</h1></center>\n<center>No. 500.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 27, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Mary M. Kaufman</i> for appellant.</p>\n<p><i>Solicitor General Rankin, Assistant Attorney General Yeagley</i> and <i>Kevin T. Maroney</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted. The case does not arise under 28 U. S. C. § 2282, requiring the convening of a three-judge court. See <i>I. L. G. W. U.</i> v. <i>Donnelly Garment Co.,</i> 304 U. S. 243. Therefore it cannot be directly brought here for review under 28 U. S. C. § 1253, and the appeal must be dismissed. Appellant is free to pursue his perfected appeal in the Court of Appeals.</p>\n</div>", "id": 106184, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106184/", "sha1": "c9d67cd2acfbcc2154b0f856bdd01d09b3b9ec17", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "365 U.S. 465", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106184/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Thompson v. Whittier", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "500", 
+    "id": 90567, 
+    "resource_uri": "/api/rest/v2/citation/90567/"
+  }, 
+  "id": 106184, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-02-27", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>365 U.S. 465 (1961)</b></center>\n<center><h1>THOMPSON<br>\nv.<br>\nWHITTIER, ADMINISTRATOR OF VETERANS AFFAIRS.</h1></center>\n<center>No. 500.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 27, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Mary M. Kaufman</i> for appellant.</p>\n<p><i>Solicitor General Rankin, Assistant Attorney General Yeagley</i> and <i>Kevin T. Maroney</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted. The case does not arise under 28 U. S. C. \u00a7 2282, requiring the convening of a three-judge court. See <i>I. L. G. W. U.</i> v. <i>Donnelly Garment Co.,</i> 304 U. S. 243. Therefore it cannot be directly brought here for review under 28 U. S. C. \u00a7 1253, and the appeal must be dismissed. Appellant is free to pursue his perfected appeal in the Court of Appeals.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">365</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">465</span></span> (1961)</b></center>\n<center><h1>THOMPSON<br>\nv.<br>\nWHITTIER, ADMINISTRATOR OF VETERANS AFFAIRS.</h1></center>\n<center>No. 500.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 27, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Mary M. Kaufman</i> for appellant.</p>\n<p><i>Solicitor General Rankin, Assistant Attorney General Yeagley</i> and <i>Kevin T. Maroney</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted. The case does not arise under 28 U. S. C. \u00a7 2282, requiring the convening of a three-judge court. See <i>I. L. G. W. U.</i> v. <i>Donnelly Garment Co.,</i> 304 U. S. 243. Therefore it cannot be directly brought here for review under 28 U. S. C. \u00a7 1253, and the appeal must be dismissed. Appellant is free to pursue his perfected appeal in the Court of Appeals.</p>\n</div>", 
+  "sha1": "c9d67cd2acfbcc2154b0f856bdd01d09b3b9ec17", 
+  "date_modified": "2014-12-21T01:51:49.112031", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106184/thompson-v-whittier/", 
+  "citation_count": 5, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1472207/", 
+  "html": "<p class=\"case_cite\">365 U.S. 465</p>\n    <p class=\"case_cite\">81 S.Ct. 712</p>\n    <p class=\"case_cite\">5 L.Ed.2d 704</p>\n    <p class=\"parties\">Robert G. THOMPSON, appellant,<br>v.<br>Sumner G. WHITTIER, Administrator of Veterans' Affairs.</p>\n    <p class=\"docket\">No. 500.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 27, 1961</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mary M. Kaufman, for appellant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Solicitor GeneralRankin, Assistant Attorney General Yeagley, and Kevin T. Maroney, for appellee.</p>\n    </div>\n    <p class=\"indent\">PER CURIAM</p>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106184/"
+}

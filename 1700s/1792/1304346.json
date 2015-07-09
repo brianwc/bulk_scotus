@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1304346/west-v-barnes/", "blocked": false, "citation": {"case_name": "West v. Barnes", "docket_number": null, "document_uris": ["/api/rest/v2/document/1304346/"], "federal_cite_one": "2 U.S. 401", "federal_cite_three": null, "federal_cite_two": null, "id": 1277117, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1277117/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1792-02-14", "date_modified": "2014-10-30T10:47:33.469492", "docket": "/api/rest/v2/docket/1573766/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 401 (____)</b></center>\n<center><b>2 Dall. 401</b></center>\n<center><h1>WEST, Plf. in Err.<br>\nversus<br>\nBARNES. et al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Barnes, one of the defendants.</p>\n<p>THE COURT were unanimously of opinion, That writs of error to remove causes to this court from inferior courts, can regularly issue only from the clerk's office of this court.</p>\n<p>Motion refused.</p>\n</div>", "html_with_citations": "", "id": 1304346, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1304346/", "sha1": "3cb40253948f811f25239109e2361a13933bfac9", "source": "L", "time_retrieved": "2013-10-29T22:24:44.757427"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 401", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1304346/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "West v. Barnes", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1277117, 
+    "resource_uri": "/api/rest/v2/citation/1277117/"
+  }, 
+  "id": 1304346, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1792-02-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 401 (____)</b></center>\n<center><b>2 Dall. 401</b></center>\n<center><h1>WEST, Plf. in Err.<br>\nversus<br>\nBARNES. et al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Barnes, one of the defendants.</p>\n<p>THE COURT were unanimously of opinion, That writs of error to remove causes to this court from inferior courts, can regularly issue only from the clerk's office of this court.</p>\n<p>Motion refused.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:24:44.757427", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "3cb40253948f811f25239109e2361a13933bfac9", 
+  "date_modified": "2014-10-30T10:47:33.469492", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1304346/west-v-barnes/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1573766/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1304346/"
+}

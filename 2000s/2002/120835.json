@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/120835/powell-et-al-v-united-states/", "blocked": false, "citation": {"case_name": "Powell v. United States", "docket_number": "01-7477", "document_uris": ["/api/rest/v2/document/120835/"], "federal_cite_one": "535 U.S. 1098", "federal_cite_three": null, "federal_cite_two": null, "id": 105188, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/105188/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-05-28", "date_modified": "2014-12-21T02:17:08.855886", "docket": "/api/rest/v2/docket/19328/", "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1098.01-7477.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">535 U.S. 1098</p>\n    <p class=\"parties\">POWELL ET AL.<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 01-7477.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied. Reported below: 252 F. 3d 1359.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1098</span></span></p>\n    <p class=\"parties\">POWELL ET AL.<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 01-7477.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied. Reported below: 252 F. 3d 1359.</p>\n    </div>\n    ", "id": 120835, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/120835/", "sha1": "534a3c665502469707b992ada5744e20f6f51f25", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:15"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "535 U.S. 1098", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/120835/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Powell v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-7477", 
+    "id": 105188, 
+    "resource_uri": "/api/rest/v2/citation/105188/"
+  }, 
+  "id": 120835, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-05-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1098.01-7477.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:15", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1098</span></span></p>\n    <p class=\"parties\">POWELL ET AL.<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 01-7477.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied. Reported below: 252 F. 3d 1359.</p>\n    </div>\n    ", 
+  "sha1": "534a3c665502469707b992ada5744e20f6f51f25", 
+  "date_modified": "2014-12-21T02:17:08.855886", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/120835/powell-et-al-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/19328/", 
+  "html": "<p class=\"case_cite\">535 U.S. 1098</p>\n    <p class=\"parties\">POWELL ET AL.<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 01-7477.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied. Reported below: 252 F. 3d 1359.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/120835/"
+}

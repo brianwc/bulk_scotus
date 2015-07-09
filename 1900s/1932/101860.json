@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/101860/borum-et-al-v-united-states/", "blocked": false, "citation": {"case_name": "Borum v. United States", "docket_number": "550", "document_uris": ["/api/rest/v2/document/101860/"], "federal_cite_one": "284 U.S. 596", "federal_cite_three": null, "federal_cite_two": null, "id": 86243, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/86243/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 13, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1932-01-25", "date_modified": "2014-12-21T01:39:50.563701", "docket": "/api/rest/v2/docket/2189883/", "download_url": "http://bulk.resource.org/courts.gov/c/US/284/284.US.596.550.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">284 U.S. 596</p>\n    <p class=\"case_cite\">52 S.Ct. 205</p>\n    <p class=\"case_cite\">76 L.Ed. 513</p>\n    <p class=\"parties\">BORUM et al.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 550.</p>\n    <p class=\"date\">Decided Jan. 25, 1932.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. James A. O'Shea, of Washington, D. C. (Messrs. John H. Burnett, Alfred Goldstine, and Bertrand Emerson, all of Washington, D. C., of counsel), for Borum and others.</p>\n      <p class=\"indent\">The Attorney General, Messrs. Thomas D. Thacher, Sol. Gen., and Erwin N. Griswold, both of Washington, D. C. (Messrs. Leo A. Rover, U. S. Atty., and William H. Collins, Asst. U. S. Atty., both of Washington, D. C., of counsel), for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Question answered 'Yes.' Dunn v. United States (No. 393) 284 U. S. 390, 52 S. Ct. 189, 76 L. Ed. 356, October term, 1931, decided January 11, 1932. Mandate to issue forthwith.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">284</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">596</span></span></p>\n    <p class=\"case_cite\">52 S.Ct. 205</p>\n    <p class=\"case_cite\">76 L.Ed. 513</p>\n    <p class=\"parties\">BORUM et al.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 550.</p>\n    <p class=\"date\">Decided Jan. 25, 1932.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. James A. O'Shea, of Washington, D. C. (Messrs. John H. Burnett, Alfred Goldstine, and Bertrand Emerson, all of Washington, D. C., of counsel), for Borum and others.</p>\n      <p class=\"indent\">The Attorney General, Messrs. Thomas D. Thacher, Sol. Gen., and Erwin N. Griswold, both of Washington, D. C. (Messrs. Leo A. Rover, U. S. Atty., and William H. Collins, Asst. U. S. Atty., both of Washington, D. C., of counsel), for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Question answered 'Yes.' Dunn v. United States (No. 393) 284 U. S. 390, <span class=\"citation no-link\"><span class=\"volume\">52</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">189</span></span>, <span class=\"citation no-link\"><span class=\"volume\">76</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">356</span></span>, October term, 1931, decided January 11, 1932. Mandate to issue forthwith.</p>\n    </div>\n    ", "id": 101860, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/101860/", "sha1": "cd621c3dd9b5c36d36deed62f63cad048be0542a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:50:17"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "284 U.S. 596", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/101860/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Borum v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "550", 
+    "id": 86243, 
+    "resource_uri": "/api/rest/v2/citation/86243/"
+  }, 
+  "id": 101860, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1932-01-25", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/284/284.US.596.550.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:50:17", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">284</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">596</span></span></p>\n    <p class=\"case_cite\">52 S.Ct. 205</p>\n    <p class=\"case_cite\">76 L.Ed. 513</p>\n    <p class=\"parties\">BORUM et al.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 550.</p>\n    <p class=\"date\">Decided Jan. 25, 1932.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. James A. O'Shea, of Washington, D. C. (Messrs. John H. Burnett, Alfred Goldstine, and Bertrand Emerson, all of Washington, D. C., of counsel), for Borum and others.</p>\n      <p class=\"indent\">The Attorney General, Messrs. Thomas D. Thacher, Sol. Gen., and Erwin N. Griswold, both of Washington, D. C. (Messrs. Leo A. Rover, U. S. Atty., and William H. Collins, Asst. U. S. Atty., both of Washington, D. C., of counsel), for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Question answered 'Yes.' Dunn v. United States (No. 393) 284 U. S. 390, <span class=\"citation no-link\"><span class=\"volume\">52</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">189</span></span>, <span class=\"citation no-link\"><span class=\"volume\">76</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">356</span></span>, October term, 1931, decided January 11, 1932. Mandate to issue forthwith.</p>\n    </div>\n    ", 
+  "sha1": "cd621c3dd9b5c36d36deed62f63cad048be0542a", 
+  "date_modified": "2014-12-21T01:39:50.563701", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/101860/borum-et-al-v-united-states/", 
+  "citation_count": 13, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2189883/", 
+  "html": "<p class=\"case_cite\">284 U.S. 596</p>\n    <p class=\"case_cite\">52 S.Ct. 205</p>\n    <p class=\"case_cite\">76 L.Ed. 513</p>\n    <p class=\"parties\">BORUM et al.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 550.</p>\n    <p class=\"date\">Decided Jan. 25, 1932.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. James A. O'Shea, of Washington, D. C. (Messrs. John H. Burnett, Alfred Goldstine, and Bertrand Emerson, all of Washington, D. C., of counsel), for Borum and others.</p>\n      <p class=\"indent\">The Attorney General, Messrs. Thomas D. Thacher, Sol. Gen., and Erwin N. Griswold, both of Washington, D. C. (Messrs. Leo A. Rover, U. S. Atty., and William H. Collins, Asst. U. S. Atty., both of Washington, D. C., of counsel), for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Question answered 'Yes.' Dunn v. United States (No. 393) 284 U. S. 390, 52 S. Ct. 189, 76 L. Ed. 356, October term, 1931, decided January 11, 1932. Mandate to issue forthwith.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/101860/"
+}

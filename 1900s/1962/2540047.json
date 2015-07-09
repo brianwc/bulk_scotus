@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2540047/waxman-v-virginia/", "blocked": false, "citation": {"case_name": "Waxman v. Virginia", "docket_number": "274", "document_uris": ["/api/rest/v2/document/2540047/"], "federal_cite_one": "371 U.S. 4", "federal_cite_three": null, "federal_cite_two": null, "id": 2512819, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2512819/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-10-08", "date_modified": "2014-10-30T16:52:26.321903", "docket": "/api/rest/v2/docket/2402628/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>371 U.S. 4 (1962)</b></center>\n<center><h1>WAXMAN ET AL.<br>\nv.<br>\nVIRGINIA.</h1></center>\n<center>No. 274.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE SUPREME COURT OF APPEALS OF VIRGINIA.\n<p><i>Morris P. Glushien</i> for appellants.</p>\n<p><i>Robert Y. Button,</i> Attorney General of Virginia, and <i>Kenneth C. Patty</i> and <i>D. Gardiner Tyler,</i> Assistant Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgments are reversed. <i>San Diego Building Trades Council</i> v. <i>Garmon,</i> 359 U. S. 236.</p>\n<p>MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 2540047, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2540047/", "sha1": "b4e673aed3042a67e425eac73dd53fb9cd6d2c9c", "source": "L", "time_retrieved": "2013-10-30T03:16:06.564201"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "371 U.S. 4", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2540047/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Waxman v. Virginia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "274", 
+    "id": 2512819, 
+    "resource_uri": "/api/rest/v2/citation/2512819/"
+  }, 
+  "id": 2540047, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-10-08", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>371 U.S. 4 (1962)</b></center>\n<center><h1>WAXMAN ET AL.<br>\nv.<br>\nVIRGINIA.</h1></center>\n<center>No. 274.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE SUPREME COURT OF APPEALS OF VIRGINIA.\n<p><i>Morris P. Glushien</i> for appellants.</p>\n<p><i>Robert Y. Button,</i> Attorney General of Virginia, and <i>Kenneth C. Patty</i> and <i>D. Gardiner Tyler,</i> Assistant Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgments are reversed. <i>San Diego Building Trades Council</i> v. <i>Garmon,</i> 359 U. S. 236.</p>\n<p>MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:16:06.564201", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "b4e673aed3042a67e425eac73dd53fb9cd6d2c9c", 
+  "date_modified": "2014-10-30T16:52:26.321903", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2540047/waxman-v-virginia/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2402628/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2540047/"
+}

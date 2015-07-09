@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2621006/davis-v-banmiller/", "blocked": false, "citation": {"case_name": "Davis v. Banmiller", "docket_number": "3, Misc", "document_uris": ["/api/rest/v2/document/2621006/"], "federal_cite_one": "374 U.S. 489", "federal_cite_three": null, "federal_cite_two": null, "id": 2593778, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593778/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-06-17", "date_modified": "2014-10-29T22:51:48.753330", "docket": "/api/rest/v2/docket/10957/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>374 U.S. 489 (1963)</b></center>\n<center><h1>DAVIS<br>\nv.<br>\nBANMILLER, WARDEN.</h1></center>\n<center>No. 3, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>John A. F. Hall</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of <i>Gideon</i> v. <i>Wainwright,</i> 372 U. S. 335.</p>\n</div>", "html_with_citations": "", "id": 2621006, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2621006/", "sha1": "435e0966abfbeb286a73ed3750411883d6a011df", "source": "L", "time_retrieved": "2013-11-01T13:20:40.543486"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "374 U.S. 489", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2621006/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Davis v. Banmiller", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "3, Misc", 
+    "id": 2593778, 
+    "resource_uri": "/api/rest/v2/citation/2593778/"
+  }, 
+  "id": 2621006, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-06-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>374 U.S. 489 (1963)</b></center>\n<center><h1>DAVIS<br>\nv.<br>\nBANMILLER, WARDEN.</h1></center>\n<center>No. 3, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>John A. F. Hall</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of <i>Gideon</i> v. <i>Wainwright,</i> 372 U. S. 335.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:20:40.543486", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "435e0966abfbeb286a73ed3750411883d6a011df", 
+  "date_modified": "2014-10-29T22:51:48.753330", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2621006/davis-v-banmiller/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/10957/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2621006/"
+}

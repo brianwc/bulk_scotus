@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/126194/world-church-of-the-creator-v-te-ta-ma-truth/", "blocked": false, "citation": {"case_name": "World Church of the Creator v. Te-Ta-Ma Truth Foundation-Family of Uri, Inc", "docket_number": "02-753", "document_uris": ["/api/rest/v2/document/126194/"], "federal_cite_one": "537 U.S. 1111", "federal_cite_three": null, "federal_cite_two": null, "id": 110547, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/110547/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-01-13", "date_modified": "2014-12-21T02:18:08.118824", "docket": "/api/rest/v2/docket/2194058/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1111.02-753.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1111</p>\n    <p class=\"parties\">WORLD CHURCH OF THE CREATOR<br>v.<br>TE-TA-MA TRUTH FOUNDATION-FAMILY OF URI, INC.</p>\n    <p class=\"docket\">No. 02-753.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 297 F. 3d 662.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1111</span></span></p>\n    <p class=\"parties\">WORLD CHURCH OF THE CREATOR<br>v.<br>TE-TA-MA TRUTH FOUNDATION-FAMILY OF URI, INC.</p>\n    <p class=\"docket\">No. 02-753.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 297 F. 3d 662.</p>\n    </div>\n    ", "id": 126194, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/126194/", "sha1": "5145bfde235eab17415ad6fdcd1853a577d311fa", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1111", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/126194/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "World Church of the Creator v. Te-Ta-Ma Truth Foundation-Family of Uri, Inc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-753", 
+    "id": 110547, 
+    "resource_uri": "/api/rest/v2/citation/110547/"
+  }, 
+  "id": 126194, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-01-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1111.02-753.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1111</span></span></p>\n    <p class=\"parties\">WORLD CHURCH OF THE CREATOR<br>v.<br>TE-TA-MA TRUTH FOUNDATION-FAMILY OF URI, INC.</p>\n    <p class=\"docket\">No. 02-753.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 297 F. 3d 662.</p>\n    </div>\n    ", 
+  "sha1": "5145bfde235eab17415ad6fdcd1853a577d311fa", 
+  "date_modified": "2014-12-21T02:18:08.118824", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/126194/world-church-of-the-creator-v-te-ta-ma-truth/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2194058/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1111</p>\n    <p class=\"parties\">WORLD CHURCH OF THE CREATOR<br>v.<br>TE-TA-MA TRUTH FOUNDATION-FAMILY OF URI, INC.</p>\n    <p class=\"docket\">No. 02-753.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 297 F. 3d 662.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/126194/"
+}

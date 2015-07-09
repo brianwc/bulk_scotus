@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620794/griffith-v-california/", "blocked": false, "citation": {"case_name": "Griffith v. California", "docket_number": "457", "document_uris": ["/api/rest/v2/document/2620794/"], "federal_cite_one": "364 U.S. 476", "federal_cite_three": null, "federal_cite_two": null, "id": 2593566, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593566/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-12-05", "date_modified": "2014-10-29T22:53:08.671546", "docket": "/api/rest/v2/docket/13345/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>364 U.S. 476 (1960)</b></center>\n<center><h1>GRIFFITH<br>\nv.<br>\nCALIFORNIA ET AL.</h1></center>\n<center>No. 457.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 5, 1960.</center>\nAPPEAL FROM THE DISTRICT COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.\n<p><i>J. B. Tietz</i> for appellant.</p>\n<p><i>Robert E. Reed</i> and <i>R. B. Pegram</i> for the State of California, and <i>Roger Arneberg</i> and <i>Bourke Jones</i> for the City of Los Angeles, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 2620794, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620794/", "sha1": "1f09a377a03f87f28280c09cccc561cf934143ef", "source": "L", "time_retrieved": "2013-11-01T11:56:38.373808"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "364 U.S. 476", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620794/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Griffith v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "457", 
+    "id": 2593566, 
+    "resource_uri": "/api/rest/v2/citation/2593566/"
+  }, 
+  "id": 2620794, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-12-05", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>364 U.S. 476 (1960)</b></center>\n<center><h1>GRIFFITH<br>\nv.<br>\nCALIFORNIA ET AL.</h1></center>\n<center>No. 457.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 5, 1960.</center>\nAPPEAL FROM THE DISTRICT COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.\n<p><i>J. B. Tietz</i> for appellant.</p>\n<p><i>Robert E. Reed</i> and <i>R. B. Pegram</i> for the State of California, and <i>Roger Arneberg</i> and <i>Bourke Jones</i> for the City of Los Angeles, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T11:56:38.373808", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "1f09a377a03f87f28280c09cccc561cf934143ef", 
+  "date_modified": "2014-10-29T22:53:08.671546", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620794/griffith-v-california/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/13345/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620794/"
+}

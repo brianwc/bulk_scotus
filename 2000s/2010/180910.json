@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/180910/costco-wholesale-corp-v-omega-s-a/", "blocked": false, "citation": {"case_name": "Costco Wholesale Corp. v. Omega, S. A.", "docket_number": "08-1423", "document_uris": ["/api/rest/v2/document/180910/"], "federal_cite_one": "", "federal_cite_three": null, "federal_cite_two": null, "id": 164689, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/164689/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2010-12-13", "date_modified": "2014-12-21T03:17:38.171310", "docket": "/api/rest/v2/docket/1002691/", "download_url": "http://www.supremecourt.gov/opinions/10pdf/08-1423.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "", "id": 180910, "judges": "", "local_path": "pdf/2010/12/13/Costco_Wholesale_Corp._v._Omega_S._A..pdf", "nature_of_suit": "", "plain_text": "(Slip Opinion)            Cite as: 562 U. S. ____ (2010)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 08–1423\n                                     _________________\n\n\n COSTCO WHOLESALE CORPORATION, PETITIONER\n              v. OMEGA, S. A.\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF \n\n            APPEALS FOR THE NINTH CIRCUIT\n\n                                [December 13, 2010] \n\n\n   PER CURIAM. \n\n   The judgment is affirmed by an equally divided Court. \n\n\n  JUSTICE KAGAN took no part in the consideration or\ndecision of this case.\n", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/180910/", "sha1": "190b87178df94c458e9bedb5ca4f5db47329167c", "source": "C", "supreme_court_db_id": null, "time_retrieved": "2010-12-13T07:33:12"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/180910/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Costco Wholesale Corp. v. Omega, S. A.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "08-1423", 
+    "id": 164689, 
+    "resource_uri": "/api/rest/v2/citation/164689/"
+  }, 
+  "id": 180910, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2010-12-13", 
+  "download_url": "http://www.supremecourt.gov/opinions/10pdf/08-1423.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2010/12/13/Costco_Wholesale_Corp._v._Omega_S._A..pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-12-13T07:33:12", 
+  "nature_of_suit": "", 
+  "plain_text": "(Slip Opinion)            Cite as: 562 U. S. ____ (2010)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 08\u20131423\n                                     _________________\n\n\n COSTCO WHOLESALE CORPORATION, PETITIONER\n              v. OMEGA, S. A.\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF \n\n            APPEALS FOR THE NINTH CIRCUIT\n\n                                [December 13, 2010] \n\n\n   PER CURIAM. \n\n   The judgment is affirmed by an equally divided Court. \n\n\n  JUSTICE KAGAN took no part in the consideration or\ndecision of this case.\n", 
+  "html_with_citations": "", 
+  "sha1": "190b87178df94c458e9bedb5ca4f5db47329167c", 
+  "date_modified": "2014-12-21T03:17:38.171310", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/180910/costco-wholesale-corp-v-omega-s-a/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1002691/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/180910/"
+}

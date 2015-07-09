@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1157199/jb-acton-inc-v-united-states/", "blocked": false, "citation": {"case_name": "JB Acton, Inc. v. United States", "docket_number": "726", "document_uris": ["/api/rest/v2/document/1157199/"], "federal_cite_one": "376 U.S. 779", "federal_cite_three": null, "federal_cite_two": null, "id": 1129970, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1129970/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-04-06", "date_modified": "2014-10-30T10:26:43.930791", "docket": "/api/rest/v2/docket/1530731/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>376 U.S. 779 (1964)</b></center>\n<center><h1>J. B. ACTON, INC.,<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 726.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF MISSOURI.\n<p><i>James W. Wrape, Robert E. Joyner</i> and <i>Harold G. Hernly</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Robert W. Ginnane</i> and <i>Francis A. Silver</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1157199, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1157199/", "sha1": "5969614695019b36fdf9a7992254a4b6b1e24d88", "source": "L", "time_retrieved": "2013-10-29T21:26:48.579724"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "376 U.S. 779", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1157199/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "JB Acton, Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "726", 
+    "id": 1129970, 
+    "resource_uri": "/api/rest/v2/citation/1129970/"
+  }, 
+  "id": 1157199, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-04-06", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>376 U.S. 779 (1964)</b></center>\n<center><h1>J. B. ACTON, INC.,<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 726.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF MISSOURI.\n<p><i>James W. Wrape, Robert E. Joyner</i> and <i>Harold G. Hernly</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Robert W. Ginnane</i> and <i>Francis A. Silver</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T21:26:48.579724", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "5969614695019b36fdf9a7992254a4b6b1e24d88", 
+  "date_modified": "2014-10-30T10:26:43.930791", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1157199/jb-acton-inc-v-united-states/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1530731/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1157199/"
+}

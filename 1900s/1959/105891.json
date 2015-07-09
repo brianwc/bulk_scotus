@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105891/crown-zellerbach-corp-v-washington/", "blocked": false, "citation": {"case_name": "Crown Zellerbach Corp. v. Washington", "docket_number": "805", "document_uris": ["/api/rest/v2/document/105891/"], "federal_cite_one": "359 U.S. 531", "federal_cite_three": null, "federal_cite_two": null, "id": 90274, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90274/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1959-05-25", "date_modified": "2014-12-21T01:51:16.900134", "docket": "/api/rest/v2/docket/2415996/", "download_url": "http://bulk.resource.org/courts.gov/c/US/359/359.US.531.805.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">359 U.S. 531</p>\n    <p class=\"case_cite\">79 S.Ct. 1138</p>\n    <p class=\"case_cite\">3 L.Ed.2d 1029</p>\n    <p class=\"parties\">CROWN ZELLERBACH CORP.<br>v.<br>WASHINGTON.</p>\n    <p class=\"docket\">No. 805.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 25, 1959</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Burroughs B. Anderson, for appellant.</p>\n      <p class=\"indent\">Messrs. John J. O'Connell, Atty.Gen. of Washington, and John W. Riley, Asst.Atty.Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER and Mr. Justice CLARK took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">359</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">531</span></span></p>\n    <p class=\"case_cite\">79 S.Ct. 1138</p>\n    <p class=\"case_cite\">3 L.Ed.2d 1029</p>\n    <p class=\"parties\">CROWN ZELLERBACH CORP.<br>v.<br>WASHINGTON.</p>\n    <p class=\"docket\">No. 805.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 25, 1959</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Burroughs B. Anderson, for appellant.</p>\n      <p class=\"indent\">Messrs. John J. O'Connell, Atty.Gen. of Washington, and John W. Riley, Asst.Atty.Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER and Mr. Justice CLARK took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "id": 105891, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105891/", "sha1": "8a0b54d97b9d8dbf92e72da866f35e6dfcce79b2", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "359 U.S. 531", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/105891/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Crown Zellerbach Corp. v. Washington", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "805", 
+    "id": 90274, 
+    "resource_uri": "/api/rest/v2/citation/90274/"
+  }, 
+  "id": 105891, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1959-05-25", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/359/359.US.531.805.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">359</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">531</span></span></p>\n    <p class=\"case_cite\">79 S.Ct. 1138</p>\n    <p class=\"case_cite\">3 L.Ed.2d 1029</p>\n    <p class=\"parties\">CROWN ZELLERBACH CORP.<br>v.<br>WASHINGTON.</p>\n    <p class=\"docket\">No. 805.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 25, 1959</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Burroughs B. Anderson, for appellant.</p>\n      <p class=\"indent\">Messrs. John J. O'Connell, Atty.Gen. of Washington, and John W. Riley, Asst.Atty.Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER and Mr. Justice CLARK took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "sha1": "8a0b54d97b9d8dbf92e72da866f35e6dfcce79b2", 
+  "date_modified": "2014-12-21T01:51:16.900134", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105891/crown-zellerbach-corp-v-washington/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2415996/", 
+  "html": "<p class=\"case_cite\">359 U.S. 531</p>\n    <p class=\"case_cite\">79 S.Ct. 1138</p>\n    <p class=\"case_cite\">3 L.Ed.2d 1029</p>\n    <p class=\"parties\">CROWN ZELLERBACH CORP.<br>v.<br>WASHINGTON.</p>\n    <p class=\"docket\">No. 805.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 25, 1959</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Burroughs B. Anderson, for appellant.</p>\n      <p class=\"indent\">Messrs. John J. O'Connell, Atty.Gen. of Washington, and John W. Riley, Asst.Atty.Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER and Mr. Justice CLARK took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105891/"
+}

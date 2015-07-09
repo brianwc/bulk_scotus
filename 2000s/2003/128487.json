@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/128487/palm-v-paige-secretary-of-education/", "blocked": false, "citation": {"case_name": "Palm v. Paige, Secretary of Education", "docket_number": "02-1197", "document_uris": ["/api/rest/v2/document/128487/"], "federal_cite_one": "538 U.S. 946", "federal_cite_three": null, "federal_cite_two": null, "id": 112840, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/112840/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-03-31", "date_modified": "2014-12-21T02:18:35.527068", "docket": "/api/rest/v2/docket/318790/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.946.02-1197.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 946</p>\n    <p class=\"parties\">PALM<br>v.<br>PAIGE, SECRETARY OF EDUCATION.</p>\n    <p class=\"docket\">No. 02-1197.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. D. C. Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">946</span></span></p>\n    <p class=\"parties\">PALM<br>v.<br>PAIGE, SECRETARY OF EDUCATION.</p>\n    <p class=\"docket\">No. 02-1197.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. D. C. Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 128487, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/128487/", "sha1": "87cf7d04b2371d498c16cc1d60a9be9ea7addd5f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:26:28"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 946", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/128487/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Palm v. Paige, Secretary of Education", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-1197", 
+    "id": 112840, 
+    "resource_uri": "/api/rest/v2/citation/112840/"
+  }, 
+  "id": 128487, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-03-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.946.02-1197.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:26:28", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">946</span></span></p>\n    <p class=\"parties\">PALM<br>v.<br>PAIGE, SECRETARY OF EDUCATION.</p>\n    <p class=\"docket\">No. 02-1197.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. D. C. Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "87cf7d04b2371d498c16cc1d60a9be9ea7addd5f", 
+  "date_modified": "2014-12-21T02:18:35.527068", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/128487/palm-v-paige-secretary-of-education/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/318790/", 
+  "html": "<p class=\"case_cite\">538 U.S. 946</p>\n    <p class=\"parties\">PALM<br>v.<br>PAIGE, SECRETARY OF EDUCATION.</p>\n    <p class=\"docket\">No. 02-1197.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. D. C. Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/128487/"
+}

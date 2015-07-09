@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/101950/yim-kim-lau-v-united-states/", "blocked": false, "citation": {"case_name": "Yim Kim Lau v. United States", "docket_number": "785", "document_uris": ["/api/rest/v2/document/101950/"], "federal_cite_one": "286 U.S. 531", "federal_cite_three": null, "federal_cite_two": null, "id": 86333, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/86333/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1932-05-16", "date_modified": "2014-12-21T01:39:56.671194", "docket": "/api/rest/v2/docket/2045657/", "download_url": "http://bulk.resource.org/courts.gov/c/US/286/286.US.531.785.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">286 U.S. 531</p>\r\n    <p class=\"case_cite\">52 S.Ct. 508</p>\r\n    <p class=\"case_cite\">76 L.Ed. 1272</p>\r\n    <p class=\"parties\">YIM KIM LAU<br>v.<br>UNITED STATES.</p>\r\n    <p class=\"docket\">No. 785.</p>\r\n    <p class=\"date\">Decided May 16, 1932.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Chauncey F. Eldridge, of San Francisco, Cal., for petitioner.</p>\r\n      <p class=\"indent\">The Attorney General, for the United States.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The appeal to the Circuit Court of Appeals having been dismissed by that court for the want of a bill of exceptions, and it appearing, and being conceded by the government, that the review of the Circuit Court of Appeals was by appeal according to the applicable practice prior to the act of January 31, 1928, as amended (45 Stat. 54, 466 (28 USCA &#167; 861b)), and that no bill of exceptions was necessary, but that a duly authenticated record was required, the petition for writ of certiorari herein is granted, the judgment of the Circuit Court of Appeals is reversed, and the cause is remanded to that court, with directions to consider the sufficiency of the authentication of the record, and, if the record be found defective in this respect, to exercise its discretion, if proper application be made, to determine whether an opportunity should be afforded for authentication of the record so that the decision of the District Court may be reviewed by the Circuit Court of Appeals.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">286</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">531</span></span></p>\r\n    <p class=\"case_cite\">52 S.Ct. 508</p>\r\n    <p class=\"case_cite\">76 L.Ed. 1272</p>\r\n    <p class=\"parties\">YIM KIM LAU<br>v.<br>UNITED STATES.</p>\r\n    <p class=\"docket\">No. 785.</p>\r\n    <p class=\"date\">Decided May 16, 1932.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Chauncey F. Eldridge, of San Francisco, Cal., for petitioner.</p>\r\n      <p class=\"indent\">The Attorney General, for the United States.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The appeal to the Circuit Court of Appeals having been dismissed by that court for the want of a bill of exceptions, and it appearing, and being conceded by the government, that the review of the Circuit Court of Appeals was by appeal according to the applicable practice prior to the act of January 31, 1928, as amended (45 Stat. 54, 466 (28 USCA &#167; 861b)), and that no bill of exceptions was necessary, but that a duly authenticated record was required, the petition for writ of certiorari herein is granted, the judgment of the Circuit Court of Appeals is reversed, and the cause is remanded to that court, with directions to consider the sufficiency of the authentication of the record, and, if the record be found defective in this respect, to exercise its discretion, if proper application be made, to determine whether an opportunity should be afforded for authentication of the record so that the decision of the District Court may be reviewed by the Circuit Court of Appeals.</p>\r\n    </div>\r\n    ", "id": 101950, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/101950/", "sha1": "ad17ece2200c49e7a7b1f2d342a512c7b9a82aac", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:50:30"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "286 U.S. 531", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/101950/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Yim Kim Lau v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "785", 
+    "id": 86333, 
+    "resource_uri": "/api/rest/v2/citation/86333/"
+  }, 
+  "id": 101950, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1932-05-16", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/286/286.US.531.785.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:50:30", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">286</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">531</span></span></p>\r\n    <p class=\"case_cite\">52 S.Ct. 508</p>\r\n    <p class=\"case_cite\">76 L.Ed. 1272</p>\r\n    <p class=\"parties\">YIM KIM LAU<br>v.<br>UNITED STATES.</p>\r\n    <p class=\"docket\">No. 785.</p>\r\n    <p class=\"date\">Decided May 16, 1932.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Chauncey F. Eldridge, of San Francisco, Cal., for petitioner.</p>\r\n      <p class=\"indent\">The Attorney General, for the United States.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The appeal to the Circuit Court of Appeals having been dismissed by that court for the want of a bill of exceptions, and it appearing, and being conceded by the government, that the review of the Circuit Court of Appeals was by appeal according to the applicable practice prior to the act of January 31, 1928, as amended (45 Stat. 54, 466 (28 USCA &#167; 861b)), and that no bill of exceptions was necessary, but that a duly authenticated record was required, the petition for writ of certiorari herein is granted, the judgment of the Circuit Court of Appeals is reversed, and the cause is remanded to that court, with directions to consider the sufficiency of the authentication of the record, and, if the record be found defective in this respect, to exercise its discretion, if proper application be made, to determine whether an opportunity should be afforded for authentication of the record so that the decision of the District Court may be reviewed by the Circuit Court of Appeals.</p>\r\n    </div>\r\n    ", 
+  "sha1": "ad17ece2200c49e7a7b1f2d342a512c7b9a82aac", 
+  "date_modified": "2014-12-21T01:39:56.671194", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/101950/yim-kim-lau-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2045657/", 
+  "html": "<p class=\"case_cite\">286 U.S. 531</p>\r\n    <p class=\"case_cite\">52 S.Ct. 508</p>\r\n    <p class=\"case_cite\">76 L.Ed. 1272</p>\r\n    <p class=\"parties\">YIM KIM LAU<br>v.<br>UNITED STATES.</p>\r\n    <p class=\"docket\">No. 785.</p>\r\n    <p class=\"date\">Decided May 16, 1932.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Chauncey F. Eldridge, of San Francisco, Cal., for petitioner.</p>\r\n      <p class=\"indent\">The Attorney General, for the United States.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The appeal to the Circuit Court of Appeals having been dismissed by that court for the want of a bill of exceptions, and it appearing, and being conceded by the government, that the review of the Circuit Court of Appeals was by appeal according to the applicable practice prior to the act of January 31, 1928, as amended (45 Stat. 54, 466 (28 USCA &#167; 861b)), and that no bill of exceptions was necessary, but that a duly authenticated record was required, the petition for writ of certiorari herein is granted, the judgment of the Circuit Court of Appeals is reversed, and the cause is remanded to that court, with directions to consider the sufficiency of the authentication of the record, and, if the record be found defective in this respect, to exercise its discretion, if proper application be made, to determine whether an opportunity should be afforded for authentication of the record so that the decision of the District Court may be reviewed by the Circuit Court of Appeals.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/101950/"
+}

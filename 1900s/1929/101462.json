@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/101462/the-united-states-of-america-ex-rel-joseph/", "blocked": false, "citation": {"case_name": "The United States of America Ex Rel. Joseph Wenger v. W. Frank Mathues, United States Marshal for the Eastern District of Pennsylvania", "docket_number": "631", "document_uris": ["/api/rest/v2/document/101462/"], "federal_cite_one": "279 U.S. 817", "federal_cite_three": null, "federal_cite_two": null, "id": 85845, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/85845/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1929-03-11", "date_modified": "2014-12-21T01:38:48.604277", "docket": "/api/rest/v2/docket/2387758/", "download_url": "http://bulk.resource.org/courts.gov/c/US/279/279.US.817.631.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">279 U.S. 817</p>\n    <p class=\"case_cite\">49 S.Ct. 264</p>\n    <p class=\"case_cite\">73 L.Ed. 974</p>\n    <p class=\"parties\">The UNITED STATES of America ex rel. Joseph  Wenger, appellant,<br>v.<br>W. Frank MATHUES, United States Marshal for the  Eastern District of Pennsylvania.</p>\n    <p class=\"docket\">No. 631.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 11, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Joseph Blank, of Philadelphia, Pa., for appellant.</p>\n      <p class=\"indent\">Messrs. William D. Mitchell, Sol. Gen., and W. Marvin Smith, both of Washington, D. C., for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed on the authority of section 240(b) and (c) of the Judicial Code, as amended by the act of February 13, 1925, &#167; 1 (43 Stat. 938; 28 USCA &#167; 347(b) and (c), for lack of jurisdiction.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">279</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">817</span></span></p>\n    <p class=\"case_cite\">49 S.Ct. 264</p>\n    <p class=\"case_cite\">73 L.Ed. 974</p>\n    <p class=\"parties\">The UNITED STATES of America ex rel. Joseph  Wenger, appellant,<br>v.<br>W. Frank MATHUES, United States Marshal for the  Eastern District of Pennsylvania.</p>\n    <p class=\"docket\">No. 631.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 11, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Joseph Blank, of Philadelphia, Pa., for appellant.</p>\n      <p class=\"indent\">Messrs. William D. Mitchell, Sol. Gen., and W. Marvin Smith, both of Washington, D. C., for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed on the authority of section 240(b) and (c) of the Judicial Code, as amended by the act of February 13, 1925, &#167; 1 (43 Stat. 938; 28 USCA &#167; 347(b) and (c), for lack of jurisdiction.</p>\n    </div>\n    ", "id": 101462, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/101462/", "sha1": "74d48c638c34af966566e4640d88a6d086c79171", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:48:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "279 U.S. 817", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/101462/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "The United States of America Ex Rel. Joseph Wenger v. W. Frank Mathues, United States Marshal for the Eastern District of Pennsylvania", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "631", 
+    "id": 85845, 
+    "resource_uri": "/api/rest/v2/citation/85845/"
+  }, 
+  "id": 101462, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1929-03-11", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/279/279.US.817.631.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:48:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">279</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">817</span></span></p>\n    <p class=\"case_cite\">49 S.Ct. 264</p>\n    <p class=\"case_cite\">73 L.Ed. 974</p>\n    <p class=\"parties\">The UNITED STATES of America ex rel. Joseph  Wenger, appellant,<br>v.<br>W. Frank MATHUES, United States Marshal for the  Eastern District of Pennsylvania.</p>\n    <p class=\"docket\">No. 631.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 11, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Joseph Blank, of Philadelphia, Pa., for appellant.</p>\n      <p class=\"indent\">Messrs. William D. Mitchell, Sol. Gen., and W. Marvin Smith, both of Washington, D. C., for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed on the authority of section 240(b) and (c) of the Judicial Code, as amended by the act of February 13, 1925, &#167; 1 (43 Stat. 938; 28 USCA &#167; 347(b) and (c), for lack of jurisdiction.</p>\n    </div>\n    ", 
+  "sha1": "74d48c638c34af966566e4640d88a6d086c79171", 
+  "date_modified": "2014-12-21T01:38:48.604277", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/101462/the-united-states-of-america-ex-rel-joseph/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2387758/", 
+  "html": "<p class=\"case_cite\">279 U.S. 817</p>\n    <p class=\"case_cite\">49 S.Ct. 264</p>\n    <p class=\"case_cite\">73 L.Ed. 974</p>\n    <p class=\"parties\">The UNITED STATES of America ex rel. Joseph  Wenger, appellant,<br>v.<br>W. Frank MATHUES, United States Marshal for the  Eastern District of Pennsylvania.</p>\n    <p class=\"docket\">No. 631.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 11, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Joseph Blank, of Philadelphia, Pa., for appellant.</p>\n      <p class=\"indent\">Messrs. William D. Mitchell, Sol. Gen., and W. Marvin Smith, both of Washington, D. C., for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed on the authority of section 240(b) and (c) of the Judicial Code, as amended by the act of February 13, 1925, &#167; 1 (43 Stat. 938; 28 USCA &#167; 347(b) and (c), for lack of jurisdiction.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/101462/"
+}

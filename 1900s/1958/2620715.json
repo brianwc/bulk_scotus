@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620715/pennsyvlania-v-board-of-directors-of-city-trusts-o/", "blocked": false, "citation": {"case_name": "Pennsyvlania v. Board of Directors of City Trusts of Philadelphia", "docket_number": "947", "document_uris": ["/api/rest/v2/document/2620715/"], "federal_cite_one": "357 U.S. 570", "federal_cite_three": null, "federal_cite_two": null, "id": 2593487, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593487/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-06-30", "date_modified": "2014-10-30T17:45:35.450902", "docket": "/api/rest/v2/docket/2567826/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>357 U.S. 570 (1958)</b></center>\n<center><h1>PENNSYLVANIA ET AL.<br>\nv.<br>\nBOARD OF DIRECTORS OF CITY TRUSTS OF PHILADELPHIA ET AL.</h1></center>\n<center>No. 947.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 30, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF PENNSYLVANIA, EASTERN DISTRICT.\n<p><i>Thomas D. McBride,</i> Attorney General, and <i>Lois G. Forer,</i> Deputy Attorney General, for the Commonwealth of Pennsylvania, <i>Abraham L. Freedman</i> and <i>David Berger</i> for the City of Philadelphia et al., and <i>William T. Coleman, Jr., Raymond Pace Alexander</i> and <i>Louis H. Pollak</i> for Foust et al., appellants.</p>\n<p><i>Arthur Littleton</i> for the Substituted Trustees, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 2620715, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620715/", "sha1": "a1f3fb12de1a4c36320e30737b5076ed655654e5", "source": "L", "time_retrieved": "2013-11-01T10:47:06.719159"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "357 U.S. 570", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620715/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Pennsyvlania v. Board of Directors of City Trusts of Philadelphia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "947", 
+    "id": 2593487, 
+    "resource_uri": "/api/rest/v2/citation/2593487/"
+  }, 
+  "id": 2620715, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-06-30", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>357 U.S. 570 (1958)</b></center>\n<center><h1>PENNSYLVANIA ET AL.<br>\nv.<br>\nBOARD OF DIRECTORS OF CITY TRUSTS OF PHILADELPHIA ET AL.</h1></center>\n<center>No. 947.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 30, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF PENNSYLVANIA, EASTERN DISTRICT.\n<p><i>Thomas D. McBride,</i> Attorney General, and <i>Lois G. Forer,</i> Deputy Attorney General, for the Commonwealth of Pennsylvania, <i>Abraham L. Freedman</i> and <i>David Berger</i> for the City of Philadelphia et al., and <i>William T. Coleman, Jr., Raymond Pace Alexander</i> and <i>Louis H. Pollak</i> for Foust et al., appellants.</p>\n<p><i>Arthur Littleton</i> for the Substituted Trustees, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T10:47:06.719159", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a1f3fb12de1a4c36320e30737b5076ed655654e5", 
+  "date_modified": "2014-10-30T17:45:35.450902", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620715/pennsyvlania-v-board-of-directors-of-city-trusts-o/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2567826/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620715/"
+}

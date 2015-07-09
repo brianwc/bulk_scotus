@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106291/roosevelt-raceway-inc-v-monaghan/", "blocked": false, "citation": {"case_name": "Roosevelt Raceway, Inc. v. Monaghan", "docket_number": "299", "document_uris": ["/api/rest/v2/document/106291/"], "federal_cite_one": "368 U.S. 12", "federal_cite_three": null, "federal_cite_two": null, "id": 90674, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90674/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-10-16", "date_modified": "2014-12-21T01:52:03.493136", "docket": "/api/rest/v2/docket/1169162/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">368 U.S. 12</p>\n    <p class=\"case_cite\">82 S.Ct. 123</p>\n    <p class=\"case_cite\">7 L.Ed.2d 75</p>\n    <p class=\"parties\">ROOSEVELT RACEWAY, INC., appellant,<br>v.<br>George P. MONAGHAN, Commissioner of Harness Racing, etc.</p>\n    <p class=\"docket\">No. 299.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 16, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Samuel I. Rosenman, George Morton Levy and Max Freund, for appellant.</p>\n      <p class=\"indent\">Louis J. Lefkowitz, Atty. Gen. of New York, and Paxton Blair, Sol. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN would note probable jurisdiction.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>368 U.S. 12 (1961)</b></center>\n<center><h1>ROOSEVELT RACEWAY, INC.,<br>\nv.<br>\nMONAGHAN, COMMISSIONER OF HARNESS RACING.</h1></center>\n<center>No. 299.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 16, 1961.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Samuel I. Rosenman, George Morton Levy</i> and <i>Max Freund</i> for appellant.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, and <i>Paxton Blair,</i> Solicitor General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE HARLAN would note probable jurisdiction.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">368</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">12</span></span> (1961)</b></center>\n<center><h1>ROOSEVELT RACEWAY, INC.,<br>\nv.<br>\nMONAGHAN, COMMISSIONER OF HARNESS RACING.</h1></center>\n<center>No. 299.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 16, 1961.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Samuel I. Rosenman, George Morton Levy</i> and <i>Max Freund</i> for appellant.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, and <i>Paxton Blair,</i> Solicitor General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE HARLAN would note probable jurisdiction.</p>\n</div>", "id": 106291, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106291/", "sha1": "b193843569e2337c64418a1ee1720f4d304f6ce5", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:37"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "368 U.S. 12", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106291/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Roosevelt Raceway, Inc. v. Monaghan", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "299", 
+    "id": 90674, 
+    "resource_uri": "/api/rest/v2/citation/90674/"
+  }, 
+  "id": 106291, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-10-16", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>368 U.S. 12 (1961)</b></center>\n<center><h1>ROOSEVELT RACEWAY, INC.,<br>\nv.<br>\nMONAGHAN, COMMISSIONER OF HARNESS RACING.</h1></center>\n<center>No. 299.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 16, 1961.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Samuel I. Rosenman, George Morton Levy</i> and <i>Max Freund</i> for appellant.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, and <i>Paxton Blair,</i> Solicitor General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE HARLAN would note probable jurisdiction.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:37", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">368</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">12</span></span> (1961)</b></center>\n<center><h1>ROOSEVELT RACEWAY, INC.,<br>\nv.<br>\nMONAGHAN, COMMISSIONER OF HARNESS RACING.</h1></center>\n<center>No. 299.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 16, 1961.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Samuel I. Rosenman, George Morton Levy</i> and <i>Max Freund</i> for appellant.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, and <i>Paxton Blair,</i> Solicitor General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE HARLAN would note probable jurisdiction.</p>\n</div>", 
+  "sha1": "b193843569e2337c64418a1ee1720f4d304f6ce5", 
+  "date_modified": "2014-12-21T01:52:03.493136", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106291/roosevelt-raceway-inc-v-monaghan/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1169162/", 
+  "html": "<p class=\"case_cite\">368 U.S. 12</p>\n    <p class=\"case_cite\">82 S.Ct. 123</p>\n    <p class=\"case_cite\">7 L.Ed.2d 75</p>\n    <p class=\"parties\">ROOSEVELT RACEWAY, INC., appellant,<br>v.<br>George P. MONAGHAN, Commissioner of Harness Racing, etc.</p>\n    <p class=\"docket\">No. 299.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 16, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Samuel I. Rosenman, George Morton Levy and Max Freund, for appellant.</p>\n      <p class=\"indent\">Louis J. Lefkowitz, Atty. Gen. of New York, and Paxton Blair, Sol. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN would note probable jurisdiction.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106291/"
+}

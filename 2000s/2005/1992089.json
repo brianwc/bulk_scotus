@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1992089/synclair-v-fresno-county-ca/", "blocked": false, "citation": {"case_name": "Synclair v. FRESNO COUNTY, CA", "docket_number": "05-71", "document_uris": ["/api/rest/v2/document/1992089/"], "federal_cite_one": "546 U.S. 1027", "federal_cite_three": null, "federal_cite_two": null, "id": 1964860, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1964860/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-11-28", "date_modified": "2014-10-30T12:52:31.802910", "docket": "/api/rest/v2/docket/1838914/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>(2005)</b></center>\n<center><h1>LARRY SYNCLAIR<br>\nv.<br>\nFRESNO COUNTY, CA, ET AL.</h1></center>\n<center>No. 05-71</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>November 28, 2005.\n</center>\n<p>The petition for a writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of <i>Exxon Mobil Corp</i>. v. <i>Saudi Basic</i> <i>Industries Corp</i>., 544 U.S. ___ (2005).</p>\n</div>", "html_with_citations": "", "id": 1992089, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1992089/", "sha1": "4f919ee6a0b578ca8d2e622ce5992ce52e42dbcf", "source": "L", "time_retrieved": "2013-10-30T00:59:40.194934"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "546 U.S. 1027", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1992089/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Synclair v. FRESNO COUNTY, CA", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-71", 
+    "id": 1964860, 
+    "resource_uri": "/api/rest/v2/citation/1964860/"
+  }, 
+  "id": 1992089, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-11-28", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>(2005)</b></center>\n<center><h1>LARRY SYNCLAIR<br>\nv.<br>\nFRESNO COUNTY, CA, ET AL.</h1></center>\n<center>No. 05-71</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>November 28, 2005.\n</center>\n<p>The petition for a writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of <i>Exxon Mobil Corp</i>. v. <i>Saudi Basic</i> <i>Industries Corp</i>., 544 U.S. ___ (2005).</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:59:40.194934", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "4f919ee6a0b578ca8d2e622ce5992ce52e42dbcf", 
+  "date_modified": "2014-10-30T12:52:31.802910", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1992089/synclair-v-fresno-county-ca/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1838914/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1992089/"
+}

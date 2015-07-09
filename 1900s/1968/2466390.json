@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2466390/reed-enterprises-v-clark/", "blocked": false, "citation": {"case_name": "Reed Enterprises v. Clark", "docket_number": "1092", "document_uris": ["/api/rest/v2/document/2466390/"], "federal_cite_one": "390 U.S. 457", "federal_cite_three": null, "federal_cite_two": null, "id": 2439162, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2439162/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-03-25", "date_modified": "2014-10-30T17:25:47.389914", "docket": "/api/rest/v2/docket/2509122/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>390 U.S. 457 (1968)</b></center>\n<center><h1>REED ENTERPRISES ET AL.<br>\nv.<br>\nCLARK, ATTORNEY GENERAL, ET AL.</h1></center>\n<center>No. 1092.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 25, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Stanley Fleishman, David Rein</i> and <i>Sam Rosenwein</i> for appellants.</p>\n<p><i>Solicitor General Griswold, Assistant Attorney General Vinson</i> and <i>Philip R. Monahan</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE BLACK and MR. JUSTICE DOUGLAS are of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 2466390, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2466390/", "sha1": "45117c725c4c362d17f099e1f9fa44127ad74392", "source": "L", "time_retrieved": "2013-10-30T02:43:20.324608"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "390 U.S. 457", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2466390/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Reed Enterprises v. Clark", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1092", 
+    "id": 2439162, 
+    "resource_uri": "/api/rest/v2/citation/2439162/"
+  }, 
+  "id": 2466390, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-03-25", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>390 U.S. 457 (1968)</b></center>\n<center><h1>REED ENTERPRISES ET AL.<br>\nv.<br>\nCLARK, ATTORNEY GENERAL, ET AL.</h1></center>\n<center>No. 1092.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 25, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Stanley Fleishman, David Rein</i> and <i>Sam Rosenwein</i> for appellants.</p>\n<p><i>Solicitor General Griswold, Assistant Attorney General Vinson</i> and <i>Philip R. Monahan</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE BLACK and MR. JUSTICE DOUGLAS are of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:43:20.324608", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "45117c725c4c362d17f099e1f9fa44127ad74392", 
+  "date_modified": "2014-10-30T17:25:47.389914", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2466390/reed-enterprises-v-clark/", 
+  "citation_count": 4, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2509122/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2466390/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/86190/gustavus-beall-et-al-v-the-lessee-of-holman-et/", "blocked": false, "citation": {"case_name": "Gustavus Beall v. The Lessee of Holman", "docket_number": null, "document_uris": ["/api/rest/v2/document/86190/"], "federal_cite_one": "41 U.S. 64", "federal_cite_three": null, "federal_cite_two": null, "id": 53919, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/53919/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1842-01-31", "date_modified": "2014-12-21T01:24:48.445160", "docket": "/api/rest/v2/docket/2451844/", "download_url": "http://bulk.resource.org/courts.gov/c/US/41/41.US.64.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">41 U.S. 64</p>\n    <p class=\"case_cite\">16 Pet. 64</p>\n    <p class=\"case_cite\">10 L.Ed. 888</p>\n    <p class=\"parties\">GUSTAVUS BEALL et al.<br>v.<br>The Lessee of HOLMAN et al.</p>\n    <p class=\"date\">January Term, 1842</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">THIS case was also brought before the court, by a writ of error to the circuit court for the northern district of Alabama, on substantially the same grounds as those considered in the above opinion.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a> There is no material difference in the facts on which the judgment of the court rests, between the two cases. The judgment of the circuit court in this case is also reversed; and the cause remanded for further proceedings.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> 41 U.S. 25, 16 Pet. 25</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">41</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">64</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">16</span> <span class=\"reporter\">Pet.</span> <span class=\"page\">64</span></span></p>\n    <p class=\"case_cite\">10 L.Ed. 888</p>\n    <p class=\"parties\">GUSTAVUS BEALL et al.<br>v.<br>The Lessee of HOLMAN et al.</p>\n    <p class=\"date\">January Term, 1842</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">THIS case was also brought before the court, by a writ of error to the circuit court for the northern district of Alabama, on substantially the same grounds as those considered in the above opinion.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a> There is no material difference in the facts on which the judgment of the court rests, between the two cases. The judgment of the circuit court in this case is also reversed; and the cause remanded for further proceedings.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> <span class=\"citation\" data-id=\"86189\"><a href=\"/opinion/86189/watkins-v-lessee-of-holman/\"><span class=\"volume\">41</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">25</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">16</span> <span class=\"reporter\">Pet.</span> <span class=\"page\">25</span></span></p>\n      </div>\n    </div>\n    ", "id": 86190, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/86190/", "sha1": "10ecaed53dc573511baac5a5892d920d80cc32b7", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:00:17"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "41 U.S. 64", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/86190/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gustavus Beall v. The Lessee of Holman", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 53919, 
+    "resource_uri": "/api/rest/v2/citation/53919/"
+  }, 
+  "id": 86190, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1842-01-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/41/41.US.64.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:00:17", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">41</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">64</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">16</span> <span class=\"reporter\">Pet.</span> <span class=\"page\">64</span></span></p>\n    <p class=\"case_cite\">10 L.Ed. 888</p>\n    <p class=\"parties\">GUSTAVUS BEALL et al.<br>v.<br>The Lessee of HOLMAN et al.</p>\n    <p class=\"date\">January Term, 1842</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">THIS case was also brought before the court, by a writ of error to the circuit court for the northern district of Alabama, on substantially the same grounds as those considered in the above opinion.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a> There is no material difference in the facts on which the judgment of the court rests, between the two cases. The judgment of the circuit court in this case is also reversed; and the cause remanded for further proceedings.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> <span class=\"citation\" data-id=\"86189\"><a href=\"/opinion/86189/watkins-v-lessee-of-holman/\"><span class=\"volume\">41</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">25</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">16</span> <span class=\"reporter\">Pet.</span> <span class=\"page\">25</span></span></p>\n      </div>\n    </div>\n    ", 
+  "sha1": "10ecaed53dc573511baac5a5892d920d80cc32b7", 
+  "date_modified": "2014-12-21T01:24:48.445160", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/86190/gustavus-beall-et-al-v-the-lessee-of-holman-et/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2451844/", 
+  "html": "<p class=\"case_cite\">41 U.S. 64</p>\n    <p class=\"case_cite\">16 Pet. 64</p>\n    <p class=\"case_cite\">10 L.Ed. 888</p>\n    <p class=\"parties\">GUSTAVUS BEALL et al.<br>v.<br>The Lessee of HOLMAN et al.</p>\n    <p class=\"date\">January Term, 1842</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">THIS case was also brought before the court, by a writ of error to the circuit court for the northern district of Alabama, on substantially the same grounds as those considered in the above opinion.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a> There is no material difference in the facts on which the judgment of the court rests, between the two cases. The judgment of the circuit court in this case is also reversed; and the cause remanded for further proceedings.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> 41 U.S. 25, 16 Pet. 25</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/86190/"
+}

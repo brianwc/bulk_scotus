@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/125023/beeton-individually-and-as-co-executor-of-the/", "blocked": false, "citation": {"case_name": "Beeton, Individually and as Co-Executor of the Estate of Beeton v. Beeton", "docket_number": "02-6285", "document_uris": ["/api/rest/v2/document/125023/"], "federal_cite_one": "537 U.S. 1020", "federal_cite_three": null, "federal_cite_two": null, "id": 109376, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/109376/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-11-12", "date_modified": "2014-12-21T02:17:57.580321", "docket": "/api/rest/v2/docket/2073585/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1020.02-6285.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1020</p>\n    <p class=\"parties\">BEETON, INDIVIDUALLY AND AS CO-EXECUTOR OF THE ESTATE OF BEETON<br>v.<br>BEETON.</p>\n    <p class=\"docket\">No. 02-6285.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 12, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF VIRGINIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied. Reported below: 263 Va. 329, 559 S. E. 2d 663.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1020</span></span></p>\n    <p class=\"parties\">BEETON, INDIVIDUALLY AND AS CO-EXECUTOR OF THE ESTATE OF BEETON<br>v.<br>BEETON.</p>\n    <p class=\"docket\">No. 02-6285.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 12, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF VIRGINIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1059373\"><a href=\"/opinion/1059373/beeton-v-beeton/\"><span class=\"volume\">263</span> <span class=\"reporter\">Va.</span> <span class=\"page\">329</span></a></span>, 559 S. E. 2d 663.</p>\n    </div>\n    ", "id": 125023, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/125023/", "sha1": "f6f4d506a8badfd30ba2ec4919c498ae4155802c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:25"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1020", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/125023/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Beeton, Individually and as Co-Executor of the Estate of Beeton v. Beeton", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-6285", 
+    "id": 109376, 
+    "resource_uri": "/api/rest/v2/citation/109376/"
+  }, 
+  "id": 125023, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-11-12", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1020.02-6285.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:25", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1020</span></span></p>\n    <p class=\"parties\">BEETON, INDIVIDUALLY AND AS CO-EXECUTOR OF THE ESTATE OF BEETON<br>v.<br>BEETON.</p>\n    <p class=\"docket\">No. 02-6285.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 12, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF VIRGINIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1059373\"><a href=\"/opinion/1059373/beeton-v-beeton/\"><span class=\"volume\">263</span> <span class=\"reporter\">Va.</span> <span class=\"page\">329</span></a></span>, 559 S. E. 2d 663.</p>\n    </div>\n    ", 
+  "sha1": "f6f4d506a8badfd30ba2ec4919c498ae4155802c", 
+  "date_modified": "2014-12-21T02:17:57.580321", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/125023/beeton-individually-and-as-co-executor-of-the/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2073585/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1020</p>\n    <p class=\"parties\">BEETON, INDIVIDUALLY AND AS CO-EXECUTOR OF THE ESTATE OF BEETON<br>v.<br>BEETON.</p>\n    <p class=\"docket\">No. 02-6285.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 12, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF VIRGINIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied. Reported below: 263 Va. 329, 559 S. E. 2d 663.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/125023/"
+}

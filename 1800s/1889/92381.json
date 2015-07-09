@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92381/currie-mayor-et-al-v-united-states-ex-rel/", "blocked": false, "citation": {"case_name": "Currie, Mayor v. United States Ex Rel. Jacobs", "docket_number": null, "document_uris": ["/api/rest/v2/document/92381/"], "federal_cite_one": "129 U.S. 44", "federal_cite_three": null, "federal_cite_two": null, "id": 76761, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76761/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1889-01-07", "date_modified": "2014-12-21T01:30:39.305029", "docket": "/api/rest/v2/docket/2185751/", "download_url": "http://bulk.resource.org/courts.gov/c/US/129/129.US.44.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">9 S.Ct. 213</p>\n    <p class=\"case_cite\">129 U.S. 44</p>\n    <p class=\"case_cite\">32 L.Ed. 592</p>\n    <p class=\"parties\">CURRIE, Mayor, <i>et al.</i><br>v.<br>UNITED STATES <i>ex rel.</i> JACOBS <i>et al.</i></p>\n    <p class=\"date\">Argued October 17, 1888 Decided January 7, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case a peremptory writ of <i>mandamus</i> was awarded, commanding the levy of a special tax for the payment of the judgment rendered in favor of Jacobs &amp; Smith, and against the city of Shreveport, just reversed in the preceding case, ante, 210, for want of jurisdiction. The judgment must therefore be reversed, and the cause remanded with directions to dismiss the petition.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">So ordered.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\">9 S.Ct. 213</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">129</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">44</span></span></p>\n    <p class=\"case_cite\">32 L.Ed. 592</p>\n    <p class=\"parties\">CURRIE, Mayor, <i>et al.</i><br>v.<br>UNITED STATES <i>ex rel.</i> JACOBS <i>et al.</i></p>\n    <p class=\"date\">Argued October 17, 1888 Decided January 7, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case a peremptory writ of <i>mandamus</i> was awarded, commanding the levy of a special tax for the payment of the judgment rendered in favor of Jacobs &amp; Smith, and against the city of Shreveport, just reversed in the preceding case, ante, 210, for want of jurisdiction. The judgment must therefore be reversed, and the cause remanded with directions to dismiss the petition.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">So ordered.</p>\n    </div>\n    ", "id": 92381, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92381/", "sha1": "2dc8e5f0c5c315d8fabea199de168ab6a812558c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:47"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "129 U.S. 44", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/92381/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Currie, Mayor v. United States Ex Rel. Jacobs", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76761, 
+    "resource_uri": "/api/rest/v2/citation/76761/"
+  }, 
+  "id": 92381, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1889-01-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/129/129.US.44.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:05:47", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\">9 S.Ct. 213</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">129</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">44</span></span></p>\n    <p class=\"case_cite\">32 L.Ed. 592</p>\n    <p class=\"parties\">CURRIE, Mayor, <i>et al.</i><br>v.<br>UNITED STATES <i>ex rel.</i> JACOBS <i>et al.</i></p>\n    <p class=\"date\">Argued October 17, 1888 Decided January 7, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case a peremptory writ of <i>mandamus</i> was awarded, commanding the levy of a special tax for the payment of the judgment rendered in favor of Jacobs &amp; Smith, and against the city of Shreveport, just reversed in the preceding case, ante, 210, for want of jurisdiction. The judgment must therefore be reversed, and the cause remanded with directions to dismiss the petition.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">So ordered.</p>\n    </div>\n    ", 
+  "sha1": "2dc8e5f0c5c315d8fabea199de168ab6a812558c", 
+  "date_modified": "2014-12-21T01:30:39.305029", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92381/currie-mayor-et-al-v-united-states-ex-rel/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2185751/", 
+  "html": "<p class=\"case_cite\">9 S.Ct. 213</p>\n    <p class=\"case_cite\">129 U.S. 44</p>\n    <p class=\"case_cite\">32 L.Ed. 592</p>\n    <p class=\"parties\">CURRIE, Mayor, <i>et al.</i><br>v.<br>UNITED STATES <i>ex rel.</i> JACOBS <i>et al.</i></p>\n    <p class=\"date\">Argued October 17, 1888 Decided January 7, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case a peremptory writ of <i>mandamus</i> was awarded, commanding the levy of a special tax for the payment of the judgment rendered in favor of Jacobs &amp; Smith, and against the city of Shreveport, just reversed in the preceding case, ante, 210, for want of jurisdiction. The judgment must therefore be reversed, and the cause remanded with directions to dismiss the petition.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">So ordered.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92381/"
+}

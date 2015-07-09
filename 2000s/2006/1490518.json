@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1490518/wien-malkin-llp-v-helmsley-spear-inc/", "blocked": false, "citation": {"case_name": "Wien & Malkin LLP v. Helmsley-Spear, Inc.", "docket_number": "06-98", "document_uris": ["/api/rest/v2/document/1490518/"], "federal_cite_one": "548 U.S. 940", "federal_cite_three": null, "federal_cite_two": null, "id": 1463289, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1463289/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-09-19", "date_modified": "2015-04-09T10:20:40.861176", "docket": "/api/rest/v2/docket/754302/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>548 U.S. 940 (2006)</b></center>\n<center><h1>WIEN &amp; MALKIN LLP ET AL.<br>\nv.<br>\nHELMSLEY-SPEAR, INC.</h1></center>\n<center>No. 06-98.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 19, 2006.</center>\n<p>Certiorari dismissed under this Court's Rule 46.1.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">940</span></span> (2006)</b></center>\n<center><h1>WIEN &amp; MALKIN LLP ET AL.<br>\nv.<br>\nHELMSLEY-SPEAR, INC.</h1></center>\n<center>No. 06-98.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 19, 2006.</center>\n<p>Certiorari dismissed under this Court's Rule 46.1.</p>\n</div>", "id": 1490518, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1490518/", "sha1": "269b08a4d919f06cfc0b670001562f3c519a8327", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T23:28:02.321583"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "548 U.S. 940", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1490518/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Wien & Malkin LLP v. Helmsley-Spear, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-98", 
+    "id": 1463289, 
+    "resource_uri": "/api/rest/v2/citation/1463289/"
+  }, 
+  "id": 1490518, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-09-19", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>548 U.S. 940 (2006)</b></center>\n<center><h1>WIEN &amp; MALKIN LLP ET AL.<br>\nv.<br>\nHELMSLEY-SPEAR, INC.</h1></center>\n<center>No. 06-98.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 19, 2006.</center>\n<p>Certiorari dismissed under this Court's Rule 46.1.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:28:02.321583", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">940</span></span> (2006)</b></center>\n<center><h1>WIEN &amp; MALKIN LLP ET AL.<br>\nv.<br>\nHELMSLEY-SPEAR, INC.</h1></center>\n<center>No. 06-98.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 19, 2006.</center>\n<p>Certiorari dismissed under this Court's Rule 46.1.</p>\n</div>", 
+  "sha1": "269b08a4d919f06cfc0b670001562f3c519a8327", 
+  "date_modified": "2015-04-09T10:20:40.861176", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1490518/wien-malkin-llp-v-helmsley-spear-inc/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/754302/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1490518/"
+}

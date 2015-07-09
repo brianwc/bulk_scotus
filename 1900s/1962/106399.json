@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106399/shubin-v-united-states-dist-court-for-southern-dis/", "blocked": false, "citation": {"case_name": "Shubin v. United States Dist. Court for Southern Dist. of Cal.", "docket_number": "726", "document_uris": ["/api/rest/v2/document/106399/"], "federal_cite_one": "369 U.S. 660", "federal_cite_three": null, "federal_cite_two": null, "id": 90782, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90782/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-05-14", "date_modified": "2014-12-21T01:52:17.140764", "docket": "/api/rest/v2/docket/635539/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">369 U.S. 660</p>\n    <p class=\"case_cite\">82 S.Ct. 1035</p>\n    <p class=\"case_cite\">8 L.Ed.2d 273</p>\n    <p class=\"parties\">John M. SHUBIN et al.<br>v.<br>UNITED STATES DISTRICT COURT, SOUTHERN DISTRICT OF  CALIFORNIA, et al.</p>\n    <p class=\"docket\">No. 726.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 14, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">William Douglas Sellers, for petitioners.</p>\n      <p class=\"indent\">Robert W. Fulwider, for respondent S. Vincen Bowles, Inc.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded for consideration in light of Dairy Queen, Inc., v. Wood, 369 U.S. 469, 82 S.Ct. 894.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>369 U.S. 660 (1962)</b></center>\n<center><h1>SHUBIN ET AL.<br>\nv.<br>\nUNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF CALIFORNIA ET AL.</h1></center>\n<center>No. 726.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 14, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>William Douglas Sellers</i> for petitioners.</p>\n<p><i>Robert W. Fulwider</i> for S. Vincen Bowles, Inc., respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded for consideration in light of <i>Dairy Queen, Inc.,</i> v. <i>Wood, ante,</i> p. 469.</p>\n<p>MR. JUSTICE FRANKFURTER took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">369</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">660</span></span> (1962)</b></center>\n<center><h1>SHUBIN ET AL.<br>\nv.<br>\nUNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF CALIFORNIA ET AL.</h1></center>\n<center>No. 726.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 14, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>William Douglas Sellers</i> for petitioners.</p>\n<p><i>Robert W. Fulwider</i> for S. Vincen Bowles, Inc., respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded for consideration in light of <i>Dairy Queen, Inc.,</i> v. <i>Wood, ante,</i> p. 469.</p>\n<p>MR. JUSTICE FRANKFURTER took no part in the consideration or decision of this case.</p>\n</div>", "id": 106399, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106399/", "sha1": "595af950e110500ac76e29cf8ac7b37795d44b95", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:40"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "369 U.S. 660", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106399/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Shubin v. United States Dist. Court for Southern Dist. of Cal.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "726", 
+    "id": 90782, 
+    "resource_uri": "/api/rest/v2/citation/90782/"
+  }, 
+  "id": 106399, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-05-14", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>369 U.S. 660 (1962)</b></center>\n<center><h1>SHUBIN ET AL.<br>\nv.<br>\nUNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF CALIFORNIA ET AL.</h1></center>\n<center>No. 726.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 14, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>William Douglas Sellers</i> for petitioners.</p>\n<p><i>Robert W. Fulwider</i> for S. Vincen Bowles, Inc., respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded for consideration in light of <i>Dairy Queen, Inc.,</i> v. <i>Wood, ante,</i> p. 469.</p>\n<p>MR. JUSTICE FRANKFURTER took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:40", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">369</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">660</span></span> (1962)</b></center>\n<center><h1>SHUBIN ET AL.<br>\nv.<br>\nUNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF CALIFORNIA ET AL.</h1></center>\n<center>No. 726.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 14, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>William Douglas Sellers</i> for petitioners.</p>\n<p><i>Robert W. Fulwider</i> for S. Vincen Bowles, Inc., respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded for consideration in light of <i>Dairy Queen, Inc.,</i> v. <i>Wood, ante,</i> p. 469.</p>\n<p>MR. JUSTICE FRANKFURTER took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "595af950e110500ac76e29cf8ac7b37795d44b95", 
+  "date_modified": "2014-12-21T01:52:17.140764", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106399/shubin-v-united-states-dist-court-for-southern-dis/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/635539/", 
+  "html": "<p class=\"case_cite\">369 U.S. 660</p>\n    <p class=\"case_cite\">82 S.Ct. 1035</p>\n    <p class=\"case_cite\">8 L.Ed.2d 273</p>\n    <p class=\"parties\">John M. SHUBIN et al.<br>v.<br>UNITED STATES DISTRICT COURT, SOUTHERN DISTRICT OF  CALIFORNIA, et al.</p>\n    <p class=\"docket\">No. 726.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 14, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">William Douglas Sellers, for petitioners.</p>\n      <p class=\"indent\">Robert W. Fulwider, for respondent S. Vincen Bowles, Inc.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded for consideration in light of Dairy Queen, Inc., v. Wood, 369 U.S. 469, 82 S.Ct. 894.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106399/"
+}

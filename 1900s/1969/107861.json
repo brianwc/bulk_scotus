@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107861/lawrence-metze-petitioner-v-new-york/", "blocked": false, "citation": {"case_name": "Lawrence Metze v. New York", "docket_number": "500, Misc", "document_uris": ["/api/rest/v2/document/107861/"], "federal_cite_one": "393 U.S. 1091", "federal_cite_three": null, "federal_cite_two": null, "id": 92220, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92220/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-02-24", "date_modified": "2014-12-21T01:56:09.544934", "docket": "/api/rest/v2/docket/2066528/", "download_url": "http://bulk.resource.org/courts.gov/c/US/393/393.US.1091.500.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">393 U.S. 1091</p>\r\n    <p class=\"case_cite\">89 S.Ct. 883</p>\r\n    <p class=\"case_cite\">21 L.Ed.2d 786</p>\r\n    <p class=\"parties\">Lawrence METZE, petitioner,<br>v.<br>NEW YORK.</p>\r\n    <p class=\"docket\">No. 500, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 24, 1969</p>\r\n    <p class=\"date\">Rehearing Denied March 24, 1969.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"center\">See 394 U.S. 939, 89 S.Ct. 1199.</p>\r\n      <p class=\"indent\">Eleanor Jackson Piel, for petitioner.</p>\r\n      <p class=\"indent\">Elliott Golden and Aaron Nussbaum, for respondent.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Appeals of New York.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">393</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1091</span></span></p>\r\n    <p class=\"case_cite\">89 S.Ct. 883</p>\r\n    <p class=\"case_cite\">21 L.Ed.2d 786</p>\r\n    <p class=\"parties\">Lawrence METZE, petitioner,<br>v.<br>NEW YORK.</p>\r\n    <p class=\"docket\">No. 500, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 24, 1969</p>\r\n    <p class=\"date\">Rehearing Denied March 24, 1969.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"center\">See <span class=\"citation no-link\"><span class=\"volume\">394</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">939</span></span>, 89 S.Ct. 1199.</p>\r\n      <p class=\"indent\">Eleanor Jackson Piel, for petitioner.</p>\r\n      <p class=\"indent\">Elliott Golden and Aaron Nussbaum, for respondent.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Appeals of New York.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", "id": 107861, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107861/", "sha1": "c0e284c4b09414acb20287c87ad1e308ff1d2c64", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:17"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 1091", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107861/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Lawrence Metze v. New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "500, Misc", 
+    "id": 92220, 
+    "resource_uri": "/api/rest/v2/citation/92220/"
+  }, 
+  "id": 107861, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-02-24", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/393/393.US.1091.500.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:17", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">393</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1091</span></span></p>\r\n    <p class=\"case_cite\">89 S.Ct. 883</p>\r\n    <p class=\"case_cite\">21 L.Ed.2d 786</p>\r\n    <p class=\"parties\">Lawrence METZE, petitioner,<br>v.<br>NEW YORK.</p>\r\n    <p class=\"docket\">No. 500, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 24, 1969</p>\r\n    <p class=\"date\">Rehearing Denied March 24, 1969.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"center\">See <span class=\"citation no-link\"><span class=\"volume\">394</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">939</span></span>, 89 S.Ct. 1199.</p>\r\n      <p class=\"indent\">Eleanor Jackson Piel, for petitioner.</p>\r\n      <p class=\"indent\">Elliott Golden and Aaron Nussbaum, for respondent.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Appeals of New York.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", 
+  "sha1": "c0e284c4b09414acb20287c87ad1e308ff1d2c64", 
+  "date_modified": "2014-12-21T01:56:09.544934", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107861/lawrence-metze-petitioner-v-new-york/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2066528/", 
+  "html": "<p class=\"case_cite\">393 U.S. 1091</p>\r\n    <p class=\"case_cite\">89 S.Ct. 883</p>\r\n    <p class=\"case_cite\">21 L.Ed.2d 786</p>\r\n    <p class=\"parties\">Lawrence METZE, petitioner,<br>v.<br>NEW YORK.</p>\r\n    <p class=\"docket\">No. 500, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 24, 1969</p>\r\n    <p class=\"date\">Rehearing Denied March 24, 1969.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"center\">See 394 U.S. 939, 89 S.Ct. 1199.</p>\r\n      <p class=\"indent\">Eleanor Jackson Piel, for petitioner.</p>\r\n      <p class=\"indent\">Elliott Golden and Aaron Nussbaum, for respondent.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Appeals of New York.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/107861/"
+}

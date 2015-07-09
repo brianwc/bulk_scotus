@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/134909/velte-v-united-states/", "blocked": false, "citation": {"case_name": "Velte v. United States", "docket_number": "03-7751", "document_uris": ["/api/rest/v2/document/134909/"], "federal_cite_one": "541 U.S. 912", "federal_cite_three": null, "federal_cite_two": null, "id": 119262, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/119262/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-03-08", "date_modified": "2014-12-21T02:19:50.863631", "docket": "/api/rest/v2/docket/629096/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.912.03-7751.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 912</p>\n    <p class=\"parties\">VELTE<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-7751.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. JUSTICE BREYER took no part in the consideration or decision of this petition. Reported below: 331 F. 3d 673.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">912</span></span></p>\n    <p class=\"parties\">VELTE<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-7751.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. JUSTICE BREYER took no part in the consideration or decision of this petition. Reported below: 331 F. 3d 673.</p>\n    </div>\n    ", "id": 134909, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/134909/", "sha1": "f6392d153bfe2579bbbfff1023027b12f9541219", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:14"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 912", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/134909/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Velte v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-7751", 
+    "id": 119262, 
+    "resource_uri": "/api/rest/v2/citation/119262/"
+  }, 
+  "id": 134909, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-03-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.912.03-7751.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:14", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">912</span></span></p>\n    <p class=\"parties\">VELTE<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-7751.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. JUSTICE BREYER took no part in the consideration or decision of this petition. Reported below: 331 F. 3d 673.</p>\n    </div>\n    ", 
+  "sha1": "f6392d153bfe2579bbbfff1023027b12f9541219", 
+  "date_modified": "2014-12-21T02:19:50.863631", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/134909/velte-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/629096/", 
+  "html": "<p class=\"case_cite\">541 U.S. 912</p>\n    <p class=\"parties\">VELTE<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-7751.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. JUSTICE BREYER took no part in the consideration or decision of this petition. Reported below: 331 F. 3d 673.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/134909/"
+}

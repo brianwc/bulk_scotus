@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/125520/lovern-v-united-states/", "blocked": false, "citation": {"case_name": "Lovern v. United States", "docket_number": "02-6847", "document_uris": ["/api/rest/v2/document/125520/"], "federal_cite_one": "537 U.S. 1058", "federal_cite_three": null, "federal_cite_two": null, "id": 109873, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/109873/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-12-02", "date_modified": "2014-12-21T02:18:01.371760", "docket": "/api/rest/v2/docket/648556/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1058.02-6847.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1058</p>\n    <p class=\"parties\">LOVERN<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6847.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 2, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 293 F. 3d 695.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1058</span></span></p>\n    <p class=\"parties\">LOVERN<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6847.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 2, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 293 F. 3d 695.</p>\n    </div>\n    ", "id": 125520, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/125520/", "sha1": "6b5cfcff30fa94b352933e929331d57cb1cc11c8", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:32"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1058", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/125520/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Lovern v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-6847", 
+    "id": 109873, 
+    "resource_uri": "/api/rest/v2/citation/109873/"
+  }, 
+  "id": 125520, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-12-02", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1058.02-6847.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:32", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1058</span></span></p>\n    <p class=\"parties\">LOVERN<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6847.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 2, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 293 F. 3d 695.</p>\n    </div>\n    ", 
+  "sha1": "6b5cfcff30fa94b352933e929331d57cb1cc11c8", 
+  "date_modified": "2014-12-21T02:18:01.371760", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/125520/lovern-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/648556/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1058</p>\n    <p class=\"parties\">LOVERN<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6847.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 2, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 293 F. 3d 695.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/125520/"
+}

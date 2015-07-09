@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/124688/noriega-bustamante-aka-padilla-morillo-v-united/", "blocked": false, "citation": {"case_name": "Noriega-Bustamante, AKA Padilla-Morillo v. United States", "docket_number": "02-6485", "document_uris": ["/api/rest/v2/document/124688/"], "federal_cite_one": "537 U.S. 987", "federal_cite_three": null, "federal_cite_two": null, "id": 109041, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/109041/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-21", "date_modified": "2014-12-21T02:17:56.223360", "docket": "/api/rest/v2/docket/101297/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.987.02-6485.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 987</p>\n    <p class=\"parties\">NORIEGA-BUSTAMANTE, AKA PADILLA-MORILLO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6485.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 21, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 37 Fed. Appx. 908.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">987</span></span></p>\n    <p class=\"parties\">NORIEGA-BUSTAMANTE, AKA PADILLA-MORILLO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6485.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 21, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 37 Fed. Appx. 908.</p>\n    </div>\n    ", "id": 124688, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/124688/", "sha1": "f84ac4b4e212cdf008223346a83ca25f9b4ddf78", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:21"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 987", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/124688/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Noriega-Bustamante, AKA Padilla-Morillo v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-6485", 
+    "id": 109041, 
+    "resource_uri": "/api/rest/v2/citation/109041/"
+  }, 
+  "id": 124688, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.987.02-6485.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:21", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">987</span></span></p>\n    <p class=\"parties\">NORIEGA-BUSTAMANTE, AKA PADILLA-MORILLO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6485.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 21, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 37 Fed. Appx. 908.</p>\n    </div>\n    ", 
+  "sha1": "f84ac4b4e212cdf008223346a83ca25f9b4ddf78", 
+  "date_modified": "2014-12-21T02:17:56.223360", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/124688/noriega-bustamante-aka-padilla-morillo-v-united/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/101297/", 
+  "html": "<p class=\"case_cite\">537 U.S. 987</p>\n    <p class=\"parties\">NORIEGA-BUSTAMANTE, AKA PADILLA-MORILLO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6485.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 21, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 37 Fed. Appx. 908.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/124688/"
+}

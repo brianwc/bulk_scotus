@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/132493/sallie-v-georgia/", "blocked": false, "citation": {"case_name": "Sallie v. Georgia", "docket_number": "03-5332", "document_uris": ["/api/rest/v2/document/132493/"], "federal_cite_one": "540 U.S. 902", "federal_cite_three": null, "federal_cite_two": null, "id": 116846, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/116846/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-10-06", "date_modified": "2014-12-21T02:19:27.726999", "docket": "/api/rest/v2/docket/2093789/", "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.902.03-5332.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">540 U.S. 902</p>\n    <p class=\"parties\">SALLIE<br>v.<br>GEORGIA.</p>\n    <p class=\"docket\">No. 03-5332.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ga.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 276 Ga. 506, 578 S. E. 2d 444.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">902</span></span></p>\n    <p class=\"parties\">SALLIE<br>v.<br>GEORGIA.</p>\n    <p class=\"docket\">No. 03-5332.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ga.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1408798\"><a href=\"/opinion/1408798/sallie-v-state/\"><span class=\"volume\">276</span> <span class=\"reporter\">Ga.</span> <span class=\"page\">506</span></a></span>, 578 S. E. 2d 444.</p>\n    </div>\n    ", "id": 132493, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/132493/", "sha1": "75a34ab293eddac4fdd42d0097aba73c31b0c3fd", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:58"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "540 U.S. 902", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/132493/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Sallie v. Georgia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-5332", 
+    "id": 116846, 
+    "resource_uri": "/api/rest/v2/citation/116846/"
+  }, 
+  "id": 132493, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-10-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.902.03-5332.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:58", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">902</span></span></p>\n    <p class=\"parties\">SALLIE<br>v.<br>GEORGIA.</p>\n    <p class=\"docket\">No. 03-5332.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ga.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1408798\"><a href=\"/opinion/1408798/sallie-v-state/\"><span class=\"volume\">276</span> <span class=\"reporter\">Ga.</span> <span class=\"page\">506</span></a></span>, 578 S. E. 2d 444.</p>\n    </div>\n    ", 
+  "sha1": "75a34ab293eddac4fdd42d0097aba73c31b0c3fd", 
+  "date_modified": "2014-12-21T02:19:27.726999", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/132493/sallie-v-georgia/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2093789/", 
+  "html": "<p class=\"case_cite\">540 U.S. 902</p>\n    <p class=\"parties\">SALLIE<br>v.<br>GEORGIA.</p>\n    <p class=\"docket\">No. 03-5332.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ga.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 276 Ga. 506, 578 S. E. 2d 444.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/132493/"
+}

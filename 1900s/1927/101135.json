@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/101135/andrew-w-mellon-agent-under-section-206-of-the/", "blocked": false, "citation": {"case_name": "Andrew W. Mellon, Agent, Under Section 206 of the Transportation Act of 1920 (New York, New Haven & Hartford Railroad) v. New Jersey Shipbuilding & Dredging Company. 1", "docket_number": "953", "document_uris": ["/api/rest/v2/document/101135/"], "federal_cite_one": "274 U.S. 738", "federal_cite_three": null, "federal_cite_two": null, "id": 85518, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/85518/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1927-04-18", "date_modified": "2014-12-21T01:38:24.339108", "docket": "/api/rest/v2/docket/961757/", "download_url": "http://bulk.resource.org/courts.gov/c/US/274/274.US.738.953.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">274 U.S. 738</p>\r\n    <p class=\"case_cite\">47 S.Ct. 575</p>\r\n    <p class=\"case_cite\">71 L.Ed. 1317</p>\r\n    <p class=\"parties\">Andrew W. MELLON, Agent, under section 206 of the  Transportation Act of 1920 (New York, New Haven &amp;  Hartford Railroad), petitioner,<br>v.<br>NEW JERSEY SHIPBUILDING &amp; DREDGING COMPANY.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <p class=\"docket\">No. 953.</p>\r\n    <p class=\"court\">Supreme Court of the United States.</p>\r\n    <p class=\"date\">April 18, 1927.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Charles M. Sheafe, Jr., of New York City (Messrs. Evan Shelby and John E. Walker, both of New York City, of counsel), for petitioner.</p>\r\n      <p class=\"indent\">Mr. Mark Ash, of New York City, for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> No opinion filed in Circuit Court of Appeals. For opinion in District Court, see New Jersey Shipbuilding &amp; Dredging Co. v. Davis, 11 F.(2d) 994.</p>\r\n      </div>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">274</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">738</span></span></p>\r\n    <p class=\"case_cite\">47 S.Ct. 575</p>\r\n    <p class=\"case_cite\">71 L.Ed. 1317</p>\r\n    <p class=\"parties\">Andrew W. MELLON, Agent, under section 206 of the  Transportation Act of 1920 (New York, New Haven &amp;  Hartford Railroad), petitioner,<br>v.<br>NEW JERSEY SHIPBUILDING &amp; DREDGING COMPANY.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <p class=\"docket\">No. 953.</p>\r\n    <p class=\"court\">Supreme Court of the United States.</p>\r\n    <p class=\"date\">April 18, 1927.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Charles M. Sheafe, Jr., of New York City (Messrs. Evan Shelby and John E. Walker, both of New York City, of counsel), for petitioner.</p>\r\n      <p class=\"indent\">Mr. Mark Ash, of New York City, for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> No opinion filed in Circuit Court of Appeals. For opinion in District Court, see New Jersey Shipbuilding &amp; Dredging Co. v. Davis, 11 F.(2d) 994.</p>\r\n      </div>\r\n    </div>\r\n    ", "id": 101135, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/101135/", "sha1": "066cb12eb854f383d5041044230295f9fdbb41e3", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:48:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "274 U.S. 738", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/101135/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Andrew W. Mellon, Agent, Under Section 206 of the Transportation Act of 1920 (New York, New Haven & Hartford Railroad) v. New Jersey Shipbuilding & Dredging Company. 1", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "953", 
+    "id": 85518, 
+    "resource_uri": "/api/rest/v2/citation/85518/"
+  }, 
+  "id": 101135, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1927-04-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/274/274.US.738.953.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:48:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">274</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">738</span></span></p>\r\n    <p class=\"case_cite\">47 S.Ct. 575</p>\r\n    <p class=\"case_cite\">71 L.Ed. 1317</p>\r\n    <p class=\"parties\">Andrew W. MELLON, Agent, under section 206 of the  Transportation Act of 1920 (New York, New Haven &amp;  Hartford Railroad), petitioner,<br>v.<br>NEW JERSEY SHIPBUILDING &amp; DREDGING COMPANY.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <p class=\"docket\">No. 953.</p>\r\n    <p class=\"court\">Supreme Court of the United States.</p>\r\n    <p class=\"date\">April 18, 1927.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Charles M. Sheafe, Jr., of New York City (Messrs. Evan Shelby and John E. Walker, both of New York City, of counsel), for petitioner.</p>\r\n      <p class=\"indent\">Mr. Mark Ash, of New York City, for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> No opinion filed in Circuit Court of Appeals. For opinion in District Court, see New Jersey Shipbuilding &amp; Dredging Co. v. Davis, 11 F.(2d) 994.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "sha1": "066cb12eb854f383d5041044230295f9fdbb41e3", 
+  "date_modified": "2014-12-21T01:38:24.339108", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/101135/andrew-w-mellon-agent-under-section-206-of-the/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/961757/", 
+  "html": "<p class=\"case_cite\">274 U.S. 738</p>\r\n    <p class=\"case_cite\">47 S.Ct. 575</p>\r\n    <p class=\"case_cite\">71 L.Ed. 1317</p>\r\n    <p class=\"parties\">Andrew W. MELLON, Agent, under section 206 of the  Transportation Act of 1920 (New York, New Haven &amp;  Hartford Railroad), petitioner,<br>v.<br>NEW JERSEY SHIPBUILDING &amp; DREDGING COMPANY.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <p class=\"docket\">No. 953.</p>\r\n    <p class=\"court\">Supreme Court of the United States.</p>\r\n    <p class=\"date\">April 18, 1927.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Charles M. Sheafe, Jr., of New York City (Messrs. Evan Shelby and John E. Walker, both of New York City, of counsel), for petitioner.</p>\r\n      <p class=\"indent\">Mr. Mark Ash, of New York City, for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> No opinion filed in Circuit Court of Appeals. For opinion in District Court, see New Jersey Shipbuilding &amp; Dredging Co. v. Davis, 11 F.(2d) 994.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/101135/"
+}

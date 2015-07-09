@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2568216/davis-v-geissler/", "blocked": false, "citation": {"case_name": "Davis v. Geissler", "docket_number": "186", "document_uris": ["/api/rest/v2/document/2568216/"], "federal_cite_one": "162 U.S. 290", "federal_cite_three": null, "federal_cite_two": null, "id": 2540988, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2540988/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1896-04-13", "date_modified": "2014-10-30T17:01:47.470319", "docket": "/api/rest/v2/docket/2433489/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>162 U.S. 290 (1896)</b></center>\n<center><h1>DAVIS<br>\nv.<br>\nGEISSLER.</h1></center>\n<center>No. 186.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 27, 1896.</center>\n<center>Decided April 13, 1896.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF KANSAS.\n<p><i>Mr. E.A. McMath</i> for the motion. <i>Mr. W.C. Oliver</i> was on his brief.</p>\n<p><i>Mr. D.P. Stubbs</i> opposing. <i>Mr. W.F. Rightmire</i> was on his brief.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>This was an action brought by plaintiffs in error, citizens of the State of Illinois, against more than thirty defendants, alleged to be citizens of the State of Kansas, in the Circuit Court of the United States for the District of Kansas. The petition averred the execution by defendants of a certain contract annexed for the payment to plaintiffs of five thousand dollars for the construction, erection and putting in operation of a creamery at or near Oakley, Kansas, the contract being signed by defendants in the form of subscriptions to stock; performance by plaintiffs; and that they had received on <span class=\"star-pagination\">*291</span> account the sum of one hundred dollars; and demanded judgment against defendants, jointly and severally, for $4900 and interest. Some of the defendants did not appear, but defendants in error did, and pleaded a modified general denial, and twelve other defences, setting up fraud in respect of the contract; non-performance; want of jurisdiction, in that one of the defendants, B. Mahanna, was a co-citizen of Illinois with plaintiffs; and that Mahanna's subscription to the contract was really a subscription by plaintiffs, made by him as their agent. Defendants claimed that the contract was several and not joint, and that each was bound only for the amount of his own subscription, which in no instance exceeded eight hundred and fifty dollars. The case was tried by a jury, but after the evidence was closed the court declined to submit it, and entered an order, November 28, 1891, that \"it appearing to the court that this court has not jurisdiction of the subject-matter of this action, it is ordered that this case be and the same is hereby dismissed at the costs of plaintiffs.\" To review this judgment the pending writ of error was sued out October 13, 1892.</p>\n<p>The Circuit Court made no certificate of the question of its jurisdiction to this court, and the case comes within <i>Maynard</i> v. <i>Hecht,</i> 151 U.S. 324; <i>Colvin</i> v. <i>Jacksonville,</i> 157 U.S. 368; <i>Van Wagenen</i> v. <i>Sewall,</i> 160 U.S. 369; <i>Chappell</i> v. <i>United States,</i> 160 U.S. 499, 507.</p>\n<p><i>Writ of error dismissed.</i></p>\n</div>", "html_with_citations": "", "id": 2568216, "judges": "Fuller", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2568216/", "sha1": "1d050334f146f19a87696f7182df6168f880c012", "source": "L", "time_retrieved": "2013-10-30T03:28:36.811811"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "162 U.S. 290", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2568216/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Davis v. Geissler", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "186", 
+    "id": 2540988, 
+    "resource_uri": "/api/rest/v2/citation/2540988/"
+  }, 
+  "id": 2568216, 
+  "blocked": false, 
+  "judges": "Fuller", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1896-04-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>162 U.S. 290 (1896)</b></center>\n<center><h1>DAVIS<br>\nv.<br>\nGEISSLER.</h1></center>\n<center>No. 186.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 27, 1896.</center>\n<center>Decided April 13, 1896.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF KANSAS.\n<p><i>Mr. E.A. McMath</i> for the motion. <i>Mr. W.C. Oliver</i> was on his brief.</p>\n<p><i>Mr. D.P. Stubbs</i> opposing. <i>Mr. W.F. Rightmire</i> was on his brief.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>This was an action brought by plaintiffs in error, citizens of the State of Illinois, against more than thirty defendants, alleged to be citizens of the State of Kansas, in the Circuit Court of the United States for the District of Kansas. The petition averred the execution by defendants of a certain contract annexed for the payment to plaintiffs of five thousand dollars for the construction, erection and putting in operation of a creamery at or near Oakley, Kansas, the contract being signed by defendants in the form of subscriptions to stock; performance by plaintiffs; and that they had received on <span class=\"star-pagination\">*291</span> account the sum of one hundred dollars; and demanded judgment against defendants, jointly and severally, for $4900 and interest. Some of the defendants did not appear, but defendants in error did, and pleaded a modified general denial, and twelve other defences, setting up fraud in respect of the contract; non-performance; want of jurisdiction, in that one of the defendants, B. Mahanna, was a co-citizen of Illinois with plaintiffs; and that Mahanna's subscription to the contract was really a subscription by plaintiffs, made by him as their agent. Defendants claimed that the contract was several and not joint, and that each was bound only for the amount of his own subscription, which in no instance exceeded eight hundred and fifty dollars. The case was tried by a jury, but after the evidence was closed the court declined to submit it, and entered an order, November 28, 1891, that \"it appearing to the court that this court has not jurisdiction of the subject-matter of this action, it is ordered that this case be and the same is hereby dismissed at the costs of plaintiffs.\" To review this judgment the pending writ of error was sued out October 13, 1892.</p>\n<p>The Circuit Court made no certificate of the question of its jurisdiction to this court, and the case comes within <i>Maynard</i> v. <i>Hecht,</i> 151 U.S. 324; <i>Colvin</i> v. <i>Jacksonville,</i> 157 U.S. 368; <i>Van Wagenen</i> v. <i>Sewall,</i> 160 U.S. 369; <i>Chappell</i> v. <i>United States,</i> 160 U.S. 499, 507.</p>\n<p><i>Writ of error dismissed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:28:36.811811", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "1d050334f146f19a87696f7182df6168f880c012", 
+  "date_modified": "2014-10-30T17:01:47.470319", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2568216/davis-v-geissler/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2433489/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2568216/"
+}

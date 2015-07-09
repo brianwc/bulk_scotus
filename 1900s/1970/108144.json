@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108144/jefferson-v-hackney/", "blocked": false, "citation": {"case_name": "Jefferson v. Hackney", "docket_number": "1345, Misc", "document_uris": ["/api/rest/v2/document/108144/"], "federal_cite_one": "397 U.S. 821", "federal_cite_three": null, "federal_cite_two": null, "id": 92503, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92503/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 12, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-05-04", "date_modified": "2014-12-21T01:56:51.486880", "docket": "/api/rest/v2/docket/2547751/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">397 U.S. 821</p>\r\n    <p class=\"case_cite\">90 S.Ct. 1517</p>\r\n    <p class=\"case_cite\">25 L.Ed.2d 807</p>\r\n    <p class=\"parties\">Ruth J. JEFFERSON et al.<br>v.<br>Burton G. HACKNEY, Commissioner, Department of Public  Welfare of Texas, et al.</p>\r\n    <p class=\"docket\">No. 1345, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 4, 1970</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Ed J. Polk and Carl Rachlin, for appellants.</p>\r\n      <p class=\"indent\">Crawford C. Martin, Atty. Gen. of Texas, Nola White, First Asst. Atty. Gen., Pat Bailey, Executive Asst. Atty. Gen., and W. O. Shultz II, Asst. Atty. Gen., for appellees.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> is granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of Texas for further consideration in light of Rosado v. Wyman, 397 U.S. 397, 90 S.Ct. 1207, 25 L.Ed.2d 442.</p>\r\n    </div>\r\n    ", "html_lawbox": "<div>\n<center><b>397 U.S. 821 (1970)</b></center>\n<center><h1>JEFFERSON ET AL.<br>\nv.<br>\nHACKNEY, COMMISSIONER, DEPARTMENT OF PUBLIC WELFARE OF TEXAS, ET AL.</h1></center>\n<center>No. 1345, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 4, 1970</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS.\n<p><i>Ed J. Polk</i> and <i>Carl Rachlin</i> for appellants.</p>\n<p><i>Crawford C. Martin,</i> Attorney General of Texas, <i>Nola White,</i> First Assistant Attorney General, <i>Pat Bailey,</i> Executive Assistant Attorney General, and <i>W. O. Shultz II,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> is granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of Texas for further consideration in light of <i>Rosado</i> v. <i>Wyman, ante,</i> p. 397.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">397</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">821</span></span> (1970)</b></center>\n<center><h1>JEFFERSON ET AL.<br>\nv.<br>\nHACKNEY, COMMISSIONER, DEPARTMENT OF PUBLIC WELFARE OF TEXAS, ET AL.</h1></center>\n<center>No. 1345, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 4, 1970</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS.\n<p><i>Ed J. Polk</i> and <i>Carl Rachlin</i> for appellants.</p>\n<p><i>Crawford C. Martin,</i> Attorney General of Texas, <i>Nola White,</i> First Assistant Attorney General, <i>Pat Bailey,</i> Executive Assistant Attorney General, and <i>W. O. Shultz II,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> is granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of Texas for further consideration in light of <i>Rosado</i> v. <i>Wyman, ante,</i> p. 397.</p>\n</div>", "id": 108144, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108144/", "sha1": "95a627ef2ebde073816d0b85a253d913af765a78", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:23"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "397 U.S. 821", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/108144/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jefferson v. Hackney", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1345, Misc", 
+    "id": 92503, 
+    "resource_uri": "/api/rest/v2/citation/92503/"
+  }, 
+  "id": 108144, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-05-04", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>397 U.S. 821 (1970)</b></center>\n<center><h1>JEFFERSON ET AL.<br>\nv.<br>\nHACKNEY, COMMISSIONER, DEPARTMENT OF PUBLIC WELFARE OF TEXAS, ET AL.</h1></center>\n<center>No. 1345, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 4, 1970</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS.\n<p><i>Ed J. Polk</i> and <i>Carl Rachlin</i> for appellants.</p>\n<p><i>Crawford C. Martin,</i> Attorney General of Texas, <i>Nola White,</i> First Assistant Attorney General, <i>Pat Bailey,</i> Executive Assistant Attorney General, and <i>W. O. Shultz II,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> is granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of Texas for further consideration in light of <i>Rosado</i> v. <i>Wyman, ante,</i> p. 397.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:23", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">397</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">821</span></span> (1970)</b></center>\n<center><h1>JEFFERSON ET AL.<br>\nv.<br>\nHACKNEY, COMMISSIONER, DEPARTMENT OF PUBLIC WELFARE OF TEXAS, ET AL.</h1></center>\n<center>No. 1345, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 4, 1970</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS.\n<p><i>Ed J. Polk</i> and <i>Carl Rachlin</i> for appellants.</p>\n<p><i>Crawford C. Martin,</i> Attorney General of Texas, <i>Nola White,</i> First Assistant Attorney General, <i>Pat Bailey,</i> Executive Assistant Attorney General, and <i>W. O. Shultz II,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> is granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of Texas for further consideration in light of <i>Rosado</i> v. <i>Wyman, ante,</i> p. 397.</p>\n</div>", 
+  "sha1": "95a627ef2ebde073816d0b85a253d913af765a78", 
+  "date_modified": "2014-12-21T01:56:51.486880", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108144/jefferson-v-hackney/", 
+  "citation_count": 12, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2547751/", 
+  "html": "<p class=\"case_cite\">397 U.S. 821</p>\r\n    <p class=\"case_cite\">90 S.Ct. 1517</p>\r\n    <p class=\"case_cite\">25 L.Ed.2d 807</p>\r\n    <p class=\"parties\">Ruth J. JEFFERSON et al.<br>v.<br>Burton G. HACKNEY, Commissioner, Department of Public  Welfare of Texas, et al.</p>\r\n    <p class=\"docket\">No. 1345, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 4, 1970</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Ed J. Polk and Carl Rachlin, for appellants.</p>\r\n      <p class=\"indent\">Crawford C. Martin, Atty. Gen. of Texas, Nola White, First Asst. Atty. Gen., Pat Bailey, Executive Asst. Atty. Gen., and W. O. Shultz II, Asst. Atty. Gen., for appellees.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> is granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of Texas for further consideration in light of Rosado v. Wyman, 397 U.S. 397, 90 S.Ct. 1207, 25 L.Ed.2d 442.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/108144/"
+}

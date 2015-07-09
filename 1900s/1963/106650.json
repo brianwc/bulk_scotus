@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106650/huggins-v-raines/", "blocked": false, "citation": {"case_name": "Huggins v. Raines", "docket_number": "251, Misc", "document_uris": ["/api/rest/v2/document/106650/"], "federal_cite_one": "374 U.S. 105", "federal_cite_three": null, "federal_cite_two": null, "id": 91033, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91033/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-06-10", "date_modified": "2014-12-21T01:53:35.933063", "docket": "/api/rest/v2/docket/2566968/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">374 U.S. 105</p>\n    <p class=\"case_cite\">83 S.Ct. 1688</p>\n    <p class=\"case_cite\">10 L.Ed.2d 1027</p>\n    <p class=\"parties\">Clint HUGGINS<br>v.<br>Robert R. RAINES.</p>\n    <p class=\"docket\">No. 251, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 10, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Clint Huggins, pro se.</p>\n      <p class=\"indent\">Mac Q. Williamson, Atty. Gen. of Oklahoma, and Lewis A. Wallace and Hugh H. Collum, Asst. Attys. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Criminal Appeals of Oklahoma.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Criminal Appeals of Oklahoma for reconsideration in light of Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799 and Carnley v. Cochran, 369 U.S. 506, 82 S.Ct. 884, 8 L.Ed.2d 70.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>374 U.S. 105 (1963)</b></center>\n<center><h1>HUGGINS<br>\nv.<br>\nRAINES, WARDEN.</h1></center>\n<center>No. 251, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF OKLAHOMA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Mac Q. Williamson,</i> Attorney General of Oklahoma, and <i>Lewis A. Wallace</i> and <i>Hugh H. Collum,</i> Assistant Attorneys General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Criminal Appeals of Oklahoma for reconsideration in light of <i>Gideon</i> v. <i>Wainwright,</i> 372 U. S. 335, and <i>Carnley</i> v. <i>Cochran,</i> 369 U. S. 506.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">374</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">105</span></span> (1963)</b></center>\n<center><h1>HUGGINS<br>\nv.<br>\nRAINES, WARDEN.</h1></center>\n<center>No. 251, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF OKLAHOMA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Mac Q. Williamson,</i> Attorney General of Oklahoma, and <i>Lewis A. Wallace</i> and <i>Hugh H. Collum,</i> Assistant Attorneys General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Criminal Appeals of Oklahoma for reconsideration in light of <i>Gideon</i> v. <i>Wainwright,</i> 372 U. S. 335, and <i>Carnley</i> v. <i>Cochran,</i> 369 U. S. 506.</p>\n</div>", "id": 106650, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106650/", "sha1": "3ce2e2d2ea57b1b48f9156100c0f7ec0d03dc8f5", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "374 U.S. 105", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106650/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Huggins v. Raines", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "251, Misc", 
+    "id": 91033, 
+    "resource_uri": "/api/rest/v2/citation/91033/"
+  }, 
+  "id": 106650, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-06-10", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>374 U.S. 105 (1963)</b></center>\n<center><h1>HUGGINS<br>\nv.<br>\nRAINES, WARDEN.</h1></center>\n<center>No. 251, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF OKLAHOMA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Mac Q. Williamson,</i> Attorney General of Oklahoma, and <i>Lewis A. Wallace</i> and <i>Hugh H. Collum,</i> Assistant Attorneys General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Criminal Appeals of Oklahoma for reconsideration in light of <i>Gideon</i> v. <i>Wainwright,</i> 372 U. S. 335, and <i>Carnley</i> v. <i>Cochran,</i> 369 U. S. 506.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">374</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">105</span></span> (1963)</b></center>\n<center><h1>HUGGINS<br>\nv.<br>\nRAINES, WARDEN.</h1></center>\n<center>No. 251, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF OKLAHOMA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Mac Q. Williamson,</i> Attorney General of Oklahoma, and <i>Lewis A. Wallace</i> and <i>Hugh H. Collum,</i> Assistant Attorneys General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Criminal Appeals of Oklahoma for reconsideration in light of <i>Gideon</i> v. <i>Wainwright,</i> 372 U. S. 335, and <i>Carnley</i> v. <i>Cochran,</i> 369 U. S. 506.</p>\n</div>", 
+  "sha1": "3ce2e2d2ea57b1b48f9156100c0f7ec0d03dc8f5", 
+  "date_modified": "2014-12-21T01:53:35.933063", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106650/huggins-v-raines/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2566968/", 
+  "html": "<p class=\"case_cite\">374 U.S. 105</p>\n    <p class=\"case_cite\">83 S.Ct. 1688</p>\n    <p class=\"case_cite\">10 L.Ed.2d 1027</p>\n    <p class=\"parties\">Clint HUGGINS<br>v.<br>Robert R. RAINES.</p>\n    <p class=\"docket\">No. 251, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 10, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Clint Huggins, pro se.</p>\n      <p class=\"indent\">Mac Q. Williamson, Atty. Gen. of Oklahoma, and Lewis A. Wallace and Hugh H. Collum, Asst. Attys. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Criminal Appeals of Oklahoma.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Criminal Appeals of Oklahoma for reconsideration in light of Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799 and Carnley v. Cochran, 369 U.S. 506, 82 S.Ct. 884, 8 L.Ed.2d 70.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106650/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087676/hanson-v-chesapeake-ohio-railway-company/", "blocked": false, "citation": {"case_name": "Hanson v. Chesapeake & Ohio Railway Company", "docket_number": "1170", "document_uris": ["/api/rest/v2/document/1087676/"], "federal_cite_one": "384 U.S. 211", "federal_cite_three": null, "federal_cite_two": null, "id": 1060447, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060447/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-05-16", "date_modified": "2014-10-30T09:57:28.879915", "docket": "/api/rest/v2/docket/1467507/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>384 U.S. 211 (1966)</b></center>\n<center><h1>HANSON ET AL.<br>\nv.<br>\nCHESAPEAKE &amp; OHIO RAILWAY COMPANY.</h1></center>\n<center>No. 1170.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 16, 1966.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p><i>Robert O. Ellis, Jr.,</i> for petitioners.</p>\n<p><i>William C. Beatty</i> and <i>Amos A. Bolen</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted. The judgment of the United States Court of Appeals for the Fourth Circuit is vacated and the case is remanded to that court for further consideration in light of <i>Gunther</i> v. <i>San Diego &amp; A. E. R. Co.,</i> 382 U. S. 257.</p>\n</div>", "html_with_citations": "", "id": 1087676, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087676/", "sha1": "e1702a442308e2e72842f428487eb2b65e5fa4dc", "source": "L", "time_retrieved": "2013-10-29T19:13:48.201823"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "384 U.S. 211", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087676/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hanson v. Chesapeake & Ohio Railway Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1170", 
+    "id": 1060447, 
+    "resource_uri": "/api/rest/v2/citation/1060447/"
+  }, 
+  "id": 1087676, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-05-16", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>384 U.S. 211 (1966)</b></center>\n<center><h1>HANSON ET AL.<br>\nv.<br>\nCHESAPEAKE &amp; OHIO RAILWAY COMPANY.</h1></center>\n<center>No. 1170.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 16, 1966.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p><i>Robert O. Ellis, Jr.,</i> for petitioners.</p>\n<p><i>William C. Beatty</i> and <i>Amos A. Bolen</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted. The judgment of the United States Court of Appeals for the Fourth Circuit is vacated and the case is remanded to that court for further consideration in light of <i>Gunther</i> v. <i>San Diego &amp; A. E. R. Co.,</i> 382 U. S. 257.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:13:48.201823", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e1702a442308e2e72842f428487eb2b65e5fa4dc", 
+  "date_modified": "2014-10-30T09:57:28.879915", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087676/hanson-v-chesapeake-ohio-railway-company/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1467507/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087676/"
+}

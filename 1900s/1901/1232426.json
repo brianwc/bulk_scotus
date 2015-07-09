@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1232426/neely-v-henkel-no-2/", "blocked": false, "citation": {"case_name": "Neely v. Henkel (No. 2)", "docket_number": "406", "document_uris": ["/api/rest/v2/document/1232426/"], "federal_cite_one": "180 U.S. 126", "federal_cite_three": null, "federal_cite_two": null, "id": 1205197, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1205197/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1901-01-14", "date_modified": "2014-10-30T00:42:53.022185", "docket": "/api/rest/v2/docket/227102/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>180 U.S. 126 (1901)</b></center>\n<center><h1>NEELY<br>\nv.<br>\nHENKEL (No. 2).</h1></center>\n<center>No. 406.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued December 10, 11, 1900.</center>\n<center>Decided January 14, 1901.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>The record in this case, it is admitted, shows the same state of facts as in the case just decided. This was a second application for a writ of <i>habeas corpus,</i> upon substantially the same grounds as were urged in the other case. The additional allegations in this application for the writ did not materially change the situation.</p>\n<p>For the reasons stated in the opinion just delivered, the judgment of the Circuit Court is</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "", "id": 1232426, "judges": "Harlan", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1232426/", "sha1": "d6f8529dec24832a5b9c62f4bb78277b51fa1412", "source": "L", "time_retrieved": "2013-10-29T22:08:44.249985"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "180 U.S. 126", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1232426/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Neely v. Henkel (No. 2)", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "406", 
+    "id": 1205197, 
+    "resource_uri": "/api/rest/v2/citation/1205197/"
+  }, 
+  "id": 1232426, 
+  "blocked": false, 
+  "judges": "Harlan", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1901-01-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>180 U.S. 126 (1901)</b></center>\n<center><h1>NEELY<br>\nv.<br>\nHENKEL (No. 2).</h1></center>\n<center>No. 406.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued December 10, 11, 1900.</center>\n<center>Decided January 14, 1901.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>The record in this case, it is admitted, shows the same state of facts as in the case just decided. This was a second application for a writ of <i>habeas corpus,</i> upon substantially the same grounds as were urged in the other case. The additional allegations in this application for the writ did not materially change the situation.</p>\n<p>For the reasons stated in the opinion just delivered, the judgment of the Circuit Court is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:08:44.249985", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d6f8529dec24832a5b9c62f4bb78277b51fa1412", 
+  "date_modified": "2014-10-30T00:42:53.022185", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1232426/neely-v-henkel-no-2/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/227102/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1232426/"
+}

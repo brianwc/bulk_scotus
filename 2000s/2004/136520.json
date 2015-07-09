@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136520/forte-v-reilly-attorney-general-of-massachusetts/", "blocked": false, "citation": {"case_name": "Forte v. Reilly, Attorney General of Massachusetts", "docket_number": "03-9826", "document_uris": ["/api/rest/v2/document/136520/"], "federal_cite_one": "541 U.S. 1060", "federal_cite_three": null, "federal_cite_two": null, "id": 120873, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120873/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-05-24", "date_modified": "2014-12-21T02:20:09.681040", "docket": "/api/rest/v2/docket/2452882/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1060.03-9826.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1060</p>\n    <p class=\"parties\">FORTE<br>v.<br>REILLY, ATTORNEY GENERAL OF MASSACHUSETTS.</p>\n    <p class=\"docket\">No. 03-9826.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">App. Ct. Mass. Motion of petitioner for leave to proceed <i>in forma pauperis</i> denied, and certiorari dismissed. See this Court's Rule 39.8. Reported below: 60 Mass. App. 1111, 801 N. E. 2d 324.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1060</span></span></p>\n    <p class=\"parties\">FORTE<br>v.<br>REILLY, ATTORNEY GENERAL OF MASSACHUSETTS.</p>\n    <p class=\"docket\">No. 03-9826.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">App. Ct. Mass. Motion of petitioner for leave to proceed <i>in forma pauperis</i> denied, and certiorari dismissed. See this Court's Rule 39.8. Reported below: 60 Mass. App. 1111, 801 N. E. 2d 324.</p>\n    </div>\n    ", "id": 136520, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136520/", "sha1": "8672d9d223dc057794efca71d461f8287672c74f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1060", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136520/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Forte v. Reilly, Attorney General of Massachusetts", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9826", 
+    "id": 120873, 
+    "resource_uri": "/api/rest/v2/citation/120873/"
+  }, 
+  "id": 136520, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-05-24", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1060.03-9826.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1060</span></span></p>\n    <p class=\"parties\">FORTE<br>v.<br>REILLY, ATTORNEY GENERAL OF MASSACHUSETTS.</p>\n    <p class=\"docket\">No. 03-9826.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">App. Ct. Mass. Motion of petitioner for leave to proceed <i>in forma pauperis</i> denied, and certiorari dismissed. See this Court's Rule 39.8. Reported below: 60 Mass. App. 1111, 801 N. E. 2d 324.</p>\n    </div>\n    ", 
+  "sha1": "8672d9d223dc057794efca71d461f8287672c74f", 
+  "date_modified": "2014-12-21T02:20:09.681040", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136520/forte-v-reilly-attorney-general-of-massachusetts/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2452882/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1060</p>\n    <p class=\"parties\">FORTE<br>v.<br>REILLY, ATTORNEY GENERAL OF MASSACHUSETTS.</p>\n    <p class=\"docket\">No. 03-9826.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">App. Ct. Mass. Motion of petitioner for leave to proceed <i>in forma pauperis</i> denied, and certiorari dismissed. See this Court's Rule 39.8. Reported below: 60 Mass. App. 1111, 801 N. E. 2d 324.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136520/"
+}

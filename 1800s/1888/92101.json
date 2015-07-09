@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92101/glenn-v-fant/", "blocked": false, "citation": {"case_name": "Glenn v. Fant", "docket_number": null, "document_uris": ["/api/rest/v2/document/92101/"], "federal_cite_one": "124 U.S. 123", "federal_cite_three": null, "federal_cite_two": null, "id": 76481, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76481/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1888-01-09", "date_modified": "2014-12-21T01:30:26.697452", "docket": "/api/rest/v2/docket/2227293/", "download_url": "http://bulk.resource.org/courts.gov/c/US/124/124.US.123.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">124 U.S. 123</p>\n    <p class=\"case_cite\">8 S.Ct. 398</p>\n    <p class=\"case_cite\">31 L.Ed. 352</p>\n    <p class=\"parties\">GLENN<br>v.<br>FANT.</p>\n    <p class=\"date\">January 9, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Chas. Marshall, Henry Wise Garnett</i>, and <i>Conway Robinson, Jr.</i>, for the motion.</p>\n      <p class=\"indent\"><i>M. F. Morris, contra</i>.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This motion is denied. While the stipulation binds the parties to submit the cause without oral argument, there is nothing which requires this to be done at any particular time. Its terms will be fulfilled if the submission is made when the case is reached in its order. As no reference is made to rule 20, we cannot apply that rule to the case on the suggestion of one of the parties against the protest of the other.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">124</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">123</span></span></p>\n    <p class=\"case_cite\">8 S.Ct. 398</p>\n    <p class=\"case_cite\">31 L.Ed. 352</p>\n    <p class=\"parties\">GLENN<br>v.<br>FANT.</p>\n    <p class=\"date\">January 9, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Chas. Marshall, Henry Wise Garnett</i>, and <i>Conway Robinson, Jr.</i>, for the motion.</p>\n      <p class=\"indent\"><i>M. F. Morris, contra</i>.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This motion is denied. While the stipulation binds the parties to submit the cause without oral argument, there is nothing which requires this to be done at any particular time. Its terms will be fulfilled if the submission is made when the case is reached in its order. As no reference is made to rule 20, we cannot apply that rule to the case on the suggestion of one of the parties against the protest of the other.</p>\n    </div>\n    ", "id": 92101, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92101/", "sha1": "996f5a2a06c69ec30d0c78289c4f478f20a673f9", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:17"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "124 U.S. 123", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/92101/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Glenn v. Fant", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76481, 
+    "resource_uri": "/api/rest/v2/citation/76481/"
+  }, 
+  "id": 92101, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1888-01-09", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/124/124.US.123.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:05:17", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">124</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">123</span></span></p>\n    <p class=\"case_cite\">8 S.Ct. 398</p>\n    <p class=\"case_cite\">31 L.Ed. 352</p>\n    <p class=\"parties\">GLENN<br>v.<br>FANT.</p>\n    <p class=\"date\">January 9, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Chas. Marshall, Henry Wise Garnett</i>, and <i>Conway Robinson, Jr.</i>, for the motion.</p>\n      <p class=\"indent\"><i>M. F. Morris, contra</i>.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This motion is denied. While the stipulation binds the parties to submit the cause without oral argument, there is nothing which requires this to be done at any particular time. Its terms will be fulfilled if the submission is made when the case is reached in its order. As no reference is made to rule 20, we cannot apply that rule to the case on the suggestion of one of the parties against the protest of the other.</p>\n    </div>\n    ", 
+  "sha1": "996f5a2a06c69ec30d0c78289c4f478f20a673f9", 
+  "date_modified": "2014-12-21T01:30:26.697452", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92101/glenn-v-fant/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2227293/", 
+  "html": "<p class=\"case_cite\">124 U.S. 123</p>\n    <p class=\"case_cite\">8 S.Ct. 398</p>\n    <p class=\"case_cite\">31 L.Ed. 352</p>\n    <p class=\"parties\">GLENN<br>v.<br>FANT.</p>\n    <p class=\"date\">January 9, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Chas. Marshall, Henry Wise Garnett</i>, and <i>Conway Robinson, Jr.</i>, for the motion.</p>\n      <p class=\"indent\"><i>M. F. Morris, contra</i>.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This motion is denied. While the stipulation binds the parties to submit the cause without oral argument, there is nothing which requires this to be done at any particular time. Its terms will be fulfilled if the submission is made when the case is reached in its order. As no reference is made to rule 20, we cannot apply that rule to the case on the suggestion of one of the parties against the protest of the other.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92101/"
+}

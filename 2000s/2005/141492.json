@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/141492/maine-shipyard-marine-railway-inc-v-pnc-bank/", "blocked": false, "citation": {"case_name": "Maine Shipyard & Marine Railway, Inc. v. Pnc Bank Delaware, Inc.", "docket_number": "04-708", "document_uris": ["/api/rest/v2/document/141492/"], "federal_cite_one": "543 U.S. 1090", "federal_cite_three": null, "federal_cite_two": null, "id": 125845, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/125845/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-01-18", "date_modified": "2014-12-21T02:21:01.741532", "docket": "/api/rest/v2/docket/456124/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1090.04-708.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1090</p>\n    <p class=\"parties\">MAINE SHIPYARD &amp; MARINE RAILWAY, INC.<br>v.<br>PNC BANK DELAWARE, INC., ET AL.</p>\n    <p class=\"docket\">No. 04-708.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 381 F. 3d 183.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1090</span></span></p>\n    <p class=\"parties\">MAINE SHIPYARD &amp; MARINE RAILWAY, INC.<br>v.<br>PNC BANK DELAWARE, INC., ET AL.</p>\n    <p class=\"docket\">No. 04-708.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 381 F. 3d 183.</p>\n    </div>\n    ", "id": 141492, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/141492/", "sha1": "7c67f2d7a6816edfb5057b2604098d69db84135c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:33:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1090", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/141492/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Maine Shipyard & Marine Railway, Inc. v. Pnc Bank Delaware, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-708", 
+    "id": 125845, 
+    "resource_uri": "/api/rest/v2/citation/125845/"
+  }, 
+  "id": 141492, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-01-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1090.04-708.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:33:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1090</span></span></p>\n    <p class=\"parties\">MAINE SHIPYARD &amp; MARINE RAILWAY, INC.<br>v.<br>PNC BANK DELAWARE, INC., ET AL.</p>\n    <p class=\"docket\">No. 04-708.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 381 F. 3d 183.</p>\n    </div>\n    ", 
+  "sha1": "7c67f2d7a6816edfb5057b2604098d69db84135c", 
+  "date_modified": "2014-12-21T02:21:01.741532", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/141492/maine-shipyard-marine-railway-inc-v-pnc-bank/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/456124/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1090</p>\n    <p class=\"parties\">MAINE SHIPYARD &amp; MARINE RAILWAY, INC.<br>v.<br>PNC BANK DELAWARE, INC., ET AL.</p>\n    <p class=\"docket\">No. 04-708.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 381 F. 3d 183.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/141492/"
+}

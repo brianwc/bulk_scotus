@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117970/doe-john-and-jane-doe-v-kirchner-otakar-baby/", "blocked": false, "citation": {"case_name": "Doe, John and Jane Doe v. Kirchner, Otakar Baby Richard, a Minor, by His Guardian Ad Litem, Edward J. O'COnnell v. Kirchner, Otakar", "docket_number": "94-1644, 94-9087", "document_uris": ["/api/rest/v2/document/117970/"], "federal_cite_one": "515 U.S. 1152", "federal_cite_three": null, "federal_cite_two": null, "id": 102329, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/102329/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 27, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1995-06-19", "date_modified": "2014-12-21T02:14:39.762736", "docket": "/api/rest/v2/docket/652021/", "download_url": "http://bulk.resource.org/courts.gov/c/US/515/515.US.1152.94-9087.94-1644.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">515 U.S. 1152<br>115 S. Ct. 2599<br>115 S. Ct. 2600<br></p>\n    <p class=\"parties\">DOE, JOHN AND JANE DOE<br>v.<br> KIRCHNER, OTAKAR<br>BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL<br>v.<br> KIRCHNER, OTAKAR, ET AL.</p>\n    <p class=\"docket\">94-1644, 94-9087</p>\n    <p class=\"court\">SUPREME COURT OF THE UNITED STATES</p>\n    <p class=\"date\">June 19, 1995, Decided</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p>The motion of Yale University Child Study Center, et al. for leave to file a brief as amici curiae is granted. The motion of Governor of the State of Illinois for leave to file a brief as amicus curiae is granted. The motion of Paul Simon, et al. for leave to file a brief as amici curiae is granted. The motion of Catholic Adoptive Parents Association for leave to file a brief as amicus curiae in No. 94-9087 is granted. The petitions for writs of certiorari are denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">515</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1152</span></span><br><span class=\"citation no-link\"><span class=\"volume\">115</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">2599</span></span><br><span class=\"citation no-link\"><span class=\"volume\">115</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">2600</span></span><br></p>\n    <p class=\"parties\">DOE, JOHN AND JANE DOE<br>v.<br> KIRCHNER, OTAKAR<br>BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL<br>v.<br> KIRCHNER, OTAKAR, ET AL.</p>\n    <p class=\"docket\">94-1644, 94-9087</p>\n    <p class=\"court\">SUPREME COURT OF THE UNITED STATES</p>\n    <p class=\"date\">June 19, 1995, Decided</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p>The motion of Yale University Child Study Center, et al. for leave to file a brief as amici curiae is granted. The motion of Governor of the State of Illinois for leave to file a brief as amicus curiae is granted. The motion of Paul Simon, et al. for leave to file a brief as amici curiae is granted. The motion of Catholic Adoptive Parents Association for leave to file a brief as amicus curiae in No. 94-9087 is granted. The petitions for writs of certiorari are denied.</p>\n    </div>\n    ", "id": 117970, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117970/", "sha1": "f659fa11c8f7368a9900d0bf7405c6fff7e00284", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:19"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "515 U.S. 1152", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117970/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Doe, John and Jane Doe v. Kirchner, Otakar Baby Richard, a Minor, by His Guardian Ad Litem, Edward J. O'COnnell v. Kirchner, Otakar", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "94-1644, 94-9087", 
+    "id": 102329, 
+    "resource_uri": "/api/rest/v2/citation/102329/"
+  }, 
+  "id": 117970, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1995-06-19", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/515/515.US.1152.94-9087.94-1644.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:19", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">515</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1152</span></span><br><span class=\"citation no-link\"><span class=\"volume\">115</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">2599</span></span><br><span class=\"citation no-link\"><span class=\"volume\">115</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">2600</span></span><br></p>\n    <p class=\"parties\">DOE, JOHN AND JANE DOE<br>v.<br> KIRCHNER, OTAKAR<br>BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL<br>v.<br> KIRCHNER, OTAKAR, ET AL.</p>\n    <p class=\"docket\">94-1644, 94-9087</p>\n    <p class=\"court\">SUPREME COURT OF THE UNITED STATES</p>\n    <p class=\"date\">June 19, 1995, Decided</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p>The motion of Yale University Child Study Center, et al. for leave to file a brief as amici curiae is granted. The motion of Governor of the State of Illinois for leave to file a brief as amicus curiae is granted. The motion of Paul Simon, et al. for leave to file a brief as amici curiae is granted. The motion of Catholic Adoptive Parents Association for leave to file a brief as amicus curiae in No. 94-9087 is granted. The petitions for writs of certiorari are denied.</p>\n    </div>\n    ", 
+  "sha1": "f659fa11c8f7368a9900d0bf7405c6fff7e00284", 
+  "date_modified": "2014-12-21T02:14:39.762736", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117970/doe-john-and-jane-doe-v-kirchner-otakar-baby/", 
+  "citation_count": 27, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/652021/", 
+  "html": "<p class=\"case_cite\">515 U.S. 1152<br>115 S. Ct. 2599<br>115 S. Ct. 2600<br></p>\n    <p class=\"parties\">DOE, JOHN AND JANE DOE<br>v.<br> KIRCHNER, OTAKAR<br>BABY RICHARD, A MINOR, BY HIS GUARDIAN AD LITEM, EDWARD J. O'CONNELL<br>v.<br> KIRCHNER, OTAKAR, ET AL.</p>\n    <p class=\"docket\">94-1644, 94-9087</p>\n    <p class=\"court\">SUPREME COURT OF THE UNITED STATES</p>\n    <p class=\"date\">June 19, 1995, Decided</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p>The motion of Yale University Child Study Center, et al. for leave to file a brief as amici curiae is granted. The motion of Governor of the State of Illinois for leave to file a brief as amicus curiae is granted. The motion of Paul Simon, et al. for leave to file a brief as amici curiae is granted. The motion of Catholic Adoptive Parents Association for leave to file a brief as amicus curiae in No. 94-9087 is granted. The petitions for writs of certiorari are denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117970/"
+}

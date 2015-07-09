@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136154/woodruff-v-maine-department-of-human-services/", "blocked": false, "citation": {"case_name": "Woodruff v. Maine Department of Human Services", "docket_number": "03-9200", "document_uris": ["/api/rest/v2/document/136154/"], "federal_cite_one": "541 U.S. 1033", "federal_cite_three": null, "federal_cite_two": null, "id": 120507, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120507/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-05-03", "date_modified": "2014-12-21T02:20:08.043508", "docket": "/api/rest/v2/docket/579985/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1033.03-9200.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1033</p>\n    <p class=\"parties\">WOODRUFF<br>v.<br>MAINE DEPARTMENT OF HUMAN SERVICES.</p>\n    <p class=\"docket\">No. 03-9200.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 3, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Me. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1033</span></span></p>\n    <p class=\"parties\">WOODRUFF<br>v.<br>MAINE DEPARTMENT OF HUMAN SERVICES.</p>\n    <p class=\"docket\">No. 03-9200.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 3, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Me. Certiorari denied.</p>\n    </div>\n    ", "id": 136154, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136154/", "sha1": "48821b9dd5f4eea0ba4e8f8d47b8e08bd6fc7724", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1033", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136154/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Woodruff v. Maine Department of Human Services", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9200", 
+    "id": 120507, 
+    "resource_uri": "/api/rest/v2/citation/120507/"
+  }, 
+  "id": 136154, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-05-03", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1033.03-9200.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1033</span></span></p>\n    <p class=\"parties\">WOODRUFF<br>v.<br>MAINE DEPARTMENT OF HUMAN SERVICES.</p>\n    <p class=\"docket\">No. 03-9200.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 3, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Me. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "48821b9dd5f4eea0ba4e8f8d47b8e08bd6fc7724", 
+  "date_modified": "2014-12-21T02:20:08.043508", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136154/woodruff-v-maine-department-of-human-services/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/579985/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1033</p>\n    <p class=\"parties\">WOODRUFF<br>v.<br>MAINE DEPARTMENT OF HUMAN SERVICES.</p>\n    <p class=\"docket\">No. 03-9200.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 3, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Me. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136154/"
+}

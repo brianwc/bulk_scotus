@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1303496/stille-v-lynch/", "blocked": false, "citation": {"case_name": "Stille v. Lynch", "docket_number": null, "document_uris": ["/api/rest/v2/document/1303496/"], "federal_cite_one": "2 U.S. 194", "federal_cite_three": null, "federal_cite_two": null, "id": 1276267, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1276267/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1792-09-01", "date_modified": "2014-10-30T10:47:30.477838", "docket": "/api/rest/v2/docket/1573678/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 194 (____)</b></center>\n<center><b>2 Dall. 194</b></center>\n<center><h1>STILLE<br>\nversus<br>\nLYNCH.<sup>[*]</sup></h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>But it was ruled by THE COURT, that Lynch could not be a witness in this case; as he was offered, in fact, to invalidate his own instrument. 1 Term. Rep. 599.</p>\n<h2>NOTES</h2>\n<p>[*]  This case was decided at Philadelphia, Nisi Prius, held in November 1791, before the CHIEF JUSTICE, SHIPPEN and BRADFORD, Justices.</p>\n\n</div>", "html_with_citations": "", "id": 1303496, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1303496/", "sha1": "f281166b5eb2094d6c269ea3f4d1e373bdfbb586", "source": "L", "time_retrieved": "2013-10-29T22:24:35.784557"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 194", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1303496/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Stille v. Lynch", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1276267, 
+    "resource_uri": "/api/rest/v2/citation/1276267/"
+  }, 
+  "id": 1303496, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1792-09-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 194 (____)</b></center>\n<center><b>2 Dall. 194</b></center>\n<center><h1>STILLE<br>\nversus<br>\nLYNCH.<sup>[*]</sup></h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>But it was ruled by THE COURT, that Lynch could not be a witness in this case; as he was offered, in fact, to invalidate his own instrument. 1 Term. Rep. 599.</p>\n<h2>NOTES</h2>\n<p>[*]  This case was decided at Philadelphia, Nisi Prius, held in November 1791, before the CHIEF JUSTICE, SHIPPEN and BRADFORD, Justices.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T22:24:35.784557", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "f281166b5eb2094d6c269ea3f4d1e373bdfbb586", 
+  "date_modified": "2014-10-30T10:47:30.477838", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1303496/stille-v-lynch/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1573678/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1303496/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1525043/walker-v-wainwright/", "blocked": false, "citation": {"case_name": "Walker v. Wainwright", "docket_number": "354, Misc", "document_uris": ["/api/rest/v2/document/1525043/"], "federal_cite_one": "387 U.S. 236", "federal_cite_three": null, "federal_cite_two": null, "id": 1497814, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1497814/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-05-22", "date_modified": "2014-10-30T17:46:15.225910", "docket": "/api/rest/v2/docket/2570052/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>387 U.S. 236 (1967)</b></center>\n<center><h1>WALKER<br>\nv.<br>\nWAINWRIGHT, CORRECTIONS DIRECTOR.</h1></center>\n<center>No. 354, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 22, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF FLORIDA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Earl Faircloth,</i> Attorney General of Florida, and <i>Stanley D. Kupiszewski, Jr.,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Florida for further consideration in light of <i>Anders</i> v. <i>California,</i> 386 U. S. 738.</p>\n<p>MR. JUSTICE BLACK, MR. JUSTICE HARLAN, and MR. JUSTICE STEWART are of the opinion that certiorari should be denied.</p>\n</div>", "html_with_citations": "", "id": 1525043, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1525043/", "sha1": "85b5577a6505c74281f1c50e64a46357fb2c6340", "source": "L", "time_retrieved": "2013-10-29T23:34:51.394367"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "387 U.S. 236", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1525043/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Walker v. Wainwright", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "354, Misc", 
+    "id": 1497814, 
+    "resource_uri": "/api/rest/v2/citation/1497814/"
+  }, 
+  "id": 1525043, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-05-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>387 U.S. 236 (1967)</b></center>\n<center><h1>WALKER<br>\nv.<br>\nWAINWRIGHT, CORRECTIONS DIRECTOR.</h1></center>\n<center>No. 354, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 22, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF FLORIDA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Earl Faircloth,</i> Attorney General of Florida, and <i>Stanley D. Kupiszewski, Jr.,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Florida for further consideration in light of <i>Anders</i> v. <i>California,</i> 386 U. S. 738.</p>\n<p>MR. JUSTICE BLACK, MR. JUSTICE HARLAN, and MR. JUSTICE STEWART are of the opinion that certiorari should be denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:34:51.394367", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "85b5577a6505c74281f1c50e64a46357fb2c6340", 
+  "date_modified": "2014-10-30T17:46:15.225910", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1525043/walker-v-wainwright/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2570052/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1525043/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620847/waters-executors-v-mclellan/", "blocked": false, "citation": {"case_name": "Water's Executors v. McLellan", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620847/"], "federal_cite_one": "4 U.S. 208", "federal_cite_three": null, "federal_cite_two": null, "id": 2593619, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593619/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1800-03-01", "date_modified": "2014-10-29T22:59:19.262435", "docket": "/api/rest/v2/docket/24859/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 208 (____)</b></center>\n<center><b>4 Dall. 208</b></center>\n<center><h1>Water's Executors<br>\nversus<br>\nM`Clellan et al.<sup>[(2)]</sup>.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>SHIPPEN, Chief Justice.</p>\n<p>1st. It is incumbent on the plaintiff, to prove his property in the goods, which were taken by the sheriff; and to do this, he has produced evidence of a former distress and sale, of the same goods, for rent due from Dewees to him. But the defendants answer, that the distress was fraudulent; because (among other reasons) the goods were left in the possession of the debtor. In the case of a voluntary sale of goods, the law, both in Pennsylvania and England, regards the continuance of the debtor's possession, as a badge of fraud. In England, the law is the same, where the sale is made by the sheriff; but in Pennsylvania a different rule, in that case, has prevailed; and where a relation, or friend, after a fair purchase, at public sale, leaves the goods in the occupancy and use of the debtor, it never has been deemed a fraud upon creditors. As, therefore, the purchase, on the present occasion, was not by a private bill of sale; but at an open, public, vendue; the continued possession <span class=\"star-pagination\">*209</span> by Dewees does not, in the opinion of the Court, justify the defendant's taking and sale.<sup>[(3)]</sup></p>\n<p>2d. It has been objected, for the defendants, that the plaintiff was bound to show, that the distress was made on the premises; whereas, at least, a part of the goods appears to have been distrained elsewhere. However available this objection might have been upon a replevin, between the original parties, we do not think, that third persons can take advantage of it.</p>\n<p>3d. It is urged, that there were a number of young cattle taken on the distress; and that as these have been fed, and reared, by the care and cost of Dewees, he had acquired a property in their increased value. Of the truth and operation of this allegation, the jury will consider: and, if they are of opinion, that the expense of maintaining, has exceeded a fair compensation for the use of the cattle, they will make a reasonable deduction from the plaintiff's demand.</p>\n<p>Verdict for the plaintiff.</p>\n<h2>NOTES</h2>\n<p>[(2)]  Tried in the Circuit Court, West-Chester, 29th of May 1800, before SUIPPEN, Chief Justice, and YEATES, Justice.</p>\n<p>[(3)]  The defendant's counsel cited the following cases on this point: 3 Co. 81. 2 T. Rep. 594, 5, 6. 1 Wils. 44. But see Levy v. Wallis, ante, p. 167, 8. Chancellor v. Phillips, post. The United States v. Cunningham, post.</p>\n\n</div>", "html_with_citations": "", "id": 2620847, "judges": "Shippen", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620847/", "sha1": "775179c0622051b4aadacb7baab5b32181085fc3", "source": "L", "time_retrieved": "2013-11-01T12:28:59.596409"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 208", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620847/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Water's Executors v. McLellan", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593619, 
+    "resource_uri": "/api/rest/v2/citation/2593619/"
+  }, 
+  "id": 2620847, 
+  "blocked": false, 
+  "judges": "Shippen", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1800-03-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 208 (____)</b></center>\n<center><b>4 Dall. 208</b></center>\n<center><h1>Water's Executors<br>\nversus<br>\nM`Clellan et al.<sup>[(2)]</sup>.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>SHIPPEN, Chief Justice.</p>\n<p>1st. It is incumbent on the plaintiff, to prove his property in the goods, which were taken by the sheriff; and to do this, he has produced evidence of a former distress and sale, of the same goods, for rent due from Dewees to him. But the defendants answer, that the distress was fraudulent; because (among other reasons) the goods were left in the possession of the debtor. In the case of a voluntary sale of goods, the law, both in Pennsylvania and England, regards the continuance of the debtor's possession, as a badge of fraud. In England, the law is the same, where the sale is made by the sheriff; but in Pennsylvania a different rule, in that case, has prevailed; and where a relation, or friend, after a fair purchase, at public sale, leaves the goods in the occupancy and use of the debtor, it never has been deemed a fraud upon creditors. As, therefore, the purchase, on the present occasion, was not by a private bill of sale; but at an open, public, vendue; the continued possession <span class=\"star-pagination\">*209</span> by Dewees does not, in the opinion of the Court, justify the defendant's taking and sale.<sup>[(3)]</sup></p>\n<p>2d. It has been objected, for the defendants, that the plaintiff was bound to show, that the distress was made on the premises; whereas, at least, a part of the goods appears to have been distrained elsewhere. However available this objection might have been upon a replevin, between the original parties, we do not think, that third persons can take advantage of it.</p>\n<p>3d. It is urged, that there were a number of young cattle taken on the distress; and that as these have been fed, and reared, by the care and cost of Dewees, he had acquired a property in their increased value. Of the truth and operation of this allegation, the jury will consider: and, if they are of opinion, that the expense of maintaining, has exceeded a fair compensation for the use of the cattle, they will make a reasonable deduction from the plaintiff's demand.</p>\n<p>Verdict for the plaintiff.</p>\n<h2>NOTES</h2>\n<p>[(2)]  Tried in the Circuit Court, West-Chester, 29th of May 1800, before SUIPPEN, Chief Justice, and YEATES, Justice.</p>\n<p>[(3)]  The defendant's counsel cited the following cases on this point: 3 Co. 81. 2 T. Rep. 594, 5, 6. 1 Wils. 44. But see Levy v. Wallis, ante, p. 167, 8. Chancellor v. Phillips, post. The United States v. Cunningham, post.</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T12:28:59.596409", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "775179c0622051b4aadacb7baab5b32181085fc3", 
+  "date_modified": "2014-10-29T22:59:19.262435", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620847/waters-executors-v-mclellan/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/24859/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620847/"
+}

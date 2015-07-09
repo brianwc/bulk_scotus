@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620845/blair-v-miller/", "blocked": false, "citation": {"case_name": "Blair v. Miller", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620845/"], "federal_cite_one": "4 U.S. 21", "federal_cite_three": null, "federal_cite_two": null, "id": 2593617, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593617/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1800-02-01", "date_modified": "2014-10-29T22:59:19.249169", "docket": "/api/rest/v2/docket/24858/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 21 (____)</b></center>\n<center><b>4 Dall. 21</b></center>\n<center><h1>Blair et al. Plaintiffs in Error,<br>\nversus<br>\nMiller et al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>By the COURT:</p>\n<p>The writ has become a nullity, because it was not returned at the proper term. It cannot, of course, be a legal instrument, to bring the record of the Circuit Court before us for revision.<sup>[(1)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  See post. 22. Course v. Stead et al.</p>\n\n</div>", "html_with_citations": "", "id": 2620845, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620845/", "sha1": "98ffb55442561646e6683d46ec1512c1e385445e", "source": "L", "time_retrieved": "2013-11-01T12:27:03.294824"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 21", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620845/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Blair v. Miller", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593617, 
+    "resource_uri": "/api/rest/v2/citation/2593617/"
+  }, 
+  "id": 2620845, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1800-02-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 21 (____)</b></center>\n<center><b>4 Dall. 21</b></center>\n<center><h1>Blair et al. Plaintiffs in Error,<br>\nversus<br>\nMiller et al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>By the COURT:</p>\n<p>The writ has become a nullity, because it was not returned at the proper term. It cannot, of course, be a legal instrument, to bring the record of the Circuit Court before us for revision.<sup>[(1)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  See post. 22. Course v. Stead et al.</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T12:27:03.294824", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "98ffb55442561646e6683d46ec1512c1e385445e", 
+  "date_modified": "2014-10-29T22:59:19.249169", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620845/blair-v-miller/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/24858/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620845/"
+}

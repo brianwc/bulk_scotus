@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1290489/mckenzie-adams-v-connecticut/", "blocked": false, "citation": {"case_name": "McKenzie-Adams v. Connecticut", "docket_number": "07-53", "document_uris": ["/api/rest/v2/document/1290489/"], "federal_cite_one": "128 S. Ct. 248", "federal_cite_three": null, "federal_cite_two": null, "id": 1263260, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1263260/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 34, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-10-01", "date_modified": "2015-02-24T06:52:32.175118", "docket": "/api/rest/v2/docket/388110/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>128 S.Ct. 248 (2007)</b></center>\n<center><h1>Van Clifton McKENZIE-ADAMS, petitioner,<br>\nv.<br>\nCONNECTICUT.</h1></center>\n<center>No. 07-53.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p>Petition for writ of certiorari to the Supreme Court of Connecticut denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b>128 S.Ct. 248 (2007)</b></center>\n<center><h1>Van Clifton McKENZIE-ADAMS, petitioner,<br>\nv.<br>\nCONNECTICUT.</h1></center>\n<center>No. 07-53.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p>Petition for writ of certiorari to the Supreme Court of Connecticut denied.</p>\n</div>", "id": 1290489, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1290489/", "sha1": "4cda8c3e5ab7b85a1656cc5e657edb6b9aa94644", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T22:22:04.597860"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "128 S. Ct. 248", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1290489/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "McKenzie-Adams v. Connecticut", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "07-53", 
+    "id": 1263260, 
+    "resource_uri": "/api/rest/v2/citation/1263260/"
+  }, 
+  "id": 1290489, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-10-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>128 S.Ct. 248 (2007)</b></center>\n<center><h1>Van Clifton McKENZIE-ADAMS, petitioner,<br>\nv.<br>\nCONNECTICUT.</h1></center>\n<center>No. 07-53.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p>Petition for writ of certiorari to the Supreme Court of Connecticut denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:22:04.597860", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b>128 S.Ct. 248 (2007)</b></center>\n<center><h1>Van Clifton McKENZIE-ADAMS, petitioner,<br>\nv.<br>\nCONNECTICUT.</h1></center>\n<center>No. 07-53.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p>Petition for writ of certiorari to the Supreme Court of Connecticut denied.</p>\n</div>", 
+  "sha1": "4cda8c3e5ab7b85a1656cc5e657edb6b9aa94644", 
+  "date_modified": "2015-02-24T06:52:32.175118", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1290489/mckenzie-adams-v-connecticut/", 
+  "citation_count": 34, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/388110/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1290489/"
+}

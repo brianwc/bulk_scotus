@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/139617/bronson-v-beard-secretary-pennsylvania/", "blocked": false, "citation": {"case_name": "Bronson v. Beard, Secretary, Pennsylvania Department of Corrections", "docket_number": "04-5815", "document_uris": ["/api/rest/v2/document/139617/"], "federal_cite_one": "543 U.S. 944", "federal_cite_three": null, "federal_cite_two": null, "id": 123970, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/123970/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-10-18", "date_modified": "2014-12-21T02:20:50.089084", "docket": "/api/rest/v2/docket/2178621/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.944.04-5815.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 944</p>\n    <p class=\"parties\">BRONSON<br>v.<br>BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-5815.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 18, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Pa. Certiorari denied. Reported below: 577 Pa. 653, 848 A. 2d 917.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"parties\">BRONSON<br>v.<br>BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-5815.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 18, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Pa. Certiorari denied. Reported below: <span class=\"citation no-link\"><span class=\"volume\">577</span> <span class=\"reporter\">Pa.</span> <span class=\"page\">653</span></span>, 848 A. 2d 917.</p>\n    </div>\n    ", "id": 139617, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/139617/", "sha1": "cfb992c21acbb2e5bf3d91df65eb2d241c74092c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:32:57"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 944", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/139617/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bronson v. Beard, Secretary, Pennsylvania Department of Corrections", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-5815", 
+    "id": 123970, 
+    "resource_uri": "/api/rest/v2/citation/123970/"
+  }, 
+  "id": 139617, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-10-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.944.04-5815.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:32:57", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"parties\">BRONSON<br>v.<br>BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-5815.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 18, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Pa. Certiorari denied. Reported below: <span class=\"citation no-link\"><span class=\"volume\">577</span> <span class=\"reporter\">Pa.</span> <span class=\"page\">653</span></span>, 848 A. 2d 917.</p>\n    </div>\n    ", 
+  "sha1": "cfb992c21acbb2e5bf3d91df65eb2d241c74092c", 
+  "date_modified": "2014-12-21T02:20:50.089084", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/139617/bronson-v-beard-secretary-pennsylvania/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2178621/", 
+  "html": "<p class=\"case_cite\">543 U.S. 944</p>\n    <p class=\"parties\">BRONSON<br>v.<br>BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-5815.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 18, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Pa. Certiorari denied. Reported below: 577 Pa. 653, 848 A. 2d 917.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/139617/"
+}

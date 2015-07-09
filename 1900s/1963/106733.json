@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106733/jan-emil-donato-petitioner-v-united-states/", "blocked": false, "citation": {"case_name": "Jan Emil Donato v. United States", "docket_number": "1017", "document_uris": ["/api/rest/v2/document/106733/"], "federal_cite_one": "375 U.S. 871", "federal_cite_three": null, "federal_cite_two": null, "id": 91116, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91116/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-10-14", "date_modified": "2014-12-21T01:53:41.919794", "docket": "/api/rest/v2/docket/2348774/", "download_url": "http://bulk.resource.org/courts.gov/c/US/375/375.US.871.1017.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">375 U.S. 871</p>\n    <p class=\"case_cite\">84 S.Ct. 29</p>\n    <p class=\"case_cite\">11 L.Ed.2d 100</p>\n    <p class=\"parties\">Jan Emil DONATO, petitioner,<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 1017.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1962.</p>\n    <p class=\"date\">October 14, 1963</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for rehearing is denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">871</span></span></p>\n    <p class=\"case_cite\">84 S.Ct. 29</p>\n    <p class=\"case_cite\">11 L.Ed.2d 100</p>\n    <p class=\"parties\">Jan Emil DONATO, petitioner,<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 1017.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1962.</p>\n    <p class=\"date\">October 14, 1963</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for rehearing is denied.</p>\n    </div>\n    ", "id": 106733, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106733/", "sha1": "eedbdabe8e5f8d21c3e57135d207fa8e75c7378b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:47"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 871", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/106733/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jan Emil Donato v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1017", 
+    "id": 91116, 
+    "resource_uri": "/api/rest/v2/citation/91116/"
+  }, 
+  "id": 106733, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-10-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/375/375.US.871.1017.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:47", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">871</span></span></p>\n    <p class=\"case_cite\">84 S.Ct. 29</p>\n    <p class=\"case_cite\">11 L.Ed.2d 100</p>\n    <p class=\"parties\">Jan Emil DONATO, petitioner,<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 1017.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1962.</p>\n    <p class=\"date\">October 14, 1963</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for rehearing is denied.</p>\n    </div>\n    ", 
+  "sha1": "eedbdabe8e5f8d21c3e57135d207fa8e75c7378b", 
+  "date_modified": "2014-12-21T01:53:41.919794", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106733/jan-emil-donato-petitioner-v-united-states/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2348774/", 
+  "html": "<p class=\"case_cite\">375 U.S. 871</p>\n    <p class=\"case_cite\">84 S.Ct. 29</p>\n    <p class=\"case_cite\">11 L.Ed.2d 100</p>\n    <p class=\"parties\">Jan Emil DONATO, petitioner,<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 1017.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1962.</p>\n    <p class=\"date\">October 14, 1963</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for rehearing is denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106733/"
+}

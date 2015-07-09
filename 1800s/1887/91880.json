@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/91880/marsh-and-others-v-nichols-and-others-1/", "blocked": false, "citation": {"case_name": "Marsh and Others v. Nichols and Others. 1", "docket_number": null, "document_uris": ["/api/rest/v2/document/91880/"], "federal_cite_one": "120 U.S. 595", "federal_cite_three": null, "federal_cite_two": null, "id": 76260, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76260/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1887-03-14", "date_modified": "2014-12-21T01:30:16.579209", "docket": "/api/rest/v2/docket/27899/", "download_url": "http://bulk.resource.org/courts.gov/c/US/120/120.US.595.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">120 U.S. 595</p>\n    <p class=\"case_cite\">7 S.Ct. 704</p>\n    <p class=\"case_cite\">30 L.Ed. 794</p>\n    <p class=\"parties\">MARSH and others<br>v.<br>NICHOLS and others.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">March 14, 1887.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Statement of Case from pages 595-597 intentionally omitted]</p>\n      <p class=\"indent\"><i>E. J. Hill</i>, for the motion.</p>\n      <p class=\"indent\"><i>R. A. Parker</i> and <i>Don M. Dickinson</i>, in opposition.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This motion is denied. The sole ground of the application is that since the appeal the supreme court of Michigan has, in a suit between the same parties, enjoined these appellants from making any claim against the appellee for the use of the patented invention which is the subject-matter of the suit, and has required them to release all the claims and demands which they have been prosecuting. Marsh and Le Fever oppose this motion, and Scott has no right to dismiss for them.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> See 15 Fed. Rep. 914.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">120</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">595</span></span></p>\n    <p class=\"case_cite\">7 S.Ct. 704</p>\n    <p class=\"case_cite\">30 L.Ed. 794</p>\n    <p class=\"parties\">MARSH and others<br>v.<br>NICHOLS and others.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">March 14, 1887.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Statement of Case from pages 595-597 intentionally omitted]</p>\n      <p class=\"indent\"><i>E. J. Hill</i>, for the motion.</p>\n      <p class=\"indent\"><i>R. A. Parker</i> and <i>Don M. Dickinson</i>, in opposition.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This motion is denied. The sole ground of the application is that since the appeal the supreme court of Michigan has, in a suit between the same parties, enjoined these appellants from making any claim against the appellee for the use of the patented invention which is the subject-matter of the suit, and has required them to release all the claims and demands which they have been prosecuting. Marsh and Le Fever oppose this motion, and Scott has no right to dismiss for them.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> See 15 Fed. Rep. 914.</p>\n      </div>\n    </div>\n    ", "id": 91880, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/91880/", "sha1": "5e5e4b9d71ad61d8ebe13881b1d170bc59423400", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:05"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "120 U.S. 595", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/91880/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Marsh and Others v. Nichols and Others. 1", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76260, 
+    "resource_uri": "/api/rest/v2/citation/76260/"
+  }, 
+  "id": 91880, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1887-03-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/120/120.US.595.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:05:05", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">120</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">595</span></span></p>\n    <p class=\"case_cite\">7 S.Ct. 704</p>\n    <p class=\"case_cite\">30 L.Ed. 794</p>\n    <p class=\"parties\">MARSH and others<br>v.<br>NICHOLS and others.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">March 14, 1887.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Statement of Case from pages 595-597 intentionally omitted]</p>\n      <p class=\"indent\"><i>E. J. Hill</i>, for the motion.</p>\n      <p class=\"indent\"><i>R. A. Parker</i> and <i>Don M. Dickinson</i>, in opposition.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This motion is denied. The sole ground of the application is that since the appeal the supreme court of Michigan has, in a suit between the same parties, enjoined these appellants from making any claim against the appellee for the use of the patented invention which is the subject-matter of the suit, and has required them to release all the claims and demands which they have been prosecuting. Marsh and Le Fever oppose this motion, and Scott has no right to dismiss for them.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> See 15 Fed. Rep. 914.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "5e5e4b9d71ad61d8ebe13881b1d170bc59423400", 
+  "date_modified": "2014-12-21T01:30:16.579209", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/91880/marsh-and-others-v-nichols-and-others-1/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/27899/", 
+  "html": "<p class=\"case_cite\">120 U.S. 595</p>\n    <p class=\"case_cite\">7 S.Ct. 704</p>\n    <p class=\"case_cite\">30 L.Ed. 794</p>\n    <p class=\"parties\">MARSH and others<br>v.<br>NICHOLS and others.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">March 14, 1887.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Statement of Case from pages 595-597 intentionally omitted]</p>\n      <p class=\"indent\"><i>E. J. Hill</i>, for the motion.</p>\n      <p class=\"indent\"><i>R. A. Parker</i> and <i>Don M. Dickinson</i>, in opposition.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This motion is denied. The sole ground of the application is that since the appeal the supreme court of Michigan has, in a suit between the same parties, enjoined these appellants from making any claim against the appellee for the use of the patented invention which is the subject-matter of the suit, and has required them to release all the claims and demands which they have been prosecuting. Marsh and Le Fever oppose this motion, and Scott has no right to dismiss for them.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> See 15 Fed. Rep. 914.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/91880/"
+}

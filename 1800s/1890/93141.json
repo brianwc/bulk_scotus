@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/93141/united-state-v-griffith/", "blocked": false, "citation": {"case_name": "United State v. Griffith", "docket_number": null, "document_uris": ["/api/rest/v2/document/93141/"], "federal_cite_one": "141 U.S. 212", "federal_cite_three": null, "federal_cite_two": null, "id": 77521, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/77521/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1890-12-08", "date_modified": "2014-12-21T01:31:18.940231", "docket": "/api/rest/v2/docket/311323/", "download_url": "http://bulk.resource.org/courts.gov/c/US/141/141.US.212.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">141 U.S. 212</p>\n    <p class=\"case_cite\">11 S.Ct. 1005</p>\n    <p class=\"case_cite\">35 L.Ed. 719</p>\n    <p class=\"parties\">UNITED STATE<br>v.<br>GRIFFITH.</p>\n    <p class=\"date\">December 8, 1890.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Maury</i>, for the motion.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion by appellant for leave to dismiss its appeal in this cause is accompanied by certain correspondence which is referred to asstating the grounds on which the motion is made. We cannot be called upon the examine into these papers for the purpose of arriving at a conclusion as to whether the dismissal is justifiable or not, and must decline to permit them to be filed, and to thereby leave it to be inferred hereafter that we may have acted upon them. Appellant undoubtedly has the right to dismiss its appeal with the leave of the court, and may renew its motion to that effect, unaccompanied by other matter, and the order of dismissal will be entered. Mr. Asst. Atty. Gen. Maury thereupon withdrew the papers, and renewed the motion without them, and the appeal was ordered to be dismissed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">141</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">212</span></span></p>\n    <p class=\"case_cite\">11 S.Ct. 1005</p>\n    <p class=\"case_cite\">35 L.Ed. 719</p>\n    <p class=\"parties\">UNITED STATE<br>v.<br>GRIFFITH.</p>\n    <p class=\"date\">December 8, 1890.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Maury</i>, for the motion.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion by appellant for leave to dismiss its appeal in this cause is accompanied by certain correspondence which is referred to asstating the grounds on which the motion is made. We cannot be called upon the examine into these papers for the purpose of arriving at a conclusion as to whether the dismissal is justifiable or not, and must decline to permit them to be filed, and to thereby leave it to be inferred hereafter that we may have acted upon them. Appellant undoubtedly has the right to dismiss its appeal with the leave of the court, and may renew its motion to that effect, unaccompanied by other matter, and the order of dismissal will be entered. Mr. Asst. Atty. Gen. Maury thereupon withdrew the papers, and renewed the motion without them, and the appeal was ordered to be dismissed.</p>\n    </div>\n    ", "id": 93141, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/93141/", "sha1": "699a95d3cb6ec6a5be1734b91f791b5310e1c7ec", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:06:57"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "141 U.S. 212", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/93141/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United State v. Griffith", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 77521, 
+    "resource_uri": "/api/rest/v2/citation/77521/"
+  }, 
+  "id": 93141, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1890-12-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/141/141.US.212.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:06:57", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">141</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">212</span></span></p>\n    <p class=\"case_cite\">11 S.Ct. 1005</p>\n    <p class=\"case_cite\">35 L.Ed. 719</p>\n    <p class=\"parties\">UNITED STATE<br>v.<br>GRIFFITH.</p>\n    <p class=\"date\">December 8, 1890.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Maury</i>, for the motion.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion by appellant for leave to dismiss its appeal in this cause is accompanied by certain correspondence which is referred to asstating the grounds on which the motion is made. We cannot be called upon the examine into these papers for the purpose of arriving at a conclusion as to whether the dismissal is justifiable or not, and must decline to permit them to be filed, and to thereby leave it to be inferred hereafter that we may have acted upon them. Appellant undoubtedly has the right to dismiss its appeal with the leave of the court, and may renew its motion to that effect, unaccompanied by other matter, and the order of dismissal will be entered. Mr. Asst. Atty. Gen. Maury thereupon withdrew the papers, and renewed the motion without them, and the appeal was ordered to be dismissed.</p>\n    </div>\n    ", 
+  "sha1": "699a95d3cb6ec6a5be1734b91f791b5310e1c7ec", 
+  "date_modified": "2014-12-21T01:31:18.940231", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/93141/united-state-v-griffith/", 
+  "citation_count": 5, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/311323/", 
+  "html": "<p class=\"case_cite\">141 U.S. 212</p>\n    <p class=\"case_cite\">11 S.Ct. 1005</p>\n    <p class=\"case_cite\">35 L.Ed. 719</p>\n    <p class=\"parties\">UNITED STATE<br>v.<br>GRIFFITH.</p>\n    <p class=\"date\">December 8, 1890.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Maury</i>, for the motion.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion by appellant for leave to dismiss its appeal in this cause is accompanied by certain correspondence which is referred to asstating the grounds on which the motion is made. We cannot be called upon the examine into these papers for the purpose of arriving at a conclusion as to whether the dismissal is justifiable or not, and must decline to permit them to be filed, and to thereby leave it to be inferred hereafter that we may have acted upon them. Appellant undoubtedly has the right to dismiss its appeal with the leave of the court, and may renew its motion to that effect, unaccompanied by other matter, and the order of dismissal will be entered. Mr. Asst. Atty. Gen. Maury thereupon withdrew the papers, and renewed the motion without them, and the appeal was ordered to be dismissed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/93141/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2681535/williams-v-johnson/", "blocked": false, "citation": {"case_name": "Williams v. Johnson", "docket_number": "13-9085", "document_uris": ["/api/rest/v2/document/2681535/"], "federal_cite_one": "", "federal_cite_three": "", "federal_cite_two": "", "id": 2654307, "lexis_cite": "2014 U.S. LEXIS 4680", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2654307/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2014-07-01", "date_modified": "2014-12-20T11:26:55.062584", "docket": "/api/rest/v2/docket/357611/", "download_url": "http://www.supremecourt.gov/opinions/13pdf/13-9085_q4kp.pdf", "extracted_by_ocr": false, "html": null, "html_lawbox": null, "html_with_citations": "", "id": 2681535, "judges": "", "local_path": "pdf/2014/07/01/williams_v._johnson.pdf", "nature_of_suit": "", "plain_text": "                 Cite as: 573 U. S. ____ (2014)                  1\n\n                          Per Curiam\n\nSUPREME COURT OF THE UNITED STATES\n     TARA SHENEVA WILLIAMS v. DEBORAH K. \n\n           JOHNSON, ACTING WARDEN\n\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT\n\n              No. 13–9085. Decided July 1, 2014\n\n\n   PER CURIAM.\n   The motion for leave to proceed in forma pauperis and\nthe petition for a writ of certiorari are granted. The judg-\nment of the United States Court of Appeals for the Ninth\nCircuit is vacated, and the case is remanded for considera-\ntion of petitioner’s Sixth Amendment claim under the\nstandard set forth in 28 U. S. C. §2254(d).\n\n                                                  It is so ordered.\n", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2681535/", "sha1": "c172052201332f1e1c53bc6c4c6ae90e518c99cf", "source": "C", "supreme_court_db_id": "2013-072", "time_retrieved": "2014-07-01T08:00:59.004129"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": "", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "", 
+    "lexis_cite": "2014 U.S. LEXIS 4680", 
+    "document_uris": [
+      "/api/rest/v2/document/2681535/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Williams v. Johnson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "13-9085", 
+    "id": 2654307, 
+    "resource_uri": "/api/rest/v2/citation/2654307/"
+  }, 
+  "id": 2681535, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2014-07-01", 
+  "download_url": "http://www.supremecourt.gov/opinions/13pdf/13-9085_q4kp.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2014/07/01/williams_v._johnson.pdf", 
+  "html_lawbox": null, 
+  "time_retrieved": "2014-07-01T08:00:59.004129", 
+  "nature_of_suit": "", 
+  "plain_text": "                 Cite as: 573 U. S. ____ (2014)                  1\n\n                          Per Curiam\n\nSUPREME COURT OF THE UNITED STATES\n     TARA SHENEVA WILLIAMS v. DEBORAH K. \n\n           JOHNSON, ACTING WARDEN\n\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT\n\n              No. 13\u20139085. Decided July 1, 2014\n\n\n   PER CURIAM.\n   The motion for leave to proceed in forma pauperis and\nthe petition for a writ of certiorari are granted. The judg-\nment of the United States Court of Appeals for the Ninth\nCircuit is vacated, and the case is remanded for considera-\ntion of petitioner\u2019s Sixth Amendment claim under the\nstandard set forth in 28 U. S. C. \u00a72254(d).\n\n                                                  It is so ordered.\n", 
+  "html_with_citations": "", 
+  "sha1": "c172052201332f1e1c53bc6c4c6ae90e518c99cf", 
+  "date_modified": "2014-12-20T11:26:55.062584", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2681535/williams-v-johnson/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": "2013-072", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/357611/", 
+  "html": null, 
+  "resource_uri": "/api/rest/v2/document/2681535/"
+}

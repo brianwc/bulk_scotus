@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107443/american-trucking-assns-inc-v-united-states/", "blocked": false, "citation": {"case_name": "American Trucking Assns., Inc. v. United States", "docket_number": "1046", "document_uris": ["/api/rest/v2/document/107443/"], "federal_cite_one": "387 U.S. 93", "federal_cite_three": null, "federal_cite_two": null, "id": 91802, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91802/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-05-15", "date_modified": "2014-12-21T01:55:24.697507", "docket": "/api/rest/v2/docket/2589808/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">387 U.S. 93</p>\n    <p class=\"case_cite\">87 S.Ct. 1504</p>\n    <p class=\"case_cite\">18 L.Ed.2d 585</p>\n    <p class=\"parties\">AMERICAN TRUCKING ASS'N, INC.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 1046.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 15, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Peter T. Beardsley and Harry J. Jordan, for appellant.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane and Leonard S. Goodman, for appellees United States and others.</p>\n      <p class=\"indent\">Gerald E. Dwyer and Kenneth H. Lundmark, for appellee New York Cent. Transport Co.</p>\n      <p class=\"indent\">Martin L. Cassell, Theodore E. Desch and Walter J. Myskowski, for appellee Rock Island Motor Transit Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>387 U.S. 93 (1967)</b></center>\n<center><h1>AMERICAN TRUCKING ASSOCIATIONS, INC.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 1046.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 15, 1967.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Peter T. Beardsley</i> and <i>Harry J. Jordan</i> for appellant.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane</i> and <i>Leonard S. Goodman</i> for the United States et al., <i>Gerald E. Dwyer</i> and <i>Kenneth H. Lundmark</i> for New York Central Transport Co., and <i>Martin L. Cassell, Theodore E. Desch</i> and <i>Walter J. Myskowski</i> for Rock Island Motor Transit Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">387</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">93</span></span> (1967)</b></center>\n<center><h1>AMERICAN TRUCKING ASSOCIATIONS, INC.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 1046.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 15, 1967.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Peter T. Beardsley</i> and <i>Harry J. Jordan</i> for appellant.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane</i> and <i>Leonard S. Goodman</i> for the United States et al., <i>Gerald E. Dwyer</i> and <i>Kenneth H. Lundmark</i> for New York Central Transport Co., and <i>Martin L. Cassell, Theodore E. Desch</i> and <i>Walter J. Myskowski</i> for Rock Island Motor Transit Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "id": 107443, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107443/", "sha1": "c25af6376c4274f0e0f8e8ba7dbf3c9610d1aee7", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:03"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "387 U.S. 93", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107443/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "American Trucking Assns., Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1046", 
+    "id": 91802, 
+    "resource_uri": "/api/rest/v2/citation/91802/"
+  }, 
+  "id": 107443, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-05-15", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>387 U.S. 93 (1967)</b></center>\n<center><h1>AMERICAN TRUCKING ASSOCIATIONS, INC.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 1046.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 15, 1967.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Peter T. Beardsley</i> and <i>Harry J. Jordan</i> for appellant.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane</i> and <i>Leonard S. Goodman</i> for the United States et al., <i>Gerald E. Dwyer</i> and <i>Kenneth H. Lundmark</i> for New York Central Transport Co., and <i>Martin L. Cassell, Theodore E. Desch</i> and <i>Walter J. Myskowski</i> for Rock Island Motor Transit Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:03", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">387</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">93</span></span> (1967)</b></center>\n<center><h1>AMERICAN TRUCKING ASSOCIATIONS, INC.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 1046.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 15, 1967.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Peter T. Beardsley</i> and <i>Harry J. Jordan</i> for appellant.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane</i> and <i>Leonard S. Goodman</i> for the United States et al., <i>Gerald E. Dwyer</i> and <i>Kenneth H. Lundmark</i> for New York Central Transport Co., and <i>Martin L. Cassell, Theodore E. Desch</i> and <i>Walter J. Myskowski</i> for Rock Island Motor Transit Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "sha1": "c25af6376c4274f0e0f8e8ba7dbf3c9610d1aee7", 
+  "date_modified": "2014-12-21T01:55:24.697507", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107443/american-trucking-assns-inc-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2589808/", 
+  "html": "<p class=\"case_cite\">387 U.S. 93</p>\n    <p class=\"case_cite\">87 S.Ct. 1504</p>\n    <p class=\"case_cite\">18 L.Ed.2d 585</p>\n    <p class=\"parties\">AMERICAN TRUCKING ASS'N, INC.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 1046.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 15, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Peter T. Beardsley and Harry J. Jordan, for appellant.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane and Leonard S. Goodman, for appellees United States and others.</p>\n      <p class=\"indent\">Gerald E. Dwyer and Kenneth H. Lundmark, for appellee New York Cent. Transport Co.</p>\n      <p class=\"indent\">Martin L. Cassell, Theodore E. Desch and Walter J. Myskowski, for appellee Rock Island Motor Transit Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107443/"
+}

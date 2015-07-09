@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1436323/pacific-land-and-improvement-company-v-elwood-oil-/", "blocked": false, "citation": {"case_name": "Pacific Land and Improvement Company v. Elwood Oil Company", "docket_number": "218", "document_uris": ["/api/rest/v2/document/1436323/"], "federal_cite_one": "190 U.S. 316", "federal_cite_three": null, "federal_cite_two": null, "id": 1409094, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1409094/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1903-06-01", "date_modified": "2014-10-30T17:36:34.195915", "docket": "/api/rest/v2/docket/2538078/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>190 U.S. 316 (1903)</b></center>\n<center><h1>PACIFIC LAND AND IMPROVEMENT COMPANY<br>\nv.<br>\nELWOOD OIL COMPANY.</h1></center>\n<center>No. 218.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 1, 1903.</center>\nAppeal from the Circuit Court of Appeals for the Ninth Circuit.\n<p>MR. JUSTICE PECKHAM:</p>\n<p>This case is covered by the foregoing decision, and the decree of the Circuit Court of Appeals herein is, therefore,</p>\n<p><i>Affirmed.</i></p>\n<p>Petition for modification of judgment.</p>\n<p>MR. JUSTICE PECKHAM: <i>Ordered,</i> That the decree dismissing the bill in this case be modified by providing that the dismissal is without prejudice to such future proceedings as complainant may be advised, and as so modified, the decree is</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "", "id": 1436323, "judges": "Mr. Justice Peckham:", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1436323/", "sha1": "ec58ba883f16b08262c60c772f0b0ae37b087f8a", "source": "L", "time_retrieved": "2013-10-29T23:09:22.902312"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "190 U.S. 316", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1436323/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Pacific Land and Improvement Company v. Elwood Oil Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "218", 
+    "id": 1409094, 
+    "resource_uri": "/api/rest/v2/citation/1409094/"
+  }, 
+  "id": 1436323, 
+  "blocked": false, 
+  "judges": "Mr. Justice Peckham:", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1903-06-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>190 U.S. 316 (1903)</b></center>\n<center><h1>PACIFIC LAND AND IMPROVEMENT COMPANY<br>\nv.<br>\nELWOOD OIL COMPANY.</h1></center>\n<center>No. 218.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 1, 1903.</center>\nAppeal from the Circuit Court of Appeals for the Ninth Circuit.\n<p>MR. JUSTICE PECKHAM:</p>\n<p>This case is covered by the foregoing decision, and the decree of the Circuit Court of Appeals herein is, therefore,</p>\n<p><i>Affirmed.</i></p>\n<p>Petition for modification of judgment.</p>\n<p>MR. JUSTICE PECKHAM: <i>Ordered,</i> That the decree dismissing the bill in this case be modified by providing that the dismissal is without prejudice to such future proceedings as complainant may be advised, and as so modified, the decree is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:09:22.902312", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ec58ba883f16b08262c60c772f0b0ae37b087f8a", 
+  "date_modified": "2014-10-30T17:36:34.195915", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1436323/pacific-land-and-improvement-company-v-elwood-oil-/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2538078/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1436323/"
+}

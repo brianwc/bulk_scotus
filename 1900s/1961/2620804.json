@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620804/denver-chicago-transport-co-v-united-states/", "blocked": false, "citation": {"case_name": "Denver Chicago Transport Co. v. United States", "docket_number": "503", "document_uris": ["/api/rest/v2/document/2620804/"], "federal_cite_one": "364 U.S. 627", "federal_cite_three": null, "federal_cite_two": null, "id": 2593576, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593576/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-01-09", "date_modified": "2014-10-30T08:20:14.663709", "docket": "/api/rest/v2/docket/1256138/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>364 U.S. 627 (1961)</b></center>\n<center><h1>DENVER CHICAGO TRANSPORT CO., INC.,<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 503.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 9, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO.\n<p><i>Thomas F. Kilroy</i> for appellant.</p>\n<p><i>Solicitor General Rankin, Assistant Attorney General Bicks, Richard A. Solomon, Robert W. Ginnane</i> and <i>Francis A. Silver</i> for the United States and the Interstate Commerce Commission.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 2620804, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620804/", "sha1": "4e48f2b7045ae3f3cade70f1ade3e8d86590f62a", "source": "L", "time_retrieved": "2013-11-01T11:58:01.592031"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "364 U.S. 627", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620804/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Denver Chicago Transport Co. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "503", 
+    "id": 2593576, 
+    "resource_uri": "/api/rest/v2/citation/2593576/"
+  }, 
+  "id": 2620804, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-01-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>364 U.S. 627 (1961)</b></center>\n<center><h1>DENVER CHICAGO TRANSPORT CO., INC.,<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 503.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 9, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO.\n<p><i>Thomas F. Kilroy</i> for appellant.</p>\n<p><i>Solicitor General Rankin, Assistant Attorney General Bicks, Richard A. Solomon, Robert W. Ginnane</i> and <i>Francis A. Silver</i> for the United States and the Interstate Commerce Commission.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T11:58:01.592031", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "4e48f2b7045ae3f3cade70f1ade3e8d86590f62a", 
+  "date_modified": "2014-10-30T08:20:14.663709", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620804/denver-chicago-transport-co-v-united-states/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1256138/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620804/"
+}

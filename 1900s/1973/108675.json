@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108675/united-states-and-interstate-commerce-commission/", "blocked": false, "citation": {"case_name": "United States and Interstate Commerce Commission v. Students Challenging Regulatory Agency Procedures (s.c.r.a.p.)", "docket_number": "72-535", "document_uris": ["/api/rest/v2/document/108675/"], "federal_cite_one": "409 U.S. 922", "federal_cite_three": null, "federal_cite_two": null, "id": 93034, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/93034/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1973-02-20", "date_modified": "2014-12-21T01:58:32.541837", "docket": "/api/rest/v2/docket/21957/", "download_url": "http://bulk.resource.org/courts.gov/c/US/409/409.US.922.72-535.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">409 U.S. 922</p>\n    <p class=\"case_cite\">93 S.Ct. 1354</p>\n    <p class=\"case_cite\">35 L.Ed.2d 584</p>\n    <p class=\"parties\">UNITED STATES and Interstate Commerce  Commission, appellants,<br>v.<br>STUDENTS CHALLENGING REGULATORY AGENCY PROCEDURES  (S.C.R.A.P.), et al.</p>\n    <p class=\"docket\">No. 72-535.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 20, 1973</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of appellee Students Challenging Regulatory Agency Procedures (S.C.R.A.P.) for leave to dispense with printing brief is granted. The motion of appellants for additional time for oral argument is granted and fifteen additional minutes are allotted for that purpose. The appellees are likewise granted fifteen additional minutes for oral argument. The motion of John F. Banzhaf, III, Esquire, to permit Peter H. Meyers, Esquire, to argue <i>pro hac vice</i> on behalf of appellee S.C.R.A.P. is granted. The motion of Philip Elman, Esquire, to permit John F. Dienelt, Esquire, to argue <i>pro hac vice</i> on behalf of appellees Environmental Defense Fund et al. is granted.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">409</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">922</span></span></p>\n    <p class=\"case_cite\">93 S.Ct. 1354</p>\n    <p class=\"case_cite\">35 L.Ed.2d 584</p>\n    <p class=\"parties\">UNITED STATES and Interstate Commerce  Commission, appellants,<br>v.<br>STUDENTS CHALLENGING REGULATORY AGENCY PROCEDURES  (S.C.R.A.P.), et al.</p>\n    <p class=\"docket\">No. 72-535.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 20, 1973</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of appellee Students Challenging Regulatory Agency Procedures (S.C.R.A.P.) for leave to dispense with printing brief is granted. The motion of appellants for additional time for oral argument is granted and fifteen additional minutes are allotted for that purpose. The appellees are likewise granted fifteen additional minutes for oral argument. The motion of John F. Banzhaf, III, Esquire, to permit Peter H. Meyers, Esquire, to argue <i>pro hac vice</i> on behalf of appellee S.C.R.A.P. is granted. The motion of Philip Elman, Esquire, to permit John F. Dienelt, Esquire, to argue <i>pro hac vice</i> on behalf of appellees Environmental Defense Fund et al. is granted.</p>\n    </div>\n    ", "id": 108675, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108675/", "sha1": "1aa88cf755e0ab347d879059c81035ae65f0eb7b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:39"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "409 U.S. 922", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/108675/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States and Interstate Commerce Commission v. Students Challenging Regulatory Agency Procedures (s.c.r.a.p.)", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "72-535", 
+    "id": 93034, 
+    "resource_uri": "/api/rest/v2/citation/93034/"
+  }, 
+  "id": 108675, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1973-02-20", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/409/409.US.922.72-535.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:39", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">409</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">922</span></span></p>\n    <p class=\"case_cite\">93 S.Ct. 1354</p>\n    <p class=\"case_cite\">35 L.Ed.2d 584</p>\n    <p class=\"parties\">UNITED STATES and Interstate Commerce  Commission, appellants,<br>v.<br>STUDENTS CHALLENGING REGULATORY AGENCY PROCEDURES  (S.C.R.A.P.), et al.</p>\n    <p class=\"docket\">No. 72-535.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 20, 1973</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of appellee Students Challenging Regulatory Agency Procedures (S.C.R.A.P.) for leave to dispense with printing brief is granted. The motion of appellants for additional time for oral argument is granted and fifteen additional minutes are allotted for that purpose. The appellees are likewise granted fifteen additional minutes for oral argument. The motion of John F. Banzhaf, III, Esquire, to permit Peter H. Meyers, Esquire, to argue <i>pro hac vice</i> on behalf of appellee S.C.R.A.P. is granted. The motion of Philip Elman, Esquire, to permit John F. Dienelt, Esquire, to argue <i>pro hac vice</i> on behalf of appellees Environmental Defense Fund et al. is granted.</p>\n    </div>\n    ", 
+  "sha1": "1aa88cf755e0ab347d879059c81035ae65f0eb7b", 
+  "date_modified": "2014-12-21T01:58:32.541837", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108675/united-states-and-interstate-commerce-commission/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/21957/", 
+  "html": "<p class=\"case_cite\">409 U.S. 922</p>\n    <p class=\"case_cite\">93 S.Ct. 1354</p>\n    <p class=\"case_cite\">35 L.Ed.2d 584</p>\n    <p class=\"parties\">UNITED STATES and Interstate Commerce  Commission, appellants,<br>v.<br>STUDENTS CHALLENGING REGULATORY AGENCY PROCEDURES  (S.C.R.A.P.), et al.</p>\n    <p class=\"docket\">No. 72-535.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 20, 1973</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of appellee Students Challenging Regulatory Agency Procedures (S.C.R.A.P.) for leave to dispense with printing brief is granted. The motion of appellants for additional time for oral argument is granted and fifteen additional minutes are allotted for that purpose. The appellees are likewise granted fifteen additional minutes for oral argument. The motion of John F. Banzhaf, III, Esquire, to permit Peter H. Meyers, Esquire, to argue <i>pro hac vice</i> on behalf of appellee S.C.R.A.P. is granted. The motion of Philip Elman, Esquire, to permit John F. Dienelt, Esquire, to argue <i>pro hac vice</i> on behalf of appellees Environmental Defense Fund et al. is granted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108675/"
+}

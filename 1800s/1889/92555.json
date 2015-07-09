@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92555/dent-v-ferguson/", "blocked": false, "citation": {"case_name": "Dent v. Ferguson", "docket_number": "269", "document_uris": ["/api/rest/v2/document/92555/"], "federal_cite_one": "131 U.S. 397", "federal_cite_three": null, "federal_cite_two": null, "id": 76935, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76935/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1889-04-01", "date_modified": "2014-12-21T10:21:08.594060", "docket": "/api/rest/v2/docket/2573253/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">131 U.S. 397</p>\n    <p class=\"case_cite\">9 S.Ct. 791</p>\n    <p class=\"parties\">DENT <i>et al.</i><br>v.<br>FERGUSON <i>et al.</i></p>\n    <p class=\"date\">April 1, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Statement of Case from pages 397-401 intentionally omitted]</p>\n      <p class=\"indent\"><i>A. B. Browne</i> and <i>D. H. Poston</i>, for appellants.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On consideration of the motion for leave to furnish 15 copies of the record as already printed, and for a remission of the clerk's fees for supervising the printing, it is now here ordered by the court that upon the appellants' filing 15 copies of the record, as already printed, and making payment of $100, as for cost of additional printing required, the balance of the estimated costs be remitted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>131 U.S. 397 (1889)</b></center>\n<center><h1>DENT<br>\nv.<br>\nFERGUSON.</h1></center>\n<center>No. 269.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 18, 1889.</center>\n<center>Decided April 1, 1889.</center>\nORIGINAL MOTION IN AN APPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF TENNESSEE.\n<p><span class=\"star-pagination\">*401</span> <i>Mr. A.B. Browne</i> and <i>Mr. D.H. Poston</i> for the motion.</p>\n<p>No one opposing.</p>\n<p>PER CURIAM:</p>\n<p>On consideration of the motion for leave to furnish fifteen copies of the record as already printed, and for a remission of the clerk's fee for supervising the printing, it is now here ordered by the court that, upon the appellants' filing fifteen copies of the record as already printed, and making payment of $100 as for cost of additional printing required, that the balance of the estimated costs be remitted.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">131</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">397</span></span> (1889)</b></center>\n<center><h1>DENT<br>\nv.<br>\nFERGUSON.</h1></center>\n<center>No. 269.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 18, 1889.</center>\n<center>Decided April 1, 1889.</center>\nORIGINAL MOTION IN AN APPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF TENNESSEE.\n<p><span class=\"star-pagination\">*401</span> <i>Mr. A.B. Browne</i> and <i>Mr. D.H. Poston</i> for the motion.</p>\n<p>No one opposing.</p>\n<p>PER CURIAM:</p>\n<p>On consideration of the motion for leave to furnish fifteen copies of the record as already printed, and for a remission of the clerk's fee for supervising the printing, it is now here ordered by the court that, upon the appellants' filing fifteen copies of the record as already printed, and making payment of $100 as for cost of additional printing required, that the balance of the estimated costs be remitted.</p>\n</div>", "id": 92555, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92555/", "sha1": "12c4634337c0d8a521da914e2663cd27d88678fe", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "131 U.S. 397", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/92555/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dent v. Ferguson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "269", 
+    "id": 76935, 
+    "resource_uri": "/api/rest/v2/citation/76935/"
+  }, 
+  "id": 92555, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1889-04-01", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>131 U.S. 397 (1889)</b></center>\n<center><h1>DENT<br>\nv.<br>\nFERGUSON.</h1></center>\n<center>No. 269.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 18, 1889.</center>\n<center>Decided April 1, 1889.</center>\nORIGINAL MOTION IN AN APPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF TENNESSEE.\n<p><span class=\"star-pagination\">*401</span> <i>Mr. A.B. Browne</i> and <i>Mr. D.H. Poston</i> for the motion.</p>\n<p>No one opposing.</p>\n<p>PER CURIAM:</p>\n<p>On consideration of the motion for leave to furnish fifteen copies of the record as already printed, and for a remission of the clerk's fee for supervising the printing, it is now here ordered by the court that, upon the appellants' filing fifteen copies of the record as already printed, and making payment of $100 as for cost of additional printing required, that the balance of the estimated costs be remitted.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:05:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">131</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">397</span></span> (1889)</b></center>\n<center><h1>DENT<br>\nv.<br>\nFERGUSON.</h1></center>\n<center>No. 269.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 18, 1889.</center>\n<center>Decided April 1, 1889.</center>\nORIGINAL MOTION IN AN APPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF TENNESSEE.\n<p><span class=\"star-pagination\">*401</span> <i>Mr. A.B. Browne</i> and <i>Mr. D.H. Poston</i> for the motion.</p>\n<p>No one opposing.</p>\n<p>PER CURIAM:</p>\n<p>On consideration of the motion for leave to furnish fifteen copies of the record as already printed, and for a remission of the clerk's fee for supervising the printing, it is now here ordered by the court that, upon the appellants' filing fifteen copies of the record as already printed, and making payment of $100 as for cost of additional printing required, that the balance of the estimated costs be remitted.</p>\n</div>", 
+  "sha1": "12c4634337c0d8a521da914e2663cd27d88678fe", 
+  "date_modified": "2014-12-21T10:21:08.594060", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92555/dent-v-ferguson/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2573253/", 
+  "html": "<p class=\"case_cite\">131 U.S. 397</p>\n    <p class=\"case_cite\">9 S.Ct. 791</p>\n    <p class=\"parties\">DENT <i>et al.</i><br>v.<br>FERGUSON <i>et al.</i></p>\n    <p class=\"date\">April 1, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Statement of Case from pages 397-401 intentionally omitted]</p>\n      <p class=\"indent\"><i>A. B. Browne</i> and <i>D. H. Poston</i>, for appellants.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On consideration of the motion for leave to furnish 15 copies of the record as already printed, and for a remission of the clerk's fees for supervising the printing, it is now here ordered by the court that upon the appellants' filing 15 copies of the record, as already printed, and making payment of $100, as for cost of additional printing required, the balance of the estimated costs be remitted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92555/"
+}

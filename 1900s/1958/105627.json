@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105627/american-airlines-inc-v-north-american-airlines-in/", "blocked": false, "citation": {"case_name": "American Airlines, Inc. v. North American Airlines, Inc., and Civil Aeronautics Board", "docket_number": "55", "document_uris": ["/api/rest/v2/document/105627/"], "federal_cite_one": "355 U.S. 465", "federal_cite_three": "2 L. Ed. 2d 419", "federal_cite_two": "78 S. Ct. 425", "id": 90010, "lexis_cite": "1958 U.S. LEXIS 1567", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90010/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-03-03", "date_modified": "2014-12-21T17:31:38.516601", "docket": "/api/rest/v2/docket/2046877/", "download_url": "http://bulk.resource.org/courts.gov/c/US/355/355.US.465.55.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">355 U.S. 465</p>\n    <p class=\"case_cite\">78 S.Ct. 425</p>\n    <p class=\"case_cite\">2 L.Ed.2d 419</p>\n    <p class=\"parties\">AMERICAN AIRLINES, Inc., petitioner,<br>v.<br>NORTH AMERICAN AIRLINES, Inc., and Civil  Aeronautics Board.</p>\n    <p class=\"docket\">No. 55.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 3, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Howard C. Westwood, for petitioner.</p>\n      <p class=\"indent\">Mr. O. D. Ozment (Solicitor General Rankin, Assistant Attorney General Hansen, Messrs. Daniel M. Friedman, Franklin M. Stone and Robert L. Toomey, on the brief), for respondent Civil Aeronautics Board.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is reversed insofar as it set aside the Board's order. American Airlines, Inc. v. North American Airlines, Inc., 351 U.S. 79, 76 S.Ct. 600, 100 L.Ed. 953.</p>\n    </div>\n    <p class=\"indent\">Mr. Justice ODUGLAS dissents</p>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">465</span></span></p>\n    <p class=\"case_cite\">78 S.Ct. 425</p>\n    <p class=\"case_cite\">2 L.Ed.2d 419</p>\n    <p class=\"parties\">AMERICAN AIRLINES, Inc., petitioner,<br>v.<br>NORTH AMERICAN AIRLINES, Inc., and Civil  Aeronautics Board.</p>\n    <p class=\"docket\">No. 55.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 3, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Howard C. Westwood, for petitioner.</p>\n      <p class=\"indent\">Mr. O. D. Ozment (Solicitor General Rankin, Assistant Attorney General Hansen, Messrs. Daniel M. Friedman, Franklin M. Stone and Robert L. Toomey, on the brief), for respondent Civil Aeronautics Board.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is reversed insofar as it set aside the Board's order. American Airlines, Inc. v. North American Airlines, Inc., <span class=\"citation\" data-id=\"105387\"><a href=\"/opinion/105387/american-airlines-inc-v-north-american-airlines-in/\"><span class=\"volume\">351</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">79</span></a></span>, 76 S.Ct. 600, 100 L.Ed. 953.</p>\n    </div>\n    <p class=\"indent\">Mr. Justice ODUGLAS dissents</p>\n    ", "id": 105627, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105627/", "sha1": "7a78e5021d0297357fcf911bbd088051c3a6b474", "source": "R", "supreme_court_db_id": "1957-049", "time_retrieved": "2010-04-28T09:55:37"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "355 U.S. 465", 
+    "federal_cite_two": "78 S. Ct. 425", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "2 L. Ed. 2d 419", 
+    "lexis_cite": "1958 U.S. LEXIS 1567", 
+    "document_uris": [
+      "/api/rest/v2/document/105627/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "American Airlines, Inc. v. North American Airlines, Inc., and Civil Aeronautics Board", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "55", 
+    "id": 90010, 
+    "resource_uri": "/api/rest/v2/citation/90010/"
+  }, 
+  "id": 105627, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-03-03", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/355/355.US.465.55.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:37", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">465</span></span></p>\n    <p class=\"case_cite\">78 S.Ct. 425</p>\n    <p class=\"case_cite\">2 L.Ed.2d 419</p>\n    <p class=\"parties\">AMERICAN AIRLINES, Inc., petitioner,<br>v.<br>NORTH AMERICAN AIRLINES, Inc., and Civil  Aeronautics Board.</p>\n    <p class=\"docket\">No. 55.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 3, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Howard C. Westwood, for petitioner.</p>\n      <p class=\"indent\">Mr. O. D. Ozment (Solicitor General Rankin, Assistant Attorney General Hansen, Messrs. Daniel M. Friedman, Franklin M. Stone and Robert L. Toomey, on the brief), for respondent Civil Aeronautics Board.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is reversed insofar as it set aside the Board's order. American Airlines, Inc. v. North American Airlines, Inc., <span class=\"citation\" data-id=\"105387\"><a href=\"/opinion/105387/american-airlines-inc-v-north-american-airlines-in/\"><span class=\"volume\">351</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">79</span></a></span>, 76 S.Ct. 600, 100 L.Ed. 953.</p>\n    </div>\n    <p class=\"indent\">Mr. Justice ODUGLAS dissents</p>\n    ", 
+  "sha1": "7a78e5021d0297357fcf911bbd088051c3a6b474", 
+  "date_modified": "2014-12-21T17:31:38.516601", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105627/american-airlines-inc-v-north-american-airlines-in/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": "1957-049", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2046877/", 
+  "html": "<p class=\"case_cite\">355 U.S. 465</p>\n    <p class=\"case_cite\">78 S.Ct. 425</p>\n    <p class=\"case_cite\">2 L.Ed.2d 419</p>\n    <p class=\"parties\">AMERICAN AIRLINES, Inc., petitioner,<br>v.<br>NORTH AMERICAN AIRLINES, Inc., and Civil  Aeronautics Board.</p>\n    <p class=\"docket\">No. 55.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 3, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Howard C. Westwood, for petitioner.</p>\n      <p class=\"indent\">Mr. O. D. Ozment (Solicitor General Rankin, Assistant Attorney General Hansen, Messrs. Daniel M. Friedman, Franklin M. Stone and Robert L. Toomey, on the brief), for respondent Civil Aeronautics Board.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is reversed insofar as it set aside the Board's order. American Airlines, Inc. v. North American Airlines, Inc., 351 U.S. 79, 76 S.Ct. 600, 100 L.Ed. 953.</p>\n    </div>\n    <p class=\"indent\">Mr. Justice ODUGLAS dissents</p>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105627/"
+}

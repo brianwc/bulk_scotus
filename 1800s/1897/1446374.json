@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1446374/louisiana-v-new-orleans/", "blocked": false, "citation": {"case_name": "Louisiana v. New Orleans", "docket_number": "483", "document_uris": ["/api/rest/v2/document/1446374/"], "federal_cite_one": "167 U.S. 407", "federal_cite_three": null, "federal_cite_two": null, "id": 1419145, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1419145/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1897-05-24", "date_modified": "2014-10-30T17:37:48.473456", "docket": "/api/rest/v2/docket/2542121/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>167 U.S. 407 (1897)</b></center>\n<center><h1>LOUISIANA<br>\nv.<br>\nNEW ORLEANS.</h1></center>\n<center>No. 483.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 15, 18, 1897.</center>\n<center>Decided May 24, 1897.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF LOUISIANA.\n<p><i>Mr. M.J. Cunningham,</i> Attorney General of the State of <span class=\"star-pagination\">*408</span> Louisiana for appellants. <i>Mr. F.C. Zacharie</i> and <i>Mr. Alexander Porter Morse</i> were on his brief.</p>\n<p><i>Mr. William A. Maury</i> for appellee. <i>Mr. Henry Denis</i> and <i>Mr. Branch K. Miller</i> were on his brief.</p>\n<p><i>Mr. Samuel L. Gilmore</i> for appellant.</p>\n<p>MR. JUSTICE WHITE delivered the opinion of the court.</p>\n<p>The reasons given for our decree in the case of <i>New Orleans</i> v. <i>Citizens' Bank,</i> just decided, are decisive of this cause, which comes on error to the Supreme Court of the State of Louisiana. The controversy presented to that court was whether property bought in by the Citizens' Bank under foreclosure of its stock and stock loan mortgages became a part of its capital and as such was not liable to taxation. The Supreme Court of Louisiana held, conceding, <i>arguendo,</i> the nontaxability of the capital that the real estate so purchased was taxable. <i>State ex rel. Citizens' Bank</i> v. <i>Board of Assessors,</i> 48 La. Ann. 35.</p>\n<p>The theory on which the writ of error was prosecuted is that this decision of the Supreme Court of the State of Louisiana constitutes an impairment of the obligations of the contract arising from the charter of the bank.</p>\n<p>As, in the case just decided, we have held that the property bought in by the bank under foreclosure of its stock mortgages was not the capital of the bank, and therefore was not covered by the estoppel of the thing adjudged, the conclusions there expressed are in all respects applicable and decisive of the controversy here presented, and the judgment of the Supreme Court of Louisiana is, therefore,</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "", "id": 1446374, "judges": "White", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1446374/", "sha1": "f2e105a56ced41024ef66a0839b469a740c1fccf", "source": "L", "time_retrieved": "2013-10-29T23:12:05.398339"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "167 U.S. 407", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1446374/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Louisiana v. New Orleans", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "483", 
+    "id": 1419145, 
+    "resource_uri": "/api/rest/v2/citation/1419145/"
+  }, 
+  "id": 1446374, 
+  "blocked": false, 
+  "judges": "White", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1897-05-24", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>167 U.S. 407 (1897)</b></center>\n<center><h1>LOUISIANA<br>\nv.<br>\nNEW ORLEANS.</h1></center>\n<center>No. 483.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 15, 18, 1897.</center>\n<center>Decided May 24, 1897.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF LOUISIANA.\n<p><i>Mr. M.J. Cunningham,</i> Attorney General of the State of <span class=\"star-pagination\">*408</span> Louisiana for appellants. <i>Mr. F.C. Zacharie</i> and <i>Mr. Alexander Porter Morse</i> were on his brief.</p>\n<p><i>Mr. William A. Maury</i> for appellee. <i>Mr. Henry Denis</i> and <i>Mr. Branch K. Miller</i> were on his brief.</p>\n<p><i>Mr. Samuel L. Gilmore</i> for appellant.</p>\n<p>MR. JUSTICE WHITE delivered the opinion of the court.</p>\n<p>The reasons given for our decree in the case of <i>New Orleans</i> v. <i>Citizens' Bank,</i> just decided, are decisive of this cause, which comes on error to the Supreme Court of the State of Louisiana. The controversy presented to that court was whether property bought in by the Citizens' Bank under foreclosure of its stock and stock loan mortgages became a part of its capital and as such was not liable to taxation. The Supreme Court of Louisiana held, conceding, <i>arguendo,</i> the nontaxability of the capital that the real estate so purchased was taxable. <i>State ex rel. Citizens' Bank</i> v. <i>Board of Assessors,</i> 48 La. Ann. 35.</p>\n<p>The theory on which the writ of error was prosecuted is that this decision of the Supreme Court of the State of Louisiana constitutes an impairment of the obligations of the contract arising from the charter of the bank.</p>\n<p>As, in the case just decided, we have held that the property bought in by the bank under foreclosure of its stock mortgages was not the capital of the bank, and therefore was not covered by the estoppel of the thing adjudged, the conclusions there expressed are in all respects applicable and decisive of the controversy here presented, and the judgment of the Supreme Court of Louisiana is, therefore,</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:12:05.398339", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "f2e105a56ced41024ef66a0839b469a740c1fccf", 
+  "date_modified": "2014-10-30T17:37:48.473456", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1446374/louisiana-v-new-orleans/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2542121/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1446374/"
+}

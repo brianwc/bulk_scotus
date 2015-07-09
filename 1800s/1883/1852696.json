@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1852696/united-states-v-hamilton/", "blocked": false, "citation": {"case_name": "United States v. Hamilton", "docket_number": null, "document_uris": ["/api/rest/v2/document/1852696/"], "federal_cite_one": "109 U.S. 63", "federal_cite_three": null, "federal_cite_two": null, "id": 1825467, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1825467/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1883-10-15", "date_modified": "2014-10-30T09:34:29.454726", "docket": "/api/rest/v2/docket/1416897/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>109 U.S. 63 (1883)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nHAMILTON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October Term, 1882.</center>\n<center>Decided October 15th, 1883.</center>\nON CERTIFICATE OF DIVISION IN OPINION BETWEEN THE JUDGES OF THE CIRCUIT COURT OF THE UNITED STATES FOR THE MIDDLE DISTRICT OF TENNESSEE.\n<p>MR. JUSTICE BRADLEY delivered the opinion of the court.</p>\n<p>The certificate of division in this case was made on a division in opinion between the judges on a motion to quash the indictment. As a motion to quash is always addressed to the discretion of the court, a decision upon it is not error, and cannot be reviewed on a writ of error. In the case of <i>United States</i> v. <i>Rosenburgh,</i> 7 Wall. 580, we decided the precise point, that this court cannot take cognizance of a division of opinion between the judges of a circuit court upon a motion to quash an indictment. This decision was re-affirmed in <i>United States</i> v. <i>Avery,</i> 13 Wall. 251, and in <i>United States</i> v. <i>Canda,</i> decided at October term 1881.</p>\n<p><i>The case, not being properly before us, is dismissed.</i></p>\n</div>", "html_with_citations": "", "id": 1852696, "judges": "Bradley", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1852696/", "sha1": "9265af9ba619986b072e5fab6d45618f75b7368a", "source": "L", "time_retrieved": "2013-10-30T00:37:33.156955"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "109 U.S. 63", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1852696/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Hamilton", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1825467, 
+    "resource_uri": "/api/rest/v2/citation/1825467/"
+  }, 
+  "id": 1852696, 
+  "blocked": false, 
+  "judges": "Bradley", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1883-10-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>109 U.S. 63 (1883)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nHAMILTON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October Term, 1882.</center>\n<center>Decided October 15th, 1883.</center>\nON CERTIFICATE OF DIVISION IN OPINION BETWEEN THE JUDGES OF THE CIRCUIT COURT OF THE UNITED STATES FOR THE MIDDLE DISTRICT OF TENNESSEE.\n<p>MR. JUSTICE BRADLEY delivered the opinion of the court.</p>\n<p>The certificate of division in this case was made on a division in opinion between the judges on a motion to quash the indictment. As a motion to quash is always addressed to the discretion of the court, a decision upon it is not error, and cannot be reviewed on a writ of error. In the case of <i>United States</i> v. <i>Rosenburgh,</i> 7 Wall. 580, we decided the precise point, that this court cannot take cognizance of a division of opinion between the judges of a circuit court upon a motion to quash an indictment. This decision was re-affirmed in <i>United States</i> v. <i>Avery,</i> 13 Wall. 251, and in <i>United States</i> v. <i>Canda,</i> decided at October term 1881.</p>\n<p><i>The case, not being properly before us, is dismissed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:37:33.156955", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "9265af9ba619986b072e5fab6d45618f75b7368a", 
+  "date_modified": "2014-10-30T09:34:29.454726", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1852696/united-states-v-hamilton/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1416897/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1852696/"
+}

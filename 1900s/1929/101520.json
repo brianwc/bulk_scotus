@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/101520/the-becker-steamship-company-petitioner-v/", "blocked": false, "citation": {"case_name": "The Becker Steamship Company v. William Snyder, Etc.", "docket_number": "334", "document_uris": ["/api/rest/v2/document/101520/"], "federal_cite_one": "280 U.S. 543", "federal_cite_three": null, "federal_cite_two": null, "id": 85903, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/85903/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1929-10-14", "date_modified": "2014-12-21T01:38:52.975880", "docket": "/api/rest/v2/docket/2390654/", "download_url": "http://bulk.resource.org/courts.gov/c/US/280/280.US.543.334.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">280 U.S. 543</p>\n    <p class=\"case_cite\">50 S.Ct. 36</p>\n    <p class=\"case_cite\">74 L.Ed. 603</p>\n    <p class=\"parties\">The BECKER STEAMSHIP COMPANY, petitioner,<br>v.<br>William SNYDER, etc.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 334.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick L. Leckie, of Cleveland, Ohio, for petitioner.</p>\n      <p class=\"indent\">Mr. Luther Day, of Cleveland, Ohio, for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Appeals of the State of Ohio granted.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> For dismissal, see 280 U. S. 615, 50 S. Ct. 152 74 L. Ed. &#8212;-.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">280</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">543</span></span></p>\n    <p class=\"case_cite\">50 S.Ct. 36</p>\n    <p class=\"case_cite\">74 L.Ed. 603</p>\n    <p class=\"parties\">The BECKER STEAMSHIP COMPANY, petitioner,<br>v.<br>William SNYDER, etc.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 334.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick L. Leckie, of Cleveland, Ohio, for petitioner.</p>\n      <p class=\"indent\">Mr. Luther Day, of Cleveland, Ohio, for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Appeals of the State of Ohio granted.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> For dismissal, see 280 U. S. 615, <span class=\"citation no-link\"><span class=\"volume\">50</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">152</span></span> 74 L. Ed. &#8212;-.</p>\n      </div>\n    </div>\n    ", "id": 101520, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/101520/", "sha1": "80d69b7fe89d6dae5c1c814fad5aae6355dfee80", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:48:49"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "280 U.S. 543", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/101520/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "The Becker Steamship Company v. William Snyder, Etc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "334", 
+    "id": 85903, 
+    "resource_uri": "/api/rest/v2/citation/85903/"
+  }, 
+  "id": 101520, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1929-10-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/280/280.US.543.334.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:48:49", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">280</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">543</span></span></p>\n    <p class=\"case_cite\">50 S.Ct. 36</p>\n    <p class=\"case_cite\">74 L.Ed. 603</p>\n    <p class=\"parties\">The BECKER STEAMSHIP COMPANY, petitioner,<br>v.<br>William SNYDER, etc.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 334.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick L. Leckie, of Cleveland, Ohio, for petitioner.</p>\n      <p class=\"indent\">Mr. Luther Day, of Cleveland, Ohio, for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Appeals of the State of Ohio granted.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> For dismissal, see 280 U. S. 615, <span class=\"citation no-link\"><span class=\"volume\">50</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">152</span></span> 74 L. Ed. &#8212;-.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "80d69b7fe89d6dae5c1c814fad5aae6355dfee80", 
+  "date_modified": "2014-12-21T01:38:52.975880", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/101520/the-becker-steamship-company-petitioner-v/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2390654/", 
+  "html": "<p class=\"case_cite\">280 U.S. 543</p>\n    <p class=\"case_cite\">50 S.Ct. 36</p>\n    <p class=\"case_cite\">74 L.Ed. 603</p>\n    <p class=\"parties\">The BECKER STEAMSHIP COMPANY, petitioner,<br>v.<br>William SNYDER, etc.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 334.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick L. Leckie, of Cleveland, Ohio, for petitioner.</p>\n      <p class=\"indent\">Mr. Luther Day, of Cleveland, Ohio, for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Appeals of the State of Ohio granted.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> For dismissal, see 280 U. S. 615, 50 S. Ct. 152 74 L. Ed. &#8212;-.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/101520/"
+}

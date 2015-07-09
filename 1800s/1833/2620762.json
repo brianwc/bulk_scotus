@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620762/the-state-of-rhode-island-v-the-state-of-massachus/", "blocked": false, "citation": {"case_name": "The State of Rhode Island v. the State of Massachusetts", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620762/"], "federal_cite_one": "32 U.S. 651", "federal_cite_three": null, "federal_cite_two": null, "id": 2593534, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593534/", "scotus_early_cite": "7 Pet. 651", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1833-03-18", "date_modified": "2014-10-30T17:30:03.002403", "docket": "/api/rest/v2/docket/2519576/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>32 U.S. 651 (____)</b></center>\n<center><b>7 Pet. 651</b></center>\n<center><h1>THE STATE OF RHODE ISLAND, COMPLAINANT<br>\nv.<br>\nTHE STATE OF MASSACHUSETTS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>MR ROBBINS, solicitor for the complainant, having renewed his motion of last term in this case, prayed the court to award such process, and in such form, as the court may deem proper</p>\n<p>On consideration of the motion made in this case, it is now here ordered by the court that process of subpæna be, and the same is hereby awarded as prayed for by the complainant, and that said process issue against \"The commonwealth of Massachusetts.\"</p>\n</div>", "html_with_citations": "", "id": 2620762, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620762/", "sha1": "e623b5e2e6b8b83387b4b1c82d5f610396ac4de6", "source": "L", "time_retrieved": "2013-11-01T11:37:07.781113"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "32 U.S. 651", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620762/"
+    ], 
+    "scotus_early_cite": "7 Pet. 651", 
+    "case_name": "The State of Rhode Island v. the State of Massachusetts", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593534, 
+    "resource_uri": "/api/rest/v2/citation/2593534/"
+  }, 
+  "id": 2620762, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1833-03-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>32 U.S. 651 (____)</b></center>\n<center><b>7 Pet. 651</b></center>\n<center><h1>THE STATE OF RHODE ISLAND, COMPLAINANT<br>\nv.<br>\nTHE STATE OF MASSACHUSETTS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>MR ROBBINS, solicitor for the complainant, having renewed his motion of last term in this case, prayed the court to award such process, and in such form, as the court may deem proper</p>\n<p>On consideration of the motion made in this case, it is now here ordered by the court that process of subp\u00e6na be, and the same is hereby awarded as prayed for by the complainant, and that said process issue against \"The commonwealth of Massachusetts.\"</p>\n</div>", 
+  "time_retrieved": "2013-11-01T11:37:07.781113", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e623b5e2e6b8b83387b4b1c82d5f610396ac4de6", 
+  "date_modified": "2014-10-30T17:30:03.002403", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620762/the-state-of-rhode-island-v-the-state-of-massachus/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2519576/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620762/"
+}

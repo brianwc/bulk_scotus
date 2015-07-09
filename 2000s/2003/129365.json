@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/129365/askey-et-ux-v-pennsylvania-department-of-public/", "blocked": false, "citation": {"case_name": "Askey Et Ux. v. Pennsylvania Department of Public Welfare", "docket_number": "02-1279", "document_uris": ["/api/rest/v2/document/129365/"], "federal_cite_one": "538 U.S. 1013", "federal_cite_three": null, "federal_cite_two": null, "id": 113718, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/113718/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-05-05", "date_modified": "2014-12-21T02:18:42.734696", "docket": "/api/rest/v2/docket/2482971/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.1013.02-1279.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 1013</p>\n    <p class=\"parties\">ASKEY ET UX.<br>v.<br>PENNSYLVANIA DEPARTMENT OF PUBLIC WELFARE.</p>\n    <p class=\"docket\">No. 02-1279.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 5, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 52 Fed. Appx. 593.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1013</span></span></p>\n    <p class=\"parties\">ASKEY ET UX.<br>v.<br>PENNSYLVANIA DEPARTMENT OF PUBLIC WELFARE.</p>\n    <p class=\"docket\">No. 02-1279.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 5, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 52 Fed. Appx. 593.</p>\n    </div>\n    ", "id": 129365, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/129365/", "sha1": "f517b67dfbaf40319ef79782a824dd8b94df6757", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:26:49"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 1013", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/129365/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Askey Et Ux. v. Pennsylvania Department of Public Welfare", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-1279", 
+    "id": 113718, 
+    "resource_uri": "/api/rest/v2/citation/113718/"
+  }, 
+  "id": 129365, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-05-05", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.1013.02-1279.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:26:49", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1013</span></span></p>\n    <p class=\"parties\">ASKEY ET UX.<br>v.<br>PENNSYLVANIA DEPARTMENT OF PUBLIC WELFARE.</p>\n    <p class=\"docket\">No. 02-1279.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 5, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 52 Fed. Appx. 593.</p>\n    </div>\n    ", 
+  "sha1": "f517b67dfbaf40319ef79782a824dd8b94df6757", 
+  "date_modified": "2014-12-21T02:18:42.734696", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/129365/askey-et-ux-v-pennsylvania-department-of-public/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2482971/", 
+  "html": "<p class=\"case_cite\">538 U.S. 1013</p>\n    <p class=\"parties\">ASKEY ET UX.<br>v.<br>PENNSYLVANIA DEPARTMENT OF PUBLIC WELFARE.</p>\n    <p class=\"docket\">No. 02-1279.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 5, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied. Reported below: 52 Fed. Appx. 593.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/129365/"
+}

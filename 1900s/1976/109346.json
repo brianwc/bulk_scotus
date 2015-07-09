@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/109346/dove-v-united-states/", "blocked": false, "citation": {"case_name": "Dove v. United States", "docket_number": "75-543", "document_uris": ["/api/rest/v2/document/109346/"], "federal_cite_one": "423 U.S. 325", "federal_cite_three": "46 L. Ed. 2d 531", "federal_cite_two": "96 S. Ct. 579", "id": 93705, "lexis_cite": "1976 U.S. LEXIS 39", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/93705/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 34, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1976-01-19", "date_modified": "2014-12-21T14:14:10.616274", "docket": "/api/rest/v2/docket/126256/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">423 U.S. 325</p>\n    <p class=\"case_cite\">96 S.Ct. 579</p>\n    <p class=\"case_cite\">46 L.Ed.2d 531</p>\n    <p class=\"parties\">Oscar Roosevelt DOVE<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 75-543.</p>\n    <p class=\"date\">Jan. 19, 1976.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Court is advised that the petitioner died at New Bern, N. C., on November 14, 1975. The petition for certiorari is therefore dismissed. To the extent that Durham v. United States, 401 U.S. 481, 91 S.Ct. 858, 28 L.Ed.2d 200 (1971), may be inconsistent with this ruling, Durham is overruled.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">It is so ordered.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Petition dismissed.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">Mr. Justice WHITE dissents.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>423 U.S. 325 (1976)</b></center>\n<center><h1>DOVE<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 75-543.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 19, 1976.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The Court is advised that the petitioner died at New Bern, N. C., on November 14, 1975. The petition for certiorari is therefore dismissed. To the extent that <i>Durham</i> v. <i>United States,</i> 401 U. S. 481 (1971), may be inconsistent with this ruling, <i>Durham</i> is overruled.</p>\n<p><i>It is so ordered.</i></p>\n<p>MR. JUSTICE WHITE dissents.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">423</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">325</span></span> (1976)</b></center>\n<center><h1>DOVE<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 75-543.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 19, 1976.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The Court is advised that the petitioner died at New Bern, N. C., on November 14, 1975. The petition for certiorari is therefore dismissed. To the extent that <i>Durham</i> v. <i>United States,</i> 401 U. S. 481 (1971), may be inconsistent with this ruling, <i>Durham</i> is overruled.</p>\n<p><i>It is so ordered.</i></p>\n<p>MR. JUSTICE WHITE dissents.</p>\n</div>", "id": 109346, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/109346/", "sha1": "15773138cb4b6c4fdac0d57e9f1f1131bd30c3f5", "source": "LR", "supreme_court_db_id": "1975-026", "time_retrieved": "2010-04-28T10:12:03"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "423 U.S. 325", 
+    "federal_cite_two": "96 S. Ct. 579", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "46 L. Ed. 2d 531", 
+    "lexis_cite": "1976 U.S. LEXIS 39", 
+    "document_uris": [
+      "/api/rest/v2/document/109346/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dove v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "75-543", 
+    "id": 93705, 
+    "resource_uri": "/api/rest/v2/citation/93705/"
+  }, 
+  "id": 109346, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1976-01-19", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>423 U.S. 325 (1976)</b></center>\n<center><h1>DOVE<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 75-543.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 19, 1976.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The Court is advised that the petitioner died at New Bern, N. C., on November 14, 1975. The petition for certiorari is therefore dismissed. To the extent that <i>Durham</i> v. <i>United States,</i> 401 U. S. 481 (1971), may be inconsistent with this ruling, <i>Durham</i> is overruled.</p>\n<p><i>It is so ordered.</i></p>\n<p>MR. JUSTICE WHITE dissents.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:12:03", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">423</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">325</span></span> (1976)</b></center>\n<center><h1>DOVE<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 75-543.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 19, 1976.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The Court is advised that the petitioner died at New Bern, N. C., on November 14, 1975. The petition for certiorari is therefore dismissed. To the extent that <i>Durham</i> v. <i>United States,</i> 401 U. S. 481 (1971), may be inconsistent with this ruling, <i>Durham</i> is overruled.</p>\n<p><i>It is so ordered.</i></p>\n<p>MR. JUSTICE WHITE dissents.</p>\n</div>", 
+  "sha1": "15773138cb4b6c4fdac0d57e9f1f1131bd30c3f5", 
+  "date_modified": "2014-12-21T14:14:10.616274", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/109346/dove-v-united-states/", 
+  "citation_count": 34, 
+  "supreme_court_db_id": "1975-026", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/126256/", 
+  "html": "<p class=\"case_cite\">423 U.S. 325</p>\n    <p class=\"case_cite\">96 S.Ct. 579</p>\n    <p class=\"case_cite\">46 L.Ed.2d 531</p>\n    <p class=\"parties\">Oscar Roosevelt DOVE<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 75-543.</p>\n    <p class=\"date\">Jan. 19, 1976.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Court is advised that the petitioner died at New Bern, N. C., on November 14, 1975. The petition for certiorari is therefore dismissed. To the extent that Durham v. United States, 401 U.S. 481, 91 S.Ct. 858, 28 L.Ed.2d 200 (1971), may be inconsistent with this ruling, Durham is overruled.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">It is so ordered.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Petition dismissed.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">Mr. Justice WHITE dissents.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/109346/"
+}

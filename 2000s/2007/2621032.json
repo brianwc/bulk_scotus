@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2621032/weber-v-washington/", "blocked": false, "citation": {"case_name": "Weber v. Washington", "docket_number": "06-11257", "document_uris": ["/api/rest/v2/document/2621032/"], "federal_cite_one": "127 S. Ct. 2986", "federal_cite_three": null, "federal_cite_two": null, "id": 2593804, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593804/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-06-18", "date_modified": "2014-10-29T23:24:07.959904", "docket": "/api/rest/v2/docket/76620/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 2986 (2007)</b></center>\n<center><h1>Charles Walter WEBER, petitioner,<br>\nv.<br>\nWASHINGTON.</h1></center>\n<center>No. 06-11257.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 18, 2007.</center>\n<p>Petition for writ of certiorari to the Supreme Court of Washington denied.</p>\n</div>", "html_with_citations": "", "id": 2621032, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2621032/", "sha1": "e5b59d8f32434402fb70d0b6ece93fa739470b25", "source": "L", "time_retrieved": "2013-11-01T13:29:05.607942"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 2986", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2621032/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Weber v. Washington", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-11257", 
+    "id": 2593804, 
+    "resource_uri": "/api/rest/v2/citation/2593804/"
+  }, 
+  "id": 2621032, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-06-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 2986 (2007)</b></center>\n<center><h1>Charles Walter WEBER, petitioner,<br>\nv.<br>\nWASHINGTON.</h1></center>\n<center>No. 06-11257.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 18, 2007.</center>\n<p>Petition for writ of certiorari to the Supreme Court of Washington denied.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:29:05.607942", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e5b59d8f32434402fb70d0b6ece93fa739470b25", 
+  "date_modified": "2014-10-29T23:24:07.959904", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2621032/weber-v-washington/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/76620/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2621032/"
+}

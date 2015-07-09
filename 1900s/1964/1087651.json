@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087651/maryland-ex-rel-levin-v-united-states/", "blocked": false, "citation": {"case_name": "Maryland Ex Rel. Levin v. United States", "docket_number": "345", "document_uris": ["/api/rest/v2/document/1087651/"], "federal_cite_one": "382 U.S. 159", "federal_cite_three": null, "federal_cite_two": null, "id": 1060422, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060422/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-10-01", "date_modified": "2014-10-30T17:44:55.433187", "docket": "/api/rest/v2/docket/2565587/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>382 U.S. 159 (1964)</b></center>\n<center><h1>MARYLAND FOR THE USE OF LEVIN ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 345,</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October Term, 1964.</center>\nON PETITION FOR REHEARING.\n<p><i>Theodore E. Wolcott</i> for petitioners.</p>\n<p><i>Solicitor General Marshall,</i> former <i>Solicitor General Cox, Assistant Attorney General Douglas, Morton Hollander, Nathan Lewin</i> and <i>David L. Rose</i> for the United States.</p>\n<p><i>Louis G. Davidson, Richard W. Galiher, William E. Stewart, Jr.,</i> and <i>Peter J. McBreen,</i> as <i>amici curiae,</i> urging reversal.</p>\n<p>PER CURIAM.</p>\n<p>The petition for rehearing and the motion to remand for trial on unresolved issues are granted as herein indicated. The judgment of this Court of May 3, 1965, 381 U. S. 41, is vacated, and in lieu thereof the following judgment is entered: \"The judgment of the Court of Appeals for the Third Circuit is modified to direct that the case be remanded to the United States District Court for the Western District of Pennsylvania for further proceedings with respect to the unresolved issues tendered in petitioners' bill of complaint, and is in all other respects affirmed.\"</p>\n<p><i>It is so ordered.</i></p>\n<p>MR. JUSTICE CLARK and MR. JUSTICE HARLAN, believing that a remand is legally unjustified, dissent from that part of the Court's order.</p>\n<p>MR. JUSTICE FORTAS took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 1087651, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087651/", "sha1": "2e9faca0aefa7d0b825d7a7dbfdc74e9e717bdcf", "source": "L", "time_retrieved": "2013-10-29T18:48:44.012641"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "382 U.S. 159", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087651/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Maryland Ex Rel. Levin v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "345", 
+    "id": 1060422, 
+    "resource_uri": "/api/rest/v2/citation/1060422/"
+  }, 
+  "id": 1087651, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-10-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>382 U.S. 159 (1964)</b></center>\n<center><h1>MARYLAND FOR THE USE OF LEVIN ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 345,</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October Term, 1964.</center>\nON PETITION FOR REHEARING.\n<p><i>Theodore E. Wolcott</i> for petitioners.</p>\n<p><i>Solicitor General Marshall,</i> former <i>Solicitor General Cox, Assistant Attorney General Douglas, Morton Hollander, Nathan Lewin</i> and <i>David L. Rose</i> for the United States.</p>\n<p><i>Louis G. Davidson, Richard W. Galiher, William E. Stewart, Jr.,</i> and <i>Peter J. McBreen,</i> as <i>amici curiae,</i> urging reversal.</p>\n<p>PER CURIAM.</p>\n<p>The petition for rehearing and the motion to remand for trial on unresolved issues are granted as herein indicated. The judgment of this Court of May 3, 1965, 381 U. S. 41, is vacated, and in lieu thereof the following judgment is entered: \"The judgment of the Court of Appeals for the Third Circuit is modified to direct that the case be remanded to the United States District Court for the Western District of Pennsylvania for further proceedings with respect to the unresolved issues tendered in petitioners' bill of complaint, and is in all other respects affirmed.\"</p>\n<p><i>It is so ordered.</i></p>\n<p>MR. JUSTICE CLARK and MR. JUSTICE HARLAN, believing that a remand is legally unjustified, dissent from that part of the Court's order.</p>\n<p>MR. JUSTICE FORTAS took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T18:48:44.012641", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "2e9faca0aefa7d0b825d7a7dbfdc74e9e717bdcf", 
+  "date_modified": "2014-10-30T17:44:55.433187", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087651/maryland-ex-rel-levin-v-united-states/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2565587/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087651/"
+}

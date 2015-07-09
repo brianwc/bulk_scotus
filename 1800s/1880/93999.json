@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/93999/dallas-county-missouri-v-alfred-huidekoper/", "blocked": false, "citation": {"case_name": "Dallas County, Missouri v. Alfred Huidekoper. Same v. William H. Davol", "docket_number": "Nos. 224 and 226", "document_uris": ["/api/rest/v2/document/93999/"], "federal_cite_one": "154 U.S. 655", "federal_cite_three": null, "federal_cite_two": null, "id": 78380, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/78380/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1880-04-05", "date_modified": "2014-12-21T01:32:02.951927", "docket": "/api/rest/v2/docket/2126436/", "download_url": "http://bulk.resource.org/courts.gov/c/US/154/154.US.655.224.226.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">154 U.S. 655</p>\n    <p class=\"case_cite\">14 S.Ct. 1200</p>\n    <p class=\"case_cite\">25 L.Ed. 974</p>\n    <p class=\"parties\">DALLAS COUNTY, MISSOURI,<br>v.<br>ALFRED HUIDEKOPER.  SAME  v.  WILLIAM H. DAVOL.</p>\n    <p class=\"docket\">Nos. 224 and 226.</p>\n    <p class=\"date\">April 5, 1880.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">S. H. Boyd, A. D. Matthews, and B. L. Brush, for appellant.</p>\n      <p class=\"indent\">Joseph Shippen, for appellees.</p>\n      <p class=\"indent\">Mr. Chief Justice WAITE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">These are suits in equity to enjoin the collection of judgments against Dallas county on coupons for interest attached to the same class of bonds just considered in Dallas Co. v. Huidekoper (No. 225) 154 U. S. 654, 14 Sup. Ct. 1190, and relief is asked on the ground that the charter of the railroad company had expired before any organization was effected under it, and that this fact was not known to the county until after the judgment was rendered. After what has been said in the other case, it is clear that the bills were properly dismissed without considering the power of a court of equity to sustain such a suit, and the decree in each of the cases is consequently affirmed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">154</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">655</span></span></p>\n    <p class=\"case_cite\">14 S.Ct. 1200</p>\n    <p class=\"case_cite\">25 L.Ed. 974</p>\n    <p class=\"parties\">DALLAS COUNTY, MISSOURI,<br>v.<br>ALFRED HUIDEKOPER.  SAME  v.  WILLIAM H. DAVOL.</p>\n    <p class=\"docket\">Nos. 224 and 226.</p>\n    <p class=\"date\">April 5, 1880.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">S. H. Boyd, A. D. Matthews, and B. L. Brush, for appellant.</p>\n      <p class=\"indent\">Joseph Shippen, for appellees.</p>\n      <p class=\"indent\">Mr. Chief Justice WAITE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">These are suits in equity to enjoin the collection of judgments against Dallas county on coupons for interest attached to the same class of bonds just considered in Dallas Co. v. Huidekoper (No. 225) 154 U. S. 654, 14 Sup. Ct. 1190, and relief is asked on the ground that the charter of the railroad company had expired before any organization was effected under it, and that this fact was not known to the county until after the judgment was rendered. After what has been said in the other case, it is clear that the bills were properly dismissed without considering the power of a court of equity to sustain such a suit, and the decree in each of the cases is consequently affirmed.</p>\n    </div>\n    ", "id": 93999, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/93999/", "sha1": "74e5bf0699899fca926ff09518e281b2248760fa", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:12:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "154 U.S. 655", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/93999/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dallas County, Missouri v. Alfred Huidekoper. Same v. William H. Davol", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "Nos. 224 and 226", 
+    "id": 78380, 
+    "resource_uri": "/api/rest/v2/citation/78380/"
+  }, 
+  "id": 93999, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1880-04-05", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/154/154.US.655.224.226.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:12:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">154</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">655</span></span></p>\n    <p class=\"case_cite\">14 S.Ct. 1200</p>\n    <p class=\"case_cite\">25 L.Ed. 974</p>\n    <p class=\"parties\">DALLAS COUNTY, MISSOURI,<br>v.<br>ALFRED HUIDEKOPER.  SAME  v.  WILLIAM H. DAVOL.</p>\n    <p class=\"docket\">Nos. 224 and 226.</p>\n    <p class=\"date\">April 5, 1880.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">S. H. Boyd, A. D. Matthews, and B. L. Brush, for appellant.</p>\n      <p class=\"indent\">Joseph Shippen, for appellees.</p>\n      <p class=\"indent\">Mr. Chief Justice WAITE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">These are suits in equity to enjoin the collection of judgments against Dallas county on coupons for interest attached to the same class of bonds just considered in Dallas Co. v. Huidekoper (No. 225) 154 U. S. 654, 14 Sup. Ct. 1190, and relief is asked on the ground that the charter of the railroad company had expired before any organization was effected under it, and that this fact was not known to the county until after the judgment was rendered. After what has been said in the other case, it is clear that the bills were properly dismissed without considering the power of a court of equity to sustain such a suit, and the decree in each of the cases is consequently affirmed.</p>\n    </div>\n    ", 
+  "sha1": "74e5bf0699899fca926ff09518e281b2248760fa", 
+  "date_modified": "2014-12-21T01:32:02.951927", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/93999/dallas-county-missouri-v-alfred-huidekoper/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2126436/", 
+  "html": "<p class=\"case_cite\">154 U.S. 655</p>\n    <p class=\"case_cite\">14 S.Ct. 1200</p>\n    <p class=\"case_cite\">25 L.Ed. 974</p>\n    <p class=\"parties\">DALLAS COUNTY, MISSOURI,<br>v.<br>ALFRED HUIDEKOPER.  SAME  v.  WILLIAM H. DAVOL.</p>\n    <p class=\"docket\">Nos. 224 and 226.</p>\n    <p class=\"date\">April 5, 1880.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">S. H. Boyd, A. D. Matthews, and B. L. Brush, for appellant.</p>\n      <p class=\"indent\">Joseph Shippen, for appellees.</p>\n      <p class=\"indent\">Mr. Chief Justice WAITE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">These are suits in equity to enjoin the collection of judgments against Dallas county on coupons for interest attached to the same class of bonds just considered in Dallas Co. v. Huidekoper (No. 225) 154 U. S. 654, 14 Sup. Ct. 1190, and relief is asked on the ground that the charter of the railroad company had expired before any organization was effected under it, and that this fact was not known to the county until after the judgment was rendered. After what has been said in the other case, it is clear that the bills were properly dismissed without considering the power of a court of equity to sustain such a suit, and the decree in each of the cases is consequently affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/93999/"
+}

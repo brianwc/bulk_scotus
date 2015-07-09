@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/102420/james-steele-petitioner-v-the-people-of-the/", "blocked": false, "citation": {"case_name": "James Steele v. The People of the State of New York.", "docket_number": "644", "document_uris": ["/api/rest/v2/document/102420/"], "federal_cite_one": "294 U.S. 710", "federal_cite_three": null, "federal_cite_two": null, "id": 86803, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/86803/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1935-02-11", "date_modified": "2014-12-21T01:40:49.666175", "docket": "/api/rest/v2/docket/1668939/", "download_url": "http://bulk.resource.org/courts.gov/c/US/294/294.US.710.644.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">294 U.S. 710</p>\n    <p class=\"case_cite\">55 S.Ct. 510</p>\n    <p class=\"case_cite\">79 L.Ed. 1244</p>\n    <p class=\"parties\">James STEELE, petitioner,<br>v.<br>The PEOPLE OF THE STATE OF NEW YORK.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 644.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 4, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. James Steele, pro se.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of New York.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">For decision below, see 241 App. Div. 875, 271 N. Y. S. 979.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">The motions for leave to proceed further herein in forma pauperis are denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which writs of certiorari should be issued. The petitions for writs of certiorari are therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 294 U. S. 733, 55 S. Ct. 544, 79 L. Ed.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">710</span></span></p>\n    <p class=\"case_cite\">55 S.Ct. 510</p>\n    <p class=\"case_cite\">79 L.Ed. 1244</p>\n    <p class=\"parties\">James STEELE, petitioner,<br>v.<br>The PEOPLE OF THE STATE OF NEW YORK.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 644.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 4, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. James Steele, pro se.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of New York.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">For decision below, see 241 App. Div. 875, 271 N. Y. S. 979.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">The motions for leave to proceed further herein in forma pauperis are denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which writs of certiorari should be issued. The petitions for writs of certiorari are therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 294 U. S. 733, <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">544</span></span>, 79 L. Ed.</p>\n      </div>\n    </div>\n    ", "id": 102420, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/102420/", "sha1": "1b0ec535e55dc94da603aae7bd543a63239b34a2", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:52:31"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "294 U.S. 710", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/102420/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "James Steele v. The People of the State of New York.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "644", 
+    "id": 86803, 
+    "resource_uri": "/api/rest/v2/citation/86803/"
+  }, 
+  "id": 102420, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1935-02-11", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/294/294.US.710.644.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:52:31", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">710</span></span></p>\n    <p class=\"case_cite\">55 S.Ct. 510</p>\n    <p class=\"case_cite\">79 L.Ed. 1244</p>\n    <p class=\"parties\">James STEELE, petitioner,<br>v.<br>The PEOPLE OF THE STATE OF NEW YORK.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 644.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 4, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. James Steele, pro se.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of New York.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">For decision below, see 241 App. Div. 875, 271 N. Y. S. 979.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">The motions for leave to proceed further herein in forma pauperis are denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which writs of certiorari should be issued. The petitions for writs of certiorari are therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 294 U. S. 733, <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">544</span></span>, 79 L. Ed.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "1b0ec535e55dc94da603aae7bd543a63239b34a2", 
+  "date_modified": "2014-12-21T01:40:49.666175", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/102420/james-steele-petitioner-v-the-people-of-the/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1668939/", 
+  "html": "<p class=\"case_cite\">294 U.S. 710</p>\n    <p class=\"case_cite\">55 S.Ct. 510</p>\n    <p class=\"case_cite\">79 L.Ed. 1244</p>\n    <p class=\"parties\">James STEELE, petitioner,<br>v.<br>The PEOPLE OF THE STATE OF NEW YORK.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 644.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 4, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. James Steele, pro se.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of New York.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">For decision below, see 241 App. Div. 875, 271 N. Y. S. 979.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">The motions for leave to proceed further herein in forma pauperis are denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which writs of certiorari should be issued. The petitions for writs of certiorari are therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 294 U. S. 733, 55 S. Ct. 544, 79 L. Ed.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/102420/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/144832/metronet-services-corp-v-qwest-corp/", "blocked": false, "citation": {"case_name": "Metronet Services Corp. v. Qwest Corp", "docket_number": "04-1259", "document_uris": ["/api/rest/v2/document/144832/"], "federal_cite_one": "544 U.S. 1049", "federal_cite_three": null, "federal_cite_two": null, "id": 129183, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/129183/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-05-23", "date_modified": "2014-12-21T02:22:07.231077", "docket": "/api/rest/v2/docket/1718607/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1049.04-1259.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 1049</p>\n    <p class=\"parties\">METRONET SERVICES CORP.<br>v.<br>QWEST CORP.</p>\n    <p class=\"docket\">No. 04-1259.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 23, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 383 F. 3d 1124.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1049</span></span></p>\n    <p class=\"parties\">METRONET SERVICES CORP.<br>v.<br>QWEST CORP.</p>\n    <p class=\"docket\">No. 04-1259.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 23, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 383 F. 3d 1124.</p>\n    </div>\n    ", "id": 144832, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/144832/", "sha1": "8386366517d094f1d7332d166f9316ce1341a92e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T11:16:38"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 1049", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/144832/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Metronet Services Corp. v. Qwest Corp", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-1259", 
+    "id": 129183, 
+    "resource_uri": "/api/rest/v2/citation/129183/"
+  }, 
+  "id": 144832, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-05-23", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1049.04-1259.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T11:16:38", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1049</span></span></p>\n    <p class=\"parties\">METRONET SERVICES CORP.<br>v.<br>QWEST CORP.</p>\n    <p class=\"docket\">No. 04-1259.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 23, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 383 F. 3d 1124.</p>\n    </div>\n    ", 
+  "sha1": "8386366517d094f1d7332d166f9316ce1341a92e", 
+  "date_modified": "2014-12-21T02:22:07.231077", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/144832/metronet-services-corp-v-qwest-corp/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1718607/", 
+  "html": "<p class=\"case_cite\">544 U.S. 1049</p>\n    <p class=\"parties\">METRONET SERVICES CORP.<br>v.<br>QWEST CORP.</p>\n    <p class=\"docket\">No. 04-1259.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 23, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 383 F. 3d 1124.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/144832/"
+}

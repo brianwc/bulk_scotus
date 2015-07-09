@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/138263/bowen-v-maryland/", "blocked": false, "citation": {"case_name": "Bowen v. Maryland", "docket_number": "03-10585", "document_uris": ["/api/rest/v2/document/138263/"], "federal_cite_one": "543 U.S. 840", "federal_cite_three": null, "federal_cite_two": null, "id": 122616, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/122616/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-10-04", "date_modified": "2014-12-21T02:20:39.891509", "docket": "/api/rest/v2/docket/806563/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.840.03-10585.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 840</p>\n    <p class=\"parties\">BOWEN<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 03-10585.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. Sp. App. Md. Certiorari denied. Reported below: 153 Md. App. 716.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">840</span></span></p>\n    <p class=\"parties\">BOWEN<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 03-10585.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. Sp. App. Md. Certiorari denied. Reported below: 153 Md. App. 716.</p>\n    </div>\n    ", "id": 138263, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/138263/", "sha1": "85044a27783a7d5d4b73e5b456a3639c8dd305ef", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:32:22"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 840", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/138263/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bowen v. Maryland", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-10585", 
+    "id": 122616, 
+    "resource_uri": "/api/rest/v2/citation/122616/"
+  }, 
+  "id": 138263, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.840.03-10585.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:32:22", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">840</span></span></p>\n    <p class=\"parties\">BOWEN<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 03-10585.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. Sp. App. Md. Certiorari denied. Reported below: 153 Md. App. 716.</p>\n    </div>\n    ", 
+  "sha1": "85044a27783a7d5d4b73e5b456a3639c8dd305ef", 
+  "date_modified": "2014-12-21T02:20:39.891509", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/138263/bowen-v-maryland/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/806563/", 
+  "html": "<p class=\"case_cite\">543 U.S. 840</p>\n    <p class=\"parties\">BOWEN<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 03-10585.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. Sp. App. Md. Certiorari denied. Reported below: 153 Md. App. 716.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/138263/"
+}

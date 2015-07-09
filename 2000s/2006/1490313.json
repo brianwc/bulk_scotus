@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1490313/washington-v-washington-education-assn/", "blocked": false, "citation": {"case_name": "Washington v. WASHINGTON EDUCATION ASSN.", "docket_number": "05-1657", "document_uris": ["/api/rest/v2/document/1490313/"], "federal_cite_one": "548 U.S. 942", "federal_cite_three": null, "federal_cite_two": null, "id": 1463084, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1463084/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-09-26", "date_modified": "2014-10-30T08:13:48.797910", "docket": "/api/rest/v2/docket/1239338/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>548 U.S. 942 (2006)</b></center>\n<center><h1>WASHINGTON<br>\nv.<br>\nWASHINGTON EDUCATION ASSN.</h1></center>\n<center>No. 05-1657.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 26, 2006</center>\n<p>Certiorari granted, cases consolidated, and a total of one hour is allotted for oral argument.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">942</span></span> (2006)</b></center>\n<center><h1>WASHINGTON<br>\nv.<br>\nWASHINGTON EDUCATION ASSN.</h1></center>\n<center>No. 05-1657.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 26, 2006</center>\n<p>Certiorari granted, cases consolidated, and a total of one hour is allotted for oral argument.</p>\n</div>", "id": 1490313, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1490313/", "sha1": "76b41e131b579bbe795b2c021c1ab380edeee875", "source": "L", "time_retrieved": "2013-10-29T23:28:00.491645"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "548 U.S. 942", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1490313/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Washington v. WASHINGTON EDUCATION ASSN.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-1657", 
+    "id": 1463084, 
+    "resource_uri": "/api/rest/v2/citation/1463084/"
+  }, 
+  "id": 1490313, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-09-26", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>548 U.S. 942 (2006)</b></center>\n<center><h1>WASHINGTON<br>\nv.<br>\nWASHINGTON EDUCATION ASSN.</h1></center>\n<center>No. 05-1657.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 26, 2006</center>\n<p>Certiorari granted, cases consolidated, and a total of one hour is allotted for oral argument.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:28:00.491645", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">942</span></span> (2006)</b></center>\n<center><h1>WASHINGTON<br>\nv.<br>\nWASHINGTON EDUCATION ASSN.</h1></center>\n<center>No. 05-1657.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 26, 2006</center>\n<p>Certiorari granted, cases consolidated, and a total of one hour is allotted for oral argument.</p>\n</div>", 
+  "sha1": "76b41e131b579bbe795b2c021c1ab380edeee875", 
+  "date_modified": "2014-10-30T08:13:48.797910", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1490313/washington-v-washington-education-assn/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1239338/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1490313/"
+}

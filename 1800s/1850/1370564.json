@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1370564/webster-v-cooper/", "blocked": false, "citation": {"case_name": "Webster v. Cooper", "docket_number": null, "document_uris": ["/api/rest/v2/document/1370564/"], "federal_cite_one": "51 U.S. 54", "federal_cite_three": null, "federal_cite_two": null, "id": 1343335, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1343335/", "scotus_early_cite": "10 How. 54", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1850-12-23", "date_modified": "2014-12-21T01:44:29.847830", "docket": "/api/rest/v2/docket/802293/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>51 U.S. 54 (____)</b></center>\n<center><b>10 How. 54</b></center>\n<center><h1>HENRY WEBSTER, PLAINTIFF,<br>\nv.<br>\nPETER COOPER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The cause was argued by Mr. Dexter and Mr. E.H. Daveis, for the plaintiff, and Mr. Allen, for the defendant.</p>\n<p>Mr. Chief Justice TANEY delivered the opinion of the court.</p>\n<p>This case has been argued at the bar upon points certified as upon a division of opinion in the Circuit Court. But it appears by the record that the whole case has been divided into points and sent up to this court,  and several of the latter points could not have arisen on the trial until the previous ones were first decided. We understand it was a pro forma division, certified at the request of the counsel for the respective parties.</p>\n<p><span class=\"star-pagination\">*55</span> This court has frequently said that this practice is irregular, and would, if sanctioned, convert this court into one of original jurisdiction in questions of law, instead of being, as the Constitution intended it to be, an appellate court to revise the decisions of inferior tribunals. Indeed, it would impose upon it the duty of deciding in the first instance, not only the questions of law which properly belonged to the case, but also questions merely hypothetical and speculative, and which might or might not arise, as previous questions were ruled the one way or the other.</p>\n<p>The irregularity and evil tendency of this practice has upon several occasions attracted the attention of the court, although it has been occasionally acquiesced in, and the points so certified acted upon and decided. But at December term, 1847, the subject was very fully considered, and it was then determined that this practice ought not to be sanctioned, and that this court would in all cases refuse to take jurisdiction, when it was obvious that the whole case had been certified pro forma, in order to take the opinion of this court, without any actual division of opinion in the Circuit Court. The result of this determination will be found in the case of Nesmith and others v. Sheldon and others, 6 Howard, 41. The case before us cannot be distinguished from the one referred to. It is true that it was certified before that decision was pronounced. But the opinion in that case conformed to all the opinions previously expressed by this court upon the irregularity of this practice.</p>\n<p>This case, therefore, must be remanded to the Circuit Court, to be proceeded in according to law.</p>\n<p></p>\n<h2>Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the Circuit Court of the United States for the District of Maine, and on the points and questions on which the judges of the said Circuit Court were opposed in opinion, and which were certified to this court for its opinion, agreeably to the act of Congress in such case made and provided, and was argued by counsel. And it appearing to this court, upon an inspection of the said transcript, that no point in the case within the meaning of the act of Congress has been certified to this court, it is thereupon now here ordered and adjudged by this court, that this cause be, and the same is hereby, dismissed, and that this cause be, and the same is hereby, remanded to the said Circuit Court, to be proceeded in according to law.</p>\n</div>", "html_with_citations": "", "id": 1370564, "judges": "Taney", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1370564/", "sha1": "294ae82b52e0411c94bf76f61df098de7ac56a85", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T22:49:50.503568"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "51 U.S. 54", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1370564/"
+    ], 
+    "scotus_early_cite": "10 How. 54", 
+    "case_name": "Webster v. Cooper", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1343335, 
+    "resource_uri": "/api/rest/v2/citation/1343335/"
+  }, 
+  "id": 1370564, 
+  "blocked": false, 
+  "judges": "Taney", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1850-12-23", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>51 U.S. 54 (____)</b></center>\n<center><b>10 How. 54</b></center>\n<center><h1>HENRY WEBSTER, PLAINTIFF,<br>\nv.<br>\nPETER COOPER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The cause was argued by Mr. Dexter and Mr. E.H. Daveis, for the plaintiff, and Mr. Allen, for the defendant.</p>\n<p>Mr. Chief Justice TANEY delivered the opinion of the court.</p>\n<p>This case has been argued at the bar upon points certified as upon a division of opinion in the Circuit Court. But it appears by the record that the whole case has been divided into points and sent up to this court, \u0097 and several of the latter points could not have arisen on the trial until the previous ones were first decided. We understand it was a pro forma division, certified at the request of the counsel for the respective parties.</p>\n<p><span class=\"star-pagination\">*55</span> This court has frequently said that this practice is irregular, and would, if sanctioned, convert this court into one of original jurisdiction in questions of law, instead of being, as the Constitution intended it to be, an appellate court to revise the decisions of inferior tribunals. Indeed, it would impose upon it the duty of deciding in the first instance, not only the questions of law which properly belonged to the case, but also questions merely hypothetical and speculative, and which might or might not arise, as previous questions were ruled the one way or the other.</p>\n<p>The irregularity and evil tendency of this practice has upon several occasions attracted the attention of the court, although it has been occasionally acquiesced in, and the points so certified acted upon and decided. But at December term, 1847, the subject was very fully considered, and it was then determined that this practice ought not to be sanctioned, and that this court would in all cases refuse to take jurisdiction, when it was obvious that the whole case had been certified pro forma, in order to take the opinion of this court, without any actual division of opinion in the Circuit Court. The result of this determination will be found in the case of Nesmith and others v. Sheldon and others, 6 Howard, 41. The case before us cannot be distinguished from the one referred to. It is true that it was certified before that decision was pronounced. But the opinion in that case conformed to all the opinions previously expressed by this court upon the irregularity of this practice.</p>\n<p>This case, therefore, must be remanded to the Circuit Court, to be proceeded in according to law.</p>\n<p></p>\n<h2>Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the Circuit Court of the United States for the District of Maine, and on the points and questions on which the judges of the said Circuit Court were opposed in opinion, and which were certified to this court for its opinion, agreeably to the act of Congress in such case made and provided, and was argued by counsel. And it appearing to this court, upon an inspection of the said transcript, that no point in the case within the meaning of the act of Congress has been certified to this court, it is thereupon now here ordered and adjudged by this court, that this cause be, and the same is hereby, dismissed, and that this cause be, and the same is hereby, remanded to the said Circuit Court, to be proceeded in according to law.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:49:50.503568", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "294ae82b52e0411c94bf76f61df098de7ac56a85", 
+  "date_modified": "2014-12-21T01:44:29.847830", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1370564/webster-v-cooper/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/802293/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1370564/"
+}

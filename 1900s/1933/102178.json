@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/102178/columbia-deschutes-power-company-appellant-v/", "blocked": false, "citation": {"case_name": "Columbia-Deschutes Power Company v. Charles E. Stricklin, as State Engineer of the State of Oregon", "docket_number": "3", "document_uris": ["/api/rest/v2/document/102178/"], "federal_cite_one": "290 U.S. 590", "federal_cite_three": null, "federal_cite_two": null, "id": 86561, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/86561/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1933-10-16", "date_modified": "2014-12-21T01:40:28.217851", "docket": "/api/rest/v2/docket/2471036/", "download_url": "http://bulk.resource.org/courts.gov/c/US/290/290.US.590.3.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">290 U.S. 590</p>\r\n    <p class=\"case_cite\">54 S.Ct. 83</p>\r\n    <p class=\"case_cite\">78 L.Ed. 520</p>\r\n    <p class=\"parties\">COLUMBIA-DESCHUTES POWER COMPANY, appellant,<br>v.<br>Charles E. STRICKLIN, as State Engineer of the  State of Oregon.</p>\r\n    <p class=\"docket\">No. 3.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 16, 1933</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Arthur L. Veazie, of Portland, Or., for appellant.</p>\r\n      <p class=\"indent\">Messrs. I. H. Van Winkle and Willis S. Moore, both of Salem, Or., for appellee.</p>\r\n      <p class=\"indent\">For opinions below, see 134 Or. 623, 286 P. 563, 294 P. 1049.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The appeal herein is dismissed for the want of jurisdiction, upon the ground that the application for allowance of the appeal was not made within the time provided by law. Section 8(a), Act of February 13, 1925 (chapter 229, 43 Stat. 936, 940, U. S. Code, title 28, &#167; 350 [28 USCA &#167; 350]).</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">290</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">590</span></span></p>\r\n    <p class=\"case_cite\">54 S.Ct. 83</p>\r\n    <p class=\"case_cite\">78 L.Ed. 520</p>\r\n    <p class=\"parties\">COLUMBIA-DESCHUTES POWER COMPANY, appellant,<br>v.<br>Charles E. STRICKLIN, as State Engineer of the  State of Oregon.</p>\r\n    <p class=\"docket\">No. 3.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 16, 1933</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Arthur L. Veazie, of Portland, Or., for appellant.</p>\r\n      <p class=\"indent\">Messrs. I. H. Van Winkle and Willis S. Moore, both of Salem, Or., for appellee.</p>\r\n      <p class=\"indent\">For opinions below, see <span class=\"citation no-link\"><span class=\"volume\">134</span> <span class=\"reporter\">Or.</span> <span class=\"page\">623</span></span>, <span class=\"citation no-link\"><span class=\"volume\">286</span> <span class=\"reporter\">P.</span> <span class=\"page\">563</span></span>, 294 P. 1049.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The appeal herein is dismissed for the want of jurisdiction, upon the ground that the application for allowance of the appeal was not made within the time provided by law. Section 8(a), Act of February 13, 1925 (chapter 229, 43 Stat. 936, 940, U. S. Code, title 28, &#167; 350 [28 USCA &#167; 350]).</p>\r\n    </div>\r\n    ", "id": 102178, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/102178/", "sha1": "026e444c314c1da9ce8e6c432704778852b7c373", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:52:25"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "290 U.S. 590", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/102178/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Columbia-Deschutes Power Company v. Charles E. Stricklin, as State Engineer of the State of Oregon", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "3", 
+    "id": 86561, 
+    "resource_uri": "/api/rest/v2/citation/86561/"
+  }, 
+  "id": 102178, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1933-10-16", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/290/290.US.590.3.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:52:25", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">290</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">590</span></span></p>\r\n    <p class=\"case_cite\">54 S.Ct. 83</p>\r\n    <p class=\"case_cite\">78 L.Ed. 520</p>\r\n    <p class=\"parties\">COLUMBIA-DESCHUTES POWER COMPANY, appellant,<br>v.<br>Charles E. STRICKLIN, as State Engineer of the  State of Oregon.</p>\r\n    <p class=\"docket\">No. 3.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 16, 1933</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Arthur L. Veazie, of Portland, Or., for appellant.</p>\r\n      <p class=\"indent\">Messrs. I. H. Van Winkle and Willis S. Moore, both of Salem, Or., for appellee.</p>\r\n      <p class=\"indent\">For opinions below, see <span class=\"citation no-link\"><span class=\"volume\">134</span> <span class=\"reporter\">Or.</span> <span class=\"page\">623</span></span>, <span class=\"citation no-link\"><span class=\"volume\">286</span> <span class=\"reporter\">P.</span> <span class=\"page\">563</span></span>, 294 P. 1049.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The appeal herein is dismissed for the want of jurisdiction, upon the ground that the application for allowance of the appeal was not made within the time provided by law. Section 8(a), Act of February 13, 1925 (chapter 229, 43 Stat. 936, 940, U. S. Code, title 28, &#167; 350 [28 USCA &#167; 350]).</p>\r\n    </div>\r\n    ", 
+  "sha1": "026e444c314c1da9ce8e6c432704778852b7c373", 
+  "date_modified": "2014-12-21T01:40:28.217851", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/102178/columbia-deschutes-power-company-appellant-v/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2471036/", 
+  "html": "<p class=\"case_cite\">290 U.S. 590</p>\r\n    <p class=\"case_cite\">54 S.Ct. 83</p>\r\n    <p class=\"case_cite\">78 L.Ed. 520</p>\r\n    <p class=\"parties\">COLUMBIA-DESCHUTES POWER COMPANY, appellant,<br>v.<br>Charles E. STRICKLIN, as State Engineer of the  State of Oregon.</p>\r\n    <p class=\"docket\">No. 3.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 16, 1933</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Arthur L. Veazie, of Portland, Or., for appellant.</p>\r\n      <p class=\"indent\">Messrs. I. H. Van Winkle and Willis S. Moore, both of Salem, Or., for appellee.</p>\r\n      <p class=\"indent\">For opinions below, see 134 Or. 623, 286 P. 563, 294 P. 1049.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The appeal herein is dismissed for the want of jurisdiction, upon the ground that the application for allowance of the appeal was not made within the time provided by law. Section 8(a), Act of February 13, 1925 (chapter 229, 43 Stat. 936, 940, U. S. Code, title 28, &#167; 350 [28 USCA &#167; 350]).</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/102178/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105733/morand-v-raleigh/", "blocked": false, "citation": {"case_name": "Morand v. Raleigh", "docket_number": "949", "document_uris": ["/api/rest/v2/document/105733/"], "federal_cite_one": "357 U.S. 343", "federal_cite_three": null, "federal_cite_two": null, "id": 90116, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90116/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-06-23", "date_modified": "2014-12-21T01:51:04.896226", "docket": "/api/rest/v2/docket/2558042/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">357 U.S. 343</p>\n    <p class=\"case_cite\">78 S.Ct. 1369</p>\n    <p class=\"case_cite\">2 L.Ed.2d 1367</p>\n    <p class=\"parties\">W. H. MORAND and wife, Margaret Olibene Morand,  appellants,<br>v.<br>CITY OF RALEIGH, NORTH CAROLINA.</p>\n    <p class=\"docket\">No. 949.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 23, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Herman L. Taylor and Samuel S. Mitchell, for appellants.</p>\n      <p class=\"indent\">Mr. William Joslin, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>357 U.S. 343 (1958)</b></center>\n<center><h1>MORAND ET UX.<br>\nv.<br>\nCITY OF RALEIGH.</h1></center>\n<center>No. 949.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 23, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF NORTH CAROLINA.\n<p><i>Herman L. Taylor</i> and <i>Samuel S. Mitchell</i> for appellants.</p>\n<p><i>William Joslin</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">357</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">343</span></span> (1958)</b></center>\n<center><h1>MORAND ET UX.<br>\nv.<br>\nCITY OF RALEIGH.</h1></center>\n<center>No. 949.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 23, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF NORTH CAROLINA.\n<p><i>Herman L. Taylor</i> and <i>Samuel S. Mitchell</i> for appellants.</p>\n<p><i>William Joslin</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "id": 105733, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105733/", "sha1": "fbbe6ad1171a3d2ca3bcb08e57e58a8cd3e71935", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "357 U.S. 343", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/105733/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Morand v. Raleigh", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "949", 
+    "id": 90116, 
+    "resource_uri": "/api/rest/v2/citation/90116/"
+  }, 
+  "id": 105733, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-06-23", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>357 U.S. 343 (1958)</b></center>\n<center><h1>MORAND ET UX.<br>\nv.<br>\nCITY OF RALEIGH.</h1></center>\n<center>No. 949.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 23, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF NORTH CAROLINA.\n<p><i>Herman L. Taylor</i> and <i>Samuel S. Mitchell</i> for appellants.</p>\n<p><i>William Joslin</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">357</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">343</span></span> (1958)</b></center>\n<center><h1>MORAND ET UX.<br>\nv.<br>\nCITY OF RALEIGH.</h1></center>\n<center>No. 949.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 23, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF NORTH CAROLINA.\n<p><i>Herman L. Taylor</i> and <i>Samuel S. Mitchell</i> for appellants.</p>\n<p><i>William Joslin</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "sha1": "fbbe6ad1171a3d2ca3bcb08e57e58a8cd3e71935", 
+  "date_modified": "2014-12-21T01:51:04.896226", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105733/morand-v-raleigh/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2558042/", 
+  "html": "<p class=\"case_cite\">357 U.S. 343</p>\n    <p class=\"case_cite\">78 S.Ct. 1369</p>\n    <p class=\"case_cite\">2 L.Ed.2d 1367</p>\n    <p class=\"parties\">W. H. MORAND and wife, Margaret Olibene Morand,  appellants,<br>v.<br>CITY OF RALEIGH, NORTH CAROLINA.</p>\n    <p class=\"docket\">No. 949.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 23, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Herman L. Taylor and Samuel S. Mitchell, for appellants.</p>\n      <p class=\"indent\">Mr. William Joslin, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105733/"
+}

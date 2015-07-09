@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/144796/gabaldon-v-united-states/", "blocked": false, "citation": {"case_name": "Gabaldon v. United States", "docket_number": "04-1111", "document_uris": ["/api/rest/v2/document/144796/"], "federal_cite_one": "544 U.S. 1045", "federal_cite_three": null, "federal_cite_two": null, "id": 129147, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/129147/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-05-16", "date_modified": "2014-12-21T03:05:47.169731", "docket": "/api/rest/v2/docket/1155332/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1045.04-1111.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 1045</p>\n    <p class=\"parties\">GABALDON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-1111.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 16, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1045</span></span></p>\n    <p class=\"parties\">GABALDON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-1111.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 16, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "id": 144796, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/144796/", "sha1": "16a6fe472c8a41d796f75829d3026d5ff3c23df0", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T11:16:37"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 1045", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/144796/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gabaldon v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-1111", 
+    "id": 129147, 
+    "resource_uri": "/api/rest/v2/citation/129147/"
+  }, 
+  "id": 144796, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-05-16", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1045.04-1111.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T11:16:37", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1045</span></span></p>\n    <p class=\"parties\">GABALDON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-1111.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 16, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "16a6fe472c8a41d796f75829d3026d5ff3c23df0", 
+  "date_modified": "2014-12-21T03:05:47.169731", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/144796/gabaldon-v-united-states/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1155332/", 
+  "html": "<p class=\"case_cite\">544 U.S. 1045</p>\n    <p class=\"parties\">GABALDON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-1111.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 16, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/144796/"
+}

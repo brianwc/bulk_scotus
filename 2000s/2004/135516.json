@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/135516/simon-v-mississippi/", "blocked": false, "citation": {"case_name": "Simon v. Mississippi", "docket_number": "03-8757", "document_uris": ["/api/rest/v2/document/135516/"], "federal_cite_one": "541 U.S. 977", "federal_cite_three": null, "federal_cite_two": null, "id": 119869, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/119869/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-04-05", "date_modified": "2014-12-21T02:20:01.851380", "docket": "/api/rest/v2/docket/1324018/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.977.03-8757.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 977</p>\n    <p class=\"parties\">SIMON<br>v.<br>MISSISSIPPI.</p>\n    <p class=\"docket\">No. 03-8757.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 5, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Miss. Certiorari denied. Reported below: 857 So. 2d 668.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">977</span></span></p>\n    <p class=\"parties\">SIMON<br>v.<br>MISSISSIPPI.</p>\n    <p class=\"docket\">No. 03-8757.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 5, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Miss. Certiorari denied. Reported below: 857 So. 2d 668.</p>\n    </div>\n    ", "id": 135516, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/135516/", "sha1": "4526c92e673d3381f1bace12213d6be1b2b77fd9", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:25"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 977", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/135516/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Simon v. Mississippi", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-8757", 
+    "id": 119869, 
+    "resource_uri": "/api/rest/v2/citation/119869/"
+  }, 
+  "id": 135516, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-04-05", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.977.03-8757.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:25", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">977</span></span></p>\n    <p class=\"parties\">SIMON<br>v.<br>MISSISSIPPI.</p>\n    <p class=\"docket\">No. 03-8757.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 5, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Miss. Certiorari denied. Reported below: 857 So. 2d 668.</p>\n    </div>\n    ", 
+  "sha1": "4526c92e673d3381f1bace12213d6be1b2b77fd9", 
+  "date_modified": "2014-12-21T02:20:01.851380", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/135516/simon-v-mississippi/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1324018/", 
+  "html": "<p class=\"case_cite\">541 U.S. 977</p>\n    <p class=\"parties\">SIMON<br>v.<br>MISSISSIPPI.</p>\n    <p class=\"docket\">No. 03-8757.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 5, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Miss. Certiorari denied. Reported below: 857 So. 2d 668.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/135516/"
+}

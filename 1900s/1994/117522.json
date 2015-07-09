@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117522/lewis-v-ohio/", "blocked": false, "citation": {"case_name": "Lewis v. Ohio", "docket_number": "93-7322", "document_uris": ["/api/rest/v2/document/117522/"], "federal_cite_one": "510 U.S. 1185", "federal_cite_three": null, "federal_cite_two": null, "id": 101881, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101881/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-03-07", "date_modified": "2015-01-16T10:28:50.228722", "docket": "/api/rest/v2/docket/987850/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1185.93-7322.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1185</p>\n    <p class=\"parties\">Lewis<br>v.<br>Ohio.</p>\n    <p class=\"docket\">No. 93-7322.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 7, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ohio.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: No. 93-7039, 998 F. 2d 1287; No. 93-7230, 864 S. W. 2d 499; No. 93-7322, 67 Ohio St. 3d 200, 616 N. E. 2d 921.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1185</span></span></p>\n    <p class=\"parties\">Lewis<br>v.<br>Ohio.</p>\n    <p class=\"docket\">No. 93-7322.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 7, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ohio.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: No. 93-7039, 998 F. 2d 1287; No. 93-7230, 864 S. W. 2d 499; No. 93-7322, <span class=\"citation no-link\"><span class=\"volume\">67</span> <span class=\"reporter\">Ohio St. 3d</span> <span class=\"page\">200</span></span>, 616 N. E. 2d 921.</p>\n    </div>\n    ", "id": 117522, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117522/", "sha1": "3bd5222af93ca7057011ca0309dd933988acb785", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:11"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1185", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117522/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Lewis v. Ohio", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-7322", 
+    "id": 101881, 
+    "resource_uri": "/api/rest/v2/citation/101881/"
+  }, 
+  "id": 117522, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-03-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1185.93-7322.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:11", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1185</span></span></p>\n    <p class=\"parties\">Lewis<br>v.<br>Ohio.</p>\n    <p class=\"docket\">No. 93-7322.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 7, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ohio.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: No. 93-7039, 998 F. 2d 1287; No. 93-7230, 864 S. W. 2d 499; No. 93-7322, <span class=\"citation no-link\"><span class=\"volume\">67</span> <span class=\"reporter\">Ohio St. 3d</span> <span class=\"page\">200</span></span>, 616 N. E. 2d 921.</p>\n    </div>\n    ", 
+  "sha1": "3bd5222af93ca7057011ca0309dd933988acb785", 
+  "date_modified": "2015-01-16T10:28:50.228722", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117522/lewis-v-ohio/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/987850/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1185</p>\n    <p class=\"parties\">Lewis<br>v.<br>Ohio.</p>\n    <p class=\"docket\">No. 93-7322.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 7, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ohio.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: No. 93-7039, 998 F. 2d 1287; No. 93-7230, 864 S. W. 2d 499; No. 93-7322, 67 Ohio St. 3d 200, 616 N. E. 2d 921.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117522/"
+}

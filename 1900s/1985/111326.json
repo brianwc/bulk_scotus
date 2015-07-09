@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/111326/gladys-l-trapf-appellant-v-oscar-lohr-et-al/", "blocked": false, "citation": {"case_name": "Gladys L. Trapf v. Oscar Lohr", "docket_number": "84-83", "document_uris": ["/api/rest/v2/document/111326/"], "federal_cite_one": "469 U.S. 1013", "federal_cite_three": null, "federal_cite_two": null, "id": 95685, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/95685/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1985-01-14", "date_modified": "2014-12-21T02:07:42.569957", "docket": "/api/rest/v2/docket/355648/", "download_url": "http://bulk.resource.org/courts.gov/c/US/469/469.US.1013.84-83.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">469 U.S. 1013</p>\n    <p class=\"case_cite\">105 S.Ct. 423</p>\n    <p class=\"case_cite\">83 L.Ed.2d 351</p>\n    <p class=\"parties\">Gladys L. TRAPF, appellant,<br>v.<br>Oscar LOHR, et al</p>\n    <p class=\"docket\">No. 84-83</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 13, 1984</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">469</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1013</span></span></p>\n    <p class=\"case_cite\">105 S.Ct. 423</p>\n    <p class=\"case_cite\">83 L.Ed.2d 351</p>\n    <p class=\"parties\">Gladys L. TRAPF, appellant,<br>v.<br>Oscar LOHR, et al</p>\n    <p class=\"docket\">No. 84-83</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 13, 1984</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "id": 111326, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/111326/", "sha1": "ab2b45e2f84ca41e201b2174933e72ed606c9a12", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:13:10"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "469 U.S. 1013", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/111326/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gladys L. Trapf v. Oscar Lohr", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "84-83", 
+    "id": 95685, 
+    "resource_uri": "/api/rest/v2/citation/95685/"
+  }, 
+  "id": 111326, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1985-01-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/469/469.US.1013.84-83.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:13:10", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">469</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1013</span></span></p>\n    <p class=\"case_cite\">105 S.Ct. 423</p>\n    <p class=\"case_cite\">83 L.Ed.2d 351</p>\n    <p class=\"parties\">Gladys L. TRAPF, appellant,<br>v.<br>Oscar LOHR, et al</p>\n    <p class=\"docket\">No. 84-83</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 13, 1984</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "sha1": "ab2b45e2f84ca41e201b2174933e72ed606c9a12", 
+  "date_modified": "2014-12-21T02:07:42.569957", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/111326/gladys-l-trapf-appellant-v-oscar-lohr-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/355648/", 
+  "html": "<p class=\"case_cite\">469 U.S. 1013</p>\n    <p class=\"case_cite\">105 S.Ct. 423</p>\n    <p class=\"case_cite\">83 L.Ed.2d 351</p>\n    <p class=\"parties\">Gladys L. TRAPF, appellant,<br>v.<br>Oscar LOHR, et al</p>\n    <p class=\"docket\">No. 84-83</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 13, 1984</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/111326/"
+}

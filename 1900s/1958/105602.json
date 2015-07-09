@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105602/bartkus-v-illinois/", "blocked": false, "citation": {"case_name": "Bartkus v. Illinois", "docket_number": "39", "document_uris": ["/api/rest/v2/document/105602/"], "federal_cite_one": "355 U.S. 281", "federal_cite_three": "2 L. Ed. 2d 270", "federal_cite_two": "78 S. Ct. 336", "id": 89985, "lexis_cite": "1958 U.S. LEXIS 1681", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/89985/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-05-26", "date_modified": "2014-12-22T06:18:45.447127", "docket": "/api/rest/v2/docket/2115257/", "download_url": "http://bulk.resource.org/courts.gov/c/US/355/355.US.281.39.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">355 U.S. 281</p>\n    <p class=\"case_cite\">78 S.Ct. 336</p>\n    <p class=\"case_cite\">2 L.Ed.2d 270</p>\n    <p class=\"parties\">Alfonse BARTKUS, petitioner,<br>v.<br>PEOPLE OF THE STATE OF ILLINOIS.</p>\n    <p class=\"docket\">No. 39.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 6, 1958</p>\n    <p class=\"date\">Judgment Vacated May 26, 1958.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Walter T. Fisher, for petitioner.</p>\n      <p class=\"indent\">Mr. William C. Wines, Asst. Atty. Gen. of Illinois (Messrs. Latham Castle, Atty. Gen., and Theodore G. Maheras, Asst. Atty. Gen., on the brief), for respondent.</p>\n      <p class=\"center\">See 356 U.S. 969, 78 S.Ct. 1004.</p>\n      <p class=\"indent\">On writ of certiorari to the Supreme Court of Illinois.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BRENNAN took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>355 U.S. 281 (1958)</b></center>\n<center><h1>BARTKUS<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 39.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1957.</center>\n<center>Decided January 6, 1958.</center>\nCERTIORARI TO THE SUPREME COURT OF ILLINOIS.\n<p><i>Walter T. Fisher,</i> acting under appointment by the Court, 352 U. S. 958, argued the cause and filed a brief for petitioner.</p>\n<p><i>William C. Wines,</i> Assistant Attorney General of Illinois, argued the cause for respondent. With him on the brief were <i>Latham Castle,</i> Attorney General, and <i>Theodore G. Maheras,</i> Assistant Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">281</span></span> (1958)</b></center>\n<center><h1>BARTKUS<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 39.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1957.</center>\n<center>Decided January 6, 1958.</center>\nCERTIORARI TO THE SUPREME COURT OF ILLINOIS.\n<p><i>Walter T. Fisher,</i> acting under appointment by the Court, 352 U. S. 958, argued the cause and filed a brief for petitioner.</p>\n<p><i>William C. Wines,</i> Assistant Attorney General of Illinois, argued the cause for respondent. With him on the brief were <i>Latham Castle,</i> Attorney General, and <i>Theodore G. Maheras,</i> Assistant Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", "id": 105602, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105602/", "sha1": "ee81ca0e76c1f094d08acd4b329c8af805e91e04", "source": "LR", "supreme_court_db_id": "1957-030", "time_retrieved": "2010-04-28T09:55:37"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "355 U.S. 281", 
+    "federal_cite_two": "78 S. Ct. 336", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "2 L. Ed. 2d 270", 
+    "lexis_cite": "1958 U.S. LEXIS 1681", 
+    "document_uris": [
+      "/api/rest/v2/document/105602/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bartkus v. Illinois", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "39", 
+    "id": 89985, 
+    "resource_uri": "/api/rest/v2/citation/89985/"
+  }, 
+  "id": 105602, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-05-26", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/355/355.US.281.39.html", 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>355 U.S. 281 (1958)</b></center>\n<center><h1>BARTKUS<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 39.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1957.</center>\n<center>Decided January 6, 1958.</center>\nCERTIORARI TO THE SUPREME COURT OF ILLINOIS.\n<p><i>Walter T. Fisher,</i> acting under appointment by the Court, 352 U. S. 958, argued the cause and filed a brief for petitioner.</p>\n<p><i>William C. Wines,</i> Assistant Attorney General of Illinois, argued the cause for respondent. With him on the brief were <i>Latham Castle,</i> Attorney General, and <i>Theodore G. Maheras,</i> Assistant Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:37", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">281</span></span> (1958)</b></center>\n<center><h1>BARTKUS<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 39.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1957.</center>\n<center>Decided January 6, 1958.</center>\nCERTIORARI TO THE SUPREME COURT OF ILLINOIS.\n<p><i>Walter T. Fisher,</i> acting under appointment by the Court, 352 U. S. 958, argued the cause and filed a brief for petitioner.</p>\n<p><i>William C. Wines,</i> Assistant Attorney General of Illinois, argued the cause for respondent. With him on the brief were <i>Latham Castle,</i> Attorney General, and <i>Theodore G. Maheras,</i> Assistant Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "ee81ca0e76c1f094d08acd4b329c8af805e91e04", 
+  "date_modified": "2014-12-22T06:18:45.447127", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105602/bartkus-v-illinois/", 
+  "citation_count": 5, 
+  "supreme_court_db_id": "1957-030", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2115257/", 
+  "html": "<p class=\"case_cite\">355 U.S. 281</p>\n    <p class=\"case_cite\">78 S.Ct. 336</p>\n    <p class=\"case_cite\">2 L.Ed.2d 270</p>\n    <p class=\"parties\">Alfonse BARTKUS, petitioner,<br>v.<br>PEOPLE OF THE STATE OF ILLINOIS.</p>\n    <p class=\"docket\">No. 39.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 6, 1958</p>\n    <p class=\"date\">Judgment Vacated May 26, 1958.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Walter T. Fisher, for petitioner.</p>\n      <p class=\"indent\">Mr. William C. Wines, Asst. Atty. Gen. of Illinois (Messrs. Latham Castle, Atty. Gen., and Theodore G. Maheras, Asst. Atty. Gen., on the brief), for respondent.</p>\n      <p class=\"center\">See 356 U.S. 969, 78 S.Ct. 1004.</p>\n      <p class=\"indent\">On writ of certiorari to the Supreme Court of Illinois.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BRENNAN took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105602/"
+}

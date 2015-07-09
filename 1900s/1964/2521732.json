@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2521732/nolan-v-rhodes/", "blocked": false, "citation": {"case_name": "Nolan v. Rhodes", "docket_number": "454", "document_uris": ["/api/rest/v2/document/2521732/"], "federal_cite_one": "378 U.S. 556", "federal_cite_three": null, "federal_cite_two": null, "id": 2494504, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2494504/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-06-22", "date_modified": "2014-10-30T02:11:59.001027", "docket": "/api/rest/v2/docket/403632/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>378 U.S. 556 (1964)</b></center>\n<center><h1>NOLAN<br>\nv.<br>\nRHODES, GOVERNOR OF OHIO, ET AL.</h1></center>\n<center>No. 454.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.<sup>[*]</sup></center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF OHIO.\n<p><i>Kenneth G. Weinberg</i> and <i>Stewart R. Jaffy</i> for appellant in No. 454.</p>\n<p><i>William B. Saxbe,</i> Attorney General of Ohio, and <i>Hugh A. Sherer</i> for appellees in No. 454.</p>\n<p><i>Jerome Goldman, Robert P. Goldman</i> and <i>Harris Weston</i> for appellants in No. 455.</p>\n<p><i>William B. Saxbe,</i> Attorney General of Ohio, <i>Gerald A. Donahue,</i> First Assistant Attorney General, and <i>John J. Chester</i> for appellees in No. 455.</p>\n<p>PER CURIAM.</p>\n<p>The judgment below is reversed. <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533. The cases are remanded for further proceedings consistent with the views stated in our opinions in <i>Reynolds</i> v. <i>Sims</i> and in the other cases relating to state legislative apportionment decided along with <i>Reynolds.</i></p>\n<p>MR. JUSTICE CLARK would reverse on the grounds stated in his opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 587.</p>\n<p>MR. JUSTICE STEWART would affirm the judgment because the Ohio system of legislative apportionment is <span class=\"star-pagination\">*557</span> clearly a rational one and clearly does not frustrate effective majority rule.</p>\n<p>MR. JUSTICE HARLAN dissents for the reasons stated in his dissenting opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 589.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 455, <i>Sive et al.</i> v. <i>Ellis et al.,</i> also on appeal from the same court.</p>\n\n</div>", "html_with_citations": "", "id": 2521732, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2521732/", "sha1": "a2a3ea56a253ec321c94d18affa2f071b404d89d", "source": "L", "time_retrieved": "2013-10-30T03:09:28.300781"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "378 U.S. 556", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2521732/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Nolan v. Rhodes", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "454", 
+    "id": 2494504, 
+    "resource_uri": "/api/rest/v2/citation/2494504/"
+  }, 
+  "id": 2521732, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-06-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>378 U.S. 556 (1964)</b></center>\n<center><h1>NOLAN<br>\nv.<br>\nRHODES, GOVERNOR OF OHIO, ET AL.</h1></center>\n<center>No. 454.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.<sup>[*]</sup></center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF OHIO.\n<p><i>Kenneth G. Weinberg</i> and <i>Stewart R. Jaffy</i> for appellant in No. 454.</p>\n<p><i>William B. Saxbe,</i> Attorney General of Ohio, and <i>Hugh A. Sherer</i> for appellees in No. 454.</p>\n<p><i>Jerome Goldman, Robert P. Goldman</i> and <i>Harris Weston</i> for appellants in No. 455.</p>\n<p><i>William B. Saxbe,</i> Attorney General of Ohio, <i>Gerald A. Donahue,</i> First Assistant Attorney General, and <i>John J. Chester</i> for appellees in No. 455.</p>\n<p>PER CURIAM.</p>\n<p>The judgment below is reversed. <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533. The cases are remanded for further proceedings consistent with the views stated in our opinions in <i>Reynolds</i> v. <i>Sims</i> and in the other cases relating to state legislative apportionment decided along with <i>Reynolds.</i></p>\n<p>MR. JUSTICE CLARK would reverse on the grounds stated in his opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 587.</p>\n<p>MR. JUSTICE STEWART would affirm the judgment because the Ohio system of legislative apportionment is <span class=\"star-pagination\">*557</span> clearly a rational one and clearly does not frustrate effective majority rule.</p>\n<p>MR. JUSTICE HARLAN dissents for the reasons stated in his dissenting opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 589.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 455, <i>Sive et al.</i> v. <i>Ellis et al.,</i> also on appeal from the same court.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T03:09:28.300781", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a2a3ea56a253ec321c94d18affa2f071b404d89d", 
+  "date_modified": "2014-10-30T02:11:59.001027", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2521732/nolan-v-rhodes/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/403632/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2521732/"
+}

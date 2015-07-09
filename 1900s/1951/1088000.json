@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088000/hammerstein-v-superior-court-of-cal/", "blocked": false, "citation": {"case_name": "Hammerstein v. Superior Court of Cal.", "docket_number": "421", "document_uris": ["/api/rest/v2/document/1088000/"], "federal_cite_one": "340 U.S. 622", "federal_cite_three": null, "federal_cite_two": null, "id": 1060771, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060771/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1951-03-26", "date_modified": "2014-10-30T10:15:56.605827", "docket": "/api/rest/v2/docket/1508132/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>340 U.S. 622 (1951)</b></center>\n<center><h1>HAMMERSTEIN<br>\nv.<br>\nSUPERIOR COURT OF CALIFORNIA ET AL.</h1></center>\n<center>No. 421.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 9, 1951.</center>\n<center>Continued March 26, 1951.</center>\nCERTIORARI TO THE SUPREME COURT OF CALIFORNIA AND TO THE DISTRICT COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.\n<p><i>Milton A. Rudin</i> argued the cause for petitioner. With him on the brief was <i>Robert E. Kopp.</i></p>\n<p><i>E. Loyd Saunders</i> argued the cause for respondents. <i>Saul Ross</i> filed a brief for respondents.</p>\n<p>PER CURIAM.</p>\n<p>In this case the respondent Reggie Hammerstein, by her mother and guardian, commenced a paternity action against the petitioner in the Superior Court of California. Petitioner entered a special appearance in that court, alleging that it had no personal jurisdiction over him, as he was a New York resident. He moved to quash the service upon him in New York on the grounds that any judgment obtained against him in this proceeding would deprive him of due process. The motion to quash was denied. The superior court entered judgment for the respondent.</p>\n<p>Prior to the entry of the judgment, petitioner filed a petition for a writ of prohibition in the District Court of Appeal. This petition was denied without opinion. The California Supreme Court denied his application for <span class=\"star-pagination\">*623</span> a hearing. After judgment, petitioner filed in the California Supreme Court a petition for a writ of certiorari to review the superior court proceedings. The California Supreme Court denied this petition without opinion. We granted certiorari, 340 U. S. 919 (1951).</p>\n<p>Throughout these proceedings, petitioner preserved his federal questions, but since neither of the decisions below was accompanied by an opinion, it is not clear whether the California courts found it necessary to decide any federal question. If their judgments rest upon an adequate state ground, we, of course, will not review those judgments. If the denials of petitioner's applications for review were based upon a determination of the merits of his federal claim, the case will be ripe for our adjudication. In this circumstance, we think it advisable that we adhere to the procedure followed in <i>Herb</i> v. <i>Pitcairn,</i> 324 U. S. 117 (1945).</p>\n<p>We will continue the cause for such period as will enable counsel for the petitioner, with all convenient speed, to apply to the appropriate California courts for certificate or other expression, to show whether the judgments herein rest on adequate and independent state grounds or whether decision of the federal question was necessary to the judgments rendered. Cf. <i>Loftus</i> v. <i>Illinois,</i> 334 U. S. 804 (1948); <i>Indiana ex rel. Anderson</i> v. <i>Brand,</i> 303 U. S. 95 (1938).</p>\n<p><i>Cause continued.</i></p>\n</div>", "html_with_citations": "", "id": 1088000, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088000/", "sha1": "e675fc57999ec7d70029d788125b99fdcc3cf603", "source": "L", "time_retrieved": "2013-10-29T20:38:38.482313"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "340 U.S. 622", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088000/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hammerstein v. Superior Court of Cal.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "421", 
+    "id": 1060771, 
+    "resource_uri": "/api/rest/v2/citation/1060771/"
+  }, 
+  "id": 1088000, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1951-03-26", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>340 U.S. 622 (1951)</b></center>\n<center><h1>HAMMERSTEIN<br>\nv.<br>\nSUPERIOR COURT OF CALIFORNIA ET AL.</h1></center>\n<center>No. 421.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 9, 1951.</center>\n<center>Continued March 26, 1951.</center>\nCERTIORARI TO THE SUPREME COURT OF CALIFORNIA AND TO THE DISTRICT COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.\n<p><i>Milton A. Rudin</i> argued the cause for petitioner. With him on the brief was <i>Robert E. Kopp.</i></p>\n<p><i>E. Loyd Saunders</i> argued the cause for respondents. <i>Saul Ross</i> filed a brief for respondents.</p>\n<p>PER CURIAM.</p>\n<p>In this case the respondent Reggie Hammerstein, by her mother and guardian, commenced a paternity action against the petitioner in the Superior Court of California. Petitioner entered a special appearance in that court, alleging that it had no personal jurisdiction over him, as he was a New York resident. He moved to quash the service upon him in New York on the grounds that any judgment obtained against him in this proceeding would deprive him of due process. The motion to quash was denied. The superior court entered judgment for the respondent.</p>\n<p>Prior to the entry of the judgment, petitioner filed a petition for a writ of prohibition in the District Court of Appeal. This petition was denied without opinion. The California Supreme Court denied his application for <span class=\"star-pagination\">*623</span> a hearing. After judgment, petitioner filed in the California Supreme Court a petition for a writ of certiorari to review the superior court proceedings. The California Supreme Court denied this petition without opinion. We granted certiorari, 340 U. S. 919 (1951).</p>\n<p>Throughout these proceedings, petitioner preserved his federal questions, but since neither of the decisions below was accompanied by an opinion, it is not clear whether the California courts found it necessary to decide any federal question. If their judgments rest upon an adequate state ground, we, of course, will not review those judgments. If the denials of petitioner's applications for review were based upon a determination of the merits of his federal claim, the case will be ripe for our adjudication. In this circumstance, we think it advisable that we adhere to the procedure followed in <i>Herb</i> v. <i>Pitcairn,</i> 324 U. S. 117 (1945).</p>\n<p>We will continue the cause for such period as will enable counsel for the petitioner, with all convenient speed, to apply to the appropriate California courts for certificate or other expression, to show whether the judgments herein rest on adequate and independent state grounds or whether decision of the federal question was necessary to the judgments rendered. Cf. <i>Loftus</i> v. <i>Illinois,</i> 334 U. S. 804 (1948); <i>Indiana ex rel. Anderson</i> v. <i>Brand,</i> 303 U. S. 95 (1938).</p>\n<p><i>Cause continued.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:38:38.482313", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e675fc57999ec7d70029d788125b99fdcc3cf603", 
+  "date_modified": "2014-10-30T10:15:56.605827", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088000/hammerstein-v-superior-court-of-cal/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1508132/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088000/"
+}

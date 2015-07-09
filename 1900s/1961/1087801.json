@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087801/jerrold-electronics-corp-v-united-states/", "blocked": false, "citation": {"case_name": "Jerrold Electronics Corp. v. United States", "docket_number": "631", "document_uris": ["/api/rest/v2/document/1087801/"], "federal_cite_one": "365 U.S. 567", "federal_cite_three": null, "federal_cite_two": null, "id": 1060572, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060572/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 47, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-03-20", "date_modified": "2014-10-30T10:54:02.738151", "docket": "/api/rest/v2/docket/1587761/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>365 U.S. 567 (1961)</b></center>\n<center><h1>JERROLD ELECTRONICS CORP. ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 631.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 20, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.\n<p><i>Israel Packel</i> for appellants.</p>\n<p><i>Solicitor General Cox, Acting Assistant Attorney General Kirkpatrick</i> and <i>Richard A. Solomon</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed. Points 1 and 3, <i>Northern Pacific R. Co.</i> v. <i>United States,</i> 356 U. S. 1; <i>International Salt Co.</i> v. <i>United States,</i> 332 U. S. 392. Points 2 and 6, <i>United States</i> v. <i>W. T. Grant Co.,</i> 345 U. S. 629, 633. Point 4, <i>Schine Theatres</i> v. <i>United States,</i> 334 U. S. 110, 119.</p>\n</div>", "html_with_citations": "", "id": 1087801, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087801/", "sha1": "cb4ca2840f50a2b8b7e4bfb7b5d59c35e1dcfec6", "source": "L", "time_retrieved": "2013-10-29T19:44:08.095347"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "365 U.S. 567", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087801/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jerrold Electronics Corp. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "631", 
+    "id": 1060572, 
+    "resource_uri": "/api/rest/v2/citation/1060572/"
+  }, 
+  "id": 1087801, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-03-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>365 U.S. 567 (1961)</b></center>\n<center><h1>JERROLD ELECTRONICS CORP. ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 631.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 20, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.\n<p><i>Israel Packel</i> for appellants.</p>\n<p><i>Solicitor General Cox, Acting Assistant Attorney General Kirkpatrick</i> and <i>Richard A. Solomon</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed. Points 1 and 3, <i>Northern Pacific R. Co.</i> v. <i>United States,</i> 356 U. S. 1; <i>International Salt Co.</i> v. <i>United States,</i> 332 U. S. 392. Points 2 and 6, <i>United States</i> v. <i>W. T. Grant Co.,</i> 345 U. S. 629, 633. Point 4, <i>Schine Theatres</i> v. <i>United States,</i> 334 U. S. 110, 119.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:44:08.095347", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "cb4ca2840f50a2b8b7e4bfb7b5d59c35e1dcfec6", 
+  "date_modified": "2014-10-30T10:54:02.738151", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087801/jerrold-electronics-corp-v-united-states/", 
+  "citation_count": 47, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1587761/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087801/"
+}

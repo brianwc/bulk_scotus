@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088024/michigan-wis-co-v-corp-commn/", "blocked": false, "citation": {"case_name": "Michigan Wis. Co. v. CORP. COMM'N.", "docket_number": "86", "document_uris": ["/api/rest/v2/document/1088024/"], "federal_cite_one": "355 U.S. 425", "federal_cite_three": null, "federal_cite_two": null, "id": 1060795, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060795/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-01-27", "date_modified": "2014-10-30T02:35:01.174977", "docket": "/api/rest/v2/docket/449664/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>355 U.S. 425 (1958)</b></center>\n<center><h1>MICHIGAN WISCONSIN PIPE LINE CO.<br>\nv.<br>\nCORPORATION COMMISSION OF OKLAHOMA ET AL.</h1></center>\n<center>No. 86.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 27, 1958.<sup>[*]</sup></center>\nAPPEAL FROM THE SUPREME COURT OF OKLAHOMA.\n<p><i>Coleman Hayes</i> and <i>Arthur R. Seder, Jr.</i> for appellant in No. 86.</p>\n<p><i>Rayburn L. Foster, Harry D. Turner, R. M. Williams</i> and <i>Cecil C. Hamilton</i> for appellant in Nos. 111, 112 and 113.</p>\n<p><i>Ferrill H. Rogers</i> for the Corporation Commission of Oklahoma, appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgments are reversed. <i>Cities Service Gas Co.</i> v. <i>State Corporation Commission of Kansas,</i> 355 U. S. 391.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with Nos. 111, 112 and 113, <i>Phillips Petroleum Co.</i> v. <i>Corporation Commission of Oklahoma et al.,</i> also on appeals from the same Court.</p>\n\n</div>", "html_with_citations": "", "id": 1088024, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088024/", "sha1": "090eec85bcc40c135a746eb73cb00aaa7f387c77", "source": "L", "time_retrieved": "2013-10-29T20:39:41.796908"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "355 U.S. 425", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088024/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Michigan Wis. Co. v. CORP. COMM'N.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "86", 
+    "id": 1060795, 
+    "resource_uri": "/api/rest/v2/citation/1060795/"
+  }, 
+  "id": 1088024, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-01-27", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>355 U.S. 425 (1958)</b></center>\n<center><h1>MICHIGAN WISCONSIN PIPE LINE CO.<br>\nv.<br>\nCORPORATION COMMISSION OF OKLAHOMA ET AL.</h1></center>\n<center>No. 86.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 27, 1958.<sup>[*]</sup></center>\nAPPEAL FROM THE SUPREME COURT OF OKLAHOMA.\n<p><i>Coleman Hayes</i> and <i>Arthur R. Seder, Jr.</i> for appellant in No. 86.</p>\n<p><i>Rayburn L. Foster, Harry D. Turner, R. M. Williams</i> and <i>Cecil C. Hamilton</i> for appellant in Nos. 111, 112 and 113.</p>\n<p><i>Ferrill H. Rogers</i> for the Corporation Commission of Oklahoma, appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgments are reversed. <i>Cities Service Gas Co.</i> v. <i>State Corporation Commission of Kansas,</i> 355 U. S. 391.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with Nos. 111, 112 and 113, <i>Phillips Petroleum Co.</i> v. <i>Corporation Commission of Oklahoma et al.,</i> also on appeals from the same Court.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T20:39:41.796908", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "090eec85bcc40c135a746eb73cb00aaa7f387c77", 
+  "date_modified": "2014-10-30T02:35:01.174977", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088024/michigan-wis-co-v-corp-commn/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/449664/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088024/"
+}

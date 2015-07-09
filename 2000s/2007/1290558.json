@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1290558/belcher-v-florida/", "blocked": false, "citation": {"case_name": "Belcher v. Florida", "docket_number": "07-6442", "document_uris": ["/api/rest/v2/document/1290558/"], "federal_cite_one": "552 U.S. 1026", "federal_cite_three": null, "federal_cite_two": null, "id": 1263329, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1263329/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-11-13", "date_modified": "2014-10-30T17:35:55.036791", "docket": "/api/rest/v2/docket/2536126/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>(2007)</b></center>\n<center><h1>JAMES BELCHER<br>\nv.<br>\nFLORIDA</h1></center>\n<center>No. 07-6442</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>November 13, 2007.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1290558, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1290558/", "sha1": "420123755f14173744f285ca155974d03336262c", "source": "L", "time_retrieved": "2013-10-29T22:22:05.246993"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "552 U.S. 1026", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1290558/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Belcher v. Florida", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "07-6442", 
+    "id": 1263329, 
+    "resource_uri": "/api/rest/v2/citation/1263329/"
+  }, 
+  "id": 1290558, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-11-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>(2007)</b></center>\n<center><h1>JAMES BELCHER<br>\nv.<br>\nFLORIDA</h1></center>\n<center>No. 07-6442</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>November 13, 2007.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:22:05.246993", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "420123755f14173744f285ca155974d03336262c", 
+  "date_modified": "2014-10-30T17:35:55.036791", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1290558/belcher-v-florida/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2536126/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1290558/"
+}

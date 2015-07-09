@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/97076/donohue-v-el-paso-southwestern-rr/", "blocked": false, "citation": {"case_name": "Donohue v. EL PASO & SOUTHWESTERN RR", "docket_number": "516", "document_uris": ["/api/rest/v2/document/97076/"], "federal_cite_one": "214 U.S. 499", "federal_cite_three": null, "federal_cite_two": null, "id": 81459, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/81459/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1909-04-26", "date_modified": "2014-12-21T01:35:00.747830", "docket": "/api/rest/v2/docket/2557975/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">214 U.S. 499</p>\n    <p class=\"case_cite\">29 S.Ct. 698</p>\n    <p class=\"case_cite\">53 L.Ed. 1060</p>\n    <p class=\"parties\">MICHAEL DONOHOE, Appellant,<br>v.<br>EL PASO &amp; SOUTHWESTERN RAILROAD COMPANY.</p>\n    <p class=\"docket\">No. 516.</p>\n    <p class=\"date\">April 26, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Charles F. Ainsworth for appellant.</p>\n      <p class=\"indent\">Messrs. A. B. Browne, Alexander Britton, and E. E. Ellenwood for appellee.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment affirmed. Roberts v. Northern P. R. Co. 158 U. S. 1, 39 L. ed. 873, 15 Sup. Ct. Rep. 756; Northern P. R. Co. v. Smith, 171 U. S. 260, 43 L. ed. 157, 18 Sup. Ct. Rep. 794.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>214 U.S. 499 (1909)</b></center>\n<center><h1>DONOHUE<br>\nv.<br>\nEL PASO &amp; SOUTHWESTERN RAILROAD COMPANY.</h1></center>\n<center>No. 516.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 19, 1909.</center>\n<center>Decided April 26, 1909.</center>\nAPPEAL FROM THE SUPREME COURT OF THE TERRITORY OF ARIZONA.\nMotion to dismiss or affirm.\n<p><span class=\"star-pagination\">*500</span> <i>Mr. A.B. Browne, Mr. Alexander Britton</i> and <i>Mr. E.E. Ellinwood</i> for the appellee in support of the motion.</p>\n<p><i>Mr. Charles F. Ainsworth</i> for the appellant in opposition thereto.</p>\n<p><i>Per Curiam:</i></p>\n<p>Judgment affirmed. <i>Roberts</i> v. <i>Northern Pacific Railroad Co.,</i> 158 U.S. 1; <i>Northern Pacific Railroad Company</i> v. <i>Smith,</i> 171 U.S. 260.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">499</span></span> (1909)</b></center>\n<center><h1>DONOHUE<br>\nv.<br>\nEL PASO &amp; SOUTHWESTERN RAILROAD COMPANY.</h1></center>\n<center>No. 516.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 19, 1909.</center>\n<center>Decided April 26, 1909.</center>\nAPPEAL FROM THE SUPREME COURT OF THE TERRITORY OF ARIZONA.\nMotion to dismiss or affirm.\n<p><span class=\"star-pagination\">*500</span> <i>Mr. A.B. Browne, Mr. Alexander Britton</i> and <i>Mr. E.E. Ellinwood</i> for the appellee in support of the motion.</p>\n<p><i>Mr. Charles F. Ainsworth</i> for the appellant in opposition thereto.</p>\n<p><i>Per Curiam:</i></p>\n<p>Judgment affirmed. <i>Roberts</i> v. <i>Northern Pacific Railroad Co.,</i> 158 U.S. 1; <i>Northern Pacific Railroad Company</i> v. <i>Smith,</i> 171 U.S. 260.</p>\n</div>", "id": 97076, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/97076/", "sha1": "3bd1090019ccf58c010f8e66e4f0401efe3e401a", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:42:18"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "214 U.S. 499", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/97076/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Donohue v. EL PASO & SOUTHWESTERN RR", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "516", 
+    "id": 81459, 
+    "resource_uri": "/api/rest/v2/citation/81459/"
+  }, 
+  "id": 97076, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1909-04-26", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>214 U.S. 499 (1909)</b></center>\n<center><h1>DONOHUE<br>\nv.<br>\nEL PASO &amp; SOUTHWESTERN RAILROAD COMPANY.</h1></center>\n<center>No. 516.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 19, 1909.</center>\n<center>Decided April 26, 1909.</center>\nAPPEAL FROM THE SUPREME COURT OF THE TERRITORY OF ARIZONA.\nMotion to dismiss or affirm.\n<p><span class=\"star-pagination\">*500</span> <i>Mr. A.B. Browne, Mr. Alexander Britton</i> and <i>Mr. E.E. Ellinwood</i> for the appellee in support of the motion.</p>\n<p><i>Mr. Charles F. Ainsworth</i> for the appellant in opposition thereto.</p>\n<p><i>Per Curiam:</i></p>\n<p>Judgment affirmed. <i>Roberts</i> v. <i>Northern Pacific Railroad Co.,</i> 158 U.S. 1; <i>Northern Pacific Railroad Company</i> v. <i>Smith,</i> 171 U.S. 260.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:42:18", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">499</span></span> (1909)</b></center>\n<center><h1>DONOHUE<br>\nv.<br>\nEL PASO &amp; SOUTHWESTERN RAILROAD COMPANY.</h1></center>\n<center>No. 516.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 19, 1909.</center>\n<center>Decided April 26, 1909.</center>\nAPPEAL FROM THE SUPREME COURT OF THE TERRITORY OF ARIZONA.\nMotion to dismiss or affirm.\n<p><span class=\"star-pagination\">*500</span> <i>Mr. A.B. Browne, Mr. Alexander Britton</i> and <i>Mr. E.E. Ellinwood</i> for the appellee in support of the motion.</p>\n<p><i>Mr. Charles F. Ainsworth</i> for the appellant in opposition thereto.</p>\n<p><i>Per Curiam:</i></p>\n<p>Judgment affirmed. <i>Roberts</i> v. <i>Northern Pacific Railroad Co.,</i> 158 U.S. 1; <i>Northern Pacific Railroad Company</i> v. <i>Smith,</i> 171 U.S. 260.</p>\n</div>", 
+  "sha1": "3bd1090019ccf58c010f8e66e4f0401efe3e401a", 
+  "date_modified": "2014-12-21T01:35:00.747830", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/97076/donohue-v-el-paso-southwestern-rr/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2557975/", 
+  "html": "<p class=\"case_cite\">214 U.S. 499</p>\n    <p class=\"case_cite\">29 S.Ct. 698</p>\n    <p class=\"case_cite\">53 L.Ed. 1060</p>\n    <p class=\"parties\">MICHAEL DONOHOE, Appellant,<br>v.<br>EL PASO &amp; SOUTHWESTERN RAILROAD COMPANY.</p>\n    <p class=\"docket\">No. 516.</p>\n    <p class=\"date\">April 26, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Charles F. Ainsworth for appellant.</p>\n      <p class=\"indent\">Messrs. A. B. Browne, Alexander Britton, and E. E. Ellenwood for appellee.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment affirmed. Roberts v. Northern P. R. Co. 158 U. S. 1, 39 L. ed. 873, 15 Sup. Ct. Rep. 756; Northern P. R. Co. v. Smith, 171 U. S. 260, 43 L. ed. 157, 18 Sup. Ct. Rep. 794.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/97076/"
+}

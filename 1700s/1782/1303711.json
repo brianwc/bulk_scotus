@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1303711/chester-v-experiment/", "blocked": false, "citation": {"case_name": "Chester v. Experiment", "docket_number": null, "document_uris": ["/api/rest/v2/document/1303711/"], "federal_cite_one": "2 U.S. 41", "federal_cite_three": null, "federal_cite_two": null, "id": 1276482, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1276482/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1782-01-01", "date_modified": "2014-10-30T10:47:32.533491", "docket": "/api/rest/v2/docket/1573761/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 41 (____)</b></center>\n<center><b>2 Dall. 41</b></center>\n<center><h1>The Owners of the Sloop CHESTER,<br>\nversus<br>\nThe Owners of the Brig EXPERIMENT, et. al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>BY THE COURT. Having considered the evidence, and arguments adduced by the Counsel for the petitioners, and respondents, we are of opinion, that there is not sufficient cause to admit the appeal of the petitioners, from the decree of the Court of Admiralty, in the State of South Carolina, condemning the Sloop Chester, her Apparel, and Cargo. If the appeal <span class=\"star-pagination\">*42</span> should be admitted, it must be on this principle, that there had been such irregularities in the proceedings, as that justice and right required, that the cause should be re-heard, in order to do that justice here, which had not been done in the Court below. The irregularity suggested is, that the captors did not bring, or send, the master of the captured vessel, in order to be enquired of touching the property, &amp;c. nor produce the documents mentioned by the master, in his protest; and that, for want thereof, a condemnation had taken place. However blamable the captor may have been, in omitting to send, or bring the master before the Admiralty Court, and in not producing those documents, such omission alone is not sufficient to set aside the decree and re-hear the cause, unless it appeared that substantial justice has been thereby prevented. In this case, upon an examination of all the evidence produced, it appears that the condemnation of the Sloop Chester must have taken place, if the same evidence had been offered in the Admiralty Court. Peter Theodore Vantylengen appears to have been a merchant in a British settlement, on the Bay of Honduras; not barely having a transient residence, but carrying on trade from that settlement, like other inhabitants. It is not material to whom his natural allegiance was due; he was enjoying the privileges, and subject to the inconveniences of other merchants, residing in the same place. The Sloop Chester appears to have been a British vessel, possessed of British papers, purchased by Vantylengen, and employed by him; and although he might have executed the Bill of Sale of her, to certain subjects of the United Netherlands, with whom the United States were at peace and amity, for the purpose, as he expresses it, of preventing her being taken, such a transfer cannot be considered as bona fide; but, from the tenor of the instructions of said Vantylengen, to the master of the Sloop, that transfer appears to have been intended merely to deceive and cover, under the name of a friend, property which ought to be considered as that of an enemy. Examining the protest made by the master of the Sloop Chester, it does not appear, that he was prevented by the captors from going to Charleston; but on the contrary, his going on shore at St. Eustatia, upon the privateer's leaving that place, seems to have been in consequence of his own solicitation. For these reasons, the Court do not admit the appeal of the petitioners. And, it is considered by the Court, that the petition be dismissed; but as some irregularities, on the part of the captors, have given colour to the petition, the Court do not award costs to the respondents.</p>\n</div>", "html_with_citations": "", "id": 1303711, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1303711/", "sha1": "bc78cabc50b5d07ad87e440f53c94f97fd5dd60a", "source": "L", "time_retrieved": "2013-10-29T22:24:37.513690"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 41", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1303711/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Chester v. Experiment", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1276482, 
+    "resource_uri": "/api/rest/v2/citation/1276482/"
+  }, 
+  "id": 1303711, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1782-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 41 (____)</b></center>\n<center><b>2 Dall. 41</b></center>\n<center><h1>The Owners of the Sloop CHESTER,<br>\nversus<br>\nThe Owners of the Brig EXPERIMENT, et. al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>BY THE COURT. Having considered the evidence, and arguments adduced by the Counsel for the petitioners, and respondents, we are of opinion, that there is not sufficient cause to admit the appeal of the petitioners, from the decree of the Court of Admiralty, in the State of South Carolina, condemning the Sloop Chester, her Apparel, and Cargo. If the appeal <span class=\"star-pagination\">*42</span> should be admitted, it must be on this principle, that there had been such irregularities in the proceedings, as that justice and right required, that the cause should be re-heard, in order to do that justice here, which had not been done in the Court below. The irregularity suggested is, that the captors did not bring, or send, the master of the captured vessel, in order to be enquired of touching the property, &amp;c. nor produce the documents mentioned by the master, in his protest; and that, for want thereof, a condemnation had taken place. However blamable the captor may have been, in omitting to send, or bring the master before the Admiralty Court, and in not producing those documents, such omission alone is not sufficient to set aside the decree and re-hear the cause, unless it appeared that substantial justice has been thereby prevented. In this case, upon an examination of all the evidence produced, it appears that the condemnation of the Sloop Chester must have taken place, if the same evidence had been offered in the Admiralty Court. Peter Theodore Vantylengen appears to have been a merchant in a British settlement, on the Bay of Honduras; not barely having a transient residence, but carrying on trade from that settlement, like other inhabitants. It is not material to whom his natural allegiance was due; he was enjoying the privileges, and subject to the inconveniences of other merchants, residing in the same place. The Sloop Chester appears to have been a British vessel, possessed of British papers, purchased by Vantylengen, and employed by him; and although he might have executed the Bill of Sale of her, to certain subjects of the United Netherlands, with whom the United States were at peace and amity, for the purpose, as he expresses it, of preventing her being taken, such a transfer cannot be considered as bona fide; but, from the tenor of the instructions of said Vantylengen, to the master of the Sloop, that transfer appears to have been intended merely to deceive and cover, under the name of a friend, property which ought to be considered as that of an enemy. Examining the protest made by the master of the Sloop Chester, it does not appear, that he was prevented by the captors from going to Charleston; but on the contrary, his going on shore at St. Eustatia, upon the privateer's leaving that place, seems to have been in consequence of his own solicitation. For these reasons, the Court do not admit the appeal of the petitioners. And, it is considered by the Court, that the petition be dismissed; but as some irregularities, on the part of the captors, have given colour to the petition, the Court do not award costs to the respondents.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:24:37.513690", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bc78cabc50b5d07ad87e440f53c94f97fd5dd60a", 
+  "date_modified": "2014-10-30T10:47:32.533491", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1303711/chester-v-experiment/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1573761/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1303711/"
+}

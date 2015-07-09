@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/90845/mayor-and-aldermen-of-the-city-of-savannah-v/", "blocked": false, "citation": {"case_name": "Mayor and Aldermen of the City of Savannah v. Martin", "docket_number": null, "document_uris": ["/api/rest/v2/document/90845/"], "federal_cite_one": "108 U.S. 191", "federal_cite_three": null, "federal_cite_two": null, "id": 75225, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/75225/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1882-10-01", "date_modified": "2014-12-21T01:29:32.623901", "docket": "/api/rest/v2/docket/2463624/", "download_url": "http://bulk.resource.org/courts.gov/c/US/108/108.US.191.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">108 U.S. 191</p>\n    <p class=\"case_cite\">2 S.Ct. 472</p>\n    <p class=\"case_cite\">27 L.Ed. 698</p>\n    <p class=\"parties\">MAYOR AND ALDERMEN OF THE CITY OF SAVANNAH<br>v.<br>MARTIN.</p>\n    <p class=\"date\">April 2, 1883.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>A. R. Lawton</i> and <i>W. H. Chisholm</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>Geo. A. Mercer</i>, for defendant in error.</p>\n      <p class=\"indent\">MATTHEWS, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case is identical in its circumstances with that of <i>Mayor and Aldermen of the City of Savannah</i> v. <i>Kelly, ante</i>, 468.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Judgment affirmed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">108</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">191</span></span></p>\n    <p class=\"case_cite\">2 S.Ct. 472</p>\n    <p class=\"case_cite\">27 L.Ed. 698</p>\n    <p class=\"parties\">MAYOR AND ALDERMEN OF THE CITY OF SAVANNAH<br>v.<br>MARTIN.</p>\n    <p class=\"date\">April 2, 1883.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>A. R. Lawton</i> and <i>W. H. Chisholm</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>Geo. A. Mercer</i>, for defendant in error.</p>\n      <p class=\"indent\">MATTHEWS, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case is identical in its circumstances with that of <i>Mayor and Aldermen of the City of Savannah</i> v. <i>Kelly, ante</i>, 468.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Judgment affirmed.</p>\n    </div>\n    ", "id": 90845, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/90845/", "sha1": "86f0a2c27a3eb24bbfc52dab236b93b39d37594a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:02:43"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "108 U.S. 191", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/90845/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Mayor and Aldermen of the City of Savannah v. Martin", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 75225, 
+    "resource_uri": "/api/rest/v2/citation/75225/"
+  }, 
+  "id": 90845, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1882-10-01", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/108/108.US.191.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:02:43", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">108</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">191</span></span></p>\n    <p class=\"case_cite\">2 S.Ct. 472</p>\n    <p class=\"case_cite\">27 L.Ed. 698</p>\n    <p class=\"parties\">MAYOR AND ALDERMEN OF THE CITY OF SAVANNAH<br>v.<br>MARTIN.</p>\n    <p class=\"date\">April 2, 1883.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>A. R. Lawton</i> and <i>W. H. Chisholm</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>Geo. A. Mercer</i>, for defendant in error.</p>\n      <p class=\"indent\">MATTHEWS, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case is identical in its circumstances with that of <i>Mayor and Aldermen of the City of Savannah</i> v. <i>Kelly, ante</i>, 468.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Judgment affirmed.</p>\n    </div>\n    ", 
+  "sha1": "86f0a2c27a3eb24bbfc52dab236b93b39d37594a", 
+  "date_modified": "2014-12-21T01:29:32.623901", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/90845/mayor-and-aldermen-of-the-city-of-savannah-v/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2463624/", 
+  "html": "<p class=\"case_cite\">108 U.S. 191</p>\n    <p class=\"case_cite\">2 S.Ct. 472</p>\n    <p class=\"case_cite\">27 L.Ed. 698</p>\n    <p class=\"parties\">MAYOR AND ALDERMEN OF THE CITY OF SAVANNAH<br>v.<br>MARTIN.</p>\n    <p class=\"date\">April 2, 1883.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>A. R. Lawton</i> and <i>W. H. Chisholm</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>Geo. A. Mercer</i>, for defendant in error.</p>\n      <p class=\"indent\">MATTHEWS, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case is identical in its circumstances with that of <i>Mayor and Aldermen of the City of Savannah</i> v. <i>Kelly, ante</i>, 468.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Judgment affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/90845/"
+}

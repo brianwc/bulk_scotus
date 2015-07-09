@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088049/bogle-v-jakes-foundry-co/", "blocked": false, "citation": {"case_name": "Bogle v. Jakes Foundry Co.", "docket_number": "760", "document_uris": ["/api/rest/v2/document/1088049/"], "federal_cite_one": "362 U.S. 401", "federal_cite_three": null, "federal_cite_two": null, "id": 1060820, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060820/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-04-18", "date_modified": "2014-10-30T15:05:01.785204", "docket": "/api/rest/v2/docket/2120904/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>362 U.S. 401 (1960)</b></center>\n<center><h1>BOGLE ET AL.<br>\nv.<br>\nJAKES FOUNDRY CO.</h1></center>\n<center>No. 760.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 18, 1960.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF TENNESSEE.\n<p><i>Cecil D. Branstetter</i> for petitioners.</p>\n<p><i>Judson Harwood</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is reversed insofar as it awards a permanent injunction. <i>Teamsters, Chauffeurs, Helpers &amp; Taxicab Drivers, Local Union No. 327</i> v. <i>Kerrigan Iron Works, Inc.,</i> 353 U. S. 968; <i>San Diego Building Trades Council</i> v. <i>Garmon,</i> 359 U. S. 236.</p>\n</div>", "html_with_citations": "", "id": 1088049, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088049/", "sha1": "9f27c9415dc0eb63ec012908ca4fe562b6c55513", "source": "L", "time_retrieved": "2013-10-29T20:43:50.674749"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "362 U.S. 401", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088049/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bogle v. Jakes Foundry Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "760", 
+    "id": 1060820, 
+    "resource_uri": "/api/rest/v2/citation/1060820/"
+  }, 
+  "id": 1088049, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-04-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>362 U.S. 401 (1960)</b></center>\n<center><h1>BOGLE ET AL.<br>\nv.<br>\nJAKES FOUNDRY CO.</h1></center>\n<center>No. 760.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 18, 1960.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF TENNESSEE.\n<p><i>Cecil D. Branstetter</i> for petitioners.</p>\n<p><i>Judson Harwood</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is reversed insofar as it awards a permanent injunction. <i>Teamsters, Chauffeurs, Helpers &amp; Taxicab Drivers, Local Union No. 327</i> v. <i>Kerrigan Iron Works, Inc.,</i> 353 U. S. 968; <i>San Diego Building Trades Council</i> v. <i>Garmon,</i> 359 U. S. 236.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:43:50.674749", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "9f27c9415dc0eb63ec012908ca4fe562b6c55513", 
+  "date_modified": "2014-10-30T15:05:01.785204", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088049/bogle-v-jakes-foundry-co/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2120904/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088049/"
+}

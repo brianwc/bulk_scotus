@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/137401/swedenburg-et-al-v-kelly-chairman-new-york/", "blocked": false, "citation": {"case_name": "Swedenburg v. Kelly, Chairman, New York Division of Alcoholic Beverage Control, State Liquor Authority", "docket_number": "03-1274", "document_uris": ["/api/rest/v2/document/137401/"], "federal_cite_one": "542 U.S. 935", "federal_cite_three": null, "federal_cite_two": null, "id": 121754, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121754/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-28", "date_modified": "2014-12-21T02:20:26.216453", "docket": "/api/rest/v2/docket/1312164/", "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.935.03-1274.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">542 U.S. 935</p>\n    <p class=\"parties\">SWEDENBURG ET AL.<br>v.<br>KELLY, CHAIRMAN, NEW YORK DIVISION OF ALCOHOLIC BEVERAGE CONTROL, STATE LIQUOR AUTHORITY, ET AL.</p>\n    <p class=\"docket\">No. 03-1274.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 28, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. [Certiorari granted, 541 U. S. 1062.] Motion for realignment of the parties and to set a briefing schedule denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">935</span></span></p>\n    <p class=\"parties\">SWEDENBURG ET AL.<br>v.<br>KELLY, CHAIRMAN, NEW YORK DIVISION OF ALCOHOLIC BEVERAGE CONTROL, STATE LIQUOR AUTHORITY, ET AL.</p>\n    <p class=\"docket\">No. 03-1274.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 28, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. [Certiorari granted, 541 U. S. 1062.] Motion for realignment of the parties and to set a briefing schedule denied.</p>\n    </div>\n    ", "id": 137401, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/137401/", "sha1": "15acd5a56c3df0604cc22835b397273a9890eab9", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:31:39"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "542 U.S. 935", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/137401/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Swedenburg v. Kelly, Chairman, New York Division of Alcoholic Beverage Control, State Liquor Authority", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-1274", 
+    "id": 121754, 
+    "resource_uri": "/api/rest/v2/citation/121754/"
+  }, 
+  "id": 137401, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.935.03-1274.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:31:39", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">935</span></span></p>\n    <p class=\"parties\">SWEDENBURG ET AL.<br>v.<br>KELLY, CHAIRMAN, NEW YORK DIVISION OF ALCOHOLIC BEVERAGE CONTROL, STATE LIQUOR AUTHORITY, ET AL.</p>\n    <p class=\"docket\">No. 03-1274.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 28, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. [Certiorari granted, 541 U. S. 1062.] Motion for realignment of the parties and to set a briefing schedule denied.</p>\n    </div>\n    ", 
+  "sha1": "15acd5a56c3df0604cc22835b397273a9890eab9", 
+  "date_modified": "2014-12-21T02:20:26.216453", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/137401/swedenburg-et-al-v-kelly-chairman-new-york/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1312164/", 
+  "html": "<p class=\"case_cite\">542 U.S. 935</p>\n    <p class=\"parties\">SWEDENBURG ET AL.<br>v.<br>KELLY, CHAIRMAN, NEW YORK DIVISION OF ALCOHOLIC BEVERAGE CONTROL, STATE LIQUOR AUTHORITY, ET AL.</p>\n    <p class=\"docket\">No. 03-1274.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 28, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. [Certiorari granted, 541 U. S. 1062.] Motion for realignment of the parties and to set a briefing schedule denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/137401/"
+}

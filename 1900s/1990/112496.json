@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/112496/danial-siebert-petitioner-v-alabama/", "blocked": false, "citation": {"case_name": "Danial Siebert v. Alabama", "docket_number": "89-7528", "document_uris": ["/api/rest/v2/document/112496/"], "federal_cite_one": "497 U.S. 1032", "federal_cite_three": null, "federal_cite_two": null, "id": 96855, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/96855/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 106, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1990-06-28", "date_modified": "2014-12-21T02:11:47.216614", "docket": "/api/rest/v2/docket/1171373/", "download_url": "http://bulk.resource.org/courts.gov/c/US/497/497.US.1032.89-7528.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">497 U.S. 1032</p>\r\n    <p class=\"case_cite\">110 S.Ct. 3297</p>\r\n    <p class=\"case_cite\">111 L.Ed.2d 806</p>\r\n    <p class=\"parties\">Danial SIEBERT, petitioner<br>v.<br>ALABAMA.</p>\r\n    <p class=\"docket\">No. 89-7528.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Case below, Ala.Cr.App., 555 So.2d 772;  555 So.2d 780.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Alabama.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">June 28, 1990.  Denied.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Justice BRENNAN and Justice MARSHALL dissenting:</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> 428 U.S. 153, 227, 231, 96 S.Ct. 2909, 2950, 2973, 49 L.Ed.2d 859 (1976), we would grant certiorari and vacate the death sentence in this case.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">497</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1032</span></span></p>\r\n    <p class=\"case_cite\">110 S.Ct. 3297</p>\r\n    <p class=\"case_cite\">111 L.Ed.2d 806</p>\r\n    <p class=\"parties\">Danial SIEBERT, petitioner<br>v.<br>ALABAMA.</p>\r\n    <p class=\"docket\">No. 89-7528.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Case below, Ala.Cr.App., 555 So.2d 772;  555 So.2d 780.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Alabama.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">June 28, 1990.  Denied.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Justice BRENNAN and Justice MARSHALL dissenting:</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> <span class=\"citation\" data-id=\"109532\"><a href=\"/opinion/109532/gregg-v-georgia/\"><span class=\"volume\">428</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">153</span></a></span>, 227, 231, 96 S.Ct. 2909, 2950, 2973, 49 L.Ed.2d 859 (1976), we would grant certiorari and vacate the death sentence in this case.</p>\r\n    </div>\r\n    ", "id": 112496, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/112496/", "sha1": "267a19c21f23f96fb0db3f8ebb26e210ecae32cb", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:13:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "497 U.S. 1032", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/112496/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Danial Siebert v. Alabama", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "89-7528", 
+    "id": 96855, 
+    "resource_uri": "/api/rest/v2/citation/96855/"
+  }, 
+  "id": 112496, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1990-06-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/497/497.US.1032.89-7528.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:13:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">497</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1032</span></span></p>\r\n    <p class=\"case_cite\">110 S.Ct. 3297</p>\r\n    <p class=\"case_cite\">111 L.Ed.2d 806</p>\r\n    <p class=\"parties\">Danial SIEBERT, petitioner<br>v.<br>ALABAMA.</p>\r\n    <p class=\"docket\">No. 89-7528.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Case below, Ala.Cr.App., 555 So.2d 772;  555 So.2d 780.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Alabama.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">June 28, 1990.  Denied.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Justice BRENNAN and Justice MARSHALL dissenting:</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> <span class=\"citation\" data-id=\"109532\"><a href=\"/opinion/109532/gregg-v-georgia/\"><span class=\"volume\">428</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">153</span></a></span>, 227, 231, 96 S.Ct. 2909, 2950, 2973, 49 L.Ed.2d 859 (1976), we would grant certiorari and vacate the death sentence in this case.</p>\r\n    </div>\r\n    ", 
+  "sha1": "267a19c21f23f96fb0db3f8ebb26e210ecae32cb", 
+  "date_modified": "2014-12-21T02:11:47.216614", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/112496/danial-siebert-petitioner-v-alabama/", 
+  "citation_count": 106, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1171373/", 
+  "html": "<p class=\"case_cite\">497 U.S. 1032</p>\r\n    <p class=\"case_cite\">110 S.Ct. 3297</p>\r\n    <p class=\"case_cite\">111 L.Ed.2d 806</p>\r\n    <p class=\"parties\">Danial SIEBERT, petitioner<br>v.<br>ALABAMA.</p>\r\n    <p class=\"docket\">No. 89-7528.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Case below, Ala.Cr.App., 555 So.2d 772;  555 So.2d 780.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Alabama.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">June 28, 1990.  Denied.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Justice BRENNAN and Justice MARSHALL dissenting:</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> 428 U.S. 153, 227, 231, 96 S.Ct. 2909, 2950, 2973, 49 L.Ed.2d 859 (1976), we would grant certiorari and vacate the death sentence in this case.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/112496/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1491509/goldring-v-district-of-columbia/", "blocked": false, "citation": {"case_name": "Goldring v. District of Columbia", "docket_number": "05-1027", "document_uris": ["/api/rest/v2/document/1491509/"], "federal_cite_one": "548 U.S. 924", "federal_cite_three": null, "federal_cite_two": null, "id": 1464280, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1464280/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-06-30", "date_modified": "2014-10-30T06:31:48.117466", "docket": "/api/rest/v2/docket/976715/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>548 U.S. 924 (2006)</b></center>\n<center><h1>GOLDRING, PARENT AND NEXT FRIEND OF ANDERSON, A MINOR<br>\nv.<br>\nDISTRICT OF COLUMBIA ET AL.</h1></center>\n<center>No. 05-1027.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">924</span></span> (2006)</b></center>\n<center><h1>GOLDRING, PARENT AND NEXT FRIEND OF ANDERSON, A MINOR<br>\nv.<br>\nDISTRICT OF COLUMBIA ET AL.</h1></center>\n<center>No. 05-1027.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", "id": 1491509, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1491509/", "sha1": "9ff51f14dbdfdd6d0d3e20194fc7600856f4c731", "source": "L", "time_retrieved": "2013-10-29T23:28:13.713292"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "548 U.S. 924", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1491509/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Goldring v. District of Columbia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-1027", 
+    "id": 1464280, 
+    "resource_uri": "/api/rest/v2/citation/1464280/"
+  }, 
+  "id": 1491509, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-06-30", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>548 U.S. 924 (2006)</b></center>\n<center><h1>GOLDRING, PARENT AND NEXT FRIEND OF ANDERSON, A MINOR<br>\nv.<br>\nDISTRICT OF COLUMBIA ET AL.</h1></center>\n<center>No. 05-1027.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:28:13.713292", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">924</span></span> (2006)</b></center>\n<center><h1>GOLDRING, PARENT AND NEXT FRIEND OF ANDERSON, A MINOR<br>\nv.<br>\nDISTRICT OF COLUMBIA ET AL.</h1></center>\n<center>No. 05-1027.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", 
+  "sha1": "9ff51f14dbdfdd6d0d3e20194fc7600856f4c731", 
+  "date_modified": "2014-10-30T06:31:48.117466", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1491509/goldring-v-district-of-columbia/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/976715/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1491509/"
+}

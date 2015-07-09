@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1090903/national-motor-freight-traffic-assn-inc-v-united-s/", "blocked": false, "citation": {"case_name": "National Motor Freight Traffic Assn., Inc. v. United States", "docket_number": "355", "document_uris": ["/api/rest/v2/document/1090903/"], "federal_cite_one": "393 U.S. 18", "federal_cite_three": null, "federal_cite_two": null, "id": 1063674, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1063674/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 19, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-10-14", "date_modified": "2014-10-30T00:48:36.568575", "docket": "/api/rest/v2/docket/239233/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>393 U.S. 18 (1968)</b></center>\n<center><h1>NATIONAL MOTOR FREIGHT TRAFFIC ASSN., INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 355.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Bryce Rea, Jr.,</i> and <i>Thomas M. Knebel</i> for appellants.</p>\n<p><i>Solicitor General Griswold, Assistant Attorney General Zimmerman, Robert W. Ginnane,</i> and <i>Emmanuel H. Smith</i> for the United States et al., <i>James T. Johnson</i> for Pacific Progress Shippers Assn., Inc., and <i>Ronald N. Cobert</i> and <i>Philip R. Ehrenkranz</i> for American Institute of Shippers' Assns., Inc., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1090903, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1090903/", "sha1": "3b189fd6e7e81d889725fddafead58aee2300e66", "source": "L", "time_retrieved": "2013-10-29T20:48:10.879874"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 18", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1090903/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "National Motor Freight Traffic Assn., Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "355", 
+    "id": 1063674, 
+    "resource_uri": "/api/rest/v2/citation/1063674/"
+  }, 
+  "id": 1090903, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-10-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 18 (1968)</b></center>\n<center><h1>NATIONAL MOTOR FREIGHT TRAFFIC ASSN., INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 355.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Bryce Rea, Jr.,</i> and <i>Thomas M. Knebel</i> for appellants.</p>\n<p><i>Solicitor General Griswold, Assistant Attorney General Zimmerman, Robert W. Ginnane,</i> and <i>Emmanuel H. Smith</i> for the United States et al., <i>James T. Johnson</i> for Pacific Progress Shippers Assn., Inc., and <i>Ronald N. Cobert</i> and <i>Philip R. Ehrenkranz</i> for American Institute of Shippers' Assns., Inc., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:48:10.879874", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "3b189fd6e7e81d889725fddafead58aee2300e66", 
+  "date_modified": "2014-10-30T00:48:36.568575", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1090903/national-motor-freight-traffic-assn-inc-v-united-s/", 
+  "citation_count": 19, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/239233/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1090903/"
+}

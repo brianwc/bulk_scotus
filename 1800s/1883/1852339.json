@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1852339/guion-v-liverpool-london-globe-ins-co/", "blocked": false, "citation": {"case_name": "Guion v. Liverpool, London, & Globe Ins. Co.", "docket_number": "Decided November 5th, 1883", "document_uris": ["/api/rest/v2/document/1852339/"], "federal_cite_one": "109 U.S. 173", "federal_cite_three": null, "federal_cite_two": null, "id": 1825110, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1825110/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1883-11-05", "date_modified": "2014-10-30T07:40:29.912691", "docket": "/api/rest/v2/docket/1153696/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>109 U.S. 173 (1883)</b></center>\n<center><h1>GUION<br>\nv.<br>\nLIVERPOOL, LONDON, AND GLOBE INSURANCE CO.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 15th, 1883.</center>\n<center>Decided November 5th, 1883.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF INDIANA.\n<p>The case was argued simultaneously with the case of <i>The Indiana Southern Railroad Company,</i> and by the same counsel.</p>\n<p>MR. CHIEF JUSTICE WAITE, in delivering the opinion of the court in that case, said:</p>\n<p>The petition of Guion was for leave to appeal from a decree in a suit to which he was not a party. We decided in <i>Ex parte Cutting,</i> 94 U.S. 14, that such an appeal could not be taken. He had applied for leave to become a party, but this leave was not given. So he is not a party to the decree from which he appeals. But if he is, he has never perfected an appeal by giving the necessary security.</p>\n<p><i>Appeal dismissed for want of jurisdiction.</i></p>\n</div>", "html_with_citations": "", "id": 1852339, "judges": "Mr. Chief Justice Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1852339/", "sha1": "45ecdb77549ee7733a200f843f53fd348ef0cbc5", "source": "L", "time_retrieved": "2013-10-30T00:37:28.769287"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "109 U.S. 173", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1852339/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Guion v. Liverpool, London, & Globe Ins. Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "Decided November 5th, 1883", 
+    "id": 1825110, 
+    "resource_uri": "/api/rest/v2/citation/1825110/"
+  }, 
+  "id": 1852339, 
+  "blocked": false, 
+  "judges": "Mr. Chief Justice Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1883-11-05", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>109 U.S. 173 (1883)</b></center>\n<center><h1>GUION<br>\nv.<br>\nLIVERPOOL, LONDON, AND GLOBE INSURANCE CO.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 15th, 1883.</center>\n<center>Decided November 5th, 1883.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF INDIANA.\n<p>The case was argued simultaneously with the case of <i>The Indiana Southern Railroad Company,</i> and by the same counsel.</p>\n<p>MR. CHIEF JUSTICE WAITE, in delivering the opinion of the court in that case, said:</p>\n<p>The petition of Guion was for leave to appeal from a decree in a suit to which he was not a party. We decided in <i>Ex parte Cutting,</i> 94 U.S. 14, that such an appeal could not be taken. He had applied for leave to become a party, but this leave was not given. So he is not a party to the decree from which he appeals. But if he is, he has never perfected an appeal by giving the necessary security.</p>\n<p><i>Appeal dismissed for want of jurisdiction.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:37:28.769287", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "45ecdb77549ee7733a200f843f53fd348ef0cbc5", 
+  "date_modified": "2014-10-30T07:40:29.912691", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1852339/guion-v-liverpool-london-globe-ins-co/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1153696/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1852339/"
+}

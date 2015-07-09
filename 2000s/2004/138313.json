@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/138313/walker-v-polk-warden/", "blocked": false, "citation": {"case_name": "Walker v. Polk, Warden", "docket_number": "03-10682", "document_uris": ["/api/rest/v2/document/138313/"], "federal_cite_one": "543 U.S. 844", "federal_cite_three": null, "federal_cite_two": null, "id": 122666, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/122666/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-10-04", "date_modified": "2014-12-21T02:20:40.031442", "docket": "/api/rest/v2/docket/404147/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.844.03-10682.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 844</p>\n    <p class=\"parties\">WALKER<br>v.<br>POLK, WARDEN.</p>\n    <p class=\"docket\">No. 03-10682.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 87 Fed. Appx. 835.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">844</span></span></p>\n    <p class=\"parties\">WALKER<br>v.<br>POLK, WARDEN.</p>\n    <p class=\"docket\">No. 03-10682.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 87 Fed. Appx. 835.</p>\n    </div>\n    ", "id": 138313, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/138313/", "sha1": "d0e86cd271607b7ec94958495346c6348a278980", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:32:22"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 844", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/138313/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Walker v. Polk, Warden", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-10682", 
+    "id": 122666, 
+    "resource_uri": "/api/rest/v2/citation/122666/"
+  }, 
+  "id": 138313, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.844.03-10682.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:32:22", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">844</span></span></p>\n    <p class=\"parties\">WALKER<br>v.<br>POLK, WARDEN.</p>\n    <p class=\"docket\">No. 03-10682.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 87 Fed. Appx. 835.</p>\n    </div>\n    ", 
+  "sha1": "d0e86cd271607b7ec94958495346c6348a278980", 
+  "date_modified": "2014-12-21T02:20:40.031442", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/138313/walker-v-polk-warden/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/404147/", 
+  "html": "<p class=\"case_cite\">543 U.S. 844</p>\n    <p class=\"parties\">WALKER<br>v.<br>POLK, WARDEN.</p>\n    <p class=\"docket\">No. 03-10682.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 87 Fed. Appx. 835.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/138313/"
+}

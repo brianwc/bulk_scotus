@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/119595/yizar-v-sikes-warden/", "blocked": false, "citation": {"case_name": "Yizar v. Sikes, Warden", "docket_number": "01-8230", "document_uris": ["/api/rest/v2/document/119595/"], "federal_cite_one": "535 U.S. 996", "federal_cite_three": null, "federal_cite_two": null, "id": 103948, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/103948/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-04-15", "date_modified": "2014-12-21T02:17:00.610783", "docket": "/api/rest/v2/docket/363092/", "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.996.01-8230.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">535 U.S. 996</p>\n    <p class=\"parties\">YIZAR<br><i>v.</i><br>SIKES, WARDEN.</p>\n    <p class=\"docket\">No. 01-8230.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 15, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied. Reported below: 251 F. 3d 161.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">996</span></span></p>\n    <p class=\"parties\">YIZAR<br><i>v.</i><br>SIKES, WARDEN.</p>\n    <p class=\"docket\">No. 01-8230.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 15, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied. Reported below: 251 F. 3d 161.</p>\n    </div>\n    ", "id": 119595, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/119595/", "sha1": "ac78ec3e52e0c92a7faaac31f297331f9703b764", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:51"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "535 U.S. 996", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/119595/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Yizar v. Sikes, Warden", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-8230", 
+    "id": 103948, 
+    "resource_uri": "/api/rest/v2/citation/103948/"
+  }, 
+  "id": 119595, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-04-15", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.996.01-8230.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:51", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">996</span></span></p>\n    <p class=\"parties\">YIZAR<br><i>v.</i><br>SIKES, WARDEN.</p>\n    <p class=\"docket\">No. 01-8230.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 15, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied. Reported below: 251 F. 3d 161.</p>\n    </div>\n    ", 
+  "sha1": "ac78ec3e52e0c92a7faaac31f297331f9703b764", 
+  "date_modified": "2014-12-21T02:17:00.610783", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/119595/yizar-v-sikes-warden/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/363092/", 
+  "html": "<p class=\"case_cite\">535 U.S. 996</p>\n    <p class=\"parties\">YIZAR<br><i>v.</i><br>SIKES, WARDEN.</p>\n    <p class=\"docket\">No. 01-8230.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 15, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied. Reported below: 251 F. 3d 161.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/119595/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/87545/mesa-v-united-states/", "blocked": false, "citation": {"case_name": "Mesa v. United States", "docket_number": null, "document_uris": ["/api/rest/v2/document/87545/"], "federal_cite_one": "67 U.S. 721", "federal_cite_three": null, "federal_cite_two": null, "id": 56132, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/56132/", "scotus_early_cite": "2 Black 721", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1863-02-23", "date_modified": "2014-12-21T01:25:41.505760", "docket": "/api/rest/v2/docket/1291159/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">67 U.S. 721</p>\n    <p class=\"case_cite\">2 Black 721</p>\n    <p class=\"case_cite\">17 L.Ed. 350</p>\n    <p class=\"parties\">MESA<br>v.<br>THE UNITED STATES.</p>\n    <p class=\"date\">December Term, 1862</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">This was a California land case, in which an appeal had been taken by the Claimant and one Clark, an intervenor. The appella ts suffered a term to pass without filing a copy of the record in this Court, but at the second term brought up the transcript and had it docketed.</p>\n      <p class=\"indent\"><i>Mr. Gillet</i>, of Washington City moved that the appeal be dismissed.</p>\n      <p class=\"indent\"><i>Mr. Magraw</i>, of Pennsylvania, and <i>Mr. McDougall</i> of California, opposed the motion.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Let this appeal be dismissed. It has not been prosecuted in the manner directed nor within the time limited by the Act of Congress, which requires that the transcript shall be filed at the next succeeding term after the appeal is taken</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>67 U.S. 721 (____)</b></center>\n<center><b>2 Black 721</b></center>\n<center><h1>MESA<br>\nvs.<br>\nTHE UNITED STATES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. Gillet, of Washington City moved that the appeal be dismissed.</p>\n<p>Mr. Magraw, of Pennsylvania, and Mr. McDougall of California, opposed the motion.</p>\n<p><span class=\"star-pagination\">*722</span> PER CURIAM.</p>\n<p>Let this appeal be dismissed. It has not been prosecuted in the manner directed nor within the time limited by the Act of Congress, which requires that the transcript shall be filed at the next succeeding term after the appeal is taken</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">67</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">721</span></span> (____)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">2</span> <span class=\"reporter\">Black</span> <span class=\"page\">721</span></span></b></center>\n<center><h1>MESA<br>\nvs.<br>\nTHE UNITED STATES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. Gillet, of Washington City moved that the appeal be dismissed.</p>\n<p>Mr. Magraw, of Pennsylvania, and Mr. McDougall of California, opposed the motion.</p>\n<p><span class=\"star-pagination\">*722</span> PER CURIAM.</p>\n<p>Let this appeal be dismissed. It has not been prosecuted in the manner directed nor within the time limited by the Act of Congress, which requires that the transcript shall be filed at the next succeeding term after the appeal is taken</p>\n</div>", "id": 87545, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/87545/", "sha1": "24e7a158c4fba74e74f7bf5c1428ac6e689f7323", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:01:17"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "67 U.S. 721", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/87545/"
+    ], 
+    "scotus_early_cite": "2 Black 721", 
+    "case_name": "Mesa v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 56132, 
+    "resource_uri": "/api/rest/v2/citation/56132/"
+  }, 
+  "id": 87545, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1863-02-23", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>67 U.S. 721 (____)</b></center>\n<center><b>2 Black 721</b></center>\n<center><h1>MESA<br>\nvs.<br>\nTHE UNITED STATES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. Gillet, of Washington City moved that the appeal be dismissed.</p>\n<p>Mr. Magraw, of Pennsylvania, and Mr. McDougall of California, opposed the motion.</p>\n<p><span class=\"star-pagination\">*722</span> PER CURIAM.</p>\n<p>Let this appeal be dismissed. It has not been prosecuted in the manner directed nor within the time limited by the Act of Congress, which requires that the transcript shall be filed at the next succeeding term after the appeal is taken</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:01:17", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">67</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">721</span></span> (____)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">2</span> <span class=\"reporter\">Black</span> <span class=\"page\">721</span></span></b></center>\n<center><h1>MESA<br>\nvs.<br>\nTHE UNITED STATES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. Gillet, of Washington City moved that the appeal be dismissed.</p>\n<p>Mr. Magraw, of Pennsylvania, and Mr. McDougall of California, opposed the motion.</p>\n<p><span class=\"star-pagination\">*722</span> PER CURIAM.</p>\n<p>Let this appeal be dismissed. It has not been prosecuted in the manner directed nor within the time limited by the Act of Congress, which requires that the transcript shall be filed at the next succeeding term after the appeal is taken</p>\n</div>", 
+  "sha1": "24e7a158c4fba74e74f7bf5c1428ac6e689f7323", 
+  "date_modified": "2014-12-21T01:25:41.505760", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/87545/mesa-v-united-states/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1291159/", 
+  "html": "<p class=\"case_cite\">67 U.S. 721</p>\n    <p class=\"case_cite\">2 Black 721</p>\n    <p class=\"case_cite\">17 L.Ed. 350</p>\n    <p class=\"parties\">MESA<br>v.<br>THE UNITED STATES.</p>\n    <p class=\"date\">December Term, 1862</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">This was a California land case, in which an appeal had been taken by the Claimant and one Clark, an intervenor. The appella ts suffered a term to pass without filing a copy of the record in this Court, but at the second term brought up the transcript and had it docketed.</p>\n      <p class=\"indent\"><i>Mr. Gillet</i>, of Washington City moved that the appeal be dismissed.</p>\n      <p class=\"indent\"><i>Mr. Magraw</i>, of Pennsylvania, and <i>Mr. McDougall</i> of California, opposed the motion.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Let this appeal be dismissed. It has not been prosecuted in the manner directed nor within the time limited by the Act of Congress, which requires that the transcript shall be filed at the next succeeding term after the appeal is taken</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/87545/"
+}

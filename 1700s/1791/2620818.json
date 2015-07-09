@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620818/donaldson-v-means/", "blocked": false, "citation": {"case_name": "Donaldson v. Means", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620818/"], "federal_cite_one": "4 U.S. 109", "federal_cite_three": null, "federal_cite_two": null, "id": 2593590, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593590/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1791-03-01", "date_modified": "2014-10-29T22:59:06.320388", "docket": "/api/rest/v2/docket/24406/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 109 (____)</b></center>\n<center><b>4 Dall. 109</b></center>\n<center><h1>Donaldson<br>\nversus<br>\nMeans.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*110</span> Coxe, for the plaintiff.</p>\n<p>E. Tilghman, for the defendant.</p>\n<p>By the COURT:</p>\n<p>The law upon the subject is so clear, that the whole case resolves itself into the question of fact, on which the law is to arise. If the proof is satisfactory, that the defendant, under a knowledge of all the circumstances, absolutely promised to pay, he is, incontestably, bound by his promise. But, if his engagement was of a conditional nature, that he would pay, when the protest was transmitted; or if any material fact was unknown to him at the time of making the promise, the verdict should certainly be in his favour.</p>\n<p>Verdict for the plaintiff.</p>\n</div>", "html_with_citations": "", "id": 2620818, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620818/", "sha1": "8edd9f670757544782e8dfb33d25a3a822580f13", "source": "L", "time_retrieved": "2013-11-01T12:05:07.313165"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 109", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620818/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Donaldson v. Means", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593590, 
+    "resource_uri": "/api/rest/v2/citation/2593590/"
+  }, 
+  "id": 2620818, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1791-03-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 109 (____)</b></center>\n<center><b>4 Dall. 109</b></center>\n<center><h1>Donaldson<br>\nversus<br>\nMeans.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*110</span> Coxe, for the plaintiff.</p>\n<p>E. Tilghman, for the defendant.</p>\n<p>By the COURT:</p>\n<p>The law upon the subject is so clear, that the whole case resolves itself into the question of fact, on which the law is to arise. If the proof is satisfactory, that the defendant, under a knowledge of all the circumstances, absolutely promised to pay, he is, incontestably, bound by his promise. But, if his engagement was of a conditional nature, that he would pay, when the protest was transmitted; or if any material fact was unknown to him at the time of making the promise, the verdict should certainly be in his favour.</p>\n<p>Verdict for the plaintiff.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T12:05:07.313165", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "8edd9f670757544782e8dfb33d25a3a822580f13", 
+  "date_modified": "2014-10-29T22:59:06.320388", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620818/donaldson-v-means/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/24406/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620818/"
+}

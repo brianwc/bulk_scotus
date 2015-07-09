@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108031/first-fed-sav-loan-assn-of-providence-v-langton/", "blocked": false, "citation": {"case_name": "First Fed. Sav. & Loan Assn. of Providence v. Langton", "docket_number": "288", "document_uris": ["/api/rest/v2/document/108031/"], "federal_cite_one": "396 U.S. 374", "federal_cite_three": null, "federal_cite_two": null, "id": 92390, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92390/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-01-26", "date_modified": "2014-12-21T01:56:29.070787", "docket": "/api/rest/v2/docket/2521047/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">396 U.S. 374</p>\n    <p class=\"case_cite\">90 S.Ct. 613</p>\n    <p class=\"case_cite\">24 L.Ed.2d 589</p>\n    <p class=\"parties\">FIRST FEDERAL SAVINGS &amp; LOAN ASSOCIATION OF PROVIDENCE<br>v.<br>Fred M. LANGTON, Tax Administrator.</p>\n    <p class=\"docket\">No. 288.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 19, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Max Winograd, for appellant.</p>\n      <p class=\"indent\">Herbert F. De Simone, Atty. Gen. of Rhode Island, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>396 U.S. 374 (1970)</b></center>\n<center><h1>FIRST FEDERAL SAVINGS &amp; LOAN ASSOCIATION OF PROVIDENCE<br>\nv.<br>\nLANGTON, TAX ADMINISTRATOR.</h1></center>\n<center>No. 288.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 19, 1970.</center>\nAPPEAL FROM THE SUPREME COURT OF RHODE ISLAND.\n<p><i>Max Winograd</i> for appellant.</p>\n<p><i>Herbert F. De Simone,</i> Attorney General of Rhode Island, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">374</span></span> (1970)</b></center>\n<center><h1>FIRST FEDERAL SAVINGS &amp; LOAN ASSOCIATION OF PROVIDENCE<br>\nv.<br>\nLANGTON, TAX ADMINISTRATOR.</h1></center>\n<center>No. 288.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 19, 1970.</center>\nAPPEAL FROM THE SUPREME COURT OF RHODE ISLAND.\n<p><i>Max Winograd</i> for appellant.</p>\n<p><i>Herbert F. De Simone,</i> Attorney General of Rhode Island, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "id": 108031, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108031/", "sha1": "d8c8138d79cd8e5e4ead932df3331e287999aaa6", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:20"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "396 U.S. 374", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/108031/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "First Fed. Sav. & Loan Assn. of Providence v. Langton", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "288", 
+    "id": 92390, 
+    "resource_uri": "/api/rest/v2/citation/92390/"
+  }, 
+  "id": 108031, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-01-26", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>396 U.S. 374 (1970)</b></center>\n<center><h1>FIRST FEDERAL SAVINGS &amp; LOAN ASSOCIATION OF PROVIDENCE<br>\nv.<br>\nLANGTON, TAX ADMINISTRATOR.</h1></center>\n<center>No. 288.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 19, 1970.</center>\nAPPEAL FROM THE SUPREME COURT OF RHODE ISLAND.\n<p><i>Max Winograd</i> for appellant.</p>\n<p><i>Herbert F. De Simone,</i> Attorney General of Rhode Island, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:20", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">374</span></span> (1970)</b></center>\n<center><h1>FIRST FEDERAL SAVINGS &amp; LOAN ASSOCIATION OF PROVIDENCE<br>\nv.<br>\nLANGTON, TAX ADMINISTRATOR.</h1></center>\n<center>No. 288.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 19, 1970.</center>\nAPPEAL FROM THE SUPREME COURT OF RHODE ISLAND.\n<p><i>Max Winograd</i> for appellant.</p>\n<p><i>Herbert F. De Simone,</i> Attorney General of Rhode Island, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "sha1": "d8c8138d79cd8e5e4ead932df3331e287999aaa6", 
+  "date_modified": "2014-12-21T01:56:29.070787", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108031/first-fed-sav-loan-assn-of-providence-v-langton/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2521047/", 
+  "html": "<p class=\"case_cite\">396 U.S. 374</p>\n    <p class=\"case_cite\">90 S.Ct. 613</p>\n    <p class=\"case_cite\">24 L.Ed.2d 589</p>\n    <p class=\"parties\">FIRST FEDERAL SAVINGS &amp; LOAN ASSOCIATION OF PROVIDENCE<br>v.<br>Fred M. LANGTON, Tax Administrator.</p>\n    <p class=\"docket\">No. 288.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 19, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Max Winograd, for appellant.</p>\n      <p class=\"indent\">Herbert F. De Simone, Atty. Gen. of Rhode Island, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108031/"
+}

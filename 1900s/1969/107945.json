@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107945/enrique-perez-v-california/", "blocked": false, "citation": {"case_name": "Enrique Perez v. California", "docket_number": "39", "document_uris": ["/api/rest/v2/document/107945/"], "federal_cite_one": "395 U.S. 208", "federal_cite_three": "23 L. Ed. 2d 212", "federal_cite_two": "89 S. Ct. 1767", "id": 92304, "lexis_cite": "1969 U.S. LEXIS 1513", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92304/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-05-26", "date_modified": "2014-12-21T01:56:19.507963", "docket": "/api/rest/v2/docket/2049109/", "download_url": "http://bulk.resource.org/courts.gov/c/US/395/395.US.208.39.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">395 U.S. 208</p>\n    <p class=\"case_cite\">89 S.Ct. 1767</p>\n    <p class=\"case_cite\">23 L.Ed.2d 212</p>\n    <p class=\"parties\">Enrique PEREZ<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 39.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 26, 1969</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Peter G. Fetros, Sacramento, Cal., for petitioner.</p>\n      <p class=\"indent\">Edsel W. Haws, Sacramento, Cal., for respondent.</p>\n      <p class=\"indent\">On Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ is dismissed as improvidently granted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS dissents from the dismissal of the writ.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">395</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">208</span></span></p>\n    <p class=\"case_cite\">89 S.Ct. 1767</p>\n    <p class=\"case_cite\">23 L.Ed.2d 212</p>\n    <p class=\"parties\">Enrique PEREZ<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 39.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 26, 1969</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Peter G. Fetros, Sacramento, Cal., for petitioner.</p>\n      <p class=\"indent\">Edsel W. Haws, Sacramento, Cal., for respondent.</p>\n      <p class=\"indent\">On Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ is dismissed as improvidently granted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS dissents from the dismissal of the writ.</p>\n    </div>\n    ", "id": 107945, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107945/", "sha1": "8f952eeeb26c2e2c2f92e442357e82213e0e99bf", "source": "R", "supreme_court_db_id": "1968-107", "time_retrieved": "2010-04-28T10:11:19"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "395 U.S. 208", 
+    "federal_cite_two": "89 S. Ct. 1767", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "23 L. Ed. 2d 212", 
+    "lexis_cite": "1969 U.S. LEXIS 1513", 
+    "document_uris": [
+      "/api/rest/v2/document/107945/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Enrique Perez v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "39", 
+    "id": 92304, 
+    "resource_uri": "/api/rest/v2/citation/92304/"
+  }, 
+  "id": 107945, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-05-26", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/395/395.US.208.39.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:19", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">395</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">208</span></span></p>\n    <p class=\"case_cite\">89 S.Ct. 1767</p>\n    <p class=\"case_cite\">23 L.Ed.2d 212</p>\n    <p class=\"parties\">Enrique PEREZ<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 39.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 26, 1969</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Peter G. Fetros, Sacramento, Cal., for petitioner.</p>\n      <p class=\"indent\">Edsel W. Haws, Sacramento, Cal., for respondent.</p>\n      <p class=\"indent\">On Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ is dismissed as improvidently granted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS dissents from the dismissal of the writ.</p>\n    </div>\n    ", 
+  "sha1": "8f952eeeb26c2e2c2f92e442357e82213e0e99bf", 
+  "date_modified": "2014-12-21T01:56:19.507963", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107945/enrique-perez-v-california/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": "1968-107", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2049109/", 
+  "html": "<p class=\"case_cite\">395 U.S. 208</p>\n    <p class=\"case_cite\">89 S.Ct. 1767</p>\n    <p class=\"case_cite\">23 L.Ed.2d 212</p>\n    <p class=\"parties\">Enrique PEREZ<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 39.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 26, 1969</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Peter G. Fetros, Sacramento, Cal., for petitioner.</p>\n      <p class=\"indent\">Edsel W. Haws, Sacramento, Cal., for respondent.</p>\n      <p class=\"indent\">On Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ is dismissed as improvidently granted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS dissents from the dismissal of the writ.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107945/"
+}

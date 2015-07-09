@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105759/edward-r-j-primbs-appellant-v-people-of-the/", "blocked": false, "citation": {"case_name": "Edward R. J. Primbs v. People of the State of California", "docket_number": "730, Misc", "document_uris": ["/api/rest/v2/document/105759/"], "federal_cite_one": "357 U.S. 572", "federal_cite_three": null, "federal_cite_two": null, "id": 90142, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90142/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-06-30", "date_modified": "2014-12-21T01:51:07.209174", "docket": "/api/rest/v2/docket/2046987/", "download_url": "http://bulk.resource.org/courts.gov/c/US/357/357.US.572.730.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">357 U.S. 572</p>\n    <p class=\"case_cite\">78 S.Ct. 1389</p>\n    <p class=\"case_cite\">2 L.Ed.2d 1547</p>\n    <p class=\"parties\">Edward R. J. PRIMBS, appellant,<br>v.<br>PEOPLE OF THE STATE OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 730, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 30, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Edward R. J. Primbs, pro se.</p>\n      <p class=\"indent\">Messrs. Roger Arnebergh and Philip E. Grey, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">357</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">572</span></span></p>\n    <p class=\"case_cite\">78 S.Ct. 1389</p>\n    <p class=\"case_cite\">2 L.Ed.2d 1547</p>\n    <p class=\"parties\">Edward R. J. PRIMBS, appellant,<br>v.<br>PEOPLE OF THE STATE OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 730, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 30, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Edward R. J. Primbs, pro se.</p>\n      <p class=\"indent\">Messrs. Roger Arnebergh and Philip E. Grey, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "id": 105759, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105759/", "sha1": "71f114d62b57ee692a5fdb66f3cd5d0ae1991f58", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "357 U.S. 572", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/105759/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Edward R. J. Primbs v. People of the State of California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "730, Misc", 
+    "id": 90142, 
+    "resource_uri": "/api/rest/v2/citation/90142/"
+  }, 
+  "id": 105759, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-06-30", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/357/357.US.572.730.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">357</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">572</span></span></p>\n    <p class=\"case_cite\">78 S.Ct. 1389</p>\n    <p class=\"case_cite\">2 L.Ed.2d 1547</p>\n    <p class=\"parties\">Edward R. J. PRIMBS, appellant,<br>v.<br>PEOPLE OF THE STATE OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 730, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 30, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Edward R. J. Primbs, pro se.</p>\n      <p class=\"indent\">Messrs. Roger Arnebergh and Philip E. Grey, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "sha1": "71f114d62b57ee692a5fdb66f3cd5d0ae1991f58", 
+  "date_modified": "2014-12-21T01:51:07.209174", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105759/edward-r-j-primbs-appellant-v-people-of-the/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2046987/", 
+  "html": "<p class=\"case_cite\">357 U.S. 572</p>\n    <p class=\"case_cite\">78 S.Ct. 1389</p>\n    <p class=\"case_cite\">2 L.Ed.2d 1547</p>\n    <p class=\"parties\">Edward R. J. PRIMBS, appellant,<br>v.<br>PEOPLE OF THE STATE OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 730, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 30, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Edward R. J. Primbs, pro se.</p>\n      <p class=\"indent\">Messrs. Roger Arnebergh and Philip E. Grey, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105759/"
+}

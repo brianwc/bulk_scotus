@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92551/marshall-et-al-v-united-states/", "blocked": false, "citation": {"case_name": "Marshall v. United States", "docket_number": null, "document_uris": ["/api/rest/v2/document/92551/"], "federal_cite_one": "131 U.S. 391", "federal_cite_three": null, "federal_cite_two": null, "id": 76931, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76931/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1888-11-19", "date_modified": "2014-12-21T11:49:55.878858", "docket": "/api/rest/v2/docket/2346980/", "download_url": "http://bulk.resource.org/courts.gov/c/US/131/131.US.391.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">131 U.S. 391</p>\n    <p class=\"case_cite\">9 S.Ct. 794</p>\n    <p class=\"case_cite\">33 L.Ed. 215</p>\n    <p class=\"parties\">MARSHALL <i>et al.</i><br>v.<br>UNITED STATES.</p>\n    <p class=\"date\">November 19, 1888.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Howard</i>, for the United States.</p>\n      <p class=\"indent\"><i>W. D. Davidge</i>, for appellants.</p>\n      <p class=\"indent\">Mr. Chief Justice FULLER, on the 19th of November, 1888, announced that a majority of the court adhered to the views expressed by Mr. Justice HARLAN in the opinion of the court in this case delivered at the last term, affirming the judgment of the court of claims.</p>\n      <p class=\"indent\">Affirmed.</p>\n      <p class=\"indent\">Mr. Justice HARLAN stated that he now believed that that opinion was wrong, and that he dissented from the judgment of the court.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Publication delayed through failure to receive copy</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">131</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">391</span></span></p>\n    <p class=\"case_cite\">9 S.Ct. 794</p>\n    <p class=\"case_cite\">33 L.Ed. 215</p>\n    <p class=\"parties\">MARSHALL <i>et al.</i><br>v.<br>UNITED STATES.</p>\n    <p class=\"date\">November 19, 1888.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Howard</i>, for the United States.</p>\n      <p class=\"indent\"><i>W. D. Davidge</i>, for appellants.</p>\n      <p class=\"indent\">Mr. Chief Justice FULLER, on the 19th of November, 1888, announced that a majority of the court adhered to the views expressed by Mr. Justice HARLAN in the opinion of the court in this case delivered at the last term, affirming the judgment of the court of claims.</p>\n      <p class=\"indent\">Affirmed.</p>\n      <p class=\"indent\">Mr. Justice HARLAN stated that he now believed that that opinion was wrong, and that he dissented from the judgment of the court.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Publication delayed through failure to receive copy</p>\n      </div>\n    </div>\n    ", "id": 92551, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92551/", "sha1": "b85e81416baf18e2cc2ab49f7b3db62ea537cb9a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "131 U.S. 391", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/92551/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Marshall v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76931, 
+    "resource_uri": "/api/rest/v2/citation/76931/"
+  }, 
+  "id": 92551, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1888-11-19", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/131/131.US.391.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:05:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">131</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">391</span></span></p>\n    <p class=\"case_cite\">9 S.Ct. 794</p>\n    <p class=\"case_cite\">33 L.Ed. 215</p>\n    <p class=\"parties\">MARSHALL <i>et al.</i><br>v.<br>UNITED STATES.</p>\n    <p class=\"date\">November 19, 1888.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Howard</i>, for the United States.</p>\n      <p class=\"indent\"><i>W. D. Davidge</i>, for appellants.</p>\n      <p class=\"indent\">Mr. Chief Justice FULLER, on the 19th of November, 1888, announced that a majority of the court adhered to the views expressed by Mr. Justice HARLAN in the opinion of the court in this case delivered at the last term, affirming the judgment of the court of claims.</p>\n      <p class=\"indent\">Affirmed.</p>\n      <p class=\"indent\">Mr. Justice HARLAN stated that he now believed that that opinion was wrong, and that he dissented from the judgment of the court.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Publication delayed through failure to receive copy</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "b85e81416baf18e2cc2ab49f7b3db62ea537cb9a", 
+  "date_modified": "2014-12-21T11:49:55.878858", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92551/marshall-et-al-v-united-states/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2346980/", 
+  "html": "<p class=\"case_cite\">131 U.S. 391</p>\n    <p class=\"case_cite\">9 S.Ct. 794</p>\n    <p class=\"case_cite\">33 L.Ed. 215</p>\n    <p class=\"parties\">MARSHALL <i>et al.</i><br>v.<br>UNITED STATES.</p>\n    <p class=\"date\">November 19, 1888.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Asst. Atty. Gen. Howard</i>, for the United States.</p>\n      <p class=\"indent\"><i>W. D. Davidge</i>, for appellants.</p>\n      <p class=\"indent\">Mr. Chief Justice FULLER, on the 19th of November, 1888, announced that a majority of the court adhered to the views expressed by Mr. Justice HARLAN in the opinion of the court in this case delivered at the last term, affirming the judgment of the court of claims.</p>\n      <p class=\"indent\">Affirmed.</p>\n      <p class=\"indent\">Mr. Justice HARLAN stated that he now believed that that opinion was wrong, and that he dissented from the judgment of the court.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Publication delayed through failure to receive copy</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92551/"
+}

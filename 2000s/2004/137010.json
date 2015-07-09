@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/137010/hwang-geum-joo-et-al-v-japan/", "blocked": false, "citation": {"case_name": "Hwang Geum Joo v. Japan", "docket_number": "03-741", "document_uris": ["/api/rest/v2/document/137010/"], "federal_cite_one": "542 U.S. 901", "federal_cite_three": null, "federal_cite_two": null, "id": 121363, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121363/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-14", "date_modified": "2014-12-21T02:20:17.119665", "docket": "/api/rest/v2/docket/616790/", "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.901.03-741.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">542 U.S. 901</p>\n    <p class=\"parties\">HWANG GEUM JOO ET AL.<br>v.<br>JAPAN.</p>\n    <p class=\"docket\">No. 03-741.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C.A.D.C. Cir. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Republic of Austria</i> v. <i>Altmann,</i> 541 U. S. 677 (2004). Reported below: 332 F. 3d 679.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span></p>\n    <p class=\"parties\">HWANG GEUM JOO ET AL.<br>v.<br>JAPAN.</p>\n    <p class=\"docket\">No. 03-741.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C.A.D.C. Cir. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Republic of Austria</i> v. <i>Altmann,</i> 541 U. S. 677 (2004). Reported below: 332 F. 3d 679.</p>\n    </div>\n    ", "id": 137010, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/137010/", "sha1": "ff7bcd58d1dca6cdb2ae7305b93f51b561a2556e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:30:35"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "542 U.S. 901", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/137010/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hwang Geum Joo v. Japan", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-741", 
+    "id": 121363, 
+    "resource_uri": "/api/rest/v2/citation/121363/"
+  }, 
+  "id": 137010, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.901.03-741.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:30:35", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span></p>\n    <p class=\"parties\">HWANG GEUM JOO ET AL.<br>v.<br>JAPAN.</p>\n    <p class=\"docket\">No. 03-741.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C.A.D.C. Cir. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Republic of Austria</i> v. <i>Altmann,</i> 541 U. S. 677 (2004). Reported below: 332 F. 3d 679.</p>\n    </div>\n    ", 
+  "sha1": "ff7bcd58d1dca6cdb2ae7305b93f51b561a2556e", 
+  "date_modified": "2014-12-21T02:20:17.119665", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/137010/hwang-geum-joo-et-al-v-japan/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/616790/", 
+  "html": "<p class=\"case_cite\">542 U.S. 901</p>\n    <p class=\"parties\">HWANG GEUM JOO ET AL.<br>v.<br>JAPAN.</p>\n    <p class=\"docket\">No. 03-741.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C.A.D.C. Cir. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Republic of Austria</i> v. <i>Altmann,</i> 541 U. S. 677 (2004). Reported below: 332 F. 3d 679.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/137010/"
+}

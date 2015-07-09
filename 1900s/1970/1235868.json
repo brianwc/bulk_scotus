@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1235868/penner-v-united-states/", "blocked": false, "citation": {"case_name": "Penner v. United States", "docket_number": "1532", "document_uris": ["/api/rest/v2/document/1235868/"], "federal_cite_one": "399 U.S. 522", "federal_cite_three": null, "federal_cite_two": null, "id": 1208639, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1208639/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-06-29", "date_modified": "2014-10-30T17:36:51.018786", "docket": "/api/rest/v2/docket/2539006/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>399 U.S. 522 (1970)</b></center>\n<center><h1>PENNER<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 1532.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 29, 1970.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE TENTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>On the basis of a confession of error by the Solicitor General and of an independent review of the record, the petition for a writ of certiorari is granted, the judgment of the Court of Appeals is vacated, and the case is remanded to the United States District Court for the Western District of Oklahoma with instructions to dismiss the indictment.</p>\n</div>", "html_with_citations": "", "id": 1235868, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1235868/", "sha1": "cfb2e1a24d0421cbf5c754fc847f3ccee9f37754", "source": "L", "time_retrieved": "2013-10-29T22:09:44.424331"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "399 U.S. 522", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1235868/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Penner v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1532", 
+    "id": 1208639, 
+    "resource_uri": "/api/rest/v2/citation/1208639/"
+  }, 
+  "id": 1235868, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-06-29", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>399 U.S. 522 (1970)</b></center>\n<center><h1>PENNER<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 1532.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 29, 1970.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE TENTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>On the basis of a confession of error by the Solicitor General and of an independent review of the record, the petition for a writ of certiorari is granted, the judgment of the Court of Appeals is vacated, and the case is remanded to the United States District Court for the Western District of Oklahoma with instructions to dismiss the indictment.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:09:44.424331", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "cfb2e1a24d0421cbf5c754fc847f3ccee9f37754", 
+  "date_modified": "2014-10-30T17:36:51.018786", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1235868/penner-v-united-states/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2539006/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1235868/"
+}

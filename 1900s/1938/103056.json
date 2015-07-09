@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/103056/the-state-of-georgia-complainant-v-tennessee/", "blocked": false, "citation": {"case_name": "The State of Georgia v. Tennessee Copper Company", "docket_number": "1, Original", "document_uris": ["/api/rest/v2/document/103056/"], "federal_cite_one": "304 U.S. 546", "federal_cite_three": null, "federal_cite_two": null, "id": 87439, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/87439/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1938-05-31", "date_modified": "2014-12-21T01:42:17.214399", "docket": "/api/rest/v2/docket/2404490/", "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.546.1.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">304 U.S. 546</p>\n    <p class=\"case_cite\">58 S.Ct. 1035</p>\n    <p class=\"case_cite\">82 L.Ed. 1519</p>\n    <p class=\"parties\">The STATE OF GEORGIA, complainant,<br>v.<br>TENNESSEE COPPER COMPANY et al.</p>\n    <p class=\"docket\">No. 1, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 16, 1938</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Messrs. John C. Hart, of Atlanta, Ga., and Ligon Johnson, of New York City, for complainant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Martin A. Vogel, of New York City, and Howard Cornick, of Prescott, Ariz., for defendant.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Decree entered vacating all orders and decrees which have heretofore been entered in this cause against The Ducktown Sulphur, Copper &amp; Iron Company, Ltd., and Tennessee Copper Company excepting insofar as they relate to the taxation of costs, and the cause dismissed. A rule is ordered to issue returnable on May 26, next, requiring the Ducktown Chemical &amp; Iron Company to show cause why it should not pay costs charged against the defendant Ducktown Sulphur, Copper &amp; Iron Compny, Ltd .</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">546</span></span></p>\n    <p class=\"case_cite\">58 S.Ct. 1035</p>\n    <p class=\"case_cite\">82 L.Ed. 1519</p>\n    <p class=\"parties\">The STATE OF GEORGIA, complainant,<br>v.<br>TENNESSEE COPPER COMPANY et al.</p>\n    <p class=\"docket\">No. 1, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 16, 1938</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Messrs. John C. Hart, of Atlanta, Ga., and Ligon Johnson, of New York City, for complainant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Martin A. Vogel, of New York City, and Howard Cornick, of Prescott, Ariz., for defendant.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Decree entered vacating all orders and decrees which have heretofore been entered in this cause against The Ducktown Sulphur, Copper &amp; Iron Company, Ltd., and Tennessee Copper Company excepting insofar as they relate to the taxation of costs, and the cause dismissed. A rule is ordered to issue returnable on May 26, next, requiring the Ducktown Chemical &amp; Iron Company to show cause why it should not pay costs charged against the defendant Ducktown Sulphur, Copper &amp; Iron Compny, Ltd .</p>\n    </div>\n    ", "id": 103056, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/103056/", "sha1": "c75c334488c9c850ce38226806145b8601f95a17", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:15"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "304 U.S. 546", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/103056/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "The State of Georgia v. Tennessee Copper Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1, Original", 
+    "id": 87439, 
+    "resource_uri": "/api/rest/v2/citation/87439/"
+  }, 
+  "id": 103056, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1938-05-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.546.1.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:54:15", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">546</span></span></p>\n    <p class=\"case_cite\">58 S.Ct. 1035</p>\n    <p class=\"case_cite\">82 L.Ed. 1519</p>\n    <p class=\"parties\">The STATE OF GEORGIA, complainant,<br>v.<br>TENNESSEE COPPER COMPANY et al.</p>\n    <p class=\"docket\">No. 1, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 16, 1938</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Messrs. John C. Hart, of Atlanta, Ga., and Ligon Johnson, of New York City, for complainant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Martin A. Vogel, of New York City, and Howard Cornick, of Prescott, Ariz., for defendant.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Decree entered vacating all orders and decrees which have heretofore been entered in this cause against The Ducktown Sulphur, Copper &amp; Iron Company, Ltd., and Tennessee Copper Company excepting insofar as they relate to the taxation of costs, and the cause dismissed. A rule is ordered to issue returnable on May 26, next, requiring the Ducktown Chemical &amp; Iron Company to show cause why it should not pay costs charged against the defendant Ducktown Sulphur, Copper &amp; Iron Compny, Ltd .</p>\n    </div>\n    ", 
+  "sha1": "c75c334488c9c850ce38226806145b8601f95a17", 
+  "date_modified": "2014-12-21T01:42:17.214399", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/103056/the-state-of-georgia-complainant-v-tennessee/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2404490/", 
+  "html": "<p class=\"case_cite\">304 U.S. 546</p>\n    <p class=\"case_cite\">58 S.Ct. 1035</p>\n    <p class=\"case_cite\">82 L.Ed. 1519</p>\n    <p class=\"parties\">The STATE OF GEORGIA, complainant,<br>v.<br>TENNESSEE COPPER COMPANY et al.</p>\n    <p class=\"docket\">No. 1, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 16, 1938</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Messrs. John C. Hart, of Atlanta, Ga., and Ligon Johnson, of New York City, for complainant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Martin A. Vogel, of New York City, and Howard Cornick, of Prescott, Ariz., for defendant.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Decree entered vacating all orders and decrees which have heretofore been entered in this cause against The Ducktown Sulphur, Copper &amp; Iron Company, Ltd., and Tennessee Copper Company excepting insofar as they relate to the taxation of costs, and the cause dismissed. A rule is ordered to issue returnable on May 26, next, requiring the Ducktown Chemical &amp; Iron Company to show cause why it should not pay costs charged against the defendant Ducktown Sulphur, Copper &amp; Iron Compny, Ltd .</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/103056/"
+}

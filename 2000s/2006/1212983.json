@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1212983/scalise-v-boy-scouts-of-america/", "blocked": false, "citation": {"case_name": "Scalise v. Boy Scouts of America", "docket_number": "05-1260", "document_uris": ["/api/rest/v2/document/1212983/"], "federal_cite_one": "126 S. Ct. 2330", "federal_cite_three": null, "federal_cite_two": null, "id": 1185754, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1185754/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-05-30", "date_modified": "2014-10-30T03:46:00.668597", "docket": "/api/rest/v2/docket/595280/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>(2006)</b></center>\n<center><h1>JOHN SCALISE, ET AL.<br>\nv.<br>\nBOY SCOUTS OF AMERICA, ET AL.</h1></center>\n<center>No. 05-1260</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 30, 2006.\n</center>\n<p>The petition for writ of certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1212983, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1212983/", "sha1": "3217ef788b951d014b99e483b62a80e353d0f97f", "source": "L", "time_retrieved": "2013-10-29T22:02:21.600256"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "126 S. Ct. 2330", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1212983/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Scalise v. Boy Scouts of America", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-1260", 
+    "id": 1185754, 
+    "resource_uri": "/api/rest/v2/citation/1185754/"
+  }, 
+  "id": 1212983, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-05-30", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>(2006)</b></center>\n<center><h1>JOHN SCALISE, ET AL.<br>\nv.<br>\nBOY SCOUTS OF AMERICA, ET AL.</h1></center>\n<center>No. 05-1260</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 30, 2006.\n</center>\n<p>The petition for writ of certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:02:21.600256", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "3217ef788b951d014b99e483b62a80e353d0f97f", 
+  "date_modified": "2014-10-30T03:46:00.668597", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1212983/scalise-v-boy-scouts-of-america/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/595280/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1212983/"
+}

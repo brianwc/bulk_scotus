@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1520558/national-labor-relations-board-v-international-uni/", "blocked": false, "citation": {"case_name": "National Labor Relations Board v. International Union, Progressive Mine Workers of America", "docket_number": "597", "document_uris": ["/api/rest/v2/document/1520558/"], "federal_cite_one": "375 U.S. 396", "federal_cite_three": null, "federal_cite_two": null, "id": 1493329, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1493329/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-01-06", "date_modified": "2014-10-30T07:03:49.154747", "docket": "/api/rest/v2/docket/1060969/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>375 U.S. 396 (1964)</b></center>\n<center><h1>NATIONAL LABOR RELATIONS BOARD<br>\nv.<br>\nINTERNATIONAL UNION, PROGRESSIVE MINE WORKERS OF AMERICA, ET AL.</h1></center>\n<center>No. 597.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 6, 1964.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Solicitor General Cox, Arnold Ordman, Dominick L. Manoli</i> and <i>Norton J. Come</i> for petitioner.</p>\n<p><i>G. William Horsley</i> for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is reversed. <i>Labor Board</i> v. <i>Katz,</i> 369 U. S. 736; <i>Franks Bros. Co.</i> v. <i>Labor Board,</i> 321 U. S. 702; <i>Labor Board</i> v. <i>P. Lorillard Co.,</i> 314 U. S. 512.</p>\n</div>", "html_with_citations": "", "id": 1520558, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1520558/", "sha1": "c3c2ce2554205f3dae8d254df35ff370c3a51f02", "source": "L", "time_retrieved": "2013-10-29T23:33:59.129948"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 396", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1520558/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "National Labor Relations Board v. International Union, Progressive Mine Workers of America", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "597", 
+    "id": 1493329, 
+    "resource_uri": "/api/rest/v2/citation/1493329/"
+  }, 
+  "id": 1520558, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-01-06", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 396 (1964)</b></center>\n<center><h1>NATIONAL LABOR RELATIONS BOARD<br>\nv.<br>\nINTERNATIONAL UNION, PROGRESSIVE MINE WORKERS OF AMERICA, ET AL.</h1></center>\n<center>No. 597.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 6, 1964.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Solicitor General Cox, Arnold Ordman, Dominick L. Manoli</i> and <i>Norton J. Come</i> for petitioner.</p>\n<p><i>G. William Horsley</i> for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is reversed. <i>Labor Board</i> v. <i>Katz,</i> 369 U. S. 736; <i>Franks Bros. Co.</i> v. <i>Labor Board,</i> 321 U. S. 702; <i>Labor Board</i> v. <i>P. Lorillard Co.,</i> 314 U. S. 512.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:33:59.129948", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "c3c2ce2554205f3dae8d254df35ff370c3a51f02", 
+  "date_modified": "2014-10-30T07:03:49.154747", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1520558/national-labor-relations-board-v-international-uni/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1060969/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1520558/"
+}

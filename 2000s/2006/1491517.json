@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1491517/disher-v-citigroup-global-markets-inc/", "blocked": false, "citation": {"case_name": "Disher v. Citigroup Global Markets Inc.", "docket_number": "05-776", "document_uris": ["/api/rest/v2/document/1491517/"], "federal_cite_one": "548 U.S. 901", "federal_cite_three": null, "federal_cite_two": null, "id": 1464288, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1464288/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-06-26", "date_modified": "2014-10-29T23:06:50.724784", "docket": "/api/rest/v2/docket/39018/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>548 U.S. 901 (2006)</b></center>\n<center><h1>DISHER<br>\nv.<br>\nCITIGROUP GLOBAL MARKETS INC.</h1></center>\n<center>No. 05-776.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006</center>\n<p>Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Kircher</i> v. <i>Putnam Funds Trust,</i> 547 U. S. 633 (2006). THE CHIEF JUSTICE took no part in the consideration or decision of this petition.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span> (2006)</b></center>\n<center><h1>DISHER<br>\nv.<br>\nCITIGROUP GLOBAL MARKETS INC.</h1></center>\n<center>No. 05-776.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006</center>\n<p>Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Kircher</i> v. <i>Putnam Funds Trust,</i> 547 U. S. 633 (2006). THE CHIEF JUSTICE took no part in the consideration or decision of this petition.</p>\n</div>", "id": 1491517, "judges": "U. S. the Chief Justice", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1491517/", "sha1": "ad5d310bbc3f216713627c5990f77cc209f369a3", "source": "L", "time_retrieved": "2013-10-29T23:28:13.766147"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "548 U.S. 901", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1491517/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Disher v. Citigroup Global Markets Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-776", 
+    "id": 1464288, 
+    "resource_uri": "/api/rest/v2/citation/1464288/"
+  }, 
+  "id": 1491517, 
+  "blocked": false, 
+  "judges": "U. S. the Chief Justice", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-06-26", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>548 U.S. 901 (2006)</b></center>\n<center><h1>DISHER<br>\nv.<br>\nCITIGROUP GLOBAL MARKETS INC.</h1></center>\n<center>No. 05-776.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006</center>\n<p>Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Kircher</i> v. <i>Putnam Funds Trust,</i> 547 U. S. 633 (2006). THE CHIEF JUSTICE took no part in the consideration or decision of this petition.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:28:13.766147", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span> (2006)</b></center>\n<center><h1>DISHER<br>\nv.<br>\nCITIGROUP GLOBAL MARKETS INC.</h1></center>\n<center>No. 05-776.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006</center>\n<p>Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Kircher</i> v. <i>Putnam Funds Trust,</i> 547 U. S. 633 (2006). THE CHIEF JUSTICE took no part in the consideration or decision of this petition.</p>\n</div>", 
+  "sha1": "ad5d310bbc3f216713627c5990f77cc209f369a3", 
+  "date_modified": "2014-10-29T23:06:50.724784", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1491517/disher-v-citigroup-global-markets-inc/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/39018/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1491517/"
+}

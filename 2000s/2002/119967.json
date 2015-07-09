@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/119967/marshall-v-kentucky/", "blocked": false, "citation": {"case_name": "Marshall v. Kentucky", "docket_number": "01-8815", "document_uris": ["/api/rest/v2/document/119967/"], "federal_cite_one": "535 U.S. 1024", "federal_cite_three": null, "federal_cite_two": null, "id": 104320, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/104320/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-04-22", "date_modified": "2014-12-21T02:17:01.578828", "docket": "/api/rest/v2/docket/2065364/", "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1024.01-8815.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">535 U.S. 1024</p>\n    <p class=\"parties\">MARSHALL<br><i>v.</i><br>KENTUCKY.</p>\n    <p class=\"docket\">No. 01-8815.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 22, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ky. Certiorari denied. Reported below: 60 S. W. 3d 513.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1024</span></span></p>\n    <p class=\"parties\">MARSHALL<br><i>v.</i><br>KENTUCKY.</p>\n    <p class=\"docket\">No. 01-8815.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 22, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ky. Certiorari denied. Reported below: 60 S. W. 3d 513.</p>\n    </div>\n    ", "id": 119967, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/119967/", "sha1": "b092f9ab10e934489f114f63048e4b1af9d55517", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:56"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "535 U.S. 1024", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/119967/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Marshall v. Kentucky", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-8815", 
+    "id": 104320, 
+    "resource_uri": "/api/rest/v2/citation/104320/"
+  }, 
+  "id": 119967, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-04-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1024.01-8815.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:56", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1024</span></span></p>\n    <p class=\"parties\">MARSHALL<br><i>v.</i><br>KENTUCKY.</p>\n    <p class=\"docket\">No. 01-8815.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 22, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ky. Certiorari denied. Reported below: 60 S. W. 3d 513.</p>\n    </div>\n    ", 
+  "sha1": "b092f9ab10e934489f114f63048e4b1af9d55517", 
+  "date_modified": "2014-12-21T02:17:01.578828", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/119967/marshall-v-kentucky/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2065364/", 
+  "html": "<p class=\"case_cite\">535 U.S. 1024</p>\n    <p class=\"parties\">MARSHALL<br><i>v.</i><br>KENTUCKY.</p>\n    <p class=\"docket\">No. 01-8815.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 22, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ky. Certiorari denied. Reported below: 60 S. W. 3d 513.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/119967/"
+}

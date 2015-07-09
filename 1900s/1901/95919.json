@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/95919/guaranitee-trust-safety-deposit-company/", "blocked": false, "citation": {"case_name": "Guaranitee Trust & Safety Deposit Company v. Delta & Pine Land Company", "docket_number": "488", "document_uris": ["/api/rest/v2/document/95919/"], "federal_cite_one": "190 U.S. 636", "federal_cite_three": null, "federal_cite_two": null, "id": 80302, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/80302/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1901-01-14", "date_modified": "2014-12-21T01:33:58.893469", "docket": "/api/rest/v2/docket/2044601/", "download_url": "http://bulk.resource.org/courts.gov/c/US/190/190.US.636.488.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">190 U.S. 636</p>\n    <p class=\"case_cite\">21 S.Ct. 919</p>\n    <p class=\"case_cite\">45 L.Ed. 710</p>\n    <p class=\"parties\">GUARANITEE TRUST &amp; SAFETY DEPOSIT COMPANY, <i>Petitioner</i>,<br>v.<br>DELTA &amp; PINE LAND COMPANY <i>et al.</i></p>\n    <p class=\"docket\">No. 488.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 14, 1901</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Messrs. Michael F. McCullen</i> and <i>T. D. Young</i> for petitioner.</p>\n      <p class=\"indent\"><i>Messrs. Frank Johnston, Edward Mayes</i>, and <i>J. M. Dickinson</i> for respondents.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Denied</i>.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">190</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">636</span></span></p>\n    <p class=\"case_cite\">21 S.Ct. 919</p>\n    <p class=\"case_cite\">45 L.Ed. 710</p>\n    <p class=\"parties\">GUARANITEE TRUST &amp; SAFETY DEPOSIT COMPANY, <i>Petitioner</i>,<br>v.<br>DELTA &amp; PINE LAND COMPANY <i>et al.</i></p>\n    <p class=\"docket\">No. 488.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 14, 1901</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Messrs. Michael F. McCullen</i> and <i>T. D. Young</i> for petitioner.</p>\n      <p class=\"indent\"><i>Messrs. Frank Johnston, Edward Mayes</i>, and <i>J. M. Dickinson</i> for respondents.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Denied</i>.</p>\n    </div>\n    ", "id": 95919, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/95919/", "sha1": "9cea960cf57fad5a2d75bca7d08355ca51f1f582", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:40:18"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "190 U.S. 636", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/95919/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Guaranitee Trust & Safety Deposit Company v. Delta & Pine Land Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "488", 
+    "id": 80302, 
+    "resource_uri": "/api/rest/v2/citation/80302/"
+  }, 
+  "id": 95919, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1901-01-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/190/190.US.636.488.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:40:18", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">190</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">636</span></span></p>\n    <p class=\"case_cite\">21 S.Ct. 919</p>\n    <p class=\"case_cite\">45 L.Ed. 710</p>\n    <p class=\"parties\">GUARANITEE TRUST &amp; SAFETY DEPOSIT COMPANY, <i>Petitioner</i>,<br>v.<br>DELTA &amp; PINE LAND COMPANY <i>et al.</i></p>\n    <p class=\"docket\">No. 488.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 14, 1901</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Messrs. Michael F. McCullen</i> and <i>T. D. Young</i> for petitioner.</p>\n      <p class=\"indent\"><i>Messrs. Frank Johnston, Edward Mayes</i>, and <i>J. M. Dickinson</i> for respondents.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Denied</i>.</p>\n    </div>\n    ", 
+  "sha1": "9cea960cf57fad5a2d75bca7d08355ca51f1f582", 
+  "date_modified": "2014-12-21T01:33:58.893469", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/95919/guaranitee-trust-safety-deposit-company/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2044601/", 
+  "html": "<p class=\"case_cite\">190 U.S. 636</p>\n    <p class=\"case_cite\">21 S.Ct. 919</p>\n    <p class=\"case_cite\">45 L.Ed. 710</p>\n    <p class=\"parties\">GUARANITEE TRUST &amp; SAFETY DEPOSIT COMPANY, <i>Petitioner</i>,<br>v.<br>DELTA &amp; PINE LAND COMPANY <i>et al.</i></p>\n    <p class=\"docket\">No. 488.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 14, 1901</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Messrs. Michael F. McCullen</i> and <i>T. D. Young</i> for petitioner.</p>\n      <p class=\"indent\"><i>Messrs. Frank Johnston, Edward Mayes</i>, and <i>J. M. Dickinson</i> for respondents.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Denied</i>.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/95919/"
+}

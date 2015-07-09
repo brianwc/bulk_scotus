@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106504/national-motor-freight-traffic-assn-inc-v-united-s/", "blocked": false, "citation": {"case_name": "National Motor Freight Traffic Assn., Inc. v. United States", "docket_number": "479", "document_uris": ["/api/rest/v2/document/106504/"], "federal_cite_one": "371 U.S. 223", "federal_cite_three": null, "federal_cite_two": null, "id": 90887, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90887/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-12-17", "date_modified": "2014-12-21T01:52:27.787815", "docket": "/api/rest/v2/docket/2552565/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">371 U.S. 223</p>\n    <p class=\"case_cite\">83 S.Ct. 311</p>\n    <p class=\"case_cite\">9 L.Ed.2d 273</p>\n    <p class=\"parties\">NATIONAL MOTOR FREIGHT TRAFFIC ASSOCIATION, INC., et al.,<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 479.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 17, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Bryce Rea, Jr. and Frederick A. Babson, Jr., for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Asst. Atty. Gen. Loevinger, Robert B. Hummel, Robert W. Ginnane and Fritz R. Kahn, for the United States and Interstate Commerce Commission.</p>\n      <p class=\"indent\">D. Robert Thomas, Harry C. Ames, Sr., Giles Morrow, S. Sidney Eisen and James L. Givan, for appellee freight forwarders.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>371 U.S. 223 (1962)</b></center>\n<center><h1>NATIONAL MOTOR FREIGHT TRAFFIC ASSOCIATION, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 479.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 17, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Bryce Rea, Jr.</i> and <i>Frederick A. Babson, Jr.</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Robert B. Hummel, Robert W. Ginnane</i> and <i>Fritz R. Kahn</i> for the United States and the Interstate Commerce Commission.</p>\n<p><i>D. Robert Thomas, Harry C. Ames, Sr., Giles Morrow, S. Sidney Eisen</i> and <i>James L. Givan</i> for appellee freight forwarders.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE STEWART is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">223</span></span> (1962)</b></center>\n<center><h1>NATIONAL MOTOR FREIGHT TRAFFIC ASSOCIATION, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 479.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 17, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Bryce Rea, Jr.</i> and <i>Frederick A. Babson, Jr.</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Robert B. Hummel, Robert W. Ginnane</i> and <i>Fritz R. Kahn</i> for the United States and the Interstate Commerce Commission.</p>\n<p><i>D. Robert Thomas, Harry C. Ames, Sr., Giles Morrow, S. Sidney Eisen</i> and <i>James L. Givan</i> for appellee freight forwarders.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE STEWART is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "id": 106504, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106504/", "sha1": "09b0d8a6ddfee785181ab621c35b90d5cd2e6d90", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "371 U.S. 223", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106504/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "National Motor Freight Traffic Assn., Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "479", 
+    "id": 90887, 
+    "resource_uri": "/api/rest/v2/citation/90887/"
+  }, 
+  "id": 106504, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-12-17", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>371 U.S. 223 (1962)</b></center>\n<center><h1>NATIONAL MOTOR FREIGHT TRAFFIC ASSOCIATION, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 479.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 17, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Bryce Rea, Jr.</i> and <i>Frederick A. Babson, Jr.</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Robert B. Hummel, Robert W. Ginnane</i> and <i>Fritz R. Kahn</i> for the United States and the Interstate Commerce Commission.</p>\n<p><i>D. Robert Thomas, Harry C. Ames, Sr., Giles Morrow, S. Sidney Eisen</i> and <i>James L. Givan</i> for appellee freight forwarders.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE STEWART is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">223</span></span> (1962)</b></center>\n<center><h1>NATIONAL MOTOR FREIGHT TRAFFIC ASSOCIATION, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 479.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 17, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>Bryce Rea, Jr.</i> and <i>Frederick A. Babson, Jr.</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Robert B. Hummel, Robert W. Ginnane</i> and <i>Fritz R. Kahn</i> for the United States and the Interstate Commerce Commission.</p>\n<p><i>D. Robert Thomas, Harry C. Ames, Sr., Giles Morrow, S. Sidney Eisen</i> and <i>James L. Givan</i> for appellee freight forwarders.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE STEWART is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "sha1": "09b0d8a6ddfee785181ab621c35b90d5cd2e6d90", 
+  "date_modified": "2014-12-21T01:52:27.787815", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106504/national-motor-freight-traffic-assn-inc-v-united-s/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2552565/", 
+  "html": "<p class=\"case_cite\">371 U.S. 223</p>\n    <p class=\"case_cite\">83 S.Ct. 311</p>\n    <p class=\"case_cite\">9 L.Ed.2d 273</p>\n    <p class=\"parties\">NATIONAL MOTOR FREIGHT TRAFFIC ASSOCIATION, INC., et al.,<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 479.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 17, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Bryce Rea, Jr. and Frederick A. Babson, Jr., for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Asst. Atty. Gen. Loevinger, Robert B. Hummel, Robert W. Ginnane and Fritz R. Kahn, for the United States and Interstate Commerce Commission.</p>\n      <p class=\"indent\">D. Robert Thomas, Harry C. Ames, Sr., Giles Morrow, S. Sidney Eisen and James L. Givan, for appellee freight forwarders.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106504/"
+}

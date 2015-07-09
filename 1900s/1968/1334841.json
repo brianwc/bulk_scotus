@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1334841/heard-v-rizzo/", "blocked": false, "citation": {"case_name": "Heard v. Rizzo", "docket_number": "1530, Misc", "document_uris": ["/api/rest/v2/document/1334841/"], "federal_cite_one": "392 U.S. 646", "federal_cite_three": null, "federal_cite_two": null, "id": 1307612, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1307612/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-06-17", "date_modified": "2014-10-30T01:21:40.517733", "docket": "/api/rest/v2/docket/308063/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>392 U.S. 646 (1968)</b></center>\n<center><h1>HEARD ET AL.<br>\nv.<br>\nRIZZO ET AL.</h1></center>\n<center>No. 1530, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1968.<sup>[*]</sup></center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.\n<p><i>Lois G. Forer</i> for appellants in No. 1530, Misc. <i>William Kunstler</i> for appellants in No. 1662, Misc.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgments are affirmed.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 1662, Misc., <i>Traylor et al.</i> v. <i>Rizzo et al.,</i> also on appeal from the same court.</p>\n\n</div>", "html_with_citations": "", "id": 1334841, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1334841/", "sha1": "be25ca292e0e01fb752d5c0628422e36a2b6f414", "source": "L", "time_retrieved": "2013-10-29T22:33:44.798355"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "392 U.S. 646", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1334841/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Heard v. Rizzo", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1530, Misc", 
+    "id": 1307612, 
+    "resource_uri": "/api/rest/v2/citation/1307612/"
+  }, 
+  "id": 1334841, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-06-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>392 U.S. 646 (1968)</b></center>\n<center><h1>HEARD ET AL.<br>\nv.<br>\nRIZZO ET AL.</h1></center>\n<center>No. 1530, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1968.<sup>[*]</sup></center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.\n<p><i>Lois G. Forer</i> for appellants in No. 1530, Misc. <i>William Kunstler</i> for appellants in No. 1662, Misc.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgments are affirmed.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 1662, Misc., <i>Traylor et al.</i> v. <i>Rizzo et al.,</i> also on appeal from the same court.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T22:33:44.798355", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "be25ca292e0e01fb752d5c0628422e36a2b6f414", 
+  "date_modified": "2014-10-30T01:21:40.517733", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1334841/heard-v-rizzo/", 
+  "citation_count": 4, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/308063/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1334841/"
+}

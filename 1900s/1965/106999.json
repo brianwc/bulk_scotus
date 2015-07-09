@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106999/davis-v-mabry/", "blocked": false, "citation": {"case_name": "Davis v. Mabry", "docket_number": "774", "document_uris": ["/api/rest/v2/document/106999/"], "federal_cite_one": "380 U.S. 251", "federal_cite_three": "13 L. Ed. 2d 818", "federal_cite_two": "85 S. Ct. 936", "id": 91358, "lexis_cite": "1965 U.S. LEXIS 1671", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91358/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-03-08", "date_modified": "2014-12-21T01:54:05.661262", "docket": "/api/rest/v2/docket/2408127/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">380 U.S. 251</p>\n    <p class=\"case_cite\">85 S.Ct. 936</p>\n    <p class=\"case_cite\">13 L.Ed.2d 818</p>\n    <p class=\"parties\">Charles G. DAVIS, etc., et al.<br>v.<br>James R. MABRY et al.</p>\n    <p class=\"docket\">No. 774.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 8, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Waggoner Carr, Atty. Gen. of Texas, Hawthorne Philips, First Asst. Atty. Gen., Mary K. Wall, Asst. Atty. Gen., James E. Barlow and Preston H. Dial, Jr., for appellants.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed. Carrington v. Rash, 380 U.S. 89, 85 S.Ct. 775, decided March 1, 1965.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN would reverse the judgment of the District Court for the reasons stated in his dissenting opinion in Carrington v. Rash, 380 U.S., at 97, 85 S.Ct. at 780.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>380 U.S. 251 (1965)</b></center>\n<center><h1>DAVIS, ASSESSOR-COLLECTOR OF TAXES, BEXAR COUNTY, TEXAS, ET AL.<br>\nv.<br>\nMABRY ET AL.</h1></center>\n<center>No. 774.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 8, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS.\n<p><i>Waggoner Carr,</i> Attorney General of Texas, <i>Hawthorne Phillips,</i> First Assistant Attorney General, <i>Mary K. Wall,</i> Assistant Attorney General, <i>James E. Barlow</i> and <i>Preston H. Dial, Jr.,</i> for appellants.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed. <i>Carrington</i> v. <i>Rash, ante,</i> p. 89.</p>\n<p>MR. JUSTICE HARLAN would reverse the judgment of the District Court for the reasons stated in his dissenting opinion in <i>Carrington</i> v. <i>Rash, ante,</i> at 97.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">251</span></span> (1965)</b></center>\n<center><h1>DAVIS, ASSESSOR-COLLECTOR OF TAXES, BEXAR COUNTY, TEXAS, ET AL.<br>\nv.<br>\nMABRY ET AL.</h1></center>\n<center>No. 774.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 8, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS.\n<p><i>Waggoner Carr,</i> Attorney General of Texas, <i>Hawthorne Phillips,</i> First Assistant Attorney General, <i>Mary K. Wall,</i> Assistant Attorney General, <i>James E. Barlow</i> and <i>Preston H. Dial, Jr.,</i> for appellants.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed. <i>Carrington</i> v. <i>Rash, ante,</i> p. 89.</p>\n<p>MR. JUSTICE HARLAN would reverse the judgment of the District Court for the reasons stated in his dissenting opinion in <i>Carrington</i> v. <i>Rash, ante,</i> at 97.</p>\n</div>", "id": 106999, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106999/", "sha1": "a269525c2f9c61a586a910a44f233ec25a1b95f4", "source": "LR", "supreme_court_db_id": "1964-061", "time_retrieved": "2010-04-28T10:10:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "380 U.S. 251", 
+    "federal_cite_two": "85 S. Ct. 936", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "13 L. Ed. 2d 818", 
+    "lexis_cite": "1965 U.S. LEXIS 1671", 
+    "document_uris": [
+      "/api/rest/v2/document/106999/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Davis v. Mabry", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "774", 
+    "id": 91358, 
+    "resource_uri": "/api/rest/v2/citation/91358/"
+  }, 
+  "id": 106999, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-03-08", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>380 U.S. 251 (1965)</b></center>\n<center><h1>DAVIS, ASSESSOR-COLLECTOR OF TAXES, BEXAR COUNTY, TEXAS, ET AL.<br>\nv.<br>\nMABRY ET AL.</h1></center>\n<center>No. 774.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 8, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS.\n<p><i>Waggoner Carr,</i> Attorney General of Texas, <i>Hawthorne Phillips,</i> First Assistant Attorney General, <i>Mary K. Wall,</i> Assistant Attorney General, <i>James E. Barlow</i> and <i>Preston H. Dial, Jr.,</i> for appellants.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed. <i>Carrington</i> v. <i>Rash, ante,</i> p. 89.</p>\n<p>MR. JUSTICE HARLAN would reverse the judgment of the District Court for the reasons stated in his dissenting opinion in <i>Carrington</i> v. <i>Rash, ante,</i> at 97.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">251</span></span> (1965)</b></center>\n<center><h1>DAVIS, ASSESSOR-COLLECTOR OF TAXES, BEXAR COUNTY, TEXAS, ET AL.<br>\nv.<br>\nMABRY ET AL.</h1></center>\n<center>No. 774.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 8, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS.\n<p><i>Waggoner Carr,</i> Attorney General of Texas, <i>Hawthorne Phillips,</i> First Assistant Attorney General, <i>Mary K. Wall,</i> Assistant Attorney General, <i>James E. Barlow</i> and <i>Preston H. Dial, Jr.,</i> for appellants.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed. <i>Carrington</i> v. <i>Rash, ante,</i> p. 89.</p>\n<p>MR. JUSTICE HARLAN would reverse the judgment of the District Court for the reasons stated in his dissenting opinion in <i>Carrington</i> v. <i>Rash, ante,</i> at 97.</p>\n</div>", 
+  "sha1": "a269525c2f9c61a586a910a44f233ec25a1b95f4", 
+  "date_modified": "2014-12-21T01:54:05.661262", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106999/davis-v-mabry/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": "1964-061", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2408127/", 
+  "html": "<p class=\"case_cite\">380 U.S. 251</p>\n    <p class=\"case_cite\">85 S.Ct. 936</p>\n    <p class=\"case_cite\">13 L.Ed.2d 818</p>\n    <p class=\"parties\">Charles G. DAVIS, etc., et al.<br>v.<br>James R. MABRY et al.</p>\n    <p class=\"docket\">No. 774.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 8, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Waggoner Carr, Atty. Gen. of Texas, Hawthorne Philips, First Asst. Atty. Gen., Mary K. Wall, Asst. Atty. Gen., James E. Barlow and Preston H. Dial, Jr., for appellants.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed. Carrington v. Rash, 380 U.S. 89, 85 S.Ct. 775, decided March 1, 1965.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN would reverse the judgment of the District Court for the reasons stated in his dissenting opinion in Carrington v. Rash, 380 U.S., at 97, 85 S.Ct. at 780.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106999/"
+}

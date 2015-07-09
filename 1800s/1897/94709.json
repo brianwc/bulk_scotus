@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/94709/lumbermans-bank-v-huston/", "blocked": false, "citation": {"case_name": "Lumberman's Bank v. Huston", "docket_number": "No 203", "document_uris": ["/api/rest/v2/document/94709/"], "federal_cite_one": "167 U.S. 203", "federal_cite_three": null, "federal_cite_two": null, "id": 79090, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/79090/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1897-05-10", "date_modified": "2014-12-21T01:32:41.890161", "docket": "/api/rest/v2/docket/2581742/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">167 U.S. 203</p>\n    <p class=\"case_cite\">17 S.Ct. 995</p>\n    <p class=\"case_cite\">42 L.Ed. 136</p>\n    <p class=\"parties\">LUMBERMAN'S NAT. BANK OF WILLIAMSPORT<br>v.<br>HUSTON.</p>\n    <p class=\"docket\">No 203.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice HARLAN delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p>May 10, 1897.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The most favorable view of this case for the plaintiff in error is to regard it as presenting the same question that was determined in Bank v. Nebecker (just decided) 17 Sup. Ct. 766. For the reasons stated in the opinion in that case, the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice WHITE concurs in the result.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">J. J. Crawford, for plaintiff in error.</p>\n    </div>\n    <div class=\"num\" id=\"p5\">\n      <span class=\"num\">5</span>\n      <p class=\"indent\">Sol. Gen. Conrad, for defendant in error.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>167 U.S. 203 (1897)</b></center>\n<center><h1>LUMBERMAN'S BANK<br>\nv.<br>\nHUSTON.</h1></center>\n<center>No. 203.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and Submitted April 21, 1897.</center>\n<center>Decided May 10, 1897</center>\n<p><i>Mr. John J. Crawford</i> for plaintiff in error.</p>\n<p><i>Mr. Solicitor General</i> for defendant in error.</p>\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>The most favorable view of this case for the plaintiff in error is to regard it as presenting the same question that was determined <span class=\"star-pagination\">*204</span> in <i>Twin City National Bank</i> v. <i>Nebeker,</i> just decided. For the reasons stated in the opinion in that case the judgment is</p>\n<p><i>Affirmed.</i></p>\n<p>MR. JUSTICE WHITE concurred in the result.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">167</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">203</span></span> (1897)</b></center>\n<center><h1>LUMBERMAN'S BANK<br>\nv.<br>\nHUSTON.</h1></center>\n<center>No. 203.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and Submitted April 21, 1897.</center>\n<center>Decided May 10, 1897</center>\n<p><i>Mr. John J. Crawford</i> for plaintiff in error.</p>\n<p><i>Mr. Solicitor General</i> for defendant in error.</p>\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>The most favorable view of this case for the plaintiff in error is to regard it as presenting the same question that was determined <span class=\"star-pagination\">*204</span> in <i>Twin City National Bank</i> v. <i>Nebeker,</i> just decided. For the reasons stated in the opinion in that case the judgment is</p>\n<p><i>Affirmed.</i></p>\n<p>MR. JUSTICE WHITE concurred in the result.</p>\n</div>", "id": 94709, "judges": "Harlan", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/94709/", "sha1": "2da5a9166d424b773e3c5913c88a712cf2b91afa", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:37:51"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "167 U.S. 203", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/94709/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Lumberman's Bank v. Huston", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "No 203", 
+    "id": 79090, 
+    "resource_uri": "/api/rest/v2/citation/79090/"
+  }, 
+  "id": 94709, 
+  "blocked": false, 
+  "judges": "Harlan", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1897-05-10", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>167 U.S. 203 (1897)</b></center>\n<center><h1>LUMBERMAN'S BANK<br>\nv.<br>\nHUSTON.</h1></center>\n<center>No. 203.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and Submitted April 21, 1897.</center>\n<center>Decided May 10, 1897</center>\n<p><i>Mr. John J. Crawford</i> for plaintiff in error.</p>\n<p><i>Mr. Solicitor General</i> for defendant in error.</p>\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>The most favorable view of this case for the plaintiff in error is to regard it as presenting the same question that was determined <span class=\"star-pagination\">*204</span> in <i>Twin City National Bank</i> v. <i>Nebeker,</i> just decided. For the reasons stated in the opinion in that case the judgment is</p>\n<p><i>Affirmed.</i></p>\n<p>MR. JUSTICE WHITE concurred in the result.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:37:51", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">167</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">203</span></span> (1897)</b></center>\n<center><h1>LUMBERMAN'S BANK<br>\nv.<br>\nHUSTON.</h1></center>\n<center>No. 203.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and Submitted April 21, 1897.</center>\n<center>Decided May 10, 1897</center>\n<p><i>Mr. John J. Crawford</i> for plaintiff in error.</p>\n<p><i>Mr. Solicitor General</i> for defendant in error.</p>\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>The most favorable view of this case for the plaintiff in error is to regard it as presenting the same question that was determined <span class=\"star-pagination\">*204</span> in <i>Twin City National Bank</i> v. <i>Nebeker,</i> just decided. For the reasons stated in the opinion in that case the judgment is</p>\n<p><i>Affirmed.</i></p>\n<p>MR. JUSTICE WHITE concurred in the result.</p>\n</div>", 
+  "sha1": "2da5a9166d424b773e3c5913c88a712cf2b91afa", 
+  "date_modified": "2014-12-21T01:32:41.890161", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/94709/lumbermans-bank-v-huston/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2581742/", 
+  "html": "<p class=\"case_cite\">167 U.S. 203</p>\n    <p class=\"case_cite\">17 S.Ct. 995</p>\n    <p class=\"case_cite\">42 L.Ed. 136</p>\n    <p class=\"parties\">LUMBERMAN'S NAT. BANK OF WILLIAMSPORT<br>v.<br>HUSTON.</p>\n    <p class=\"docket\">No 203.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice HARLAN delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p>May 10, 1897.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The most favorable view of this case for the plaintiff in error is to regard it as presenting the same question that was determined in Bank v. Nebecker (just decided) 17 Sup. Ct. 766. For the reasons stated in the opinion in that case, the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice WHITE concurs in the result.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">J. J. Crawford, for plaintiff in error.</p>\n    </div>\n    <div class=\"num\" id=\"p5\">\n      <span class=\"num\">5</span>\n      <p class=\"indent\">Sol. Gen. Conrad, for defendant in error.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/94709/"
+}

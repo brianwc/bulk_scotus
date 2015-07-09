@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620867/conframp-v-bunel/", "blocked": false, "citation": {"case_name": "Conframp v. Bunel", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620867/"], "federal_cite_one": "4 U.S. 419", "federal_cite_three": null, "federal_cite_two": null, "id": 2593639, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593639/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1806-04-01", "date_modified": "2014-10-30T17:33:32.622585", "docket": "/api/rest/v2/docket/2529037/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 419 (____)</b></center>\n<center><b>4 Dall. 419</b></center>\n<center><h1>Conframp et al.<br>\nversus<br>\nBunel.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*420</span> Moylan, for the plaintiffs.</p>\n<p>Du Ponceau, and Dallas, for the defendant.</p>\n<p>The COURT were clearly of opinion, that the parties were bound by the law of the 6th of September 1802; that the present case was within the law; and that the suspension of the law, applied as well to the commencement of the suit, as to the issuing of an execution.</p>\n<p>The rule made absolute.<sup>[(1)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  The defendant's counsel, proceeding on the grounds above stated, did not make, on this preliminary question, the objection, that the Circuit Court has no jurisdiction of a cause, in which both parties are aliens; an objection that has, repeatedly, been adjudged to be fatal.</p>\n\n</div>", "html_with_citations": "", "id": 2620867, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620867/", "sha1": "05f285447bbdf0c985ae03617dfe01bbdd97518d", "source": "L", "time_retrieved": "2013-11-01T12:50:23.593158"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 419", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620867/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Conframp v. Bunel", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593639, 
+    "resource_uri": "/api/rest/v2/citation/2593639/"
+  }, 
+  "id": 2620867, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1806-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 419 (____)</b></center>\n<center><b>4 Dall. 419</b></center>\n<center><h1>Conframp et al.<br>\nversus<br>\nBunel.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*420</span> Moylan, for the plaintiffs.</p>\n<p>Du Ponceau, and Dallas, for the defendant.</p>\n<p>The COURT were clearly of opinion, that the parties were bound by the law of the 6th of September 1802; that the present case was within the law; and that the suspension of the law, applied as well to the commencement of the suit, as to the issuing of an execution.</p>\n<p>The rule made absolute.<sup>[(1)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  The defendant's counsel, proceeding on the grounds above stated, did not make, on this preliminary question, the objection, that the Circuit Court has no jurisdiction of a cause, in which both parties are aliens; an objection that has, repeatedly, been adjudged to be fatal.</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T12:50:23.593158", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "05f285447bbdf0c985ae03617dfe01bbdd97518d", 
+  "date_modified": "2014-10-30T17:33:32.622585", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620867/conframp-v-bunel/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2529037/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620867/"
+}

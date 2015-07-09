@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106917/benny-peoples-v-united-states/", "blocked": false, "citation": {"case_name": "Benny Peoples v. United States", "docket_number": "934, Misc", "document_uris": ["/api/rest/v2/document/106917/"], "federal_cite_one": "378 U.S. 586", "federal_cite_three": null, "federal_cite_two": null, "id": 91300, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91300/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-06-22", "date_modified": "2014-12-21T01:53:58.325997", "docket": "/api/rest/v2/docket/1459133/", "download_url": "http://bulk.resource.org/courts.gov/c/US/378/378.US.586.934.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">378 U.S. 586</p>\n    <p class=\"case_cite\">84 S.Ct. 1929</p>\n    <p class=\"case_cite\">12 L.Ed.2d 1040</p>\n    <p class=\"parties\">Benny PEOPLES<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 934, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 22, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Benny Peoples, pro se.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Miller, Beatrice Rosenberg and Julia P. Cooper, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Tenth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Appeals for consideration in light of Fallen v. United States, 378 U.S. 139, 84 S.Ct. 1689.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice CLARK, Mr. Justice HARLAN and Mr. Justice STEWART dissent.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">378</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">586</span></span></p>\n    <p class=\"case_cite\">84 S.Ct. 1929</p>\n    <p class=\"case_cite\">12 L.Ed.2d 1040</p>\n    <p class=\"parties\">Benny PEOPLES<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 934, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 22, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Benny Peoples, pro se.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Miller, Beatrice Rosenberg and Julia P. Cooper, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Tenth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Appeals for consideration in light of Fallen v. United States, <span class=\"citation\" data-id=\"106873\"><a href=\"/opinion/106873/fallen-v-united-states/\"><span class=\"volume\">378</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">139</span></a></span>, 84 S.Ct. 1689.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice CLARK, Mr. Justice HARLAN and Mr. Justice STEWART dissent.</p>\n    </div>\n    ", "id": 106917, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106917/", "sha1": "e68c3d80caac9630181d1fea340d87b9375d93e0", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:50"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "378 U.S. 586", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/106917/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Benny Peoples v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "934, Misc", 
+    "id": 91300, 
+    "resource_uri": "/api/rest/v2/citation/91300/"
+  }, 
+  "id": 106917, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-06-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/378/378.US.586.934.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:50", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">378</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">586</span></span></p>\n    <p class=\"case_cite\">84 S.Ct. 1929</p>\n    <p class=\"case_cite\">12 L.Ed.2d 1040</p>\n    <p class=\"parties\">Benny PEOPLES<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 934, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 22, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Benny Peoples, pro se.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Miller, Beatrice Rosenberg and Julia P. Cooper, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Tenth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Appeals for consideration in light of Fallen v. United States, <span class=\"citation\" data-id=\"106873\"><a href=\"/opinion/106873/fallen-v-united-states/\"><span class=\"volume\">378</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">139</span></a></span>, 84 S.Ct. 1689.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice CLARK, Mr. Justice HARLAN and Mr. Justice STEWART dissent.</p>\n    </div>\n    ", 
+  "sha1": "e68c3d80caac9630181d1fea340d87b9375d93e0", 
+  "date_modified": "2014-12-21T01:53:58.325997", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106917/benny-peoples-v-united-states/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1459133/", 
+  "html": "<p class=\"case_cite\">378 U.S. 586</p>\n    <p class=\"case_cite\">84 S.Ct. 1929</p>\n    <p class=\"case_cite\">12 L.Ed.2d 1040</p>\n    <p class=\"parties\">Benny PEOPLES<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 934, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 22, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Benny Peoples, pro se.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Miller, Beatrice Rosenberg and Julia P. Cooper, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Tenth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Appeals for consideration in light of Fallen v. United States, 378 U.S. 139, 84 S.Ct. 1689.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice CLARK, Mr. Justice HARLAN and Mr. Justice STEWART dissent.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106917/"
+}

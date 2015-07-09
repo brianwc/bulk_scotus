@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/145942/allen-v-ornoski/", "blocked": false, "citation": {"case_name": "Allen v. Ornoski", "docket_number": "05A639", "document_uris": ["/api/rest/v2/document/145942/"], "federal_cite_one": "", "federal_cite_three": null, "federal_cite_two": null, "id": 130267, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/130267/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-01-16", "date_modified": "2014-12-21T02:24:56.360391", "docket": "/api/rest/v2/docket/471752/", "download_url": "http://www.supremecourt.gov/opinions/05pdf/05A639.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "<pre class=\"inline\">ATCH05   Unit: $$U1   [01-17-06 08:56:21] PGT: MILES1 GALLEYS\n                                                                �\n\n\n                      Cite as: 546 U. S. ––– (2006)                 1\n\n                        Breyer, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n                         No. 05A639 (05–8639)\n\n\n  CLARENCE R. ALLEN v. STEVEN W. ORNOSKI,\n              ACTING WARDEN\n\non application for stay and on petition for writ of\n                     certiorari\n                           [January 16, 2006]\n  The application for stay of execution of sentence of death pre-\nsented to Justice O’Connor and by her referred to the Court is\ndenied. The petition for a writ of certiorari is denied.\n  Justice Breyer dissenting.\n  Petitioner is 76 years old, blind, suffers from diabetes, is con-\nﬁned to a wheelchair, and has been on death row for 23 years. I\nbelieve that in the circumstances he raises a signiﬁcant question\nas to whether his execution would constitute “cruel and unusual\npunishment.” U. S. Const., Amdt. 8. See Knight v. Florida, 528\nU. S. 990, 993 (1999) (Breyer, J., dissenting from denial of certio-\nrari); Elledge v. Florida, 525 U. S. 944 (1998) (Breyer, J., dissent-\ning from denial of certiorari); Lackey v. Texas, 514 U. S. 1045\n(1995) (Stevens, J., respecting denial of certiorari). I would grant\nthe application for stay of execution.\n</pre>", "id": 145942, "judges": "", "local_path": "pdf/2006/01/16/Allen_v._Ornoski.pdf", "nature_of_suit": "", "plain_text": "ATCH05   Unit: $$U1   [01-17-06 08:56:21] PGT: MILES1 GALLEYS\n                                                                �\n\n\n                      Cite as: 546 U. S. ––– (2006)                 1\n\n                        Breyer, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n                         No. 05A639 (05–8639)\n\n\n  CLARENCE R. ALLEN v. STEVEN W. ORNOSKI,\n              ACTING WARDEN\n\non application for stay and on petition for writ of\n                     certiorari\n                           [January 16, 2006]\n  The application for stay of execution of sentence of death pre-\nsented to Justice O’Connor and by her referred to the Court is\ndenied. The petition for a writ of certiorari is denied.\n  Justice Breyer dissenting.\n  Petitioner is 76 years old, blind, suffers from diabetes, is con-\nﬁned to a wheelchair, and has been on death row for 23 years. I\nbelieve that in the circumstances he raises a signiﬁcant question\nas to whether his execution would constitute “cruel and unusual\npunishment.” U. S. Const., Amdt. 8. See Knight v. Florida, 528\nU. S. 990, 993 (1999) (Breyer, J., dissenting from denial of certio-\nrari); Elledge v. Florida, 525 U. S. 944 (1998) (Breyer, J., dissent-\ning from denial of certiorari); Lackey v. Texas, 514 U. S. 1045\n(1995) (Stevens, J., respecting denial of certiorari). I would grant\nthe application for stay of execution.\n", "precedential_status": "Relating-to", "resource_uri": "/api/rest/v2/document/145942/", "sha1": "5b8e85577abeb8bd11a5ecd1b73253358d8c7747", "source": "C", "supreme_court_db_id": null, "time_retrieved": "2010-05-05T17:09:46"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/145942/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Allen v. Ornoski", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05A639", 
+    "id": 130267, 
+    "resource_uri": "/api/rest/v2/citation/130267/"
+  }, 
+  "id": 145942, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-01-16", 
+  "download_url": "http://www.supremecourt.gov/opinions/05pdf/05A639.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2006/01/16/Allen_v._Ornoski.pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-05-05T17:09:46", 
+  "nature_of_suit": "", 
+  "plain_text": "ATCH05   Unit: $$U1   [01-17-06 08:56:21] PGT: MILES1 GALLEYS\n                                                                \ufffd\n\n\n                      Cite as: 546 U. S. \u2013\u2013\u2013 (2006)                 1\n\n                        Breyer, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n                         No. 05A639 (05\u20138639)\n\n\n  CLARENCE R. ALLEN v. STEVEN W. ORNOSKI,\n              ACTING WARDEN\n\non application for stay and on petition for writ of\n                     certiorari\n                           [January 16, 2006]\n  The application for stay of execution of sentence of death pre-\nsented to Justice O\u2019Connor and by her referred to the Court is\ndenied. The petition for a writ of certiorari is denied.\n  Justice Breyer dissenting.\n  Petitioner is 76 years old, blind, suffers from diabetes, is con-\n\ufb01ned to a wheelchair, and has been on death row for 23 years. I\nbelieve that in the circumstances he raises a signi\ufb01cant question\nas to whether his execution would constitute \u201ccruel and unusual\npunishment.\u201d U. S. Const., Amdt. 8. See Knight v. Florida, 528\nU. S. 990, 993 (1999) (Breyer, J., dissenting from denial of certio-\nrari); Elledge v. Florida, 525 U. S. 944 (1998) (Breyer, J., dissent-\ning from denial of certiorari); Lackey v. Texas, 514 U. S. 1045\n(1995) (Stevens, J., respecting denial of certiorari). I would grant\nthe application for stay of execution.\n", 
+  "html_with_citations": "<pre class=\"inline\">ATCH05   Unit: $$U1   [01-17-06 08:56:21] PGT: MILES1 GALLEYS\n                                                                \ufffd\n\n\n                      Cite as: 546 U. S. \u2013\u2013\u2013 (2006)                 1\n\n                        Breyer, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n                         No. 05A639 (05\u20138639)\n\n\n  CLARENCE R. ALLEN v. STEVEN W. ORNOSKI,\n              ACTING WARDEN\n\non application for stay and on petition for writ of\n                     certiorari\n                           [January 16, 2006]\n  The application for stay of execution of sentence of death pre-\nsented to Justice O\u2019Connor and by her referred to the Court is\ndenied. The petition for a writ of certiorari is denied.\n  Justice Breyer dissenting.\n  Petitioner is 76 years old, blind, suffers from diabetes, is con-\n\ufb01ned to a wheelchair, and has been on death row for 23 years. I\nbelieve that in the circumstances he raises a signi\ufb01cant question\nas to whether his execution would constitute \u201ccruel and unusual\npunishment.\u201d U. S. Const., Amdt. 8. See Knight v. Florida, 528\nU. S. 990, 993 (1999) (Breyer, J., dissenting from denial of certio-\nrari); Elledge v. Florida, 525 U. S. 944 (1998) (Breyer, J., dissent-\ning from denial of certiorari); Lackey v. Texas, 514 U. S. 1045\n(1995) (Stevens, J., respecting denial of certiorari). I would grant\nthe application for stay of execution.\n</pre>", 
+  "sha1": "5b8e85577abeb8bd11a5ecd1b73253358d8c7747", 
+  "date_modified": "2014-12-21T02:24:56.360391", 
+  "precedential_status": "Relating-to", 
+  "absolute_url": "/opinion/145942/allen-v-ornoski/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/471752/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/145942/"
+}

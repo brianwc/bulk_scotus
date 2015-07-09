@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105842/seaboard-machinery-corporation-petitioner-v/", "blocked": false, "citation": {"case_name": "Seaboard MacHinery Corporation v. United States", "docket_number": "544", "document_uris": ["/api/rest/v2/document/105842/"], "federal_cite_one": "358 U.S. 932", "federal_cite_three": null, "federal_cite_two": null, "id": 90225, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90225/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 15, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1959-01-12", "date_modified": "2014-12-21T01:51:12.145965", "docket": "/api/rest/v2/docket/1990071/", "download_url": "http://bulk.resource.org/courts.gov/c/US/358/358.US.932.544.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">358 U.S. 932</p>\r\n    <p class=\"case_cite\">79 S.Ct. 320</p>\r\n    <p class=\"case_cite\">3 L.Ed.2d 304</p>\r\n    <p class=\"parties\">SEABOARD MACHINERY CORPORATION, petitioner,<br>v.<br>UNITED STATES of America.</p>\r\n    <p class=\"docket\">No. 544.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 12, 1959</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. Leo L. Foster and Charles M. Trammell, for petitioner.</p>\r\n      <p class=\"indent\">Solicitor General Rankin, Assistant Attorney General Doub and Mr. Samuel D. Slade, for the United States.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">358</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">932</span></span></p>\r\n    <p class=\"case_cite\">79 S.Ct. 320</p>\r\n    <p class=\"case_cite\">3 L.Ed.2d 304</p>\r\n    <p class=\"parties\">SEABOARD MACHINERY CORPORATION, petitioner,<br>v.<br>UNITED STATES of America.</p>\r\n    <p class=\"docket\">No. 544.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 12, 1959</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. Leo L. Foster and Charles M. Trammell, for petitioner.</p>\r\n      <p class=\"indent\">Solicitor General Rankin, Assistant Attorney General Doub and Mr. Samuel D. Slade, for the United States.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", "id": 105842, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105842/", "sha1": "bf85239b3b4a8efd493442fca2de7163f33fc0fd", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "358 U.S. 932", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/105842/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Seaboard MacHinery Corporation v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "544", 
+    "id": 90225, 
+    "resource_uri": "/api/rest/v2/citation/90225/"
+  }, 
+  "id": 105842, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1959-01-12", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/358/358.US.932.544.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">358</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">932</span></span></p>\r\n    <p class=\"case_cite\">79 S.Ct. 320</p>\r\n    <p class=\"case_cite\">3 L.Ed.2d 304</p>\r\n    <p class=\"parties\">SEABOARD MACHINERY CORPORATION, petitioner,<br>v.<br>UNITED STATES of America.</p>\r\n    <p class=\"docket\">No. 544.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 12, 1959</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. Leo L. Foster and Charles M. Trammell, for petitioner.</p>\r\n      <p class=\"indent\">Solicitor General Rankin, Assistant Attorney General Doub and Mr. Samuel D. Slade, for the United States.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", 
+  "sha1": "bf85239b3b4a8efd493442fca2de7163f33fc0fd", 
+  "date_modified": "2014-12-21T01:51:12.145965", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105842/seaboard-machinery-corporation-petitioner-v/", 
+  "citation_count": 15, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1990071/", 
+  "html": "<p class=\"case_cite\">358 U.S. 932</p>\r\n    <p class=\"case_cite\">79 S.Ct. 320</p>\r\n    <p class=\"case_cite\">3 L.Ed.2d 304</p>\r\n    <p class=\"parties\">SEABOARD MACHINERY CORPORATION, petitioner,<br>v.<br>UNITED STATES of America.</p>\r\n    <p class=\"docket\">No. 544.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 12, 1959</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. Leo L. Foster and Charles M. Trammell, for petitioner.</p>\r\n      <p class=\"indent\">Solicitor General Rankin, Assistant Attorney General Doub and Mr. Samuel D. Slade, for the United States.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/105842/"
+}

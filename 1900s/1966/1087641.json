@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087641/great-coastal-express-inc-v-united-states/", "blocked": false, "citation": {"case_name": "Great Coastal Express, Inc. v. United States", "docket_number": "677", "document_uris": ["/api/rest/v2/document/1087641/"], "federal_cite_one": "382 U.S. 369", "federal_cite_three": null, "federal_cite_two": null, "id": 1060412, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060412/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-01-17", "date_modified": "2014-10-30T17:48:27.739020", "docket": "/api/rest/v2/docket/2577428/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>382 U.S. 369 (1966)</b></center>\n<center><h1>GREAT COASTAL EXPRESS, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 677.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 17, 1966.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA.\n<p><i>John C. Bradley</i> for appellants.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Turner, Robert B. Hummel, Jerry Z. Pruzansky</i> and <i>Robert W. Ginnane</i> for the United States et al. <i>Francis W. McInerny</i> for Turner's Express, Inc., et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1087641, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087641/", "sha1": "df7d018485fadfbf824a8bc0b82f4ad1bc5bb3dd", "source": "L", "time_retrieved": "2013-10-29T18:48:39.488692"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "382 U.S. 369", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087641/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Great Coastal Express, Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "677", 
+    "id": 1060412, 
+    "resource_uri": "/api/rest/v2/citation/1060412/"
+  }, 
+  "id": 1087641, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-01-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>382 U.S. 369 (1966)</b></center>\n<center><h1>GREAT COASTAL EXPRESS, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 677.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 17, 1966.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA.\n<p><i>John C. Bradley</i> for appellants.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Turner, Robert B. Hummel, Jerry Z. Pruzansky</i> and <i>Robert W. Ginnane</i> for the United States et al. <i>Francis W. McInerny</i> for Turner's Express, Inc., et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T18:48:39.488692", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "df7d018485fadfbf824a8bc0b82f4ad1bc5bb3dd", 
+  "date_modified": "2014-10-30T17:48:27.739020", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087641/great-coastal-express-inc-v-united-states/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2577428/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087641/"
+}

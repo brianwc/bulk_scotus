@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/85503/the-antelope/", "blocked": false, "citation": {"case_name": "The Antelope", "docket_number": null, "document_uris": ["/api/rest/v2/document/85503/"], "federal_cite_one": "24 U.S. 413", "federal_cite_three": null, "federal_cite_two": null, "id": 52911, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/52911/", "scotus_early_cite": "11 Wheat. 413", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1826-03-16", "date_modified": "2014-12-21T01:24:07.523883", "docket": "/api/rest/v2/docket/197038/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">24 U.S. 413</p>\n    <p class=\"case_cite\">6 L.Ed. 408</p>\n    <p class=\"case_cite\">11 Wheat. 413</p>\n    <p class=\"parties\">The ANTELOPE.<br>The Vice Consuls of Spain and Portugal, <i>Libellants</i>.</p>\n    <p class=\"date\">February Term, 1826</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIFICATE. A mandate having issued to the Circuit Court for the District of Georgia, to carry into execution the decree of this Court pronounced at the February term, 1825, to deliver certain Africans, in the said decree mentioned, to the Spanish consul for Spanish claimants, and the Judges of that Court having been divided in opinion respecting the mode of designating the said slaves so to be delivered, and separating them from others to be delivered to the United States, whether the same should be made by lot, or upon proof on the part of the Spanish claimant, it is ORDERED to be certified to the said Circuit Court of Georgia, that in executing the said mandate, the Africans to be delivered must be designated by proof made to the satisfaction of that Court.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>24 U.S. 413 (____)</b></center>\n<center><b>11 Wheat. 413</b></center>\n<center><h1>The ANTELOPE.<br>\nThe Vice Consuls of Spain and Portugal, Libellants.</h1></center>\n<center><p><b>Supreme Court of United States. </b></p></center>\n<center></center>\n<p></p>\n<h2>CERTIFICATE.</h2>\n<p>A mandate having issued to the Circuit Court for the District of Georgia, to carry into execution the decree of this Court pronounced at the February term, 1825, to deliver certain Africans, in the said decree mentioned, to the Spanish consul for Spanish claimants, and the Judges of that Court having been divided in opinion respecting the mode of designating the said slaves so to be  delivered, and separating them from others to be delivered to the United States, whether the same should be made by lot, or upon proof on the part of the Spanish claimant, it is ORDERED to be certified to the said Circuit Court of Georgia, that in executing the said mandate, the Africans to be delivered must be designated by proof made to the satisfaction of that Court.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">24</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">413</span></span> (____)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">11</span> <span class=\"reporter\">Wheat.</span> <span class=\"page\">413</span></span></b></center>\n<center><h1>The ANTELOPE.<br>\nThe Vice Consuls of Spain and Portugal, Libellants.</h1></center>\n<center><p><b>Supreme Court of United States. </b></p></center>\n<center></center>\n<p></p>\n<h2>CERTIFICATE.</h2>\n<p>A mandate having issued to the Circuit Court for the District of Georgia, to carry into execution the decree of this Court pronounced at the February term, 1825, to deliver certain Africans, in the said decree mentioned, to the Spanish consul for Spanish claimants, and the Judges of that Court having been divided in opinion respecting the mode of designating the said slaves so to be  delivered, and separating them from others to be delivered to the United States, whether the same should be made by lot, or upon proof on the part of the Spanish claimant, it is ORDERED to be certified to the said Circuit Court of Georgia, that in executing the said mandate, the Africans to be delivered must be designated by proof made to the satisfaction of that Court.</p>\n</div>", "id": 85503, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/85503/", "sha1": "92406cde351401e5335cdc54eb2419587d98aca0", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T08:59:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "24 U.S. 413", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/85503/"
+    ], 
+    "scotus_early_cite": "11 Wheat. 413", 
+    "case_name": "The Antelope", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 52911, 
+    "resource_uri": "/api/rest/v2/citation/52911/"
+  }, 
+  "id": 85503, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1826-03-16", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>24 U.S. 413 (____)</b></center>\n<center><b>11 Wheat. 413</b></center>\n<center><h1>The ANTELOPE.<br>\nThe Vice Consuls of Spain and Portugal, Libellants.</h1></center>\n<center><p><b>Supreme Court of United States. </b></p></center>\n<center></center>\n<p></p>\n<h2>CERTIFICATE.</h2>\n<p>A mandate having issued to the Circuit Court for the District of Georgia, to carry into execution the decree of this Court pronounced at the February term, 1825, to deliver certain Africans, in the said decree mentioned, to the Spanish consul for Spanish claimants, and the Judges of that Court having been divided in opinion respecting the mode of designating the said slaves so to be  delivered, and separating them from others to be delivered to the United States, whether the same should be made by lot, or upon proof on the part of the Spanish claimant, it is ORDERED to be certified to the said Circuit Court of Georgia, that in executing the said mandate, the Africans to be delivered must be designated by proof made to the satisfaction of that Court.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T08:59:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">24</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">413</span></span> (____)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">11</span> <span class=\"reporter\">Wheat.</span> <span class=\"page\">413</span></span></b></center>\n<center><h1>The ANTELOPE.<br>\nThe Vice Consuls of Spain and Portugal, Libellants.</h1></center>\n<center><p><b>Supreme Court of United States. </b></p></center>\n<center></center>\n<p></p>\n<h2>CERTIFICATE.</h2>\n<p>A mandate having issued to the Circuit Court for the District of Georgia, to carry into execution the decree of this Court pronounced at the February term, 1825, to deliver certain Africans, in the said decree mentioned, to the Spanish consul for Spanish claimants, and the Judges of that Court having been divided in opinion respecting the mode of designating the said slaves so to be  delivered, and separating them from others to be delivered to the United States, whether the same should be made by lot, or upon proof on the part of the Spanish claimant, it is ORDERED to be certified to the said Circuit Court of Georgia, that in executing the said mandate, the Africans to be delivered must be designated by proof made to the satisfaction of that Court.</p>\n</div>", 
+  "sha1": "92406cde351401e5335cdc54eb2419587d98aca0", 
+  "date_modified": "2014-12-21T01:24:07.523883", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/85503/the-antelope/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/197038/", 
+  "html": "<p class=\"case_cite\">24 U.S. 413</p>\n    <p class=\"case_cite\">6 L.Ed. 408</p>\n    <p class=\"case_cite\">11 Wheat. 413</p>\n    <p class=\"parties\">The ANTELOPE.<br>The Vice Consuls of Spain and Portugal, <i>Libellants</i>.</p>\n    <p class=\"date\">February Term, 1826</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIFICATE. A mandate having issued to the Circuit Court for the District of Georgia, to carry into execution the decree of this Court pronounced at the February term, 1825, to deliver certain Africans, in the said decree mentioned, to the Spanish consul for Spanish claimants, and the Judges of that Court having been divided in opinion respecting the mode of designating the said slaves so to be delivered, and separating them from others to be delivered to the United States, whether the same should be made by lot, or upon proof on the part of the Spanish claimant, it is ORDERED to be certified to the said Circuit Court of Georgia, that in executing the said mandate, the Africans to be delivered must be designated by proof made to the satisfaction of that Court.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/85503/"
+}

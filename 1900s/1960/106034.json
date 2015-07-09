@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106034/yancy-v-united-states/", "blocked": false, "citation": {"case_name": "Yancy v. United States", "docket_number": "47", "document_uris": ["/api/rest/v2/document/106034/"], "federal_cite_one": "362 U.S. 389", "federal_cite_three": "4 L. Ed. 2d 864", "federal_cite_two": "80 S. Ct. 811", "id": 90417, "lexis_cite": "1960 U.S. LEXIS 1303", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90417/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-04-18", "date_modified": "2014-12-21T06:36:57.557056", "docket": "/api/rest/v2/docket/24718/", "download_url": "http://bulk.resource.org/courts.gov/c/US/362/362.US.389.47.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">362 U.S. 389</p>\n    <p class=\"case_cite\">80 S.Ct. 811</p>\n    <p class=\"case_cite\">4 L.Ed.2d 864</p>\n    <p class=\"parties\">Ernest Dossy YANCY<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 47.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 18, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Seymour B. Goldman, for petitioner.</p>\n      <p class=\"indent\">Mr. John L. Murphy (Solicitor General Rankin, Assistant Attorney General Wilkey, Messrs. Robert S. Erdahl and J. F. Bishop, on the brief), for the United States.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Sixth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>362 U.S. 389 (1960)</b></center>\n<center><h1>YANCY<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 47.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued December 8-9, 1959.</center>\n<center>Decided April 18, 1960.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Seymour B. Goldman</i> argued the cause and filed a brief for petitioner.</p>\n<p><i>John L. Murphy</i> argued the cause for the United States. On the brief were <i>Solicitor General Rankin, Assistant Attorney General Wilkey, Robert S. Erdahl</i> and <i>J. F. Bishop.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE STEWART took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">362</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">389</span></span> (1960)</b></center>\n<center><h1>YANCY<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 47.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued December 8-9, 1959.</center>\n<center>Decided April 18, 1960.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Seymour B. Goldman</i> argued the cause and filed a brief for petitioner.</p>\n<p><i>John L. Murphy</i> argued the cause for the United States. On the brief were <i>Solicitor General Rankin, Assistant Attorney General Wilkey, Robert S. Erdahl</i> and <i>J. F. Bishop.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE STEWART took no part in the consideration or decision of this case.</p>\n</div>", "id": 106034, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106034/", "sha1": "42f290c01045267db05176d5ea2867055699a14a", "source": "LR", "supreme_court_db_id": "1959-070", "time_retrieved": "2010-04-28T09:55:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "362 U.S. 389", 
+    "federal_cite_two": "80 S. Ct. 811", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "4 L. Ed. 2d 864", 
+    "lexis_cite": "1960 U.S. LEXIS 1303", 
+    "document_uris": [
+      "/api/rest/v2/document/106034/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Yancy v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "47", 
+    "id": 90417, 
+    "resource_uri": "/api/rest/v2/citation/90417/"
+  }, 
+  "id": 106034, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-04-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/362/362.US.389.47.html", 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>362 U.S. 389 (1960)</b></center>\n<center><h1>YANCY<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 47.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued December 8-9, 1959.</center>\n<center>Decided April 18, 1960.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Seymour B. Goldman</i> argued the cause and filed a brief for petitioner.</p>\n<p><i>John L. Murphy</i> argued the cause for the United States. On the brief were <i>Solicitor General Rankin, Assistant Attorney General Wilkey, Robert S. Erdahl</i> and <i>J. F. Bishop.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE STEWART took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">362</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">389</span></span> (1960)</b></center>\n<center><h1>YANCY<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 47.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued December 8-9, 1959.</center>\n<center>Decided April 18, 1960.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Seymour B. Goldman</i> argued the cause and filed a brief for petitioner.</p>\n<p><i>John L. Murphy</i> argued the cause for the United States. On the brief were <i>Solicitor General Rankin, Assistant Attorney General Wilkey, Robert S. Erdahl</i> and <i>J. F. Bishop.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE STEWART took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "42f290c01045267db05176d5ea2867055699a14a", 
+  "date_modified": "2014-12-21T06:36:57.557056", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106034/yancy-v-united-states/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": "1959-070", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/24718/", 
+  "html": "<p class=\"case_cite\">362 U.S. 389</p>\n    <p class=\"case_cite\">80 S.Ct. 811</p>\n    <p class=\"case_cite\">4 L.Ed.2d 864</p>\n    <p class=\"parties\">Ernest Dossy YANCY<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 47.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 18, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Seymour B. Goldman, for petitioner.</p>\n      <p class=\"indent\">Mr. John L. Murphy (Solicitor General Rankin, Assistant Attorney General Wilkey, Messrs. Robert S. Erdahl and J. F. Bishop, on the brief), for the United States.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Sixth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106034/"
+}

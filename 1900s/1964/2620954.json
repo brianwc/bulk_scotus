@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620954/vokes-v-city-of-chicago/", "blocked": false, "citation": {"case_name": "Vokes v. City of Chicago", "docket_number": "855", "document_uris": ["/api/rest/v2/document/2620954/"], "federal_cite_one": "377 U.S. 124", "federal_cite_three": null, "federal_cite_two": null, "id": 2593726, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593726/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-04-20", "date_modified": "2014-10-29T23:10:05.069892", "docket": "/api/rest/v2/docket/45380/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>377 U.S. 124 (1964)</b></center>\n<center><h1>VOKES ET AL.<br>\nv.<br>\nCITY OF CHICAGO.</h1></center>\n<center>No. 855.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 20, 1964.</center>\nAPPEAL FROM THE SUPREME COURT OF ILLINOIS.\n<p><i>Charles A. Bellows</i> for appellants.</p>\n<p><i>John C. Melaniphy, Sydney R. Drebin</i> and <i>Robert J. Collins</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 2620954, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620954/", "sha1": "e38c69d431905e58d6e4496f6bf1d828879793c5", "source": "L", "time_retrieved": "2013-11-01T13:08:20.485770"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "377 U.S. 124", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620954/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Vokes v. City of Chicago", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "855", 
+    "id": 2593726, 
+    "resource_uri": "/api/rest/v2/citation/2593726/"
+  }, 
+  "id": 2620954, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-04-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>377 U.S. 124 (1964)</b></center>\n<center><h1>VOKES ET AL.<br>\nv.<br>\nCITY OF CHICAGO.</h1></center>\n<center>No. 855.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 20, 1964.</center>\nAPPEAL FROM THE SUPREME COURT OF ILLINOIS.\n<p><i>Charles A. Bellows</i> for appellants.</p>\n<p><i>John C. Melaniphy, Sydney R. Drebin</i> and <i>Robert J. Collins</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:08:20.485770", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e38c69d431905e58d6e4496f6bf1d828879793c5", 
+  "date_modified": "2014-10-29T23:10:05.069892", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620954/vokes-v-city-of-chicago/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/45380/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620954/"
+}

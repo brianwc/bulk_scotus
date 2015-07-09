@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1209923/fore-v-toth/", "blocked": false, "citation": {"case_name": "Fore v. Toth", "docket_number": "740", "document_uris": ["/api/rest/v2/document/1209923/"], "federal_cite_one": "359 U.S. 313", "federal_cite_three": null, "federal_cite_two": null, "id": 1182694, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1182694/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1959-04-20", "date_modified": "2014-10-30T10:32:33.526279", "docket": "/api/rest/v2/docket/1542266/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>359 U.S. 313 (1959)</b></center>\n<center><h1>FORE<br>\nv.<br>\nTOTH.</h1></center>\n<center>No. 740.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 20, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF OHIO.\n<p><i>Maurice F. Hanning</i> and <i>J. King Rosendale</i> for appellant.</p>\n<p><i>Charles C. Redmond</i> for appellee.</p>\n<p><i>Jack P. F. Gremillion,</i> Attorney General of Louisiana, filed a brief for the State of Louisiana, as <i>amicus curiae,</i> in support of appellant.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE STEWART took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 1209923, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1209923/", "sha1": "290c784809a918d3c99d1948fe946bc23ce2bc88", "source": "L", "time_retrieved": "2013-10-29T22:01:11.472004"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "359 U.S. 313", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1209923/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Fore v. Toth", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "740", 
+    "id": 1182694, 
+    "resource_uri": "/api/rest/v2/citation/1182694/"
+  }, 
+  "id": 1209923, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1959-04-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>359 U.S. 313 (1959)</b></center>\n<center><h1>FORE<br>\nv.<br>\nTOTH.</h1></center>\n<center>No. 740.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 20, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF OHIO.\n<p><i>Maurice F. Hanning</i> and <i>J. King Rosendale</i> for appellant.</p>\n<p><i>Charles C. Redmond</i> for appellee.</p>\n<p><i>Jack P. F. Gremillion,</i> Attorney General of Louisiana, filed a brief for the State of Louisiana, as <i>amicus curiae,</i> in support of appellant.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE STEWART took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:01:11.472004", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "290c784809a918d3c99d1948fe946bc23ce2bc88", 
+  "date_modified": "2014-10-30T10:32:33.526279", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1209923/fore-v-toth/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1542266/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1209923/"
+}

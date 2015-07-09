@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2672534/beard-v-aguilar/", "blocked": false, "citation": {"case_name": "Beard v. Aguilar", "docket_number": "13-677", "document_uris": ["/api/rest/v2/document/2672534/"], "federal_cite_one": null, "federal_cite_three": null, "federal_cite_two": null, "id": 2645307, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2645307/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2014-05-05", "date_modified": "2014-10-30T00:55:11.143529", "docket": "/api/rest/v2/docket/252482/", "download_url": "http://www.supremecourt.gov/opinions/13pdf/13-677_2b35.pdf", "extracted_by_ocr": false, "html": null, "html_lawbox": null, "html_with_citations": "", "id": 2672534, "judges": "", "local_path": "pdf/2014/05/05/beard_v._aguilar.pdf", "nature_of_suit": "", "plain_text": "                 Cite as: 572 U. S. ____ (2014)           1\n\n                     ALITO, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n    JEFFREY BEARD, SECRETARY, CALIFORNIA \n\n      DEPARTMENT OF CORRECTIONS AND \n\n        REHABILITATION, PETITIONER v.\n\n             GILBERT R. AGUILAR \n\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT\n\n               No. 13–677.   Decided May 5, 2014\n\n\n  The petition for a writ of certiorari is denied.\n  JUSTICE ALITO, with whom JUSTICE SCALIA joins, dis-\nsenting from the denial of certiorari.\n  I dissent from the Court’s decision to deny certiorari.\nSee Tolan v. Cotton, ante, p. ___ (ALITO, J., concurring in\nthe judgment).\n", "precedential_status": "Relating-to", "resource_uri": "/api/rest/v2/document/2672534/", "sha1": "2585876e8ac2b3fa2ec645f09991e16132c55f60", "source": "C", "time_retrieved": "2014-05-05T07:45:52.489128"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": null, 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2672534/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Beard v. Aguilar", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "13-677", 
+    "id": 2645307, 
+    "resource_uri": "/api/rest/v2/citation/2645307/"
+  }, 
+  "id": 2672534, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2014-05-05", 
+  "download_url": "http://www.supremecourt.gov/opinions/13pdf/13-677_2b35.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2014/05/05/beard_v._aguilar.pdf", 
+  "html_lawbox": null, 
+  "time_retrieved": "2014-05-05T07:45:52.489128", 
+  "nature_of_suit": "", 
+  "plain_text": "                 Cite as: 572 U. S. ____ (2014)           1\n\n                     ALITO, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n    JEFFREY BEARD, SECRETARY, CALIFORNIA \n\n      DEPARTMENT OF CORRECTIONS AND \n\n        REHABILITATION, PETITIONER v.\n\n             GILBERT R. AGUILAR \n\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT\n\n               No. 13\u2013677.   Decided May 5, 2014\n\n\n  The petition for a writ of certiorari is denied.\n  JUSTICE ALITO, with whom JUSTICE SCALIA joins, dis-\nsenting from the denial of certiorari.\n  I dissent from the Court\u2019s decision to deny certiorari.\nSee Tolan v. Cotton, ante, p. ___ (ALITO, J., concurring in\nthe judgment).\n", 
+  "html_with_citations": "", 
+  "sha1": "2585876e8ac2b3fa2ec645f09991e16132c55f60", 
+  "date_modified": "2014-10-30T00:55:11.143529", 
+  "precedential_status": "Relating-to", 
+  "absolute_url": "/opinion/2672534/beard-v-aguilar/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/252482/", 
+  "html": null, 
+  "resource_uri": "/api/rest/v2/document/2672534/"
+}

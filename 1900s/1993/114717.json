@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/114717/todd-v-illinois/", "blocked": false, "citation": {"case_name": "Todd v. Illinois", "docket_number": "92-8566", "document_uris": ["/api/rest/v2/document/114717/"], "federal_cite_one": "510 U.S. 944", "federal_cite_three": null, "federal_cite_two": null, "id": 99076, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/99076/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-11-01", "date_modified": "2014-12-21T02:13:44.680676", "docket": "/api/rest/v2/docket/2343252/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.944.92-8566.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 944</p>\n    <p class=\"parties\">Todd<br>v.<br>Illinois.</p>\n    <p class=\"docket\">No. 92-8566.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 1, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ill.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 154 Ill.2d 57, 607 N. E. 2d 1189.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"parties\">Todd<br>v.<br>Illinois.</p>\n    <p class=\"docket\">No. 92-8566.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 1, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ill.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 154 Ill.2d 57, 607 N. E. 2d 1189.</p>\n    </div>\n    ", "id": 114717, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/114717/", "sha1": "ac24da5ef8f9ad78fea1304ab4aff8239bd63768", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:32"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 944", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/114717/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Todd v. Illinois", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "92-8566", 
+    "id": 99076, 
+    "resource_uri": "/api/rest/v2/citation/99076/"
+  }, 
+  "id": 114717, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-11-01", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.944.92-8566.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:32", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"parties\">Todd<br>v.<br>Illinois.</p>\n    <p class=\"docket\">No. 92-8566.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 1, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ill.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 154 Ill.2d 57, 607 N. E. 2d 1189.</p>\n    </div>\n    ", 
+  "sha1": "ac24da5ef8f9ad78fea1304ab4aff8239bd63768", 
+  "date_modified": "2014-12-21T02:13:44.680676", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/114717/todd-v-illinois/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2343252/", 
+  "html": "<p class=\"case_cite\">510 U.S. 944</p>\n    <p class=\"parties\">Todd<br>v.<br>Illinois.</p>\n    <p class=\"docket\">No. 92-8566.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 1, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Ill.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 154 Ill.2d 57, 607 N. E. 2d 1189.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/114717/"
+}

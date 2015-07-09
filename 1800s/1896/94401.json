@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/94401/spalding-v-dickinson/", "blocked": false, "citation": {"case_name": "Spalding v. Dickinson", "docket_number": "82", "document_uris": ["/api/rest/v2/document/94401/"], "federal_cite_one": "161 U.S. 499", "federal_cite_three": null, "federal_cite_two": null, "id": 78782, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/78782/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1896-03-02", "date_modified": "2014-12-21T01:32:22.840431", "docket": "/api/rest/v2/docket/2277377/", "download_url": "http://bulk.resource.org/courts.gov/c/US/161/161.US.499.82.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">161 U.S. 499</p>\n    <p class=\"case_cite\">16 S.Ct. 637</p>\n    <p class=\"case_cite\">40 L.Ed. 786</p>\n    <p class=\"parties\">SPALDING<br>v.<br>DICKINSON.</p>\n    <p class=\"docket\">No. 82.</p>\n    <p class=\"date\">March 2, 1896.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">W. Willoughby, for plaintiff in error.</p>\n      <p class=\"indent\">Asst. Atty. Gen. Dickinson, for defendant in error.</p>\n      <p class=\"indent\">Mr. Justice HARLAN delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The defendant in error succeeded Mr. Vilas in the office of postmaster general. The declaration in the present case is in all material respects like that in Spalding v. Vilas (just decided) 16 Sup. Ct. 631. For the reasons stated in the opinion in that case the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">161</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">499</span></span></p>\n    <p class=\"case_cite\">16 S.Ct. 637</p>\n    <p class=\"case_cite\">40 L.Ed. 786</p>\n    <p class=\"parties\">SPALDING<br>v.<br>DICKINSON.</p>\n    <p class=\"docket\">No. 82.</p>\n    <p class=\"date\">March 2, 1896.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">W. Willoughby, for plaintiff in error.</p>\n      <p class=\"indent\">Asst. Atty. Gen. Dickinson, for defendant in error.</p>\n      <p class=\"indent\">Mr. Justice HARLAN delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The defendant in error succeeded Mr. Vilas in the office of postmaster general. The declaration in the present case is in all material respects like that in Spalding v. Vilas (just decided) 16 Sup. Ct. 631. For the reasons stated in the opinion in that case the judgment is affirmed.</p>\n    </div>\n    ", "id": 94401, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/94401/", "sha1": "1a44e9e421d162dba8183521108735d5a05a8616", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:22:28"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "161 U.S. 499", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/94401/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Spalding v. Dickinson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "82", 
+    "id": 78782, 
+    "resource_uri": "/api/rest/v2/citation/78782/"
+  }, 
+  "id": 94401, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1896-03-02", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/161/161.US.499.82.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:22:28", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">161</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">499</span></span></p>\n    <p class=\"case_cite\">16 S.Ct. 637</p>\n    <p class=\"case_cite\">40 L.Ed. 786</p>\n    <p class=\"parties\">SPALDING<br>v.<br>DICKINSON.</p>\n    <p class=\"docket\">No. 82.</p>\n    <p class=\"date\">March 2, 1896.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">W. Willoughby, for plaintiff in error.</p>\n      <p class=\"indent\">Asst. Atty. Gen. Dickinson, for defendant in error.</p>\n      <p class=\"indent\">Mr. Justice HARLAN delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The defendant in error succeeded Mr. Vilas in the office of postmaster general. The declaration in the present case is in all material respects like that in Spalding v. Vilas (just decided) 16 Sup. Ct. 631. For the reasons stated in the opinion in that case the judgment is affirmed.</p>\n    </div>\n    ", 
+  "sha1": "1a44e9e421d162dba8183521108735d5a05a8616", 
+  "date_modified": "2014-12-21T01:32:22.840431", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/94401/spalding-v-dickinson/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2277377/", 
+  "html": "<p class=\"case_cite\">161 U.S. 499</p>\n    <p class=\"case_cite\">16 S.Ct. 637</p>\n    <p class=\"case_cite\">40 L.Ed. 786</p>\n    <p class=\"parties\">SPALDING<br>v.<br>DICKINSON.</p>\n    <p class=\"docket\">No. 82.</p>\n    <p class=\"date\">March 2, 1896.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">W. Willoughby, for plaintiff in error.</p>\n      <p class=\"indent\">Asst. Atty. Gen. Dickinson, for defendant in error.</p>\n      <p class=\"indent\">Mr. Justice HARLAN delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The defendant in error succeeded Mr. Vilas in the office of postmaster general. The declaration in the present case is in all material respects like that in Spalding v. Vilas (just decided) 16 Sup. Ct. 631. For the reasons stated in the opinion in that case the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/94401/"
+}

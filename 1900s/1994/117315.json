@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117315/kelley-v-smith-judge-superior-court-of/", "blocked": false, "citation": {"case_name": "Kelley v. Smith, Judge, Superior Court of Georgia, Henry County", "docket_number": "93-7450", "document_uris": ["/api/rest/v2/document/117315/"], "federal_cite_one": "510 U.S. 1168", "federal_cite_three": null, "federal_cite_two": null, "id": 101674, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101674/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-02-28", "date_modified": "2014-12-21T02:14:05.755592", "docket": "/api/rest/v2/docket/2386172/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1168.93-7450.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1168</p>\n    <p class=\"parties\">Kelley<br>v.<br>Smith, Judge, Superior Court of Georgia, Henry County.</p>\n    <p class=\"docket\">No. 93-7450.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Ga.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1168</span></span></p>\n    <p class=\"parties\">Kelley<br>v.<br>Smith, Judge, Superior Court of Georgia, Henry County.</p>\n    <p class=\"docket\">No. 93-7450.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Ga.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "id": 117315, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117315/", "sha1": "7080f177eec3369861316e9295bdbee32c0b26de", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:08"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1168", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117315/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Kelley v. Smith, Judge, Superior Court of Georgia, Henry County", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-7450", 
+    "id": 101674, 
+    "resource_uri": "/api/rest/v2/citation/101674/"
+  }, 
+  "id": 117315, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-02-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1168.93-7450.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:08", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1168</span></span></p>\n    <p class=\"parties\">Kelley<br>v.<br>Smith, Judge, Superior Court of Georgia, Henry County.</p>\n    <p class=\"docket\">No. 93-7450.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Ga.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "7080f177eec3369861316e9295bdbee32c0b26de", 
+  "date_modified": "2014-12-21T02:14:05.755592", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117315/kelley-v-smith-judge-superior-court-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2386172/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1168</p>\n    <p class=\"parties\">Kelley<br>v.<br>Smith, Judge, Superior Court of Georgia, Henry County.</p>\n    <p class=\"docket\">No. 93-7450.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Ga.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117315/"
+}

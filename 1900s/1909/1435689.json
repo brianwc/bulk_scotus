@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1435689/pfaelzer-v-bach-fur-company/", "blocked": false, "citation": {"case_name": "Pfaelzer v. BACH FUR COMPANY", "docket_number": "290", "document_uris": ["/api/rest/v2/document/1435689/"], "federal_cite_one": "215 U.S. 584", "federal_cite_three": null, "federal_cite_two": null, "id": 1408460, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1408460/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1909-11-08", "date_modified": "2014-10-30T11:06:22.307609", "docket": "/api/rest/v2/docket/1613388/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>215 U.S. 584 (1909)</b></center>\n<center><h1>PFAELZER<br>\nv.<br>\nBACH FUR COMPANY.</h1></center>\n<center>No. 290.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 1, 1909.</center>\n<center>Decided November 8, 1909.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p><i>Mr. A.S. Gilbert</i> for plaintiff in error.</p>\n<p><i>Mr. Benjamin N. Cardozo</i> for defendant in error.</p>\n<p><i>Per Curiam.</i></p>\n<p>Writ of error dismissed for want of final judgment. <i>McLish</i> v. <i>Roff,</i> 141 U.S. 661.</p>\n</div>", "html_with_citations": "", "id": 1435689, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1435689/", "sha1": "9021d2027152abf2a28fc85e07c3d71f813445b6", "source": "L", "time_retrieved": "2013-10-29T23:09:09.086404"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "215 U.S. 584", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1435689/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Pfaelzer v. BACH FUR COMPANY", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "290", 
+    "id": 1408460, 
+    "resource_uri": "/api/rest/v2/citation/1408460/"
+  }, 
+  "id": 1435689, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1909-11-08", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>215 U.S. 584 (1909)</b></center>\n<center><h1>PFAELZER<br>\nv.<br>\nBACH FUR COMPANY.</h1></center>\n<center>No. 290.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 1, 1909.</center>\n<center>Decided November 8, 1909.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p><i>Mr. A.S. Gilbert</i> for plaintiff in error.</p>\n<p><i>Mr. Benjamin N. Cardozo</i> for defendant in error.</p>\n<p><i>Per Curiam.</i></p>\n<p>Writ of error dismissed for want of final judgment. <i>McLish</i> v. <i>Roff,</i> 141 U.S. 661.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:09:09.086404", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "9021d2027152abf2a28fc85e07c3d71f813445b6", 
+  "date_modified": "2014-10-30T11:06:22.307609", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1435689/pfaelzer-v-bach-fur-company/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1613388/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1435689/"
+}

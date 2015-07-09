@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/98052/philadelphia-baltimore-washington-railroad/", "blocked": false, "citation": {"case_name": "Philadelphia, Baltimore, & Washington Railroad Company v. Southern Transportation Company", "docket_number": "723", "document_uris": ["/api/rest/v2/document/98052/"], "federal_cite_one": "231 U.S. 750", "federal_cite_three": null, "federal_cite_two": null, "id": 82435, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/82435/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1913-10-27", "date_modified": "2014-12-21T01:35:39.635297", "docket": "/api/rest/v2/docket/2358237/", "download_url": "http://bulk.resource.org/courts.gov/c/US/231/231.US.750.723.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">231 U.S. 750</p>\r\n    <p class=\"case_cite\">34 S.Ct. 321</p>\r\n    <p class=\"case_cite\">58 L.Ed. 466</p>\r\n    <p class=\"parties\">PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner,<br>v.<br>SOUTHERN TRANSPORTATION COMPANY.</p>\r\n    <p class=\"docket\">No. 723.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 27, 1913</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Shirley Carter for petitioner.</p>\r\n      <p class=\"indent\">No counsel appeared for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">231</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">750</span></span></p>\r\n    <p class=\"case_cite\">34 S.Ct. 321</p>\r\n    <p class=\"case_cite\">58 L.Ed. 466</p>\r\n    <p class=\"parties\">PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner,<br>v.<br>SOUTHERN TRANSPORTATION COMPANY.</p>\r\n    <p class=\"docket\">No. 723.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 27, 1913</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Shirley Carter for petitioner.</p>\r\n      <p class=\"indent\">No counsel appeared for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", "id": 98052, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/98052/", "sha1": "007b16c73fa19b313d585d063561ebf6f701b864", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:43:11"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "231 U.S. 750", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/98052/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Philadelphia, Baltimore, & Washington Railroad Company v. Southern Transportation Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "723", 
+    "id": 82435, 
+    "resource_uri": "/api/rest/v2/citation/82435/"
+  }, 
+  "id": 98052, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1913-10-27", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/231/231.US.750.723.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:43:11", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">231</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">750</span></span></p>\r\n    <p class=\"case_cite\">34 S.Ct. 321</p>\r\n    <p class=\"case_cite\">58 L.Ed. 466</p>\r\n    <p class=\"parties\">PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner,<br>v.<br>SOUTHERN TRANSPORTATION COMPANY.</p>\r\n    <p class=\"docket\">No. 723.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 27, 1913</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Shirley Carter for petitioner.</p>\r\n      <p class=\"indent\">No counsel appeared for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", 
+  "sha1": "007b16c73fa19b313d585d063561ebf6f701b864", 
+  "date_modified": "2014-12-21T01:35:39.635297", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/98052/philadelphia-baltimore-washington-railroad/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2358237/", 
+  "html": "<p class=\"case_cite\">231 U.S. 750</p>\r\n    <p class=\"case_cite\">34 S.Ct. 321</p>\r\n    <p class=\"case_cite\">58 L.Ed. 466</p>\r\n    <p class=\"parties\">PHILADELPHIA, BALTIMORE, &amp; WASHINGTON RAILROAD  COMPANY, Petitioner,<br>v.<br>SOUTHERN TRANSPORTATION COMPANY.</p>\r\n    <p class=\"docket\">No. 723.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 27, 1913</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. Shirley Carter for petitioner.</p>\r\n      <p class=\"indent\">No counsel appeared for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/98052/"
+}

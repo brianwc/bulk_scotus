@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1213453/la-confiance-compagnie-anonyme-dassurance-v-hall/", "blocked": false, "citation": {"case_name": "La Confiance Compagnie Anonyme D'Assurance v. Hall", "docket_number": "11", "document_uris": ["/api/rest/v2/document/1213453/"], "federal_cite_one": "137 U.S. 61", "federal_cite_three": null, "federal_cite_two": null, "id": 1186224, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1186224/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1890-11-03", "date_modified": "2014-10-30T17:42:36.288971", "docket": "/api/rest/v2/docket/2557626/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>137 U.S. 61 (1890)</b></center>\n<center><h1>LA CONFIANCE COMPAGNIE ANONYME D'ASSURANCE<br>\nv.<br>\nHALL.</h1></center>\n<center>No. 11.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and submitted October 21, 1890.</center>\n<center>Decided November 3, 1890.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF MISSOURI.\n<p><span class=\"star-pagination\">*62</span> <i>Mr. Charles B. Alexander</i> (with whom was <i>Mr. John J. McCook</i> on the brief) for plaintiff in error.</p>\n<p><i>Mr. Given Campbell</i> for defendant in error.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>This action was commenced by plaintiff in error in a State court, and removed to the Circuit Court of the United States for the Eastern District of Missouri upon petition of the defendant, on the ground that the plaintiff was an alien and citizen of France and the defendant a citizen of Missouri. The existence of such diverse citizenship at the commencement of the suit, as well as when the removal was asked, did not appear affirmatively in the petition for removal or in the record when that was filed.</p>\n<p>We are compelled to reverse the judgment, with costs, and remit the cause to the Circuit Court, with a direction to remand to the State Court. <i>Stevens</i> v. <i>Nichols,</i> 130 U.S. 230; <i>Crehore</i> v. <i>Ohio and Mississippi Railway Co.,</i> 131 U.S. 240; <i>Jackson</i> v. <i>Allen,</i> 132 U.S. 27.</p>\n<p><i>Reversed and ordered accordingly.</i></p>\n</div>", "html_with_citations": "", "id": 1213453, "judges": "Fuller", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1213453/", "sha1": "5c2a1005a3dd35bf66a63d885f7474eca85a8d99", "source": "L", "time_retrieved": "2013-10-29T22:02:30.742443"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "137 U.S. 61", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1213453/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "La Confiance Compagnie Anonyme D'Assurance v. Hall", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "11", 
+    "id": 1186224, 
+    "resource_uri": "/api/rest/v2/citation/1186224/"
+  }, 
+  "id": 1213453, 
+  "blocked": false, 
+  "judges": "Fuller", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1890-11-03", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>137 U.S. 61 (1890)</b></center>\n<center><h1>LA CONFIANCE COMPAGNIE ANONYME D'ASSURANCE<br>\nv.<br>\nHALL.</h1></center>\n<center>No. 11.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and submitted October 21, 1890.</center>\n<center>Decided November 3, 1890.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF MISSOURI.\n<p><span class=\"star-pagination\">*62</span> <i>Mr. Charles B. Alexander</i> (with whom was <i>Mr. John J. McCook</i> on the brief) for plaintiff in error.</p>\n<p><i>Mr. Given Campbell</i> for defendant in error.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>This action was commenced by plaintiff in error in a State court, and removed to the Circuit Court of the United States for the Eastern District of Missouri upon petition of the defendant, on the ground that the plaintiff was an alien and citizen of France and the defendant a citizen of Missouri. The existence of such diverse citizenship at the commencement of the suit, as well as when the removal was asked, did not appear affirmatively in the petition for removal or in the record when that was filed.</p>\n<p>We are compelled to reverse the judgment, with costs, and remit the cause to the Circuit Court, with a direction to remand to the State Court. <i>Stevens</i> v. <i>Nichols,</i> 130 U.S. 230; <i>Crehore</i> v. <i>Ohio and Mississippi Railway Co.,</i> 131 U.S. 240; <i>Jackson</i> v. <i>Allen,</i> 132 U.S. 27.</p>\n<p><i>Reversed and ordered accordingly.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:02:30.742443", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "5c2a1005a3dd35bf66a63d885f7474eca85a8d99", 
+  "date_modified": "2014-10-30T17:42:36.288971", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1213453/la-confiance-compagnie-anonyme-dassurance-v-hall/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2557626/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1213453/"
+}

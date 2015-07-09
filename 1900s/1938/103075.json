@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/103075/pierce-lonergan-petitioner-v-the-united-states/", "blocked": false, "citation": {"case_name": "Pierce Lonergan v. The United States of America.", "docket_number": "1064", "document_uris": ["/api/rest/v2/document/103075/"], "federal_cite_one": "304 U.S. 581", "federal_cite_three": null, "federal_cite_two": null, "id": 87458, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/87458/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1938-05-31", "date_modified": "2014-12-21T01:42:16.196525", "docket": "/api/rest/v2/docket/2217792/", "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.581.1064.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">304 U.S. 581</p>\n    <p class=\"case_cite\">58 S.Ct. 1061</p>\n    <p class=\"case_cite\">82 L.Ed. 1543</p>\n    <p class=\"parties\">Pierce LONERGAN, petitioner,<br>v.<br>The UNITED STATES of America.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 1064.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 31, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Pierce Lonergan, of Los Angeles, Cal., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Circuit Court of Appeals for the Ninth Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">For opinion below, see 95 F.2d 642.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which writs of certiorari should be issued. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 59 S.Ct. 60, 83 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">581</span></span></p>\n    <p class=\"case_cite\">58 S.Ct. 1061</p>\n    <p class=\"case_cite\">82 L.Ed. 1543</p>\n    <p class=\"parties\">Pierce LONERGAN, petitioner,<br>v.<br>The UNITED STATES of America.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 1064.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 31, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Pierce Lonergan, of Los Angeles, Cal., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Circuit Court of Appeals for the Ninth Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">For opinion below, see 95 F.2d 642.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which writs of certiorari should be issued. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 59 S.Ct. 60, 83 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", "id": 103075, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/103075/", "sha1": "838921943f7ddf8f325a14b5c386a8e3d245e650", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:15"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "304 U.S. 581", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/103075/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Pierce Lonergan v. The United States of America.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1064", 
+    "id": 87458, 
+    "resource_uri": "/api/rest/v2/citation/87458/"
+  }, 
+  "id": 103075, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1938-05-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.581.1064.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:54:15", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">581</span></span></p>\n    <p class=\"case_cite\">58 S.Ct. 1061</p>\n    <p class=\"case_cite\">82 L.Ed. 1543</p>\n    <p class=\"parties\">Pierce LONERGAN, petitioner,<br>v.<br>The UNITED STATES of America.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 1064.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 31, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Pierce Lonergan, of Los Angeles, Cal., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Circuit Court of Appeals for the Ninth Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">For opinion below, see 95 F.2d 642.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which writs of certiorari should be issued. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 59 S.Ct. 60, 83 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "838921943f7ddf8f325a14b5c386a8e3d245e650", 
+  "date_modified": "2014-12-21T01:42:16.196525", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/103075/pierce-lonergan-petitioner-v-the-united-states/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2217792/", 
+  "html": "<p class=\"case_cite\">304 U.S. 581</p>\n    <p class=\"case_cite\">58 S.Ct. 1061</p>\n    <p class=\"case_cite\">82 L.Ed. 1543</p>\n    <p class=\"parties\">Pierce LONERGAN, petitioner,<br>v.<br>The UNITED STATES of America.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 1064.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 31, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Pierce Lonergan, of Los Angeles, Cal., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Circuit Court of Appeals for the Ninth Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">For opinion below, see 95 F.2d 642.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which writs of certiorari should be issued. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 59 S.Ct. 60, 83 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/103075/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/122480/hemphill-v-mcneil-ppc-inc/", "blocked": false, "citation": {"case_name": "Hemphill v. McNeil Inc", "docket_number": "01-1770", "document_uris": ["/api/rest/v2/document/122480/"], "federal_cite_one": "537 U.S. 820", "federal_cite_three": null, "federal_cite_two": null, "id": 106833, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/106833/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-07", "date_modified": "2014-12-21T02:17:31.615074", "docket": "/api/rest/v2/docket/370241/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.820.01-1770.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 820</p>\n    <p class=\"parties\">HEMPHILL<br>v.<br>McNEIL-PPC, INC.</p>\n    <p class=\"docket\">No. 01-1770.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS FOR THE FEDERAL CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 25 Fed. Appx. 915.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">820</span></span></p>\n    <p class=\"parties\">HEMPHILL<br>v.<br>McNEIL-PPC, INC.</p>\n    <p class=\"docket\">No. 01-1770.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS FOR THE FEDERAL CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 25 Fed. Appx. 915.</p>\n    </div>\n    ", "id": 122480, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/122480/", "sha1": "238b8b85916e066af6fdf4606c93abd5766cdabb", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 820", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/122480/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hemphill v. McNeil Inc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-1770", 
+    "id": 106833, 
+    "resource_uri": "/api/rest/v2/citation/106833/"
+  }, 
+  "id": 122480, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.820.01-1770.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">820</span></span></p>\n    <p class=\"parties\">HEMPHILL<br>v.<br>McNEIL-PPC, INC.</p>\n    <p class=\"docket\">No. 01-1770.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS FOR THE FEDERAL CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 25 Fed. Appx. 915.</p>\n    </div>\n    ", 
+  "sha1": "238b8b85916e066af6fdf4606c93abd5766cdabb", 
+  "date_modified": "2014-12-21T02:17:31.615074", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/122480/hemphill-v-mcneil-ppc-inc/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/370241/", 
+  "html": "<p class=\"case_cite\">537 U.S. 820</p>\n    <p class=\"parties\">HEMPHILL<br>v.<br>McNEIL-PPC, INC.</p>\n    <p class=\"docket\">No. 01-1770.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS FOR THE FEDERAL CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 25 Fed. Appx. 915.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/122480/"
+}

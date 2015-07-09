@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2213364/united-states-v-insurgents/", "blocked": false, "citation": {"case_name": "United States v. Insurgents", "docket_number": null, "document_uris": ["/api/rest/v2/document/2213364/"], "federal_cite_one": "3 U.S. 513", "federal_cite_three": null, "federal_cite_two": null, "id": 2186135, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2186135/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1799-04-01", "date_modified": "2014-10-30T13:33:24.352060", "docket": "/api/rest/v2/docket/1926132/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>3 U.S. 513 (____)</b></center>\n<center><b>3 Dall. 513</b></center>\n<center><h1>THE UNITED STATES<br>\nversus<br>\nTHE INSURGENTS of Pennsylvania.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>BY THE COURT. The mere circumstance of delay, in trials of so much expectation and importance, though entitled to some consideration, would not be sufficient of itself to prevent a compliance with the present application: And, we think, that the 12th section of the Judicial act ought to be so construed, as to vest in the Judges a power of holding a special Court, in the proper County, if in other respects they do not deem it greatly inconvenient. The act of Congress, passed the 2nd of March 1793, (2 Vol. p. 226. s. 3. Swift's edit.) empowers the Judges to \"direct a special sessions of the Circuit Court to be \"holden for the trial of criminal cases, at any convenient place \"within the District, nearer to the place where the offences \"may be said to be committed, than the place, or places, appointed \"by law for the ordinary sessions;\" but this provision does not expressly discriminate between cases of a capital, and of an inferior, nature; and a provision having been previously made for capital cases, it would be justifiable to apply this to <span class=\"star-pagination\">*514</span> inferior cases. At all events, any criticism upon the word nearer (considering the whole State as a District, or County, in relation to the United States) would not prevent our appointing a special Court in the proper county, if such an apointment was, otherwise, eligible.</p>\n<p>The truth is, that the act gives to the Court a legal discretion upon the subject. A trial in the proper County might have been ordered, when the offences were committed; but no candid man will say, that, at that time, such an order would have been justifiable. The next step, therefore, was to bind the offenders over to this Court, having complete jurisdiction of the case; and, now, the only questions are, whether it is practicable to refer the trials to the counties, respectively, in which the offences were committed? And, if practicable, whether it can be done without great inconvenience?</p>\n<p>On the question of practicability, two difficulties occur: 1st. Whether the indictments found at this Court, can be transferred to a special Court?<sup>[*]</sup> And 2d. Whether the motion is not too late; for, as \"the indictment ought to be considered as \"inseparably incident to the trial, and in truth a part of it\" (Fost. C.L. 235. 9.) can the trial be commenced here, and be terminated elsewhere?</p>\n<p>But even if it were practicable, on legal principles, to direct a special Court, can it be thought convenient, or safe, in the present state of Northampton and Bucks counties, to do so? It is evident, that nothing but an armed force has recently been sufficient to quell the insurrection, and to arrest the insurgents; and, we hope, that it will never be expected from the exercise of a judicial discretion, that a Court of justice shall be voluntarily placed in a situation, where the execution of its functions, and the maintainance of its authority, must depend on the same military auxiliary.</p>\n<p>Upon both grounds, however, we think the motion ought to be rejected.</p>\n<p>MOTION REFUSED</p>\n<h2>NOTES</h2>\n<p>[*]  3 Dall. Rep. 17. 18. was cited on this point.</p>\n\n</div>", "html_with_citations": "", "id": 2213364, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2213364/", "sha1": "b4c7118c28f2edcb4539e2944c7a44a044182af7", "source": "L", "time_retrieved": "2013-10-30T01:37:30.710553"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "3 U.S. 513", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2213364/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Insurgents", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2186135, 
+    "resource_uri": "/api/rest/v2/citation/2186135/"
+  }, 
+  "id": 2213364, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1799-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>3 U.S. 513 (____)</b></center>\n<center><b>3 Dall. 513</b></center>\n<center><h1>THE UNITED STATES<br>\nversus<br>\nTHE INSURGENTS of Pennsylvania.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>BY THE COURT. The mere circumstance of delay, in trials of so much expectation and importance, though entitled to some consideration, would not be sufficient of itself to prevent a compliance with the present application: And, we think, that the 12th section of the Judicial act ought to be so construed, as to vest in the Judges a power of holding a special Court, in the proper County, if in other respects they do not deem it greatly inconvenient. The act of Congress, passed the 2nd of March 1793, (2 Vol. p. 226. s. 3. Swift's edit.) empowers the Judges to \"direct a special sessions of the Circuit Court to be \"holden for the trial of criminal cases, at any convenient place \"within the District, nearer to the place where the offences \"may be said to be committed, than the place, or places, appointed \"by law for the ordinary sessions;\" but this provision does not expressly discriminate between cases of a capital, and of an inferior, nature; and a provision having been previously made for capital cases, it would be justifiable to apply this to <span class=\"star-pagination\">*514</span> inferior cases. At all events, any criticism upon the word nearer (considering the whole State as a District, or County, in relation to the United States) would not prevent our appointing a special Court in the proper county, if such an apointment was, otherwise, eligible.</p>\n<p>The truth is, that the act gives to the Court a legal discretion upon the subject. A trial in the proper County might have been ordered, when the offences were committed; but no candid man will say, that, at that time, such an order would have been justifiable. The next step, therefore, was to bind the offenders over to this Court, having complete jurisdiction of the case; and, now, the only questions are, whether it is practicable to refer the trials to the counties, respectively, in which the offences were committed? And, if practicable, whether it can be done without great inconvenience?</p>\n<p>On the question of practicability, two difficulties occur: 1st. Whether the indictments found at this Court, can be transferred to a special Court?<sup>[*]</sup> And 2d. Whether the motion is not too late; for, as \"the indictment ought to be considered as \"inseparably incident to the trial, and in truth a part of it\" (Fost. C.L. 235. 9.) can the trial be commenced here, and be terminated elsewhere?</p>\n<p>But even if it were practicable, on legal principles, to direct a special Court, can it be thought convenient, or safe, in the present state of Northampton and Bucks counties, to do so? It is evident, that nothing but an armed force has recently been sufficient to quell the insurrection, and to arrest the insurgents; and, we hope, that it will never be expected from the exercise of a judicial discretion, that a Court of justice shall be voluntarily placed in a situation, where the execution of its functions, and the maintainance of its authority, must depend on the same military auxiliary.</p>\n<p>Upon both grounds, however, we think the motion ought to be rejected.</p>\n<p>MOTION REFUSED</p>\n<h2>NOTES</h2>\n<p>[*]  3 Dall. Rep. 17. 18. was cited on this point.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T01:37:30.710553", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "b4c7118c28f2edcb4539e2944c7a44a044182af7", 
+  "date_modified": "2014-10-30T13:33:24.352060", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2213364/united-states-v-insurgents/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1926132/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2213364/"
+}

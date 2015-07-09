@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/90725/united-states-v-wilson/", "blocked": false, "citation": {"case_name": "United States v. Wilson", "docket_number": null, "document_uris": ["/api/rest/v2/document/90725/"], "federal_cite_one": "106 U.S. 620", "federal_cite_three": null, "federal_cite_two": null, "id": 75105, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/75105/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1883-02-18", "date_modified": "2014-12-21T01:29:27.957750", "docket": "/api/rest/v2/docket/482640/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">106 U.S. 620</p>\n    <p class=\"case_cite\">2 S.Ct. 85</p>\n    <p class=\"case_cite\">27 L.Ed. 310</p>\n    <p class=\"parties\">UNITED STATES, Intervenor<br>v.<br>WILSON, Receiver, etc.</p>\n    <p class=\"date\">February 5, 1883.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Syllabus from page 620 intentionally omitted]</p>\n      <p class=\"indent\">[Statement of Case from pages 620-622 intentionally omitted]</p>\n      <p class=\"indent\"><i>Sol. Gen. Phillips</i>, for appellant.</p>\n      <p class=\"indent\">No counsel for appellee.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">We are not satisfied that the certificates of indebtedness, on account of which the United States have assessed the taxes petitioned for, were calculated or intended to circulate or to be used as money. They were not, therefore, taxable as 'circulation' under the third clause of section 3408 of the Revised Statutes.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The decree dismissing the petition of intervention is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>106 U.S. 620 (____)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nWILSON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*622</span> The Solicitor-General for the United States.</p>\n<p>There was no opposing counsel.</p>\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>We are not satisfied that the certificates of indebtedness, on account of which the United States have assessed the taxes petitioned for, were calculated or intended to circulate or to be used as money. They were not, therefore, taxable as \"circulation\" under the third clause of sect. 3408 of the Revised Statutes.</p>\n<p>Decree affirmed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">106</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">620</span></span> (____)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nWILSON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*622</span> The Solicitor-General for the United States.</p>\n<p>There was no opposing counsel.</p>\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>We are not satisfied that the certificates of indebtedness, on account of which the United States have assessed the taxes petitioned for, were calculated or intended to circulate or to be used as money. They were not, therefore, taxable as \"circulation\" under the third clause of sect. 3408 of the Revised Statutes.</p>\n<p>Decree affirmed.</p>\n</div>", "id": 90725, "judges": "Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/90725/", "sha1": "2cf3f6a418ea0f9307ea7bf953e2772b85af42d5", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:02:39"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "106 U.S. 620", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/90725/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Wilson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 75105, 
+    "resource_uri": "/api/rest/v2/citation/75105/"
+  }, 
+  "id": 90725, 
+  "blocked": false, 
+  "judges": "Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1883-02-18", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>106 U.S. 620 (____)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nWILSON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*622</span> The Solicitor-General for the United States.</p>\n<p>There was no opposing counsel.</p>\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>We are not satisfied that the certificates of indebtedness, on account of which the United States have assessed the taxes petitioned for, were calculated or intended to circulate or to be used as money. They were not, therefore, taxable as \"circulation\" under the third clause of sect. 3408 of the Revised Statutes.</p>\n<p>Decree affirmed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:02:39", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">106</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">620</span></span> (____)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nWILSON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*622</span> The Solicitor-General for the United States.</p>\n<p>There was no opposing counsel.</p>\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>We are not satisfied that the certificates of indebtedness, on account of which the United States have assessed the taxes petitioned for, were calculated or intended to circulate or to be used as money. They were not, therefore, taxable as \"circulation\" under the third clause of sect. 3408 of the Revised Statutes.</p>\n<p>Decree affirmed.</p>\n</div>", 
+  "sha1": "2cf3f6a418ea0f9307ea7bf953e2772b85af42d5", 
+  "date_modified": "2014-12-21T01:29:27.957750", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/90725/united-states-v-wilson/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/482640/", 
+  "html": "<p class=\"case_cite\">106 U.S. 620</p>\n    <p class=\"case_cite\">2 S.Ct. 85</p>\n    <p class=\"case_cite\">27 L.Ed. 310</p>\n    <p class=\"parties\">UNITED STATES, Intervenor<br>v.<br>WILSON, Receiver, etc.</p>\n    <p class=\"date\">February 5, 1883.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Syllabus from page 620 intentionally omitted]</p>\n      <p class=\"indent\">[Statement of Case from pages 620-622 intentionally omitted]</p>\n      <p class=\"indent\"><i>Sol. Gen. Phillips</i>, for appellant.</p>\n      <p class=\"indent\">No counsel for appellee.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">We are not satisfied that the certificates of indebtedness, on account of which the United States have assessed the taxes petitioned for, were calculated or intended to circulate or to be used as money. They were not, therefore, taxable as 'circulation' under the third clause of section 3408 of the Revised Statutes.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The decree dismissing the petition of intervention is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/90725/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/102060/michael-j-healy-chief-of-police-of-the-city-of/", "blocked": false, "citation": {"case_name": "Michael J. Healy, Chief of Police of the City of Manchester, New Hampshire v. Louis D. Ratta", "docket_number": "669", "document_uris": ["/api/rest/v2/document/102060/"], "federal_cite_one": "288 U.S. 593", "federal_cite_three": null, "federal_cite_two": null, "id": 86443, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/86443/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1933-02-20", "date_modified": "2014-12-21T01:40:23.580073", "docket": "/api/rest/v2/docket/60454/", "download_url": "http://bulk.resource.org/courts.gov/c/US/288/288.US.593.669.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">288 U.S. 593</p>\n    <p class=\"case_cite\">53 S.Ct. 401</p>\n    <p class=\"case_cite\">77 L.Ed. 971</p>\n    <p class=\"parties\">Michael J. HEALY, Chief of Police of the City of  Manchester, New Hampshire appellant,<br>v.<br>Louis D. RATTA.</p>\n    <p class=\"docket\">No. 669.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 20, 1933</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Thornton Lorimer, of Rochester, N. H., for appellant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. William N. Rogers, of Concord, N. H., for appellee.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">For opinion below, see 1 F. Supp. 669.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">In this case probable jurisdiction is noted. The Court desires to hear argument upon the questions: (a) whether a case for equitable relief is shown; (b) whether the amount in controversy is such as to sustain the jurisdiction of the Court below; and (c) whether the defendant-appellant is a state officer within the meaning of section 266, Judicial Code, as amended (43 Stat. 936, 938, U. S. Code, title 28, &#167; 380 [28 USCA &#167; 380]). The motion to advance is granted and the case is assigned for argument on Monday, March 13, next, after the cases heretofore assigned for that day.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">288</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">593</span></span></p>\n    <p class=\"case_cite\">53 S.Ct. 401</p>\n    <p class=\"case_cite\">77 L.Ed. 971</p>\n    <p class=\"parties\">Michael J. HEALY, Chief of Police of the City of  Manchester, New Hampshire appellant,<br>v.<br>Louis D. RATTA.</p>\n    <p class=\"docket\">No. 669.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 20, 1933</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Thornton Lorimer, of Rochester, N. H., for appellant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. William N. Rogers, of Concord, N. H., for appellee.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">For opinion below, see 1 F. Supp. 669.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">In this case probable jurisdiction is noted. The Court desires to hear argument upon the questions: (a) whether a case for equitable relief is shown; (b) whether the amount in controversy is such as to sustain the jurisdiction of the Court below; and (c) whether the defendant-appellant is a state officer within the meaning of section 266, Judicial Code, as amended (43 Stat. 936, 938, U. S. Code, title 28, &#167; 380 [28 USCA &#167; 380]). The motion to advance is granted and the case is assigned for argument on Monday, March 13, next, after the cases heretofore assigned for that day.</p>\n    </div>\n    ", "id": 102060, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/102060/", "sha1": "7bacc2bcc45d5d2eec559b0c54f80df24fd017f0", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:50:56"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "288 U.S. 593", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/102060/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Michael J. Healy, Chief of Police of the City of Manchester, New Hampshire v. Louis D. Ratta", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "669", 
+    "id": 86443, 
+    "resource_uri": "/api/rest/v2/citation/86443/"
+  }, 
+  "id": 102060, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1933-02-20", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/288/288.US.593.669.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:50:56", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">288</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">593</span></span></p>\n    <p class=\"case_cite\">53 S.Ct. 401</p>\n    <p class=\"case_cite\">77 L.Ed. 971</p>\n    <p class=\"parties\">Michael J. HEALY, Chief of Police of the City of  Manchester, New Hampshire appellant,<br>v.<br>Louis D. RATTA.</p>\n    <p class=\"docket\">No. 669.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 20, 1933</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Thornton Lorimer, of Rochester, N. H., for appellant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. William N. Rogers, of Concord, N. H., for appellee.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">For opinion below, see 1 F. Supp. 669.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">In this case probable jurisdiction is noted. The Court desires to hear argument upon the questions: (a) whether a case for equitable relief is shown; (b) whether the amount in controversy is such as to sustain the jurisdiction of the Court below; and (c) whether the defendant-appellant is a state officer within the meaning of section 266, Judicial Code, as amended (43 Stat. 936, 938, U. S. Code, title 28, &#167; 380 [28 USCA &#167; 380]). The motion to advance is granted and the case is assigned for argument on Monday, March 13, next, after the cases heretofore assigned for that day.</p>\n    </div>\n    ", 
+  "sha1": "7bacc2bcc45d5d2eec559b0c54f80df24fd017f0", 
+  "date_modified": "2014-12-21T01:40:23.580073", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/102060/michael-j-healy-chief-of-police-of-the-city-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/60454/", 
+  "html": "<p class=\"case_cite\">288 U.S. 593</p>\n    <p class=\"case_cite\">53 S.Ct. 401</p>\n    <p class=\"case_cite\">77 L.Ed. 971</p>\n    <p class=\"parties\">Michael J. HEALY, Chief of Police of the City of  Manchester, New Hampshire appellant,<br>v.<br>Louis D. RATTA.</p>\n    <p class=\"docket\">No. 669.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 20, 1933</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Thornton Lorimer, of Rochester, N. H., for appellant.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. William N. Rogers, of Concord, N. H., for appellee.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">For opinion below, see 1 F. Supp. 669.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">In this case probable jurisdiction is noted. The Court desires to hear argument upon the questions: (a) whether a case for equitable relief is shown; (b) whether the amount in controversy is such as to sustain the jurisdiction of the Court below; and (c) whether the defendant-appellant is a state officer within the meaning of section 266, Judicial Code, as amended (43 Stat. 936, 938, U. S. Code, title 28, &#167; 380 [28 USCA &#167; 380]). The motion to advance is granted and the case is assigned for argument on Monday, March 13, next, after the cases heretofore assigned for that day.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/102060/"
+}

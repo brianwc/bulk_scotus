@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108042/state-of-alabama-plaintiff-v-robert-finch-as/", "blocked": false, "citation": {"case_name": "State of Alabama v. Robert Finch, as Secretary of the United States Department of Health, Education, and Welfare, and John N. Mitchell, as Attorney General of the United States", "docket_number": "38, Original", "document_uris": ["/api/rest/v2/document/108042/"], "federal_cite_one": "396 U.S. 552", "federal_cite_three": null, "federal_cite_two": null, "id": 92401, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92401/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-12-15", "date_modified": "2014-12-21T01:56:45.695676", "docket": "/api/rest/v2/docket/2468543/", "download_url": "http://bulk.resource.org/courts.gov/c/US/396/396.US.552.38.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">396 U.S. 552</p>\n    <p class=\"case_cite\">90 S.Ct. 747</p>\n    <p class=\"case_cite\">24 L.Ed.2d 744</p>\n    <p class=\"parties\">State of ALABAMA, plaintiff,<br>v.<br>Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States.</p>\n    <p class=\"docket\">No. 38, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 2, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Albert P. Brewer, Governor of Alabama, Daniel J. Meador and Maury D. Smith, on the motion.</p>\n      <p class=\"indent\">On motion for leave to file bill of complaint.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On Mitchell, as Attorney General of the United States, as defendants.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The alleged emergent nature of the claims for relief led the Court to give expedited consideration to the motion and proffered complaint and, having examined the complaint, we conclude it fails to state a claim against either of the defendants warranting the exercise of the original jurisdiction of this Court.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Accordingly, the motion for leave to file the said complaint is denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">552</span></span></p>\n    <p class=\"case_cite\">90 S.Ct. 747</p>\n    <p class=\"case_cite\">24 L.Ed.2d 744</p>\n    <p class=\"parties\">State of ALABAMA, plaintiff,<br>v.<br>Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States.</p>\n    <p class=\"docket\">No. 38, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 2, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Albert P. Brewer, Governor of Alabama, Daniel J. Meador and Maury D. Smith, on the motion.</p>\n      <p class=\"indent\">On motion for leave to file bill of complaint.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On Mitchell, as Attorney General of the United States, as defendants.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The alleged emergent nature of the claims for relief led the Court to give expedited consideration to the motion and proffered complaint and, having examined the complaint, we conclude it fails to state a claim against either of the defendants warranting the exercise of the original jurisdiction of this Court.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Accordingly, the motion for leave to file the said complaint is denied.</p>\n    </div>\n    ", "id": 108042, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108042/", "sha1": "25ce303b034bad388a74b45fc29a277ede8dfe07", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:21"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "396 U.S. 552", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/108042/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "State of Alabama v. Robert Finch, as Secretary of the United States Department of Health, Education, and Welfare, and John N. Mitchell, as Attorney General of the United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "38, Original", 
+    "id": 92401, 
+    "resource_uri": "/api/rest/v2/citation/92401/"
+  }, 
+  "id": 108042, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-12-15", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/396/396.US.552.38.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:21", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">552</span></span></p>\n    <p class=\"case_cite\">90 S.Ct. 747</p>\n    <p class=\"case_cite\">24 L.Ed.2d 744</p>\n    <p class=\"parties\">State of ALABAMA, plaintiff,<br>v.<br>Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States.</p>\n    <p class=\"docket\">No. 38, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 2, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Albert P. Brewer, Governor of Alabama, Daniel J. Meador and Maury D. Smith, on the motion.</p>\n      <p class=\"indent\">On motion for leave to file bill of complaint.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On Mitchell, as Attorney General of the United States, as defendants.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The alleged emergent nature of the claims for relief led the Court to give expedited consideration to the motion and proffered complaint and, having examined the complaint, we conclude it fails to state a claim against either of the defendants warranting the exercise of the original jurisdiction of this Court.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Accordingly, the motion for leave to file the said complaint is denied.</p>\n    </div>\n    ", 
+  "sha1": "25ce303b034bad388a74b45fc29a277ede8dfe07", 
+  "date_modified": "2014-12-21T01:56:45.695676", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108042/state-of-alabama-plaintiff-v-robert-finch-as/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2468543/", 
+  "html": "<p class=\"case_cite\">396 U.S. 552</p>\n    <p class=\"case_cite\">90 S.Ct. 747</p>\n    <p class=\"case_cite\">24 L.Ed.2d 744</p>\n    <p class=\"parties\">State of ALABAMA, plaintiff,<br>v.<br>Robert FINCH, as Secretary of the United States  Department of Health, Education, and Welfare, and  John N. Mitchell, as Attorney General of the  United States.</p>\n    <p class=\"docket\">No. 38, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 2, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Albert P. Brewer, Governor of Alabama, Daniel J. Meador and Maury D. Smith, on the motion.</p>\n      <p class=\"indent\">On motion for leave to file bill of complaint.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On Mitchell, as Attorney General of the United States, as defendants.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The alleged emergent nature of the claims for relief led the Court to give expedited consideration to the motion and proffered complaint and, having examined the complaint, we conclude it fails to state a claim against either of the defendants warranting the exercise of the original jurisdiction of this Court.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Accordingly, the motion for leave to file the said complaint is denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108042/"
+}

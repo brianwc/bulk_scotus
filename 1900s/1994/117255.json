@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117255/manildra-milling-corp-v-omi-holdings-inc/", "blocked": false, "citation": {"case_name": "Manildra Milling Corp. v. Omi Holdings, Inc", "docket_number": "93-973", "document_uris": ["/api/rest/v2/document/117255/"], "federal_cite_one": "510 U.S. 1164", "federal_cite_three": null, "federal_cite_two": null, "id": 101614, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101614/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-02-28", "date_modified": "2014-12-21T02:14:05.518788", "docket": "/api/rest/v2/docket/1735303/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1164.93-973.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1164</p>\n    <p class=\"parties\">Manildra Milling Corp.<br>v.<br>OMI Holdings, Inc.</p>\n    <p class=\"docket\">No. 93-973.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 1 F. 3d 1253.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1164</span></span></p>\n    <p class=\"parties\">Manildra Milling Corp.<br>v.<br>OMI Holdings, Inc.</p>\n    <p class=\"docket\">No. 93-973.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 1 F. 3d 1253.</p>\n    </div>\n    ", "id": 117255, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117255/", "sha1": "83d175b3bc0d02f54d50380843de824b2ef8ec83", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:07"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1164", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117255/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Manildra Milling Corp. v. Omi Holdings, Inc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-973", 
+    "id": 101614, 
+    "resource_uri": "/api/rest/v2/citation/101614/"
+  }, 
+  "id": 117255, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-02-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1164.93-973.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:07", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1164</span></span></p>\n    <p class=\"parties\">Manildra Milling Corp.<br>v.<br>OMI Holdings, Inc.</p>\n    <p class=\"docket\">No. 93-973.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 1 F. 3d 1253.</p>\n    </div>\n    ", 
+  "sha1": "83d175b3bc0d02f54d50380843de824b2ef8ec83", 
+  "date_modified": "2014-12-21T02:14:05.518788", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117255/manildra-milling-corp-v-omi-holdings-inc/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1735303/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1164</p>\n    <p class=\"parties\">Manildra Milling Corp.<br>v.<br>OMI Holdings, Inc.</p>\n    <p class=\"docket\">No. 93-973.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 1 F. 3d 1253.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117255/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/145002/grabach-et-ux-v-larsson-family-trust-et-al/", "blocked": false, "citation": {"case_name": "Grabach Et Ux. v. Larsson Family Trust", "docket_number": "04-1281", "document_uris": ["/api/rest/v2/document/145002/"], "federal_cite_one": "544 U.S. 1061", "federal_cite_three": null, "federal_cite_two": null, "id": 129353, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/129353/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-05-31", "date_modified": "2014-12-21T02:22:07.981993", "docket": "/api/rest/v2/docket/455880/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1061.04-1281.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 1061</p>\n    <p class=\"parties\">GRABACH ET UX.<br>v.<br>LARSSON FAMILY TRUST ET AL.</p>\n    <p class=\"docket\">No. 04-1281.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 31, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Cal., 5th App. Dist. Certiorari denied. Reported below: 121 Cal. App. 4th 1147, 18 Cal. Rptr. 3d 136.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1061</span></span></p>\n    <p class=\"parties\">GRABACH ET UX.<br>v.<br>LARSSON FAMILY TRUST ET AL.</p>\n    <p class=\"docket\">No. 04-1281.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 31, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Cal., 5th App. Dist. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2259547\"><a href=\"/opinion/2259547/larsson-v-grabach/\"><span class=\"volume\">121</span> <span class=\"reporter\">Cal. App. 4th</span> <span class=\"page\">1147</span></a></span>, 18 Cal. Rptr. 3d 136.</p>\n    </div>\n    ", "id": 145002, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/145002/", "sha1": "d84b0bef5dbae455d3039b536058e028a3cf80c7", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T11:16:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 1061", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/145002/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Grabach Et Ux. v. Larsson Family Trust", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-1281", 
+    "id": 129353, 
+    "resource_uri": "/api/rest/v2/citation/129353/"
+  }, 
+  "id": 145002, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-05-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1061.04-1281.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T11:16:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1061</span></span></p>\n    <p class=\"parties\">GRABACH ET UX.<br>v.<br>LARSSON FAMILY TRUST ET AL.</p>\n    <p class=\"docket\">No. 04-1281.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 31, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Cal., 5th App. Dist. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2259547\"><a href=\"/opinion/2259547/larsson-v-grabach/\"><span class=\"volume\">121</span> <span class=\"reporter\">Cal. App. 4th</span> <span class=\"page\">1147</span></a></span>, 18 Cal. Rptr. 3d 136.</p>\n    </div>\n    ", 
+  "sha1": "d84b0bef5dbae455d3039b536058e028a3cf80c7", 
+  "date_modified": "2014-12-21T02:22:07.981993", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/145002/grabach-et-ux-v-larsson-family-trust-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/455880/", 
+  "html": "<p class=\"case_cite\">544 U.S. 1061</p>\n    <p class=\"parties\">GRABACH ET UX.<br>v.<br>LARSSON FAMILY TRUST ET AL.</p>\n    <p class=\"docket\">No. 04-1281.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 31, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. App. Cal., 5th App. Dist. Certiorari denied. Reported below: 121 Cal. App. 4th 1147, 18 Cal. Rptr. 3d 136.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/145002/"
+}

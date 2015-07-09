@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136336/gutierrez-arce-v-dretke-director-texas/", "blocked": false, "citation": {"case_name": "Gutierrez Arce v. Dretke, Director, Texas Department of Criminal Justice, Correctional Institutions Division", "docket_number": "03-9317", "document_uris": ["/api/rest/v2/document/136336/"], "federal_cite_one": "541 U.S. 1047", "federal_cite_three": null, "federal_cite_two": null, "id": 120689, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120689/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-05-17", "date_modified": "2014-12-21T02:20:08.897491", "docket": "/api/rest/v2/docket/2481915/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1047.03-9317.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1047</p>\n    <p class=\"parties\">GUTIERREZ ARCE<br>v.<br>DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION, ET AL.</p>\n    <p class=\"docket\">No. 03-9317.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1047</span></span></p>\n    <p class=\"parties\">GUTIERREZ ARCE<br>v.<br>DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION, ET AL.</p>\n    <p class=\"docket\">No. 03-9317.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 136336, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136336/", "sha1": "c77f64bd62b64d94038a9549d6fd2274a794b80d", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1047", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136336/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gutierrez Arce v. Dretke, Director, Texas Department of Criminal Justice, Correctional Institutions Division", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9317", 
+    "id": 120689, 
+    "resource_uri": "/api/rest/v2/citation/120689/"
+  }, 
+  "id": 136336, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-05-17", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1047.03-9317.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1047</span></span></p>\n    <p class=\"parties\">GUTIERREZ ARCE<br>v.<br>DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION, ET AL.</p>\n    <p class=\"docket\">No. 03-9317.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "c77f64bd62b64d94038a9549d6fd2274a794b80d", 
+  "date_modified": "2014-12-21T02:20:08.897491", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136336/gutierrez-arce-v-dretke-director-texas/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2481915/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1047</p>\n    <p class=\"parties\">GUTIERREZ ARCE<br>v.<br>DRETKE, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION, ET AL.</p>\n    <p class=\"docket\">No. 03-9317.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136336/"
+}

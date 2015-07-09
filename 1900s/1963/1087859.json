@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087859/johnson-v-mississippi/", "blocked": false, "citation": {"case_name": "Johnson v. Mississippi", "docket_number": "853", "document_uris": ["/api/rest/v2/document/1087859/"], "federal_cite_one": "372 U.S. 702", "federal_cite_three": null, "federal_cite_two": null, "id": 1060630, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060630/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-04-15", "date_modified": "2014-10-30T10:15:45.476312", "docket": "/api/rest/v2/docket/1507837/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>372 U.S. 702 (1963)</b></center>\n<center><h1>JOHNSON<br>\nv.<br>\nMISSISSIPPI.</h1></center>\n<center>No. 853.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 15, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSISSIPPI.\n<p><i>E. H. Cunningham, Jr.</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">372</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">702</span></span> (1963)</b></center>\n<center><h1>JOHNSON<br>\nv.<br>\nMISSISSIPPI.</h1></center>\n<center>No. 853.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 15, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSISSIPPI.\n<p><i>E. H. Cunningham, Jr.</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "id": 1087859, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087859/", "sha1": "7d641fed0222debd4de159497c48dbcac4006edb", "source": "L", "time_retrieved": "2013-10-29T19:57:59.538168"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "372 U.S. 702", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087859/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Johnson v. Mississippi", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "853", 
+    "id": 1060630, 
+    "resource_uri": "/api/rest/v2/citation/1060630/"
+  }, 
+  "id": 1087859, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-04-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>372 U.S. 702 (1963)</b></center>\n<center><h1>JOHNSON<br>\nv.<br>\nMISSISSIPPI.</h1></center>\n<center>No. 853.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 15, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSISSIPPI.\n<p><i>E. H. Cunningham, Jr.</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:57:59.538168", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">372</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">702</span></span> (1963)</b></center>\n<center><h1>JOHNSON<br>\nv.<br>\nMISSISSIPPI.</h1></center>\n<center>No. 853.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 15, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSISSIPPI.\n<p><i>E. H. Cunningham, Jr.</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "sha1": "7d641fed0222debd4de159497c48dbcac4006edb", 
+  "date_modified": "2014-10-30T10:15:45.476312", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087859/johnson-v-mississippi/", 
+  "citation_count": 4, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1507837/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087859/"
+}

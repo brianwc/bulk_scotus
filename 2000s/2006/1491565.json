@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1491565/brito-v-united-states/", "blocked": false, "citation": {"case_name": "Brito v. United States", "docket_number": "05-8766", "document_uris": ["/api/rest/v2/document/1491565/"], "federal_cite_one": "548 U.S. 926", "federal_cite_three": null, "federal_cite_two": null, "id": 1464336, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1464336/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-06-30", "date_modified": "2014-10-30T11:12:39.457290", "docket": "/api/rest/v2/docket/1625843/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>548 U.S. 926 (2006)</b></center>\n<center><h1>BRITO<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-8766.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">926</span></span> (2006)</b></center>\n<center><h1>BRITO<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-8766.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", "id": 1491565, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1491565/", "sha1": "92fe134e13d20409e4f1254f771009547ee07b3e", "source": "L", "time_retrieved": "2013-10-29T23:28:14.169041"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "548 U.S. 926", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1491565/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Brito v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-8766", 
+    "id": 1464336, 
+    "resource_uri": "/api/rest/v2/citation/1464336/"
+  }, 
+  "id": 1491565, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-06-30", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>548 U.S. 926 (2006)</b></center>\n<center><h1>BRITO<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-8766.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:28:14.169041", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">926</span></span> (2006)</b></center>\n<center><h1>BRITO<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-8766.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 30, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", 
+  "sha1": "92fe134e13d20409e4f1254f771009547ee07b3e", 
+  "date_modified": "2014-10-30T11:12:39.457290", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1491565/brito-v-united-states/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1625843/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1491565/"
+}

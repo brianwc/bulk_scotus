@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1400369/in-re-sarner/", "blocked": false, "citation": {"case_name": "In Re Sarner", "docket_number": "490", "document_uris": ["/api/rest/v2/document/1400369/"], "federal_cite_one": "361 U.S. 233", "federal_cite_three": null, "federal_cite_two": null, "id": 1373140, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1373140/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-01-11", "date_modified": "2014-10-30T03:50:00.929821", "docket": "/api/rest/v2/docket/603047/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>361 U.S. 233 (1960)</b></center>\n<center><h1>IN RE SARNER.</h1></center>\n<center>No. 490.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 11, 1960.</center>\nAPPEAL FROM THE SUPREME COURT OF NEW JERSEY.\n<p><i>Aaron W. Nussman</i> for appellant.</p>\n<p><i>David D. Furman,</i> Attorney General of New Jersey, and <i>Morton I. Greenberg,</i> Deputy Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to use the record in No. 803, October Term 1958, is granted. The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n</div>", "html_with_citations": "", "id": 1400369, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1400369/", "sha1": "fd476e19bd1c8b0d08cabc2f55211c5c4c6746c8", "source": "L", "time_retrieved": "2013-10-29T22:58:00.278460"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "361 U.S. 233", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1400369/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "In Re Sarner", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "490", 
+    "id": 1373140, 
+    "resource_uri": "/api/rest/v2/citation/1373140/"
+  }, 
+  "id": 1400369, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-01-11", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>361 U.S. 233 (1960)</b></center>\n<center><h1>IN RE SARNER.</h1></center>\n<center>No. 490.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 11, 1960.</center>\nAPPEAL FROM THE SUPREME COURT OF NEW JERSEY.\n<p><i>Aaron W. Nussman</i> for appellant.</p>\n<p><i>David D. Furman,</i> Attorney General of New Jersey, and <i>Morton I. Greenberg,</i> Deputy Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to use the record in No. 803, October Term 1958, is granted. The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:58:00.278460", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "fd476e19bd1c8b0d08cabc2f55211c5c4c6746c8", 
+  "date_modified": "2014-10-30T03:50:00.929821", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1400369/in-re-sarner/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/603047/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1400369/"
+}

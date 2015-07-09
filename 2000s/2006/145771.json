@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/145771/toledo-flores-v-united-states/", "blocked": false, "citation": {"case_name": "Toledo-Flores v. United States", "docket_number": "05-7664", "document_uris": ["/api/rest/v2/document/145771/"], "federal_cite_one": "549 U.S. 69", "federal_cite_three": "166 L. Ed. 2d 481", "federal_cite_two": "127 S. Ct. 638", "id": 130100, "lexis_cite": "2006 U.S. LEXIS 9441", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/130100/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-12-05", "date_modified": "2014-12-21T02:23:49.197774", "docket": "/api/rest/v2/docket/143736/", "download_url": "http://www.supremecourt.gov/opinions/06pdf/05-7664.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 638 (2006)</b></center>\n<center><b>549 U.S. 69</b></center>\n<center><h1>Reymundo TOLEDO-FLORES, Petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-7664.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>December 5, 2006.</center>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p>It is so ordered.</p>\n</div>", "html_with_citations": "<div>\n<center><b>127 S.Ct. 638 (2006)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">549</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">69</span></span></b></center>\n<center><h1>Reymundo TOLEDO-FLORES, Petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-7664.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>December 5, 2006.</center>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p>It is so ordered.</p>\n</div>", "id": 145771, "judges": "Per Curiam", "local_path": "pdf/2006/12/05/Toledo-Flores_v._United_States.pdf", "nature_of_suit": "", "plain_text": "(Slip Opinion)            Cite as: 549 U. S. ____ (2006)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 05–7664\n                                     _________________\n\n\n      REYMUNDO TOLEDO-FLORES, PETITIONER v. \n\n                UNITED STATES\n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF\n\n            APPEALS FOR THE FIFTH CIRCUIT\n\n                                [December 5, 2006] \n\n\n  PER CURIAM. \n\n  The writ of certiorari is dismissed as improvidently\n\ngranted.\n                                        It is so ordered.\n", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/145771/", "sha1": "6fd8d8f9d3f239a41e169ab663083c27b67aecb8", "source": "LC", "supreme_court_db_id": "2006-004", "time_retrieved": "2010-05-05T17:07:37"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "549 U.S. 69", 
+    "federal_cite_two": "127 S. Ct. 638", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "166 L. Ed. 2d 481", 
+    "lexis_cite": "2006 U.S. LEXIS 9441", 
+    "document_uris": [
+      "/api/rest/v2/document/145771/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Toledo-Flores v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-7664", 
+    "id": 130100, 
+    "resource_uri": "/api/rest/v2/citation/130100/"
+  }, 
+  "id": 145771, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-12-05", 
+  "download_url": "http://www.supremecourt.gov/opinions/06pdf/05-7664.pdf", 
+  "source": "LC", 
+  "local_path": "pdf/2006/12/05/Toledo-Flores_v._United_States.pdf", 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 638 (2006)</b></center>\n<center><b>549 U.S. 69</b></center>\n<center><h1>Reymundo TOLEDO-FLORES, Petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-7664.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>December 5, 2006.</center>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p>It is so ordered.</p>\n</div>", 
+  "time_retrieved": "2010-05-05T17:07:37", 
+  "nature_of_suit": "", 
+  "plain_text": "(Slip Opinion)            Cite as: 549 U. S. ____ (2006)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 05\u20137664\n                                     _________________\n\n\n      REYMUNDO TOLEDO-FLORES, PETITIONER v. \n\n                UNITED STATES\n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF\n\n            APPEALS FOR THE FIFTH CIRCUIT\n\n                                [December 5, 2006] \n\n\n  PER CURIAM. \n\n  The writ of certiorari is dismissed as improvidently\n\ngranted.\n                                        It is so ordered.\n", 
+  "html_with_citations": "<div>\n<center><b>127 S.Ct. 638 (2006)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">549</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">69</span></span></b></center>\n<center><h1>Reymundo TOLEDO-FLORES, Petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-7664.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>December 5, 2006.</center>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p>It is so ordered.</p>\n</div>", 
+  "sha1": "6fd8d8f9d3f239a41e169ab663083c27b67aecb8", 
+  "date_modified": "2014-12-21T02:23:49.197774", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/145771/toledo-flores-v-united-states/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": "2006-004", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/143736/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/145771/"
+}

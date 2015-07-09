@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107790/overton-v-new-york/", "blocked": false, "citation": {"case_name": "Overton v. New York", "docket_number": "212", "document_uris": ["/api/rest/v2/document/107790/"], "federal_cite_one": "393 U.S. 85", "federal_cite_three": null, "federal_cite_two": null, "id": 92149, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92149/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-12-09", "date_modified": "2014-12-21T01:56:04.700945", "docket": "/api/rest/v2/docket/2503820/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">393 U.S. 85</p>\n    <p class=\"case_cite\">89 S.Ct. 252</p>\n    <p class=\"case_cite\">21 L.Ed.2d 218</p>\n    <p class=\"parties\">Carlos OVERTON<br>v.<br>NEW YORK.</p>\n    <p class=\"docket\">No. 212.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 28, 1968</p>\n    <p class=\"date\">Rehearing Denied Dec. 9, 1968.</p>\n    <div class=\"prelims\">\n      <p>See 393 U.S. 992, 89 S.Ct. 441.</p>\n      <p class=\"indent\">Melvin L. Wulf and David C. Gilberg, for petitioner.</p>\n      <p class=\"indent\">Carl A. Vergari and James J. Duggan, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Appeals of New York.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for a writ of certiorari is granted. The judgment of the Appellate Term of the Supreme Court of New York is vacated, and the case is remanded for further consideration in the light of Bumper v. State of North Carolina, 391 U.S. 543, 88 S.Ct. 1788, 20 L.Ed.2d 797 (1968).</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK dissents and would affirm the judgment of conviction. here.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>393 U.S. 85 (1968)</b></center>\n<center><h1>OVERTON<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 212.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 28, 1968.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF NEW YORK.\n<p><i>Melvin L. Wulf</i> and <i>David C. Gilberg</i> for petitioner.</p>\n<p><i>Carl A. Vergari</i> and <i>James J. Duggan</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted. The judgment of the Appellate Term of the Supreme Court of New York is vacated, and the case is remanded for further consideration in the light of <i>Bumper</i> v. <i>North Carolina,</i> 391 U. S. 543 (1968).</p>\n<p>MR. JUSTICE BLACK dissents and would affirm the judgment of conviction here.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">393</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">85</span></span> (1968)</b></center>\n<center><h1>OVERTON<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 212.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 28, 1968.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF NEW YORK.\n<p><i>Melvin L. Wulf</i> and <i>David C. Gilberg</i> for petitioner.</p>\n<p><i>Carl A. Vergari</i> and <i>James J. Duggan</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted. The judgment of the Appellate Term of the Supreme Court of New York is vacated, and the case is remanded for further consideration in the light of <i>Bumper</i> v. <i>North Carolina,</i> 391 U. S. 543 (1968).</p>\n<p>MR. JUSTICE BLACK dissents and would affirm the judgment of conviction here.</p>\n</div>", "id": 107790, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107790/", "sha1": "cb8a2e8ccfa06b82b1567c952e791a74edc707f1", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:16"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 85", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107790/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Overton v. New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "212", 
+    "id": 92149, 
+    "resource_uri": "/api/rest/v2/citation/92149/"
+  }, 
+  "id": 107790, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-12-09", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 85 (1968)</b></center>\n<center><h1>OVERTON<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 212.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 28, 1968.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF NEW YORK.\n<p><i>Melvin L. Wulf</i> and <i>David C. Gilberg</i> for petitioner.</p>\n<p><i>Carl A. Vergari</i> and <i>James J. Duggan</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted. The judgment of the Appellate Term of the Supreme Court of New York is vacated, and the case is remanded for further consideration in the light of <i>Bumper</i> v. <i>North Carolina,</i> 391 U. S. 543 (1968).</p>\n<p>MR. JUSTICE BLACK dissents and would affirm the judgment of conviction here.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:16", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">393</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">85</span></span> (1968)</b></center>\n<center><h1>OVERTON<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 212.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 28, 1968.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF NEW YORK.\n<p><i>Melvin L. Wulf</i> and <i>David C. Gilberg</i> for petitioner.</p>\n<p><i>Carl A. Vergari</i> and <i>James J. Duggan</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted. The judgment of the Appellate Term of the Supreme Court of New York is vacated, and the case is remanded for further consideration in the light of <i>Bumper</i> v. <i>North Carolina,</i> 391 U. S. 543 (1968).</p>\n<p>MR. JUSTICE BLACK dissents and would affirm the judgment of conviction here.</p>\n</div>", 
+  "sha1": "cb8a2e8ccfa06b82b1567c952e791a74edc707f1", 
+  "date_modified": "2014-12-21T01:56:04.700945", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107790/overton-v-new-york/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2503820/", 
+  "html": "<p class=\"case_cite\">393 U.S. 85</p>\n    <p class=\"case_cite\">89 S.Ct. 252</p>\n    <p class=\"case_cite\">21 L.Ed.2d 218</p>\n    <p class=\"parties\">Carlos OVERTON<br>v.<br>NEW YORK.</p>\n    <p class=\"docket\">No. 212.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 28, 1968</p>\n    <p class=\"date\">Rehearing Denied Dec. 9, 1968.</p>\n    <div class=\"prelims\">\n      <p>See 393 U.S. 992, 89 S.Ct. 441.</p>\n      <p class=\"indent\">Melvin L. Wulf and David C. Gilberg, for petitioner.</p>\n      <p class=\"indent\">Carl A. Vergari and James J. Duggan, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Appeals of New York.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for a writ of certiorari is granted. The judgment of the Appellate Term of the Supreme Court of New York is vacated, and the case is remanded for further consideration in the light of Bumper v. State of North Carolina, 391 U.S. 543, 88 S.Ct. 1788, 20 L.Ed.2d 797 (1968).</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK dissents and would affirm the judgment of conviction. here.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107790/"
+}

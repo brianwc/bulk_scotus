@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/126907/locating-inc-v-parks/", "blocked": false, "citation": {"case_name": "Locating, Inc. v. Parks", "docket_number": "02-810", "document_uris": ["/api/rest/v2/document/126907/"], "federal_cite_one": "537 U.S. 1168", "federal_cite_three": null, "federal_cite_two": null, "id": 111260, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/111260/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-01-22", "date_modified": "2014-12-21T02:18:12.506395", "docket": "/api/rest/v2/docket/1455687/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1168.02-810.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1168</p>\n    <p class=\"parties\">LOCATING, INC.<br>v.<br>PARKS.</p>\n    <p class=\"docket\">No. 02-810.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 22, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari dismissed under this Court's Rule 46. Reported below: 37 Fed. Appx. 901.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1168</span></span></p>\n    <p class=\"parties\">LOCATING, INC.<br>v.<br>PARKS.</p>\n    <p class=\"docket\">No. 02-810.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 22, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari dismissed under this Court's Rule 46. Reported below: 37 Fed. Appx. 901.</p>\n    </div>\n    ", "id": 126907, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/126907/", "sha1": "6a5224d690753493b38d17db4209bd988768e390", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1168", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/126907/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Locating, Inc. v. Parks", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-810", 
+    "id": 111260, 
+    "resource_uri": "/api/rest/v2/citation/111260/"
+  }, 
+  "id": 126907, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-01-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1168.02-810.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1168</span></span></p>\n    <p class=\"parties\">LOCATING, INC.<br>v.<br>PARKS.</p>\n    <p class=\"docket\">No. 02-810.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 22, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari dismissed under this Court's Rule 46. Reported below: 37 Fed. Appx. 901.</p>\n    </div>\n    ", 
+  "sha1": "6a5224d690753493b38d17db4209bd988768e390", 
+  "date_modified": "2014-12-21T02:18:12.506395", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/126907/locating-inc-v-parks/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1455687/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1168</p>\n    <p class=\"parties\">LOCATING, INC.<br>v.<br>PARKS.</p>\n    <p class=\"docket\">No. 02-810.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 22, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari dismissed under this Court's Rule 46. Reported below: 37 Fed. Appx. 901.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/126907/"
+}

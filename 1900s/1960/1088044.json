@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088044/williams-v-lavallee/", "blocked": false, "citation": {"case_name": "Williams v. LaVallee", "docket_number": "833, Misc", "document_uris": ["/api/rest/v2/document/1088044/"], "federal_cite_one": "362 U.S. 637", "federal_cite_three": null, "federal_cite_two": null, "id": 1060815, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060815/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-05-23", "date_modified": "2014-10-30T10:15:59.377367", "docket": "/api/rest/v2/docket/1508230/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>362 U.S. 637 (1960)</b></center>\n<center><h1>WILLIAMS<br>\nv.<br>\nLAVALLEE, WARDEN.</h1></center>\n<center>No. 833, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 23, 1960.</center>\nAPPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction.</p>\n</div>", "html_with_citations": "", "id": 1088044, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088044/", "sha1": "1f47140c9d377ee9d3909cc17d15b1499a68415b", "source": "L", "time_retrieved": "2013-10-29T20:43:45.219115"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "362 U.S. 637", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088044/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Williams v. LaVallee", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "833, Misc", 
+    "id": 1060815, 
+    "resource_uri": "/api/rest/v2/citation/1060815/"
+  }, 
+  "id": 1088044, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-05-23", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>362 U.S. 637 (1960)</b></center>\n<center><h1>WILLIAMS<br>\nv.<br>\nLAVALLEE, WARDEN.</h1></center>\n<center>No. 833, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 23, 1960.</center>\nAPPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:43:45.219115", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "1f47140c9d377ee9d3909cc17d15b1499a68415b", 
+  "date_modified": "2014-10-30T10:15:59.377367", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088044/williams-v-lavallee/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1508230/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088044/"
+}

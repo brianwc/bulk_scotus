@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620911/christy-v-findley/", "blocked": false, "citation": {"case_name": "Christy v. Findley", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620911/"], "federal_cite_one": "55 U.S. 296", "federal_cite_three": null, "federal_cite_two": null, "id": 2593683, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593683/", "scotus_early_cite": "14 How. 296", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1852-01-01", "date_modified": "2014-10-30T00:18:00.557913", "docket": "/api/rest/v2/docket/178519/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>55 U.S. 296 (1852)</b></center>\n<center><b>14 How. 296</b></center>\n<center><h1>WILLIAM CHRISTY, PLAINTIFF IN ERROR,<br>\nv.<br>\nWILLIAM YOUNG.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. Justice CURTIS.</p>\n<p>In this case, the sixth, eighth, ninth, and tenth pleas, are demurred to, and the demurrers are sustained, for the reasons assigned in the opinion in the case of Christy v. Scott. The tenth plea in this case of the ten years' limitation law of Texas, is bad, for the same reasons as the plea of the three years' statute pleaded in that case. The judgment of the District Court is reversed, and the case remanded for further proceedings.</p>\n<p></p>\n<h2>\n<span class=\"star-pagination\">*297</span> Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the District Court of the United States for the District of Texas, and was argued by counsel. On consideration whereof, it is now here ordered and adjudged by this court, that the judgment of the said District Court in this cause be, and the same is hereby, reversed, with costs, and that this cause be, and the same is hereby, remanded to the said District Court for further proceedings to be had therein, in conformity to the opinion of this court, and as to law and justice shall appertain.</p>\n</div>", "html_with_citations": "", "id": 2620911, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620911/", "sha1": "0d8651e77bf9902aa7db7afd312126fdd26704e2", "source": "L", "time_retrieved": "2013-11-01T13:04:35.368338"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "55 U.S. 296", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620911/"
+    ], 
+    "scotus_early_cite": "14 How. 296", 
+    "case_name": "Christy v. Findley", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593683, 
+    "resource_uri": "/api/rest/v2/citation/2593683/"
+  }, 
+  "id": 2620911, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1852-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>55 U.S. 296 (1852)</b></center>\n<center><b>14 How. 296</b></center>\n<center><h1>WILLIAM CHRISTY, PLAINTIFF IN ERROR,<br>\nv.<br>\nWILLIAM YOUNG.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. Justice CURTIS.</p>\n<p>In this case, the sixth, eighth, ninth, and tenth pleas, are demurred to, and the demurrers are sustained, for the reasons assigned in the opinion in the case of Christy v. Scott. The tenth plea in this case of the ten years' limitation law of Texas, is bad, for the same reasons as the plea of the three years' statute pleaded in that case. The judgment of the District Court is reversed, and the case remanded for further proceedings.</p>\n<p></p>\n<h2>\n<span class=\"star-pagination\">*297</span> Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the District Court of the United States for the District of Texas, and was argued by counsel. On consideration whereof, it is now here ordered and adjudged by this court, that the judgment of the said District Court in this cause be, and the same is hereby, reversed, with costs, and that this cause be, and the same is hereby, remanded to the said District Court for further proceedings to be had therein, in conformity to the opinion of this court, and as to law and justice shall appertain.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:04:35.368338", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0d8651e77bf9902aa7db7afd312126fdd26704e2", 
+  "date_modified": "2014-10-30T00:18:00.557913", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620911/christy-v-findley/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/178519/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620911/"
+}

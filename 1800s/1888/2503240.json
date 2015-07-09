@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2503240/western-union-telegraph-co-v-pennsylvania/", "blocked": false, "citation": {"case_name": "Western Union Telegraph Co. v. Pennsylvania", "docket_number": "56", "document_uris": ["/api/rest/v2/document/2503240/"], "federal_cite_one": "128 U.S. 39", "federal_cite_three": null, "federal_cite_two": null, "id": 2476012, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2476012/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1888-10-22", "date_modified": "2014-10-30T17:43:00.759621", "docket": "/api/rest/v2/docket/2558918/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>128 U.S. 39 (1888)</b></center>\n<center><h1>WESTERN UNION TELEGRAPH COMPANY<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 56.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 18, 1888.</center>\n<center>Decided October 22, 1888.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF PENNSYLVANIA.\n<p><i>Mr. M.E. Olmsted</i> for plaintiff in error.</p>\n<p><i>Mr. W.S. Kirkpatrick,</i> Attorney General of Pennsylvania, for defendant in error. <i>Mr. John F. Sanderson,</i> Deputy Attorney General, was also on the brief.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>Judgment was rendered against plaintiff in error for taxes on telegraphic messages sent from point to point within the State of Pennsylvania; on messages sent from points within the State to points in other States; on messages sent from points in other States to points within the State; and on messages sent to and from points in other States, which passed over lines partly within the State; and the record discloses the several amounts of taxes upon the several classes of messages, which, with commissions and interest, make up the total recovery. It is clear, and this is conceded by the defendant <span class=\"star-pagination\">*40</span> in error, that, under the decisions of this court in <i>Telegraph Co.</i> v. <i>Texas,</i> 105 U.S. 460, and <i>Ratterman</i> v. <i>Western Union Telegraph Co.,</i> 127 U.S. 411, the Commonwealth was not entitled to recover for the taxes in question, excepting in respect to the messages transmitted wholly within the State.</p>\n<p><i>The judgment will therefore be reversed and the cause remanded for such further proceedings as justice may require.</i></p>\n</div>", "html_with_citations": "", "id": 2503240, "judges": "Fuller", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2503240/", "sha1": "e319d7687b65262714bc68bafcd6338169a2d761", "source": "L", "time_retrieved": "2013-10-30T02:59:25.237969"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "128 U.S. 39", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2503240/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Western Union Telegraph Co. v. Pennsylvania", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "56", 
+    "id": 2476012, 
+    "resource_uri": "/api/rest/v2/citation/2476012/"
+  }, 
+  "id": 2503240, 
+  "blocked": false, 
+  "judges": "Fuller", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1888-10-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>128 U.S. 39 (1888)</b></center>\n<center><h1>WESTERN UNION TELEGRAPH COMPANY<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 56.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 18, 1888.</center>\n<center>Decided October 22, 1888.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF PENNSYLVANIA.\n<p><i>Mr. M.E. Olmsted</i> for plaintiff in error.</p>\n<p><i>Mr. W.S. Kirkpatrick,</i> Attorney General of Pennsylvania, for defendant in error. <i>Mr. John F. Sanderson,</i> Deputy Attorney General, was also on the brief.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>Judgment was rendered against plaintiff in error for taxes on telegraphic messages sent from point to point within the State of Pennsylvania; on messages sent from points within the State to points in other States; on messages sent from points in other States to points within the State; and on messages sent to and from points in other States, which passed over lines partly within the State; and the record discloses the several amounts of taxes upon the several classes of messages, which, with commissions and interest, make up the total recovery. It is clear, and this is conceded by the defendant <span class=\"star-pagination\">*40</span> in error, that, under the decisions of this court in <i>Telegraph Co.</i> v. <i>Texas,</i> 105 U.S. 460, and <i>Ratterman</i> v. <i>Western Union Telegraph Co.,</i> 127 U.S. 411, the Commonwealth was not entitled to recover for the taxes in question, excepting in respect to the messages transmitted wholly within the State.</p>\n<p><i>The judgment will therefore be reversed and the cause remanded for such further proceedings as justice may require.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:59:25.237969", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e319d7687b65262714bc68bafcd6338169a2d761", 
+  "date_modified": "2014-10-30T17:43:00.759621", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2503240/western-union-telegraph-co-v-pennsylvania/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2558918/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2503240/"
+}

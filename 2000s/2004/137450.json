@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/137450/marquez-urquidi-v-united-states/", "blocked": false, "citation": {"case_name": "Marquez-Urquidi v. United States", "docket_number": "03-9036", "document_uris": ["/api/rest/v2/document/137450/"], "federal_cite_one": "542 U.S. 939", "federal_cite_three": null, "federal_cite_two": null, "id": 121803, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121803/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-28", "date_modified": "2014-12-21T02:20:26.371320", "docket": "/api/rest/v2/docket/370163/", "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.939.03-9036.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">542 U.S. 939</p>\n    <p class=\"parties\">MARQUEZ-URQUIDI<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-9036.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 28, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 81 Fed. Appx. 516.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">939</span></span></p>\n    <p class=\"parties\">MARQUEZ-URQUIDI<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-9036.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 28, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 81 Fed. Appx. 516.</p>\n    </div>\n    ", "id": 137450, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/137450/", "sha1": "c3b3c4d05e97f1dc74834a1f14592500f9aaaac6", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:31:43"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "542 U.S. 939", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/137450/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Marquez-Urquidi v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9036", 
+    "id": 121803, 
+    "resource_uri": "/api/rest/v2/citation/121803/"
+  }, 
+  "id": 137450, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.939.03-9036.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:31:43", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">939</span></span></p>\n    <p class=\"parties\">MARQUEZ-URQUIDI<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-9036.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 28, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 81 Fed. Appx. 516.</p>\n    </div>\n    ", 
+  "sha1": "c3b3c4d05e97f1dc74834a1f14592500f9aaaac6", 
+  "date_modified": "2014-12-21T02:20:26.371320", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/137450/marquez-urquidi-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/370163/", 
+  "html": "<p class=\"case_cite\">542 U.S. 939</p>\n    <p class=\"parties\">MARQUEZ-URQUIDI<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-9036.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 28, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 81 Fed. Appx. 516.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/137450/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/120815/sprinkler-fitters-local-417-v-minnesota-chapter/", "blocked": false, "citation": {"case_name": "Sprinkler Fitters Local 417 v. Minnesota Chapter of Associated Builders & Contractors, Inc.", "docket_number": "01-1395", "document_uris": ["/api/rest/v2/document/120815/"], "federal_cite_one": "535 U.S. 1096", "federal_cite_three": null, "federal_cite_two": null, "id": 105168, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/105168/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-05-28", "date_modified": "2014-12-21T02:17:08.790565", "docket": "/api/rest/v2/docket/1843803/", "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1096.01-1395.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">535 U.S. 1096</p>\n    <p class=\"parties\">SPRINKLER FITTERS LOCAL 417<br><i>v.</i><br>MINNESOTA CHAPTER OF ASSOCIATED BUILDERS &amp; CONTRACTORS, INC., ET AL.</p>\n    <p class=\"docket\">No. 01-1395.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 8th Cir. Certiorari denied. Reported below: 267 F. 3d 807.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1096</span></span></p>\n    <p class=\"parties\">SPRINKLER FITTERS LOCAL 417<br><i>v.</i><br>MINNESOTA CHAPTER OF ASSOCIATED BUILDERS &amp; CONTRACTORS, INC., ET AL.</p>\n    <p class=\"docket\">No. 01-1395.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 8th Cir. Certiorari denied. Reported below: 267 F. 3d 807.</p>\n    </div>\n    ", "id": 120815, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/120815/", "sha1": "ece9c581490a4958bf34da2569c6bd44f30b6f3c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:15"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "535 U.S. 1096", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/120815/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Sprinkler Fitters Local 417 v. Minnesota Chapter of Associated Builders & Contractors, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-1395", 
+    "id": 105168, 
+    "resource_uri": "/api/rest/v2/citation/105168/"
+  }, 
+  "id": 120815, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-05-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1096.01-1395.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:15", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1096</span></span></p>\n    <p class=\"parties\">SPRINKLER FITTERS LOCAL 417<br><i>v.</i><br>MINNESOTA CHAPTER OF ASSOCIATED BUILDERS &amp; CONTRACTORS, INC., ET AL.</p>\n    <p class=\"docket\">No. 01-1395.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 8th Cir. Certiorari denied. Reported below: 267 F. 3d 807.</p>\n    </div>\n    ", 
+  "sha1": "ece9c581490a4958bf34da2569c6bd44f30b6f3c", 
+  "date_modified": "2014-12-21T02:17:08.790565", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/120815/sprinkler-fitters-local-417-v-minnesota-chapter/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1843803/", 
+  "html": "<p class=\"case_cite\">535 U.S. 1096</p>\n    <p class=\"parties\">SPRINKLER FITTERS LOCAL 417<br><i>v.</i><br>MINNESOTA CHAPTER OF ASSOCIATED BUILDERS &amp; CONTRACTORS, INC., ET AL.</p>\n    <p class=\"docket\">No. 01-1395.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 8th Cir. Certiorari denied. Reported below: 267 F. 3d 807.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/120815/"
+}

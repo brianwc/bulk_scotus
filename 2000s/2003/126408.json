@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/126408/storm-v-california/", "blocked": false, "citation": {"case_name": "Storm v. California", "docket_number": "02-7344", "document_uris": ["/api/rest/v2/document/126408/"], "federal_cite_one": "537 U.S. 1127", "federal_cite_three": null, "federal_cite_two": null, "id": 110761, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/110761/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-01-13", "date_modified": "2014-12-21T02:18:09.033063", "docket": "/api/rest/v2/docket/78198/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1127.02-7344.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1127</p>\n    <p class=\"parties\">STORM<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-7344.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Cal. Certiorari denied. Reported below: 28 Cal. 4th 1007, 52 P. 3d 52.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1127</span></span></p>\n    <p class=\"parties\">STORM<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-7344.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Cal. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2519785\"><a href=\"/opinion/2519785/people-v-storm/\"><span class=\"volume\">28</span> <span class=\"reporter\">Cal. 4th</span> <span class=\"page\">1007</span></a></span>, 52 P. 3d 52.</p>\n    </div>\n    ", "id": 126408, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/126408/", "sha1": "0fcc8435ad33cebd61a11e510d4d47b0a7635ab0", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1127", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/126408/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Storm v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-7344", 
+    "id": 110761, 
+    "resource_uri": "/api/rest/v2/citation/110761/"
+  }, 
+  "id": 126408, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-01-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1127.02-7344.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1127</span></span></p>\n    <p class=\"parties\">STORM<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-7344.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Cal. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2519785\"><a href=\"/opinion/2519785/people-v-storm/\"><span class=\"volume\">28</span> <span class=\"reporter\">Cal. 4th</span> <span class=\"page\">1007</span></a></span>, 52 P. 3d 52.</p>\n    </div>\n    ", 
+  "sha1": "0fcc8435ad33cebd61a11e510d4d47b0a7635ab0", 
+  "date_modified": "2014-12-21T02:18:09.033063", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/126408/storm-v-california/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/78198/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1127</p>\n    <p class=\"parties\">STORM<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-7344.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Cal. Certiorari denied. Reported below: 28 Cal. 4th 1007, 52 P. 3d 52.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/126408/"
+}

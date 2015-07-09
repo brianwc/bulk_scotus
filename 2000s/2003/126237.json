@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/126237/butler-v-nevada/", "blocked": false, "citation": {"case_name": "Butler v. Nevada", "docket_number": "02-6937", "document_uris": ["/api/rest/v2/document/126237/"], "federal_cite_one": "537 U.S. 1115", "federal_cite_three": null, "federal_cite_two": null, "id": 110590, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/110590/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-01-13", "date_modified": "2014-12-21T02:18:08.322072", "docket": "/api/rest/v2/docket/159307/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1115.02-6937.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1115</p>\n    <p class=\"parties\">BUTLER<br>v.<br>NEVADA.</p>\n    <p class=\"docket\">No. 02-6937.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF NEVADA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Nev. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1115</span></span></p>\n    <p class=\"parties\">BUTLER<br>v.<br>NEVADA.</p>\n    <p class=\"docket\">No. 02-6937.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF NEVADA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Nev. Certiorari denied.</p>\n    </div>\n    ", "id": 126237, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/126237/", "sha1": "8f0de44ecae838bd9e6b6ba9d65207813c573e5b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1115", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/126237/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Butler v. Nevada", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-6937", 
+    "id": 110590, 
+    "resource_uri": "/api/rest/v2/citation/110590/"
+  }, 
+  "id": 126237, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-01-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1115.02-6937.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1115</span></span></p>\n    <p class=\"parties\">BUTLER<br>v.<br>NEVADA.</p>\n    <p class=\"docket\">No. 02-6937.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF NEVADA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Nev. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "8f0de44ecae838bd9e6b6ba9d65207813c573e5b", 
+  "date_modified": "2014-12-21T02:18:08.322072", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/126237/butler-v-nevada/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/159307/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1115</p>\n    <p class=\"parties\">BUTLER<br>v.<br>NEVADA.</p>\n    <p class=\"docket\">No. 02-6937.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF NEVADA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Nev. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/126237/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1861136/herrera-v-lira/", "blocked": false, "citation": {"case_name": "Herrera v. Lira", "docket_number": "05-878", "document_uris": ["/api/rest/v2/document/1861136/"], "federal_cite_one": "127 S. Ct. 1212", "federal_cite_three": null, "federal_cite_two": null, "id": 1833907, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1833907/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-02-20", "date_modified": "2014-10-30T10:00:35.302561", "docket": "/api/rest/v2/docket/1474455/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 1212 (2007)</b></center>\n<center><h1>Steve HERRERA, et al., petitioners,<br>\nv.<br>\nErnesto G. LIRA.</h1></center>\n<center>No. 05-878.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>February 20, 2007.</center>\n<p><span class=\"star-pagination\">*1213</span> Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</div>", "html_with_citations": "", "id": 1861136, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1861136/", "sha1": "a68ac59a9cb185543b3277b93f980d15cbf87d44", "source": "L", "time_retrieved": "2013-10-30T00:39:04.174502"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 1212", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1861136/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Herrera v. Lira", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-878", 
+    "id": 1833907, 
+    "resource_uri": "/api/rest/v2/citation/1833907/"
+  }, 
+  "id": 1861136, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-02-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 1212 (2007)</b></center>\n<center><h1>Steve HERRERA, et al., petitioners,<br>\nv.<br>\nErnesto G. LIRA.</h1></center>\n<center>No. 05-878.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>February 20, 2007.</center>\n<p><span class=\"star-pagination\">*1213</span> Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:39:04.174502", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a68ac59a9cb185543b3277b93f980d15cbf87d44", 
+  "date_modified": "2014-10-30T10:00:35.302561", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1861136/herrera-v-lira/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1474455/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1861136/"
+}

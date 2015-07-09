@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/120239/alaska-v-united-states/", "blocked": false, "citation": {"case_name": "Alaska v. United States", "docket_number": "128, Orig", "document_uris": ["/api/rest/v2/document/120239/"], "federal_cite_one": "535 U.S. 1052", "federal_cite_three": null, "federal_cite_two": null, "id": 104592, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/104592/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-05-13", "date_modified": "2014-12-21T02:17:04.385046", "docket": "/api/rest/v2/docket/294742/", "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1052.128.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">535 U.S. 1052</p>\n    <p class=\"parties\">ALASKA<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 128, Orig.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 13, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motion of the Special Master for fees and reimbursements of expenses granted, and the Special Master is awarded a total of $20,112.75 for the period October 17, 2001, through April 16, 2002, to be paid equally by the parties. [For earlier order herein, see, <i>e. g.,</i> 534 U. S. 1103.]</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1052</span></span></p>\n    <p class=\"parties\">ALASKA<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 128, Orig.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 13, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motion of the Special Master for fees and reimbursements of expenses granted, and the Special Master is awarded a total of $20,112.75 for the period October 17, 2001, through April 16, 2002, to be paid equally by the parties. [For earlier order herein, see, <i>e. g.,</i> 534 U. S. 1103.]</p>\n    </div>\n    ", "id": 120239, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/120239/", "sha1": "2c3b120c01f9bb9ea772db6ba1cd2d5a5c0a1c7e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:00"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "535 U.S. 1052", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/120239/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Alaska v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "128, Orig", 
+    "id": 104592, 
+    "resource_uri": "/api/rest/v2/citation/104592/"
+  }, 
+  "id": 120239, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-05-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.1052.128.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:00", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1052</span></span></p>\n    <p class=\"parties\">ALASKA<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 128, Orig.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 13, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motion of the Special Master for fees and reimbursements of expenses granted, and the Special Master is awarded a total of $20,112.75 for the period October 17, 2001, through April 16, 2002, to be paid equally by the parties. [For earlier order herein, see, <i>e. g.,</i> 534 U. S. 1103.]</p>\n    </div>\n    ", 
+  "sha1": "2c3b120c01f9bb9ea772db6ba1cd2d5a5c0a1c7e", 
+  "date_modified": "2014-12-21T02:17:04.385046", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/120239/alaska-v-united-states/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/294742/", 
+  "html": "<p class=\"case_cite\">535 U.S. 1052</p>\n    <p class=\"parties\">ALASKA<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 128, Orig.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">May 13, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motion of the Special Master for fees and reimbursements of expenses granted, and the Special Master is awarded a total of $20,112.75 for the period October 17, 2001, through April 16, 2002, to be paid equally by the parties. [For earlier order herein, see, <i>e. g.,</i> 534 U. S. 1103.]</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/120239/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088088/lewinson-v-crews/", "blocked": false, "citation": {"case_name": "Lewinson v. Crews", "docket_number": "230", "document_uris": ["/api/rest/v2/document/1088088/"], "federal_cite_one": "393 U.S. 13", "federal_cite_three": null, "federal_cite_two": null, "id": 1060859, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060859/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-10-14", "date_modified": "2014-10-30T10:16:01.047429", "docket": "/api/rest/v2/docket/1508282/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>393 U.S. 13 (1968)</b></center>\n<center><h1>LEWINSON<br>\nv.<br>\nCREWS, COUNTY CLERK OF KINGS COUNTY.</h1></center>\n<center>No. 230.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1968.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Emanuel Redfield</i> for appellant.</p>\n<p><i>Seymour Besunder</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "", "id": 1088088, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088088/", "sha1": "485db66687db6ff57d2c04e4be199e9b79f82e68", "source": "L", "time_retrieved": "2013-10-29T20:45:27.033395"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 13", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088088/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Lewinson v. Crews", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "230", 
+    "id": 1060859, 
+    "resource_uri": "/api/rest/v2/citation/1060859/"
+  }, 
+  "id": 1088088, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-10-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 13 (1968)</b></center>\n<center><h1>LEWINSON<br>\nv.<br>\nCREWS, COUNTY CLERK OF KINGS COUNTY.</h1></center>\n<center>No. 230.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1968.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Emanuel Redfield</i> for appellant.</p>\n<p><i>Seymour Besunder</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:45:27.033395", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "485db66687db6ff57d2c04e4be199e9b79f82e68", 
+  "date_modified": "2014-10-30T10:16:01.047429", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088088/lewinson-v-crews/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1508282/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088088/"
+}

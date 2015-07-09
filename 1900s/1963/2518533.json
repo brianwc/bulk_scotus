@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2518533/alabama-v-united-states/", "blocked": false, "citation": {"case_name": "Alabama v. United States", "docket_number": "15 ORIG", "document_uris": ["/api/rest/v2/document/2518533/"], "federal_cite_one": "373 U.S. 545", "federal_cite_three": "10 L. Ed. 2d 540", "federal_cite_two": "83 S. Ct. 1365", "id": 2491305, "lexis_cite": "1963 U.S. LEXIS 1450", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2491305/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-05-27", "date_modified": "2014-12-19T17:49:43.552757", "docket": "/api/rest/v2/docket/251974/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>373 U.S. 545 (1963)</b></center>\n<center><h1>ALABAMA ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 15, Original.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 27, 1963.</center>\nON MOTION FOR LEAVE TO FILE BILL OF COMPLAINT.\n<p><i>J. Kirkman Jackson, John P. Kohn, George Stephen Leonard, Richard L. Hirshberg, John W. Vardaman, John A. Caddell</i> and <i>Thos. B. Hill, Jr.</i> for plaintiffs.</p>\n<p><i>Solicitor General Cox, Ralph S. Spritzer</i> and <i>Louis F. Claiborne</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to file the proposed bill of complaint, as amended, is denied. In essence the papers show no more than that the President has made ready to exercise the authority conferred upon him by 10 U. S. C. § 333 by alerting and stationing military personnel in the Birmingham area. Such purely preparatory measures and their alleged adverse general effects upon the plaintiffs afford no basis for the granting of any relief.</p>\n<p>MR. JUSTICE WHITE took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 2518533, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2518533/", "sha1": "d27668c14fd6cebe1804464ae6d11527e73b17a8", "source": "L", "supreme_court_db_id": "1962-126", "time_retrieved": "2013-10-30T03:07:52.812132"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "373 U.S. 545", 
+    "federal_cite_two": "83 S. Ct. 1365", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "10 L. Ed. 2d 540", 
+    "lexis_cite": "1963 U.S. LEXIS 1450", 
+    "document_uris": [
+      "/api/rest/v2/document/2518533/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Alabama v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "15 ORIG", 
+    "id": 2491305, 
+    "resource_uri": "/api/rest/v2/citation/2491305/"
+  }, 
+  "id": 2518533, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-05-27", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>373 U.S. 545 (1963)</b></center>\n<center><h1>ALABAMA ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 15, Original.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 27, 1963.</center>\nON MOTION FOR LEAVE TO FILE BILL OF COMPLAINT.\n<p><i>J. Kirkman Jackson, John P. Kohn, George Stephen Leonard, Richard L. Hirshberg, John W. Vardaman, John A. Caddell</i> and <i>Thos. B. Hill, Jr.</i> for plaintiffs.</p>\n<p><i>Solicitor General Cox, Ralph S. Spritzer</i> and <i>Louis F. Claiborne</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to file the proposed bill of complaint, as amended, is denied. In essence the papers show no more than that the President has made ready to exercise the authority conferred upon him by 10 U. S. C. \u00a7 333 by alerting and stationing military personnel in the Birmingham area. Such purely preparatory measures and their alleged adverse general effects upon the plaintiffs afford no basis for the granting of any relief.</p>\n<p>MR. JUSTICE WHITE took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:07:52.812132", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d27668c14fd6cebe1804464ae6d11527e73b17a8", 
+  "date_modified": "2014-12-19T17:49:43.552757", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2518533/alabama-v-united-states/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": "1962-126", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/251974/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2518533/"
+}

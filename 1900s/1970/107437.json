@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107437/standard-industries-inc-petitioner-v-tigrett/", "blocked": false, "citation": {"case_name": "Standard Industries, Inc. v. Tigrett Industries, Inc.", "docket_number": "445", "document_uris": ["/api/rest/v2/document/107437/"], "federal_cite_one": "386 U.S. 1048", "federal_cite_three": null, "federal_cite_two": null, "id": 91796, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91796/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-01-26", "date_modified": "2014-12-21T01:55:24.502625", "docket": "/api/rest/v2/docket/2474928/", "download_url": "http://bulk.resource.org/courts.gov/c/US/386/386.US.1048.445.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">386 U.S. 1048</p>\r\n    <p class=\"case_cite\">90 S.Ct. 701</p>\r\n    <p class=\"case_cite\">24 L.Ed.2d 695</p>\r\n    <p class=\"parties\">STANDARD INDUSTRIES, INC., petitioner,<br>v.<br>TIGRETT INDUSTRIES, INC., et al.</p>\r\n    <p class=\"docket\">No. 445.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 26, 1970</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Ralph W. Kalish, on the motion.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">The motion of respondents to remove this case from the summary calendar is denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1048</span></span></p>\r\n    <p class=\"case_cite\">90 S.Ct. 701</p>\r\n    <p class=\"case_cite\">24 L.Ed.2d 695</p>\r\n    <p class=\"parties\">STANDARD INDUSTRIES, INC., petitioner,<br>v.<br>TIGRETT INDUSTRIES, INC., et al.</p>\r\n    <p class=\"docket\">No. 445.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 26, 1970</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Ralph W. Kalish, on the motion.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">The motion of respondents to remove this case from the summary calendar is denied.</p>\r\n    </div>\r\n    ", "id": 107437, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107437/", "sha1": "17b35f4158b4f059a8b5d82e6e9f77c22c43d75c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:01"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "386 U.S. 1048", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107437/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Standard Industries, Inc. v. Tigrett Industries, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "445", 
+    "id": 91796, 
+    "resource_uri": "/api/rest/v2/citation/91796/"
+  }, 
+  "id": 107437, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-01-26", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/386/386.US.1048.445.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:01", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1048</span></span></p>\r\n    <p class=\"case_cite\">90 S.Ct. 701</p>\r\n    <p class=\"case_cite\">24 L.Ed.2d 695</p>\r\n    <p class=\"parties\">STANDARD INDUSTRIES, INC., petitioner,<br>v.<br>TIGRETT INDUSTRIES, INC., et al.</p>\r\n    <p class=\"docket\">No. 445.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 26, 1970</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Ralph W. Kalish, on the motion.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">The motion of respondents to remove this case from the summary calendar is denied.</p>\r\n    </div>\r\n    ", 
+  "sha1": "17b35f4158b4f059a8b5d82e6e9f77c22c43d75c", 
+  "date_modified": "2014-12-21T01:55:24.502625", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107437/standard-industries-inc-petitioner-v-tigrett/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2474928/", 
+  "html": "<p class=\"case_cite\">386 U.S. 1048</p>\r\n    <p class=\"case_cite\">90 S.Ct. 701</p>\r\n    <p class=\"case_cite\">24 L.Ed.2d 695</p>\r\n    <p class=\"parties\">STANDARD INDUSTRIES, INC., petitioner,<br>v.<br>TIGRETT INDUSTRIES, INC., et al.</p>\r\n    <p class=\"docket\">No. 445.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 26, 1970</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Ralph W. Kalish, on the motion.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">The motion of respondents to remove this case from the summary calendar is denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/107437/"
+}

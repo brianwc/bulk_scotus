@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1880875/new-york-central-r-co-v-united-states/", "blocked": false, "citation": {"case_name": "New York Central R. Co. v. United States", "docket_number": "482", "document_uris": ["/api/rest/v2/document/1880875/"], "federal_cite_one": "368 U.S. 349", "federal_cite_three": null, "federal_cite_two": null, "id": 1853646, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1853646/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-01-08", "date_modified": "2014-10-30T02:35:07.758331", "docket": "/api/rest/v2/docket/449912/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>368 U.S. 349 (1962)</b></center>\n<center><h1>NEW YORK CENTRAL RAILROAD CO.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 482.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 8, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p><i>Robert D. Brooks</i> and <i>Alfred A. Green</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Lionel Kestenbaum, Elliott H. Moyer</i> and <i>Robert W. Ginnane</i> for the United States et al., and <i>Clyde B. Aitchison, John R. Turney, Frederick A. Babson, Jr.</i> and <i>John H. Eisenhart, Jr.</i> for the National Freight Traffic Assn., Inc., et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1880875, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1880875/", "sha1": "138e955535d450aa2f7ed61f3fc3ecb8b4f16830", "source": "L", "time_retrieved": "2013-10-30T00:42:30.701297"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "368 U.S. 349", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1880875/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "New York Central R. Co. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "482", 
+    "id": 1853646, 
+    "resource_uri": "/api/rest/v2/citation/1853646/"
+  }, 
+  "id": 1880875, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-01-08", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>368 U.S. 349 (1962)</b></center>\n<center><h1>NEW YORK CENTRAL RAILROAD CO.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 482.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 8, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p><i>Robert D. Brooks</i> and <i>Alfred A. Green</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Lionel Kestenbaum, Elliott H. Moyer</i> and <i>Robert W. Ginnane</i> for the United States et al., and <i>Clyde B. Aitchison, John R. Turney, Frederick A. Babson, Jr.</i> and <i>John H. Eisenhart, Jr.</i> for the National Freight Traffic Assn., Inc., et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:42:30.701297", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "138e955535d450aa2f7ed61f3fc3ecb8b4f16830", 
+  "date_modified": "2014-10-30T02:35:07.758331", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1880875/new-york-central-r-co-v-united-states/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/449912/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1880875/"
+}

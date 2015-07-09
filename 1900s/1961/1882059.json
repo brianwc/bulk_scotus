@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1882059/tinsley-v-city-of-richmond/", "blocked": false, "citation": {"case_name": "Tinsley v. City of Richmond", "docket_number": "315", "document_uris": ["/api/rest/v2/document/1882059/"], "federal_cite_one": "368 U.S. 18", "federal_cite_three": null, "federal_cite_two": null, "id": 1854830, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1854830/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-10-23", "date_modified": "2014-10-30T12:08:38.962842", "docket": "/api/rest/v2/docket/1744802/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>368 U.S. 18 (1961)</b></center>\n<center><h1>TINSLEY<br>\nv.<br>\nCITY OF RICHMOND.</h1></center>\n<center>No. 315.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 23, 1961.</center>\nAPPEAL FROM THE SUPREME COURT OF APPEALS OF VIRGINIA.\n<p><i>Martin A. Martin, Thurgood Marshall, Jack Greenberg, James M. Nabrit III</i> and <i>Charles L. Black, Jr.</i> for appellant.</p>\n<p><i>J. E. Drinard</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "", "id": 1882059, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1882059/", "sha1": "997ae565f4e9be169de0f73cac907f3abf404ff1", "source": "L", "time_retrieved": "2013-10-30T00:42:43.151618"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "368 U.S. 18", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1882059/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Tinsley v. City of Richmond", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "315", 
+    "id": 1854830, 
+    "resource_uri": "/api/rest/v2/citation/1854830/"
+  }, 
+  "id": 1882059, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-10-23", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>368 U.S. 18 (1961)</b></center>\n<center><h1>TINSLEY<br>\nv.<br>\nCITY OF RICHMOND.</h1></center>\n<center>No. 315.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 23, 1961.</center>\nAPPEAL FROM THE SUPREME COURT OF APPEALS OF VIRGINIA.\n<p><i>Martin A. Martin, Thurgood Marshall, Jack Greenberg, James M. Nabrit III</i> and <i>Charles L. Black, Jr.</i> for appellant.</p>\n<p><i>J. E. Drinard</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:42:43.151618", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "997ae565f4e9be169de0f73cac907f3abf404ff1", 
+  "date_modified": "2014-10-30T12:08:38.962842", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1882059/tinsley-v-city-of-richmond/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1744802/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1882059/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2381791/kunckle-v-wynick/", "blocked": false, "citation": {"case_name": "Kunckle v. Wynick", "docket_number": null, "document_uris": ["/api/rest/v2/document/2381791/"], "federal_cite_one": "1 U.S. 305", "federal_cite_three": null, "federal_cite_two": null, "id": 2354563, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2354563/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1788-01-01", "date_modified": "2014-10-30T17:49:48.819621", "docket": "/api/rest/v2/docket/2582246/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>1 U.S. 305 (1788)</b></center>\n<center><b>1 Dall. 305</b></center>\n<center><h1>KUNCKLE<br>\nversus<br>\nWYNICK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*306</span> Rawle, for the Defendant.</p>\n<p>Millegan, for the Plaintiff.</p>\n<p><span class=\"star-pagination\">*307</span> SHIPPEN, President.</p>\n<p>The question in this case is, whether on a Ground Rent Deed, wherein there is an express covenant on the part of the Lessee for payment of the rent and he assigns over the premisses, and the Lessor accepts rent from the Assignee, an action of covenant will lie for the Lessor against the Lessee for the subsequent rent.</p>\n<p>The distinction between actions of debt and actions of Covenant in this case, is too well established to be now unsettled. The action of debt lies upon the privity of Estate, which is utterly extinguished between the Lessor and Lessee by the Lessor's acceptance of rent from the Assignee. The action of covenant, when founded upon an express covenant, lies not upon the privity of Estate, but privity of contract, which cannot by the assignment of the premises, or by any act of the Lessee, or by acceptance of the rent, be transferred from him. The covenant, however, must he an express covenant, not an implied one, or a covenant arising by operation of law, as by the words \"yielding and paying\" &amp;c. in the deed.</p>\n<p>The cases in the books upon this point are generally of actions of covenant for not making repairs; and a distinction has been attempted to be made between those and actions for the Rent: in the latter case it is said, that the land being the fund out of which the rent is to issue, and that being transferred, the Lessor's acceptance of <span class=\"star-pagination\">*308</span> rent from the Assignee will take away all remedy against the Lessee himself. I have looked for this distinction in the books, but cannot find it in any case where there was an express covenant for the payment of the rent. The cases found the law upon the personality of the contract; which extends equally to the payment of the rent, as to the making repairs; and, though the authorities are not so numerous in the one case as the other, yet they are as express. 2 Keb. 640, and 2 Barnard. 372 are full to the point. If these books are thought to be of doubtful authority, 1 Roll. Ab. 522. cites two cases, where the breach of covenant was for non payment of the rent. In 1 Sid. 402. where the Court draws the distinction between debt and covenant, they expressly mention the action to be for the rent; and the case in 3 Lev. 283. is likewise covenant for non payment of the rent.</p>\n<p>As to the argument ab inconvenienti, I cannot fee how it operates more in this country than in England. It Lessees mean not to be personally bound after assignment, they should take care what covenants they enter into. If they will, in express words, covenant for the payment of the rent, they must be bound by it.</p>\n<p>Judgment for the Plaintiff.</p>\n</div>", "html_with_citations": "", "id": 2381791, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2381791/", "sha1": "45f9e6633dd9cf9e8042604ec8ae6f9b71e7d1ec", "source": "L", "time_retrieved": "2013-10-30T02:18:21.357658"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "1 U.S. 305", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2381791/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Kunckle v. Wynick", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2354563, 
+    "resource_uri": "/api/rest/v2/citation/2354563/"
+  }, 
+  "id": 2381791, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1788-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>1 U.S. 305 (1788)</b></center>\n<center><b>1 Dall. 305</b></center>\n<center><h1>KUNCKLE<br>\nversus<br>\nWYNICK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*306</span> Rawle, for the Defendant.</p>\n<p>Millegan, for the Plaintiff.</p>\n<p><span class=\"star-pagination\">*307</span> SHIPPEN, President.</p>\n<p>The question in this case is, whether on a Ground Rent Deed, wherein there is an express covenant on the part of the Lessee for payment of the rent and he assigns over the premisses, and the Lessor accepts rent from the Assignee, an action of covenant will lie for the Lessor against the Lessee for the subsequent rent.</p>\n<p>The distinction between actions of debt and actions of Covenant in this case, is too well established to be now unsettled. The action of debt lies upon the privity of Estate, which is utterly extinguished between the Lessor and Lessee by the Lessor's acceptance of rent from the Assignee. The action of covenant, when founded upon an express covenant, lies not upon the privity of Estate, but privity of contract, which cannot by the assignment of the premises, or by any act of the Lessee, or by acceptance of the rent, be transferred from him. The covenant, however, must he an express covenant, not an implied one, or a covenant arising by operation of law, as by the words \"yielding and paying\" &amp;c. in the deed.</p>\n<p>The cases in the books upon this point are generally of actions of covenant for not making repairs; and a distinction has been attempted to be made between those and actions for the Rent: in the latter case it is said, that the land being the fund out of which the rent is to issue, and that being transferred, the Lessor's acceptance of <span class=\"star-pagination\">*308</span> rent from the Assignee will take away all remedy against the Lessee himself. I have looked for this distinction in the books, but cannot find it in any case where there was an express covenant for the payment of the rent. The cases found the law upon the personality of the contract; which extends equally to the payment of the rent, as to the making repairs; and, though the authorities are not so numerous in the one case as the other, yet they are as express. 2 Keb. 640, and 2 Barnard. 372 are full to the point. If these books are thought to be of doubtful authority, 1 Roll. Ab. 522. cites two cases, where the breach of covenant was for non payment of the rent. In 1 Sid. 402. where the Court draws the distinction between debt and covenant, they expressly mention the action to be for the rent; and the case in 3 Lev. 283. is likewise covenant for non payment of the rent.</p>\n<p>As to the argument ab inconvenienti, I cannot fee how it operates more in this country than in England. It Lessees mean not to be personally bound after assignment, they should take care what covenants they enter into. If they will, in express words, covenant for the payment of the rent, they must be bound by it.</p>\n<p>Judgment for the Plaintiff.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:18:21.357658", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "45f9e6633dd9cf9e8042604ec8ae6f9b71e7d1ec", 
+  "date_modified": "2014-10-30T17:49:48.819621", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2381791/kunckle-v-wynick/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2582246/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2381791/"
+}

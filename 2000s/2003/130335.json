@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/130335/seminole-entertainment-inc-dba-rachels-v/", "blocked": false, "citation": {"case_name": "Seminole Entertainment, Inc., Dba Rachel's v. City of Casselberry, Florida", "docket_number": "02-1454", "document_uris": ["/api/rest/v2/document/130335/"], "federal_cite_one": "539 U.S. 915", "federal_cite_three": null, "federal_cite_two": null, "id": 114688, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/114688/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-06-09", "date_modified": "2014-12-21T02:18:53.334267", "docket": "/api/rest/v2/docket/2084896/", "download_url": "http://bulk.resource.org/courts.gov/c/US/539/539.US.915.02-1454.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">539 U.S. 915</p>\n    <p class=\"parties\">Seminole Entertainment, Inc., dba Rachel's<br>v.<br>City of Casselberry, Florida.</p>\n    <p class=\"docket\">No. 02-1454.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Dist. Ct. App. Fla., 5th Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 813 So. 2d 186.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">539</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">915</span></span></p>\n    <p class=\"parties\">Seminole Entertainment, Inc., dba Rachel's<br>v.<br>City of Casselberry, Florida.</p>\n    <p class=\"docket\">No. 02-1454.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Dist. Ct. App. Fla., 5th Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 813 So. 2d 186.</p>\n    </div>\n    ", "id": 130335, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/130335/", "sha1": "2222b0d8b89e27096cc69c9afd46c930f4fa904e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:09"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "539 U.S. 915", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/130335/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Seminole Entertainment, Inc., Dba Rachel's v. City of Casselberry, Florida", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-1454", 
+    "id": 114688, 
+    "resource_uri": "/api/rest/v2/citation/114688/"
+  }, 
+  "id": 130335, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-06-09", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/539/539.US.915.02-1454.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:09", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">539</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">915</span></span></p>\n    <p class=\"parties\">Seminole Entertainment, Inc., dba Rachel's<br>v.<br>City of Casselberry, Florida.</p>\n    <p class=\"docket\">No. 02-1454.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Dist. Ct. App. Fla., 5th Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 813 So. 2d 186.</p>\n    </div>\n    ", 
+  "sha1": "2222b0d8b89e27096cc69c9afd46c930f4fa904e", 
+  "date_modified": "2014-12-21T02:18:53.334267", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/130335/seminole-entertainment-inc-dba-rachels-v/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2084896/", 
+  "html": "<p class=\"case_cite\">539 U.S. 915</p>\n    <p class=\"parties\">Seminole Entertainment, Inc., dba Rachel's<br>v.<br>City of Casselberry, Florida.</p>\n    <p class=\"docket\">No. 02-1454.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Dist. Ct. App. Fla., 5th Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 813 So. 2d 186.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/130335/"
+}

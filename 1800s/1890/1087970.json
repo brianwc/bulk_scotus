@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087970/chester-city-v-pennsylvania/", "blocked": false, "citation": {"case_name": "Chester City v. Pennsylvania", "docket_number": "1498", "document_uris": ["/api/rest/v2/document/1087970/"], "federal_cite_one": "134 U.S. 240", "federal_cite_three": null, "federal_cite_two": null, "id": 1060741, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060741/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1890-03-10", "date_modified": "2014-10-30T17:48:38.937215", "docket": "/api/rest/v2/docket/2578123/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>134 U.S. 240 (1890)</b></center>\n<center><h1>CHESTER CITY<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 1498.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted January 27, 1890.</center>\n<center>Decided March 10, 1890.</center>\n<p><i>Mr. James W.M. Newlin</i> for the plaintiff in error.</p>\n<p><i>Mr. William S. Kirkpatrick</i> and <i>Mr. John F. Sanderson</i> for defendant in error.</p>\n<p><i>Mr. M.E. Olmsted</i> and <i>Mr. Wayne McVeagh,</i> on behalf of W.W. Jennings, plaintiff in error in No. 1242; <i>Mr. W.B. Lamberton</i> and <i>Mr. George R. Krcher,</i> on behalf of the North Pennsylvania Railroad Company, defendant in error in No. 1556; and <i>Mr. M.E. Olmsted,</i> on behalf of the Delaware Division Canal Company.</p>\n<p>MR. JUSTICE BRADLEY delivered the opinion of the court.</p>\n<p>This case, so far as any federal question is concerned, is similar, in all substantial respects, to that of <i>Bell's Gap Railroad Co.</i> v. <i>Pennsylvania,</i> just decided, and must be governed by the decision in that case.</p>\n<p><i>The motion to dismiss the writ of error is denied, and the judgment of the Supreme Court of Pennsylvania is affirmed.</i></p>\n</div>", "html_with_citations": "", "id": 1087970, "judges": "Bradley", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087970/", "sha1": "62da7401c6a53524909d3ad8ea904c91c3c33722", "source": "L", "time_retrieved": "2013-10-29T20:07:33.873136"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "134 U.S. 240", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087970/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Chester City v. Pennsylvania", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1498", 
+    "id": 1060741, 
+    "resource_uri": "/api/rest/v2/citation/1060741/"
+  }, 
+  "id": 1087970, 
+  "blocked": false, 
+  "judges": "Bradley", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1890-03-10", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>134 U.S. 240 (1890)</b></center>\n<center><h1>CHESTER CITY<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 1498.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted January 27, 1890.</center>\n<center>Decided March 10, 1890.</center>\n<p><i>Mr. James W.M. Newlin</i> for the plaintiff in error.</p>\n<p><i>Mr. William S. Kirkpatrick</i> and <i>Mr. John F. Sanderson</i> for defendant in error.</p>\n<p><i>Mr. M.E. Olmsted</i> and <i>Mr. Wayne McVeagh,</i> on behalf of W.W. Jennings, plaintiff in error in No. 1242; <i>Mr. W.B. Lamberton</i> and <i>Mr. George R. K\u009crcher,</i> on behalf of the North Pennsylvania Railroad Company, defendant in error in No. 1556; and <i>Mr. M.E. Olmsted,</i> on behalf of the Delaware Division Canal Company.</p>\n<p>MR. JUSTICE BRADLEY delivered the opinion of the court.</p>\n<p>This case, so far as any federal question is concerned, is similar, in all substantial respects, to that of <i>Bell's Gap Railroad Co.</i> v. <i>Pennsylvania,</i> just decided, and must be governed by the decision in that case.</p>\n<p><i>The motion to dismiss the writ of error is denied, and the judgment of the Supreme Court of Pennsylvania is affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:07:33.873136", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "62da7401c6a53524909d3ad8ea904c91c3c33722", 
+  "date_modified": "2014-10-30T17:48:38.937215", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087970/chester-city-v-pennsylvania/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2578123/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087970/"
+}

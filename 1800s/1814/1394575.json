@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1394575/the-frances/", "blocked": false, "citation": {"case_name": "The Frances", "docket_number": null, "document_uris": ["/api/rest/v2/document/1394575/"], "federal_cite_one": "12 U.S. 354", "federal_cite_three": null, "federal_cite_two": null, "id": 1367346, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1367346/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1814-03-12", "date_modified": "2014-12-21T08:32:10.557732", "docket": "/api/rest/v2/docket/829507/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>12 U.S. 354 (1814)</b></center>\n<center><b>8 Cranch 354</b></center>\n<center><h1>THE FRANCES, BOYER, MASTER. (Dunham and Randolph's claim.)</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>March 12, 1814.</center>\n<p><span class=\"star-pagination\">*355</span> <i>PINKNEY,</i> for the Appellants.</p>\n<p><i>HUNTER,</i> contra.</p>\n<p><i>Absent</i>... . LIVINGSTON, <i>J.</i></p>\n<p><span class=\"star-pagination\">*357</span> MARSHALL, <i>Ch. J.</i> after stating the facts of the case, delivered the opinion of the Court as follows.</p>\n<p>It has been argued for the Appellants, that, by the invoice and bill of lading, and the true construction of the letter of Alexander Thompson, the property was vested in Dunham and Randolph, liable to be divested by their rejecting the consignment within twenty-four hours after receiving the letters. That the condition annexed to the transfer, is subsequent, not precedent.</p>\n<p>The Court cannot concur in this reasoning. It has been very truly urged for the captors, that to vest this property in Dunham and Randolph, a contract is necessary; and that to form a contract, the consent of two parties is indispensable. In this case, no such contract appears. Had Thompson, in execution of the orders of Dunham and Randolph, consigned to them, unconditionally, such goods as they had directed, the contract would have been complete; and the goods would, on being shipped, have become the property of Dunham and Randolph. But Thompson has not done this. With the goods which were ordered he has consigned other goods, expressly stipulating that Dunham and Randolph shall not take the goods they had ordered, unless they consent to take the whole quantity put on board both vessels. This, then, is a new proposition, on which Dunham and Randolph <span class=\"star-pagination\">*358</span> are at liberty to exercise their discretion. They may accept or reject it; and until they do accept it, the property must remain in Thompson. The sentence of condemnation, therefore, in this case, was warranted by the evidence before the Circuit Court.</p>\n<p>But the Claimants pray an order for further proof; and say, that, before the capture of the Frances, the Fanny had arrived, and Dunham and Randolph had consented to take both cargoes.</p>\n<p>This application is opposed on the principle that, were the fact even true, as alleged by the Claimants, belligerent property cannot change its character <i>in transitu.</i></p>\n<p>Reserving any opinion on the law of the case, until the facts alleged shall be substantiated, if it shall be in the power of the Claimants to substantiate them, the cause is ordered to stand for further proof.</p>\n</div>", "html_with_citations": "", "id": 1394575, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1394575/", "sha1": "eb9909121711ef05116107758e6e825b3e81cf01", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T22:56:51.272581"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "12 U.S. 354", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1394575/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "The Frances", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1367346, 
+    "resource_uri": "/api/rest/v2/citation/1367346/"
+  }, 
+  "id": 1394575, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1814-03-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>12 U.S. 354 (1814)</b></center>\n<center><b>8 Cranch 354</b></center>\n<center><h1>THE FRANCES, BOYER, MASTER. (Dunham and Randolph's claim.)</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>March 12, 1814.</center>\n<p><span class=\"star-pagination\">*355</span> <i>PINKNEY,</i> for the Appellants.</p>\n<p><i>HUNTER,</i> contra.</p>\n<p><i>Absent</i>... . LIVINGSTON, <i>J.</i></p>\n<p><span class=\"star-pagination\">*357</span> MARSHALL, <i>Ch. J.</i> after stating the facts of the case, delivered the opinion of the Court as follows.</p>\n<p>It has been argued for the Appellants, that, by the invoice and bill of lading, and the true construction of the letter of Alexander Thompson, the property was vested in Dunham and Randolph, liable to be divested by their rejecting the consignment within twenty-four hours after receiving the letters. That the condition annexed to the transfer, is subsequent, not precedent.</p>\n<p>The Court cannot concur in this reasoning. It has been very truly urged for the captors, that to vest this property in Dunham and Randolph, a contract is necessary; and that to form a contract, the consent of two parties is indispensable. In this case, no such contract appears. Had Thompson, in execution of the orders of Dunham and Randolph, consigned to them, unconditionally, such goods as they had directed, the contract would have been complete; and the goods would, on being shipped, have become the property of Dunham and Randolph. But Thompson has not done this. With the goods which were ordered he has consigned other goods, expressly stipulating that Dunham and Randolph shall not take the goods they had ordered, unless they consent to take the whole quantity put on board both vessels. This, then, is a new proposition, on which Dunham and Randolph <span class=\"star-pagination\">*358</span> are at liberty to exercise their discretion. They may accept or reject it; and until they do accept it, the property must remain in Thompson. The sentence of condemnation, therefore, in this case, was warranted by the evidence before the Circuit Court.</p>\n<p>But the Claimants pray an order for further proof; and say, that, before the capture of the Frances, the Fanny had arrived, and Dunham and Randolph had consented to take both cargoes.</p>\n<p>This application is opposed on the principle that, were the fact even true, as alleged by the Claimants, belligerent property cannot change its character <i>in transitu.</i></p>\n<p>Reserving any opinion on the law of the case, until the facts alleged shall be substantiated, if it shall be in the power of the Claimants to substantiate them, the cause is ordered to stand for further proof.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:56:51.272581", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "eb9909121711ef05116107758e6e825b3e81cf01", 
+  "date_modified": "2014-12-21T08:32:10.557732", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1394575/the-frances/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/829507/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1394575/"
+}

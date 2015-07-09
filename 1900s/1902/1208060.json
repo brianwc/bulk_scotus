@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1208060/in-re-the-huguley-mfg-co-c/", "blocked": false, "citation": {"case_name": "In RE THE HUGULEY MFG. CO., & C.", "docket_number": "No number", "document_uris": ["/api/rest/v2/document/1208060/"], "federal_cite_one": "184 U.S. 297", "federal_cite_three": null, "federal_cite_two": null, "id": 1180831, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1180831/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1902-02-24", "date_modified": "2014-10-30T03:41:28.247549", "docket": "/api/rest/v2/docket/586349/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>184 U.S. 297 (1902)</b></center>\n<center><h1>In re THE HUGULEY MANUFACTURING COMPANY AND THE ALABAMA AND GEORGIA MANUFACTURING COMPANY, PETITIONERS.</h1></center>\n<center>No number.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 20, 1901.</center>\n<center>Decided February 24, 1902.</center>\nORIGINAL.\n<p><span class=\"star-pagination\">*301</span> <i>Mr. J.C. Welles, Mr. John M. Chilton</i> and <i>Mr. Alexander C. King</i> for petitioners.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>It is firmly established that where it appears that a court, whose action is sought to be prohibited, has clearly no jurisdiction of the cause originally, a party who has objected to the jurisdiction at the outset and has no other remedy, is entitled to a writ of prohibition as a matter of right. But where there is another legal remedy by appeal or otherwise, or where the question of the jurisdiction of the court is doubtful, or depends on facts which are not made matter of record, the granting or refusal of the writ is discretionary. <i>In re Rice,</i> 155 U.S. 396. And that the writ of mandamus cannot be used to perform the office of an appeal or writ of error, and is only granted as a general rule where there is no other adequate remedy. <i>In re Atlantic City Railroad Company,</i> 164 U.S. 633.</p>\n<p>And it may be added that it is also the general rule as to the writ of certiorari when sought as between private parties and on the ground that the proceedings below are void, that it will be granted or denied in the sound discretion of the court, and will be refused where there is a plain and adequate remedy by appeal or otherwise. <i>In re Tampa Suburban Railway Company,</i> 168 U.S. 583.</p>\n<p>In this case there was under the act of Congress of June 6, <span class=\"star-pagination\">*302</span> 1900, 31 Stat. 660, c. 803, a plain and adequate remedy by appeal to the Circuit Court of Appeals for the Fifth Circuit from the interlocutory order granting an injunction. After a final decree an appeal to this court would lie in respect of the jurisdiction if the question were properly raised and certified, or if issues were raised and decided bringing the case within section five of the act of March 3, 1891; or to the Circuit Court of Appeals. The case as presented is far from being one in which we should regard it as a proper exercise of our jurisdiction to interfere with the orderly progress of the suit below by the issue of either of the writs applied for. <i>In re New York and Porto Rico Steamship Company, Petitioner,</i> 155 U.S. 523, 531.</p>\n<p>The contention of counsel seems to go to the extent of insisting that the proceedings in the foreclosure suit were wholly void, and without force and effect as to all persons and for all purposes, and incapable of being made otherwise; and in declining to go into the subject at large we are not to be understood as concurring in that proposition.</p>\n<p><i>Leave denied.</i></p>\n</div>", "html_with_citations": "", "id": 1208060, "judges": "Fuller", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1208060/", "sha1": "25081dbbf2a0c3aa3acaf26e2024c35346b32754", "source": "L", "time_retrieved": "2013-10-29T22:00:28.171741"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "184 U.S. 297", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1208060/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "In RE THE HUGULEY MFG. CO., & C.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "No number", 
+    "id": 1180831, 
+    "resource_uri": "/api/rest/v2/citation/1180831/"
+  }, 
+  "id": 1208060, 
+  "blocked": false, 
+  "judges": "Fuller", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1902-02-24", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>184 U.S. 297 (1902)</b></center>\n<center><h1>In re THE HUGULEY MANUFACTURING COMPANY AND THE ALABAMA AND GEORGIA MANUFACTURING COMPANY, PETITIONERS.</h1></center>\n<center>No number.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 20, 1901.</center>\n<center>Decided February 24, 1902.</center>\nORIGINAL.\n<p><span class=\"star-pagination\">*301</span> <i>Mr. J.C. Welles, Mr. John M. Chilton</i> and <i>Mr. Alexander C. King</i> for petitioners.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>It is firmly established that where it appears that a court, whose action is sought to be prohibited, has clearly no jurisdiction of the cause originally, a party who has objected to the jurisdiction at the outset and has no other remedy, is entitled to a writ of prohibition as a matter of right. But where there is another legal remedy by appeal or otherwise, or where the question of the jurisdiction of the court is doubtful, or depends on facts which are not made matter of record, the granting or refusal of the writ is discretionary. <i>In re Rice,</i> 155 U.S. 396. And that the writ of mandamus cannot be used to perform the office of an appeal or writ of error, and is only granted as a general rule where there is no other adequate remedy. <i>In re Atlantic City Railroad Company,</i> 164 U.S. 633.</p>\n<p>And it may be added that it is also the general rule as to the writ of certiorari when sought as between private parties and on the ground that the proceedings below are void, that it will be granted or denied in the sound discretion of the court, and will be refused where there is a plain and adequate remedy by appeal or otherwise. <i>In re Tampa Suburban Railway Company,</i> 168 U.S. 583.</p>\n<p>In this case there was under the act of Congress of June 6, <span class=\"star-pagination\">*302</span> 1900, 31 Stat. 660, c. 803, a plain and adequate remedy by appeal to the Circuit Court of Appeals for the Fifth Circuit from the interlocutory order granting an injunction. After a final decree an appeal to this court would lie in respect of the jurisdiction if the question were properly raised and certified, or if issues were raised and decided bringing the case within section five of the act of March 3, 1891; or to the Circuit Court of Appeals. The case as presented is far from being one in which we should regard it as a proper exercise of our jurisdiction to interfere with the orderly progress of the suit below by the issue of either of the writs applied for. <i>In re New York and Porto Rico Steamship Company, Petitioner,</i> 155 U.S. 523, 531.</p>\n<p>The contention of counsel seems to go to the extent of insisting that the proceedings in the foreclosure suit were wholly void, and without force and effect as to all persons and for all purposes, and incapable of being made otherwise; and in declining to go into the subject at large we are not to be understood as concurring in that proposition.</p>\n<p><i>Leave denied.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:00:28.171741", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "25081dbbf2a0c3aa3acaf26e2024c35346b32754", 
+  "date_modified": "2014-10-30T03:41:28.247549", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1208060/in-re-the-huguley-mfg-co-c/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/586349/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1208060/"
+}

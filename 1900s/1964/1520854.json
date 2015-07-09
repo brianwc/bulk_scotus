@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1520854/consul-general-of-yugoslavia-at-pittsburgh-v-penns/", "blocked": false, "citation": {"case_name": "Consul General of Yugoslavia at Pittsburgh v. Pennsylvania", "docket_number": "566", "document_uris": ["/api/rest/v2/document/1520854/"], "federal_cite_one": "375 U.S. 395", "federal_cite_three": null, "federal_cite_two": null, "id": 1493625, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1493625/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-01-06", "date_modified": "2014-10-30T09:29:28.484986", "docket": "/api/rest/v2/docket/1406386/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>375 U.S. 395 (1964)</b></center>\n<center><h1>CONSUL GENERAL OF YUGOSLAVIA AT PITTSBURGH<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 566.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 6, 1964.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF PENNSYLVANIA, EASTERN DISTRICT.\n<p><i>Lawrence S. Lesser, C. Francis Fisher</i> and <i>R. Paul Lessy</i> for petitioner.</p>\n<p><i>Walter E. Alessandroni,</i> Attorney General of Pennsylvania, and <i>Vincent X. Yakowicz,</i> Deputy Attorney General, for respondent.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Douglas</i> and <i>Alan S. Rosenthal</i> for the United States, as <i>amicus curiae,</i> in support of the petition.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is reversed. <i>Kolovrat</i> v. <i>Oregon,</i> 366 U. S. 187.</p>\n</div>", "html_with_citations": "", "id": 1520854, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1520854/", "sha1": "cc5740bb8a0581ca4f132cccfef71216667b8cd1", "source": "L", "time_retrieved": "2013-10-29T23:34:03.121353"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 395", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1520854/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Consul General of Yugoslavia at Pittsburgh v. Pennsylvania", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "566", 
+    "id": 1493625, 
+    "resource_uri": "/api/rest/v2/citation/1493625/"
+  }, 
+  "id": 1520854, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-01-06", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 395 (1964)</b></center>\n<center><h1>CONSUL GENERAL OF YUGOSLAVIA AT PITTSBURGH<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 566.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 6, 1964.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF PENNSYLVANIA, EASTERN DISTRICT.\n<p><i>Lawrence S. Lesser, C. Francis Fisher</i> and <i>R. Paul Lessy</i> for petitioner.</p>\n<p><i>Walter E. Alessandroni,</i> Attorney General of Pennsylvania, and <i>Vincent X. Yakowicz,</i> Deputy Attorney General, for respondent.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Douglas</i> and <i>Alan S. Rosenthal</i> for the United States, as <i>amicus curiae,</i> in support of the petition.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is reversed. <i>Kolovrat</i> v. <i>Oregon,</i> 366 U. S. 187.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:34:03.121353", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "cc5740bb8a0581ca4f132cccfef71216667b8cd1", 
+  "date_modified": "2014-10-30T09:29:28.484986", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1520854/consul-general-of-yugoslavia-at-pittsburgh-v-penns/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1406386/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1520854/"
+}

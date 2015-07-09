@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/139673/given-v-massachusetts/", "blocked": false, "citation": {"case_name": "Given v. Massachusetts", "docket_number": "04-6263", "document_uris": ["/api/rest/v2/document/139673/"], "federal_cite_one": "543 U.S. 948", "federal_cite_three": null, "federal_cite_two": null, "id": 124026, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/124026/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-10-18", "date_modified": "2014-12-21T02:20:50.273957", "docket": "/api/rest/v2/docket/2460958/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.948.04-6263.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 948</p>\n    <p class=\"parties\">GIVEN<br>v.<br>MASSACHUSETTS.</p>\n    <p class=\"docket\">No. 04-6263.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 18, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Mass. Certiorari denied. Reported below: 441 Mass. 741, 808 N. E. 2d 788.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">948</span></span></p>\n    <p class=\"parties\">GIVEN<br>v.<br>MASSACHUSETTS.</p>\n    <p class=\"docket\">No. 04-6263.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 18, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Mass. Certiorari denied. Reported below: <span class=\"citation no-link\"><span class=\"volume\">441</span> <span class=\"reporter\">Mass.</span> <span class=\"page\">741</span></span>, 808 N. E. 2d 788.</p>\n    </div>\n    ", "id": 139673, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/139673/", "sha1": "1577c086abb522b050b858d75988ab853bb10420", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:32:58"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 948", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/139673/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Given v. Massachusetts", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-6263", 
+    "id": 124026, 
+    "resource_uri": "/api/rest/v2/citation/124026/"
+  }, 
+  "id": 139673, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-10-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.948.04-6263.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:32:58", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">948</span></span></p>\n    <p class=\"parties\">GIVEN<br>v.<br>MASSACHUSETTS.</p>\n    <p class=\"docket\">No. 04-6263.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 18, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Mass. Certiorari denied. Reported below: <span class=\"citation no-link\"><span class=\"volume\">441</span> <span class=\"reporter\">Mass.</span> <span class=\"page\">741</span></span>, 808 N. E. 2d 788.</p>\n    </div>\n    ", 
+  "sha1": "1577c086abb522b050b858d75988ab853bb10420", 
+  "date_modified": "2014-12-21T02:20:50.273957", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/139673/given-v-massachusetts/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2460958/", 
+  "html": "<p class=\"case_cite\">543 U.S. 948</p>\n    <p class=\"parties\">GIVEN<br>v.<br>MASSACHUSETTS.</p>\n    <p class=\"docket\">No. 04-6263.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 18, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Mass. Certiorari denied. Reported below: 441 Mass. 741, 808 N. E. 2d 788.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/139673/"
+}

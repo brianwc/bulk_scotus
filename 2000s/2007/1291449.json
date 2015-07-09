@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1291449/baze-v-rees/", "blocked": false, "citation": {"case_name": "Baze v. Rees", "docket_number": "07-5439", "document_uris": ["/api/rest/v2/document/1291449/"], "federal_cite_one": "128 S. Ct. 372", "federal_cite_three": null, "federal_cite_two": null, "id": 1264220, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1264220/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 16, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-10-03", "date_modified": "2014-10-30T05:52:45.490914", "docket": "/api/rest/v2/docket/880451/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>128 S.Ct. 372 (2007)</b></center>\n<center><h1>Ralph BAZE and Thomas C. Bowling, petitioners,<br>\nv.<br>\nJohn D. REES, Commissioner, Kentucky Department of Corrections, et al.</h1></center>\n<center>No. 07-5439.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 3, 2007.</center>\n<p>Order granting the petition for writ of certiorari amended as follows: Motion of petitioners for leave to proceed <i>in forma pauperis</i> granted. Petition for writ of certiorari granted limited to Questions 1, 2, and 3 presented by the petition. Brief of petitioners to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Monday, November 5, 2007. Brief of respondents to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Monday, December 3, 2007. Reply briefs, if any, to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Friday, December 28, 2007. Briefs of <i>amici curiae</i> are to be filed with the Clerk and served upon counsel for the parties on or before 2 p.m., 7 days after the brief for the party supported is filed or if in support of neither party, within 7 days after the petitioners' brief is filed.</p>\n</div>", "html_with_citations": "<div>\n<center><b>128 S.Ct. 372 (2007)</b></center>\n<center><h1>Ralph BAZE and Thomas C. Bowling, petitioners,<br>\nv.<br>\nJohn D. REES, Commissioner, Kentucky Department of Corrections, et al.</h1></center>\n<center>No. 07-5439.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 3, 2007.</center>\n<p>Order granting the petition for writ of certiorari amended as follows: Motion of petitioners for leave to proceed <i>in forma pauperis</i> granted. Petition for writ of certiorari granted limited to Questions 1, 2, and 3 presented by the petition. Brief of petitioners to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Monday, November 5, 2007. Brief of respondents to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Monday, December 3, 2007. Reply briefs, if any, to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Friday, December 28, 2007. Briefs of <i>amici curiae</i> are to be filed with the Clerk and served upon counsel for the parties on or before 2 p.m., 7 days after the brief for the party supported is filed or if in support of neither party, within 7 days after the petitioners' brief is filed.</p>\n</div>", "id": 1291449, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1291449/", "sha1": "7d910a34e1fe745bc50f9510a457d5c6338bfe72", "source": "L", "time_retrieved": "2013-10-29T22:22:17.446147"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "128 S. Ct. 372", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1291449/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Baze v. Rees", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "07-5439", 
+    "id": 1264220, 
+    "resource_uri": "/api/rest/v2/citation/1264220/"
+  }, 
+  "id": 1291449, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-10-03", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>128 S.Ct. 372 (2007)</b></center>\n<center><h1>Ralph BAZE and Thomas C. Bowling, petitioners,<br>\nv.<br>\nJohn D. REES, Commissioner, Kentucky Department of Corrections, et al.</h1></center>\n<center>No. 07-5439.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 3, 2007.</center>\n<p>Order granting the petition for writ of certiorari amended as follows: Motion of petitioners for leave to proceed <i>in forma pauperis</i> granted. Petition for writ of certiorari granted limited to Questions 1, 2, and 3 presented by the petition. Brief of petitioners to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Monday, November 5, 2007. Brief of respondents to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Monday, December 3, 2007. Reply briefs, if any, to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Friday, December 28, 2007. Briefs of <i>amici curiae</i> are to be filed with the Clerk and served upon counsel for the parties on or before 2 p.m., 7 days after the brief for the party supported is filed or if in support of neither party, within 7 days after the petitioners' brief is filed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:22:17.446147", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b>128 S.Ct. 372 (2007)</b></center>\n<center><h1>Ralph BAZE and Thomas C. Bowling, petitioners,<br>\nv.<br>\nJohn D. REES, Commissioner, Kentucky Department of Corrections, et al.</h1></center>\n<center>No. 07-5439.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 3, 2007.</center>\n<p>Order granting the petition for writ of certiorari amended as follows: Motion of petitioners for leave to proceed <i>in forma pauperis</i> granted. Petition for writ of certiorari granted limited to Questions 1, 2, and 3 presented by the petition. Brief of petitioners to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Monday, November 5, 2007. Brief of respondents to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Monday, December 3, 2007. Reply briefs, if any, to be filed with the Clerk and served upon opposing counsel on or before 2 p.m., Friday, December 28, 2007. Briefs of <i>amici curiae</i> are to be filed with the Clerk and served upon counsel for the parties on or before 2 p.m., 7 days after the brief for the party supported is filed or if in support of neither party, within 7 days after the petitioners' brief is filed.</p>\n</div>", 
+  "sha1": "7d910a34e1fe745bc50f9510a457d5c6338bfe72", 
+  "date_modified": "2014-10-30T05:52:45.490914", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1291449/baze-v-rees/", 
+  "citation_count": 16, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/880451/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1291449/"
+}

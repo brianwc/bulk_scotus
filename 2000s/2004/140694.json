@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/140694/traverso-v-maryland/", "blocked": false, "citation": {"case_name": "Traverso v. Maryland", "docket_number": "04-6990", "document_uris": ["/api/rest/v2/document/140694/"], "federal_cite_one": "543 U.S. 1028", "federal_cite_three": null, "federal_cite_two": null, "id": 125047, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/125047/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-12-06", "date_modified": "2014-12-21T02:20:57.689881", "docket": "/api/rest/v2/docket/1220008/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1028.04-6990.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1028</p>\n    <p class=\"parties\">TRAVERSO<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 04-6990.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 6, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. Sp. App. Md. Certiorari denied. Reported below: 156 Md. App. 759.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1028</span></span></p>\n    <p class=\"parties\">TRAVERSO<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 04-6990.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 6, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. Sp. App. Md. Certiorari denied. Reported below: 156 Md. App. 759.</p>\n    </div>\n    ", "id": 140694, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/140694/", "sha1": "2808917551b96d75f8d5d43ae8ec4df82a8bf650", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:33:16"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1028", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/140694/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Traverso v. Maryland", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-6990", 
+    "id": 125047, 
+    "resource_uri": "/api/rest/v2/citation/125047/"
+  }, 
+  "id": 140694, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-12-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1028.04-6990.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:33:16", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1028</span></span></p>\n    <p class=\"parties\">TRAVERSO<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 04-6990.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 6, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. Sp. App. Md. Certiorari denied. Reported below: 156 Md. App. 759.</p>\n    </div>\n    ", 
+  "sha1": "2808917551b96d75f8d5d43ae8ec4df82a8bf650", 
+  "date_modified": "2014-12-21T02:20:57.689881", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/140694/traverso-v-maryland/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1220008/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1028</p>\n    <p class=\"parties\">TRAVERSO<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 04-6990.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 6, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Ct. Sp. App. Md. Certiorari denied. Reported below: 156 Md. App. 759.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/140694/"
+}

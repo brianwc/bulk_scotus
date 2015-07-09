@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1383568/rhoades-v-school-district-of-abington-township/", "blocked": false, "citation": {"case_name": "Rhoades v. School District of Abington Township", "docket_number": "225", "document_uris": ["/api/rest/v2/document/1383568/"], "federal_cite_one": "389 U.S. 11", "federal_cite_three": null, "federal_cite_two": null, "id": 1356339, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1356339/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-10-09", "date_modified": "2014-10-30T10:59:45.005787", "docket": "/api/rest/v2/docket/1599895/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>389 U.S. 11 (1967)</b></center>\n<center><h1>RHOADES ET AL.<br>\nv.<br>\nSCHOOL DISTRICT OF ABINGTON TOWNSHIP ET AL.</h1></center>\n<center>No. 225.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 9, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF PENNSYLVANIA.\n<p><i>Franklin C. Salisbury</i> for appellants.</p>\n<p><i>William C. Sennett,</i> Attorney General of Pennsylvania, <i>John P. McCord,</i> Deputy Attorney General, and <i>Edward Friedman</i> for the Commonwealth of Pennsylvania, and <i>William B. Ball</i> for Paul et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "", "id": 1383568, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1383568/", "sha1": "e47bd716e793fa4d8c54bd39219bef1e77fb72ad", "source": "L", "time_retrieved": "2013-10-29T22:53:17.702334"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 11", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1383568/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Rhoades v. School District of Abington Township", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "225", 
+    "id": 1356339, 
+    "resource_uri": "/api/rest/v2/citation/1356339/"
+  }, 
+  "id": 1383568, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-10-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 11 (1967)</b></center>\n<center><h1>RHOADES ET AL.<br>\nv.<br>\nSCHOOL DISTRICT OF ABINGTON TOWNSHIP ET AL.</h1></center>\n<center>No. 225.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 9, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF PENNSYLVANIA.\n<p><i>Franklin C. Salisbury</i> for appellants.</p>\n<p><i>William C. Sennett,</i> Attorney General of Pennsylvania, <i>John P. McCord,</i> Deputy Attorney General, and <i>Edward Friedman</i> for the Commonwealth of Pennsylvania, and <i>William B. Ball</i> for Paul et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:53:17.702334", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e47bd716e793fa4d8c54bd39219bef1e77fb72ad", 
+  "date_modified": "2014-10-30T10:59:45.005787", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1383568/rhoades-v-school-district-of-abington-township/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1599895/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1383568/"
+}

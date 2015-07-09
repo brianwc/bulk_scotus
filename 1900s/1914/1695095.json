@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1695095/united-states-v-bennett/", "blocked": false, "citation": {"case_name": "United States v. Bennett", "docket_number": "630", "document_uris": ["/api/rest/v2/document/1695095/"], "federal_cite_one": "232 U.S. 308", "federal_cite_three": null, "federal_cite_two": null, "id": 1667866, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1667866/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1914-02-24", "date_modified": "2014-12-21T11:42:13.323065", "docket": "/api/rest/v2/docket/1283136/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>232 U.S. 308 (1914)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nBENNETT (NO. 2).</h1></center>\n<center>No. 630.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 6, 7, 1914.</center>\n<center>Decided February 24, 1914.</center>\nCERTIFICATE FROM THE CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT.\n<p><span class=\"star-pagination\">*309</span> <i>Mr. Assistant Attorney General Adkins,</i> with whom <i>Mr. Karl W. Kirchwey</i> was on the brief, for the United States.<sup>[1]</sup></p>\n<p><i>Mr. William D. Guthrie</i> for the yacht owner in this and other cases argued simultaneously herewith.<sup>[2]</sup></p>\n<p>MR. CHIEF JUSTICE WHITE delivered the opinion of the court.</p>\n<p>The certificate discloses that this case involves the right of the United States to recover an excise duty levied under § 37 of the Tariff Act of 1909 which became due on September 1, 1910, on the same yacht which was the subject of the duty becoming due in 1909 and which we have passed upon in the case just decided. All the statements as to the complaint and answer, the submission of the case by stipulation to the court without a jury, the judgment rejecting the claim of the United States and the prosecution of error from the court below are in substance like those stated in the case concerning the tax for 1910 between the United States and Goelet this day decided. As the result of this situation, the certificate recites, differing in that respect from the <i>Bennett Case</i> just previously decided, the trial court made the following finding: \"Defendant is a citizen of the United States and for some years past has been domiciled in and resident of the Republic of France.\"</p>\n<p>Conformably to this finding the second question propounded by the court below in this case, asks whether the act applies where the owner of the yacht, although a citizen, was permanently domiciled and residing in a foreign country for more than two years prior to September <span class=\"star-pagination\">*310</span> 1, 1910, and to the levy of such tax. As for the reasons stated in the <i>Goelet Case,</i> such question was answered in the negative, it follows that a like reply must be made here and therefore there is no need of replying to any of the other questions. In deciding the previous case between the same parties, we made a reservation concerning the power of the court below to deal with the former case in the future, because of the fact that the findings in this case are absolutely in conflict with the state of things exhibited in the previous <i>Bennett Case.</i> Our order will be, second question answered in the negative and the other questions not answered.</p>\n<p><i>And it will be so certified.</i></p>\n<h2>NOTES</h2>\n<p>[1]   See argument, p. 269, <i>ante.</i></p>\n<p>[2]   See argument, p. 263, <i>ante.</i></p>\n\n</div>", "html_with_citations": "", "id": 1695095, "judges": "White", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1695095/", "sha1": "f68b1ba136431ec862be375a258699daa02b6394", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-30T00:08:43.266837"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "232 U.S. 308", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1695095/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Bennett", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "630", 
+    "id": 1667866, 
+    "resource_uri": "/api/rest/v2/citation/1667866/"
+  }, 
+  "id": 1695095, 
+  "blocked": false, 
+  "judges": "White", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1914-02-24", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>232 U.S. 308 (1914)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nBENNETT (NO. 2).</h1></center>\n<center>No. 630.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 6, 7, 1914.</center>\n<center>Decided February 24, 1914.</center>\nCERTIFICATE FROM THE CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT.\n<p><span class=\"star-pagination\">*309</span> <i>Mr. Assistant Attorney General Adkins,</i> with whom <i>Mr. Karl W. Kirchwey</i> was on the brief, for the United States.<sup>[1]</sup></p>\n<p><i>Mr. William D. Guthrie</i> for the yacht owner in this and other cases argued simultaneously herewith.<sup>[2]</sup></p>\n<p>MR. CHIEF JUSTICE WHITE delivered the opinion of the court.</p>\n<p>The certificate discloses that this case involves the right of the United States to recover an excise duty levied under \u00a7 37 of the Tariff Act of 1909 which became due on September 1, 1910, on the same yacht which was the subject of the duty becoming due in 1909 and which we have passed upon in the case just decided. All the statements as to the complaint and answer, the submission of the case by stipulation to the court without a jury, the judgment rejecting the claim of the United States and the prosecution of error from the court below are in substance like those stated in the case concerning the tax for 1910 between the United States and Goelet this day decided. As the result of this situation, the certificate recites, differing in that respect from the <i>Bennett Case</i> just previously decided, the trial court made the following finding: \"Defendant is a citizen of the United States and for some years past has been domiciled in and resident of the Republic of France.\"</p>\n<p>Conformably to this finding the second question propounded by the court below in this case, asks whether the act applies where the owner of the yacht, although a citizen, was permanently domiciled and residing in a foreign country for more than two years prior to September <span class=\"star-pagination\">*310</span> 1, 1910, and to the levy of such tax. As for the reasons stated in the <i>Goelet Case,</i> such question was answered in the negative, it follows that a like reply must be made here and therefore there is no need of replying to any of the other questions. In deciding the previous case between the same parties, we made a reservation concerning the power of the court below to deal with the former case in the future, because of the fact that the findings in this case are absolutely in conflict with the state of things exhibited in the previous <i>Bennett Case.</i> Our order will be, second question answered in the negative and the other questions not answered.</p>\n<p><i>And it will be so certified.</i></p>\n<h2>NOTES</h2>\n<p>[1]   See argument, p. 269, <i>ante.</i></p>\n<p>[2]   See argument, p. 263, <i>ante.</i></p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T00:08:43.266837", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "f68b1ba136431ec862be375a258699daa02b6394", 
+  "date_modified": "2014-12-21T11:42:13.323065", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1695095/united-states-v-bennett/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1283136/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1695095/"
+}

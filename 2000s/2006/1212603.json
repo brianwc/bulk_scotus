@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1212603/artus-v-gersten/", "blocked": false, "citation": {"case_name": "Artus v. Gersten", "docket_number": "05-1019", "document_uris": ["/api/rest/v2/document/1212603/"], "federal_cite_one": "126 S. Ct. 2882", "federal_cite_three": null, "federal_cite_two": null, "id": 1185374, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1185374/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 9, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-06-12", "date_modified": "2014-10-30T17:24:06.379719", "docket": "/api/rest/v2/docket/2504682/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>(2006)</b></center>\n<center><h1>ARTUS, SUPT., CLINTON<br>\nv.<br>\nBEN GERSTEN</h1></center>\n<center>No. 05-1019</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 12, 2006.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1212603, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1212603/", "sha1": "55ebb9ee4d3e00c4dd9f4106c0ec87d4eaecd0cf", "source": "L", "time_retrieved": "2013-10-29T22:02:15.387043"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "126 S. Ct. 2882", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1212603/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Artus v. Gersten", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-1019", 
+    "id": 1185374, 
+    "resource_uri": "/api/rest/v2/citation/1185374/"
+  }, 
+  "id": 1212603, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-06-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>(2006)</b></center>\n<center><h1>ARTUS, SUPT., CLINTON<br>\nv.<br>\nBEN GERSTEN</h1></center>\n<center>No. 05-1019</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 12, 2006.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:02:15.387043", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "55ebb9ee4d3e00c4dd9f4106c0ec87d4eaecd0cf", 
+  "date_modified": "2014-10-30T17:24:06.379719", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1212603/artus-v-gersten/", 
+  "citation_count": 9, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2504682/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1212603/"
+}

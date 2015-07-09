@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105138/henry-gartner-petitioner-v-dr-winfred/", "blocked": false, "citation": {"case_name": "Henry Gartner v. Dr. Winfred Overholser, Superintendent", "docket_number": "523, Misc", "document_uris": ["/api/rest/v2/document/105138/"], "federal_cite_one": "345 U.S. 973", "federal_cite_three": null, "federal_cite_two": null, "id": 89521, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/89521/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1953-06-08", "date_modified": "2014-12-21T01:49:50.779043", "docket": "/api/rest/v2/docket/1292603/", "download_url": "http://bulk.resource.org/courts.gov/c/US/345/345.US.973.523.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">345 U.S. 973</p>\n    <p class=\"case_cite\">73 S.Ct. 1127</p>\n    <p class=\"case_cite\">97 L.Ed. 1389</p>\n    <p class=\"parties\">Henry GARTNER, petitioner,<br>v.<br>Dr. Winfred OVERHOLSER, Superintendent.</p>\n    <p class=\"docket\">No. 523, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 8, 1953</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">345</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">973</span></span></p>\n    <p class=\"case_cite\">73 S.Ct. 1127</p>\n    <p class=\"case_cite\">97 L.Ed. 1389</p>\n    <p class=\"parties\">Henry GARTNER, petitioner,<br>v.<br>Dr. Winfred OVERHOLSER, Superintendent.</p>\n    <p class=\"docket\">No. 523, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 8, 1953</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n    </div>\n    ", "id": 105138, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105138/", "sha1": "7528d48aca09d1ee1a4e4ac56aa1e9b2132705c6", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:21"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "345 U.S. 973", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/105138/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Henry Gartner v. Dr. Winfred Overholser, Superintendent", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "523, Misc", 
+    "id": 89521, 
+    "resource_uri": "/api/rest/v2/citation/89521/"
+  }, 
+  "id": 105138, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1953-06-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/345/345.US.973.523.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:21", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">345</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">973</span></span></p>\n    <p class=\"case_cite\">73 S.Ct. 1127</p>\n    <p class=\"case_cite\">97 L.Ed. 1389</p>\n    <p class=\"parties\">Henry GARTNER, petitioner,<br>v.<br>Dr. Winfred OVERHOLSER, Superintendent.</p>\n    <p class=\"docket\">No. 523, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 8, 1953</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n    </div>\n    ", 
+  "sha1": "7528d48aca09d1ee1a4e4ac56aa1e9b2132705c6", 
+  "date_modified": "2014-12-21T01:49:50.779043", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105138/henry-gartner-petitioner-v-dr-winfred/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1292603/", 
+  "html": "<p class=\"case_cite\">345 U.S. 973</p>\n    <p class=\"case_cite\">73 S.Ct. 1127</p>\n    <p class=\"case_cite\">97 L.Ed. 1389</p>\n    <p class=\"parties\">Henry GARTNER, petitioner,<br>v.<br>Dr. Winfred OVERHOLSER, Superintendent.</p>\n    <p class=\"docket\">No. 523, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 8, 1953</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motion for leave to file petition for writ of habeas corpus denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105138/"
+}

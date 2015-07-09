@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1525749/smith-v-icc/", "blocked": false, "citation": {"case_name": "Smith v. ICC", "docket_number": "339", "document_uris": ["/api/rest/v2/document/1525749/"], "federal_cite_one": "245 U.S. 47", "federal_cite_three": null, "federal_cite_two": null, "id": 1498520, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1498520/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1917-11-05", "date_modified": "2014-12-21T16:15:54.509678", "docket": "/api/rest/v2/docket/2561603/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>245 U.S. 47 (1917)</b></center>\n<center><h1>SMITH<br>\nv.<br>\nINTERSTATE COMMERCE COMMISSION.</h1></center>\n<center>No. 339.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 3, 1917.</center>\n<center>Decided November 5, 1917.</center>\nAPPEAL FROM THE SUPREME COURT OF THE DISTRICT OF COLUMBIA.\n<p><i>Mr. Edward S. Jouett,</i> with whom <i>Mr. Helm Bruce</i> and <i>Mr. Henry L. Stone</i> were on the brief, for appellant.</p>\n<p><i>Mr. Joseph W. Folk</i> for the Interstate Commerce Commission, submitted.</p>\n<p>MR. JUSTICE McKENNA delivered the opinion of the court.</p>\n<p>This case was heard with No. 337, just decided, <i>ante,</i> 33. Like the latter case it was based on a proceeding brought by the Interstate Commerce Commission in the Supreme Court of the District of Columbia to enforce answers to certain questions asked of appellant by the Commission and which he refused to answer upon the advice of counsel.</p>\n<p>The petition and reply thereto are the same as in No. 337 and present for decision the same propositions.</p>\n<p>The court entered an order requiring appellant to answer questions to the following effect:</p>\n<p>1st. Whether he had personal knowledge of funds of the Louisville &amp; Nashville Railroad used for political <span class=\"star-pagination\">*48</span> campaign purposes in the State of Tennessee and charged on the books of the carrier to operating expenses or construction account; and, 2nd, whether he had personal knowledge of funds of the Louisville &amp; Nashville Railroad used for campaign purposes in the State of Kentucky and charged on the books of the carrier to construction account or operating expenses.</p>\n<p>It will be observed that the questions are limited, as some of the questions in No. 337 were, to the allocation upon the books of the company of the funds expended, if any. They are within the reasoning of the opinion in No. 337, and on the authority of that case the order is</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "", "id": 1525749, "judges": "McKenna", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1525749/", "sha1": "1ce04fa3ac30434e751f4ca380a4d8b27356d1ba", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T23:34:59.964117"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "245 U.S. 47", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1525749/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Smith v. ICC", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "339", 
+    "id": 1498520, 
+    "resource_uri": "/api/rest/v2/citation/1498520/"
+  }, 
+  "id": 1525749, 
+  "blocked": false, 
+  "judges": "McKenna", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1917-11-05", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>245 U.S. 47 (1917)</b></center>\n<center><h1>SMITH<br>\nv.<br>\nINTERSTATE COMMERCE COMMISSION.</h1></center>\n<center>No. 339.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 3, 1917.</center>\n<center>Decided November 5, 1917.</center>\nAPPEAL FROM THE SUPREME COURT OF THE DISTRICT OF COLUMBIA.\n<p><i>Mr. Edward S. Jouett,</i> with whom <i>Mr. Helm Bruce</i> and <i>Mr. Henry L. Stone</i> were on the brief, for appellant.</p>\n<p><i>Mr. Joseph W. Folk</i> for the Interstate Commerce Commission, submitted.</p>\n<p>MR. JUSTICE McKENNA delivered the opinion of the court.</p>\n<p>This case was heard with No. 337, just decided, <i>ante,</i> 33. Like the latter case it was based on a proceeding brought by the Interstate Commerce Commission in the Supreme Court of the District of Columbia to enforce answers to certain questions asked of appellant by the Commission and which he refused to answer upon the advice of counsel.</p>\n<p>The petition and reply thereto are the same as in No. 337 and present for decision the same propositions.</p>\n<p>The court entered an order requiring appellant to answer questions to the following effect:</p>\n<p>1st. Whether he had personal knowledge of funds of the Louisville &amp; Nashville Railroad used for political <span class=\"star-pagination\">*48</span> campaign purposes in the State of Tennessee and charged on the books of the carrier to operating expenses or construction account; and, 2nd, whether he had personal knowledge of funds of the Louisville &amp; Nashville Railroad used for campaign purposes in the State of Kentucky and charged on the books of the carrier to construction account or operating expenses.</p>\n<p>It will be observed that the questions are limited, as some of the questions in No. 337 were, to the allocation upon the books of the company of the funds expended, if any. They are within the reasoning of the opinion in No. 337, and on the authority of that case the order is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:34:59.964117", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "1ce04fa3ac30434e751f4ca380a4d8b27356d1ba", 
+  "date_modified": "2014-12-21T16:15:54.509678", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1525749/smith-v-icc/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2561603/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1525749/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2468008/hosack-v-smiley/", "blocked": false, "citation": {"case_name": "Hosack v. Smiley", "docket_number": "1196", "document_uris": ["/api/rest/v2/document/2468008/"], "federal_cite_one": "390 U.S. 744", "federal_cite_three": null, "federal_cite_two": null, "id": 2440780, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2440780/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-04-29", "date_modified": "2014-10-30T16:27:29.246008", "docket": "/api/rest/v2/docket/2334711/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>390 U.S. 744 (1968)</b></center>\n<center><h1>HOSACK ET AL.<br>\nv.<br>\nSMILEY ET AL.</h1></center>\n<center>No. 1196.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 29, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO.\n<p><i>Melvin L. Wulf</i> for appellants.</p>\n<p><i>Duke W. Dunbar,</i> Attorney General of Colorado, and <i>John P. Holloway,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 2468008, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2468008/", "sha1": "ed3f3b7d0c30b7b3aa3574499a5325f4575a5b67", "source": "L", "time_retrieved": "2013-10-30T02:43:45.605698"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "390 U.S. 744", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2468008/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hosack v. Smiley", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1196", 
+    "id": 2440780, 
+    "resource_uri": "/api/rest/v2/citation/2440780/"
+  }, 
+  "id": 2468008, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-04-29", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>390 U.S. 744 (1968)</b></center>\n<center><h1>HOSACK ET AL.<br>\nv.<br>\nSMILEY ET AL.</h1></center>\n<center>No. 1196.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 29, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO.\n<p><i>Melvin L. Wulf</i> for appellants.</p>\n<p><i>Duke W. Dunbar,</i> Attorney General of Colorado, and <i>John P. Holloway,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:43:45.605698", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ed3f3b7d0c30b7b3aa3574499a5325f4575a5b67", 
+  "date_modified": "2014-10-30T16:27:29.246008", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2468008/hosack-v-smiley/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2334711/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2468008/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/95154/james-holly-petitioner-v-domestic-foreign/", "blocked": false, "citation": {"case_name": "James Holly v. Domestic & Foreign Missionary Society of the Protestant Episcopal Church of the United States", "docket_number": "409", "document_uris": ["/api/rest/v2/document/95154/"], "federal_cite_one": "175 U.S. 725", "federal_cite_three": null, "federal_cite_two": null, "id": 79535, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/79535/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1899-10-23", "date_modified": "2014-12-21T01:33:09.743951", "docket": "/api/rest/v2/docket/1280073/", "download_url": "http://bulk.resource.org/courts.gov/c/US/175/175.US.725.409.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">175 U.S. 725</p>\n    <p class=\"case_cite\">20 S.Ct. 1031</p>\n    <p class=\"case_cite\">44 L.Ed. 338</p>\n    <p class=\"parties\">JAMES HOLLY, <i>Petitioner</i>,<br>v.<br>DOMESTIC &amp; FOREIGN MISSIONARY SOCIETY OF THE PROTESTANT  EPISCOPAL CHURCH OF THE UNITED STATES <i>et al.</i></p>\n    <p class=\"docket\">No. 409.</p>\n    <p class=\"date\">October 23, 1899.</p>\n    <p class=\"indent\">Granted.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> See 34 C. C. A. 649, 92 Fed. Rep. 745.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">175</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">725</span></span></p>\n    <p class=\"case_cite\">20 S.Ct. 1031</p>\n    <p class=\"case_cite\">44 L.Ed. 338</p>\n    <p class=\"parties\">JAMES HOLLY, <i>Petitioner</i>,<br>v.<br>DOMESTIC &amp; FOREIGN MISSIONARY SOCIETY OF THE PROTESTANT  EPISCOPAL CHURCH OF THE UNITED STATES <i>et al.</i></p>\n    <p class=\"docket\">No. 409.</p>\n    <p class=\"date\">October 23, 1899.</p>\n    <p class=\"indent\">Granted.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> See 34 C. C. A. 649, 92 Fed. Rep. 745.</p>\n      </div>\n    </div>\n    ", "id": 95154, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/95154/", "sha1": "5bf1fc0c87ffe264b1bc70f2711d5dccb7d8fc37", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:38:08"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "175 U.S. 725", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/95154/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "James Holly v. Domestic & Foreign Missionary Society of the Protestant Episcopal Church of the United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "409", 
+    "id": 79535, 
+    "resource_uri": "/api/rest/v2/citation/79535/"
+  }, 
+  "id": 95154, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1899-10-23", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/175/175.US.725.409.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:38:08", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">175</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">725</span></span></p>\n    <p class=\"case_cite\">20 S.Ct. 1031</p>\n    <p class=\"case_cite\">44 L.Ed. 338</p>\n    <p class=\"parties\">JAMES HOLLY, <i>Petitioner</i>,<br>v.<br>DOMESTIC &amp; FOREIGN MISSIONARY SOCIETY OF THE PROTESTANT  EPISCOPAL CHURCH OF THE UNITED STATES <i>et al.</i></p>\n    <p class=\"docket\">No. 409.</p>\n    <p class=\"date\">October 23, 1899.</p>\n    <p class=\"indent\">Granted.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> See 34 C. C. A. 649, 92 Fed. Rep. 745.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "5bf1fc0c87ffe264b1bc70f2711d5dccb7d8fc37", 
+  "date_modified": "2014-12-21T01:33:09.743951", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/95154/james-holly-petitioner-v-domestic-foreign/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1280073/", 
+  "html": "<p class=\"case_cite\">175 U.S. 725</p>\n    <p class=\"case_cite\">20 S.Ct. 1031</p>\n    <p class=\"case_cite\">44 L.Ed. 338</p>\n    <p class=\"parties\">JAMES HOLLY, <i>Petitioner</i>,<br>v.<br>DOMESTIC &amp; FOREIGN MISSIONARY SOCIETY OF THE PROTESTANT  EPISCOPAL CHURCH OF THE UNITED STATES <i>et al.</i></p>\n    <p class=\"docket\">No. 409.</p>\n    <p class=\"date\">October 23, 1899.</p>\n    <p class=\"indent\">Granted.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> See 34 C. C. A. 649, 92 Fed. Rep. 745.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/95154/"
+}

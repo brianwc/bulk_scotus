@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/134654/chamorro-garcia-v-united-states/", "blocked": false, "citation": {"case_name": "Chamorro-Garcia v. United States", "docket_number": "03-7292", "document_uris": ["/api/rest/v2/document/134654/"], "federal_cite_one": "540 U.S. 1083", "federal_cite_three": null, "federal_cite_two": null, "id": 119007, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/119007/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-12-08", "date_modified": "2014-12-21T02:19:45.297033", "docket": "/api/rest/v2/docket/30817/", "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.1083.03-7292.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">540 U.S. 1083</p>\n    <p class=\"parties\">CHAMORRO-GARCIA<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-7292.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 8, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 70 Fed. Appx. 786.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1083</span></span></p>\n    <p class=\"parties\">CHAMORRO-GARCIA<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-7292.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 8, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 70 Fed. Appx. 786.</p>\n    </div>\n    ", "id": 134654, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/134654/", "sha1": "677814c3f52c9606b01aff84cebaa6704c2bf964", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:28:54"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "540 U.S. 1083", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/134654/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Chamorro-Garcia v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-7292", 
+    "id": 119007, 
+    "resource_uri": "/api/rest/v2/citation/119007/"
+  }, 
+  "id": 134654, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-12-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.1083.03-7292.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:28:54", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1083</span></span></p>\n    <p class=\"parties\">CHAMORRO-GARCIA<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-7292.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 8, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 70 Fed. Appx. 786.</p>\n    </div>\n    ", 
+  "sha1": "677814c3f52c9606b01aff84cebaa6704c2bf964", 
+  "date_modified": "2014-12-21T02:19:45.297033", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/134654/chamorro-garcia-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/30817/", 
+  "html": "<p class=\"case_cite\">540 U.S. 1083</p>\n    <p class=\"parties\">CHAMORRO-GARCIA<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-7292.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 8, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 70 Fed. Appx. 786.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/134654/"
+}

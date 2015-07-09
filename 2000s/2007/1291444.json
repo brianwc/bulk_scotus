@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1291444/fuller-v-armstrong/", "blocked": false, "citation": {"case_name": "Fuller v. Armstrong", "docket_number": "07-5239", "document_uris": ["/api/rest/v2/document/1291444/"], "federal_cite_one": "128 S. Ct. 209", "federal_cite_three": null, "federal_cite_two": null, "id": 1264215, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1264215/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-10-01", "date_modified": "2014-10-30T00:19:02.794009", "docket": "/api/rest/v2/docket/181003/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>128 S.Ct. 209 (2007)</b></center>\n<center><h1>Jancis L. FULLER, petitioner,<br>\nv.<br>\nJohn J. ARMSTRONG, et al.</h1></center>\n<center>No. 07-5239.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p><span class=\"star-pagination\">*210</span> Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b>128 S.Ct. 209 (2007)</b></center>\n<center><h1>Jancis L. FULLER, petitioner,<br>\nv.<br>\nJohn J. ARMSTRONG, et al.</h1></center>\n<center>No. 07-5239.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p><span class=\"star-pagination\">*210</span> Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n</div>", "id": 1291444, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1291444/", "sha1": "614bc7b44e0a4e30fdc202a2b4a90530d779b2b7", "source": "L", "time_retrieved": "2013-10-29T22:22:17.376025"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "128 S. Ct. 209", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1291444/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Fuller v. Armstrong", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "07-5239", 
+    "id": 1264215, 
+    "resource_uri": "/api/rest/v2/citation/1264215/"
+  }, 
+  "id": 1291444, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-10-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>128 S.Ct. 209 (2007)</b></center>\n<center><h1>Jancis L. FULLER, petitioner,<br>\nv.<br>\nJohn J. ARMSTRONG, et al.</h1></center>\n<center>No. 07-5239.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p><span class=\"star-pagination\">*210</span> Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:22:17.376025", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b>128 S.Ct. 209 (2007)</b></center>\n<center><h1>Jancis L. FULLER, petitioner,<br>\nv.<br>\nJohn J. ARMSTRONG, et al.</h1></center>\n<center>No. 07-5239.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p><span class=\"star-pagination\">*210</span> Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n</div>", 
+  "sha1": "614bc7b44e0a4e30fdc202a2b4a90530d779b2b7", 
+  "date_modified": "2014-10-30T00:19:02.794009", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1291444/fuller-v-armstrong/", 
+  "citation_count": 4, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/181003/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1291444/"
+}

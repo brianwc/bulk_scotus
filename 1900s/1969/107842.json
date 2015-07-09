@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107842/serta-associates-inc-v-united-states/", "blocked": false, "citation": {"case_name": "Serta Associates, Inc. v. United States", "docket_number": "878", "document_uris": ["/api/rest/v2/document/107842/"], "federal_cite_one": "393 U.S. 534", "federal_cite_three": null, "federal_cite_two": null, "id": 92201, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92201/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-02-25", "date_modified": "2014-12-21T01:56:08.403934", "docket": "/api/rest/v2/docket/2507185/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">393 U.S. 534</p>\n    <p class=\"case_cite\">89 S.Ct. 870</p>\n    <p class=\"case_cite\">21 L.Ed.2d 753</p>\n    <p class=\"parties\">SERTA ASSOCIATES, INC.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 878.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 24, 1969</p>\n    <p class=\"date\">Rehearing Denied April 7, 1969.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 394 U.S. 967, 89 S.Ct. 1303.</p>\n      <p class=\"indent\">Sigmund Timberg, Lionel G. Gross and David V. Kahn, for appellant.</p>\n      <p class=\"indent\">Solicitor General Griswold, Acting Assistant Attorney General Hammond, and William R. Weissman, for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN and Mr. Justice STEWART are of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice WHITE took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>393 U.S. 534 (1969)</b></center>\n<center><h1>SERTA ASSOCIATES, INC.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 878.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 24, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Sigmund Timberg, Lionel G. Gross,</i> and <i>David V. Kahn</i> for appellant.</p>\n<p><i>Solicitor General Griswold, Acting Assistant Attorney General Hammond,</i> and <i>William R. Weissman</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART are of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n<p>MR. JUSTICE WHITE took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">393</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">534</span></span> (1969)</b></center>\n<center><h1>SERTA ASSOCIATES, INC.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 878.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 24, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Sigmund Timberg, Lionel G. Gross,</i> and <i>David V. Kahn</i> for appellant.</p>\n<p><i>Solicitor General Griswold, Acting Assistant Attorney General Hammond,</i> and <i>William R. Weissman</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART are of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n<p>MR. JUSTICE WHITE took no part in the consideration or decision of this case.</p>\n</div>", "id": 107842, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107842/", "sha1": "59950e4c66785f5f10e6a689dbd87ea7a3a37995", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:17"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 534", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107842/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Serta Associates, Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "878", 
+    "id": 92201, 
+    "resource_uri": "/api/rest/v2/citation/92201/"
+  }, 
+  "id": 107842, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-02-25", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 534 (1969)</b></center>\n<center><h1>SERTA ASSOCIATES, INC.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 878.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 24, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Sigmund Timberg, Lionel G. Gross,</i> and <i>David V. Kahn</i> for appellant.</p>\n<p><i>Solicitor General Griswold, Acting Assistant Attorney General Hammond,</i> and <i>William R. Weissman</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART are of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n<p>MR. JUSTICE WHITE took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:17", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">393</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">534</span></span> (1969)</b></center>\n<center><h1>SERTA ASSOCIATES, INC.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 878.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 24, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Sigmund Timberg, Lionel G. Gross,</i> and <i>David V. Kahn</i> for appellant.</p>\n<p><i>Solicitor General Griswold, Acting Assistant Attorney General Hammond,</i> and <i>William R. Weissman</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART are of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n<p>MR. JUSTICE WHITE took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "59950e4c66785f5f10e6a689dbd87ea7a3a37995", 
+  "date_modified": "2014-12-21T01:56:08.403934", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107842/serta-associates-inc-v-united-states/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2507185/", 
+  "html": "<p class=\"case_cite\">393 U.S. 534</p>\n    <p class=\"case_cite\">89 S.Ct. 870</p>\n    <p class=\"case_cite\">21 L.Ed.2d 753</p>\n    <p class=\"parties\">SERTA ASSOCIATES, INC.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 878.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 24, 1969</p>\n    <p class=\"date\">Rehearing Denied April 7, 1969.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 394 U.S. 967, 89 S.Ct. 1303.</p>\n      <p class=\"indent\">Sigmund Timberg, Lionel G. Gross and David V. Kahn, for appellant.</p>\n      <p class=\"indent\">Solicitor General Griswold, Acting Assistant Attorney General Hammond, and William R. Weissman, for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN and Mr. Justice STEWART are of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice WHITE took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107842/"
+}

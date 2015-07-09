@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1395207/marsh-v-shepard/", "blocked": false, "citation": {"case_name": "Marsh v. Shepard", "docket_number": null, "document_uris": ["/api/rest/v2/document/1395207/"], "federal_cite_one": "120 U.S. 595", "federal_cite_three": null, "federal_cite_two": null, "id": 1367978, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1367978/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1887-03-14", "date_modified": "2014-10-30T17:30:02.979203", "docket": "/api/rest/v2/docket/2519574/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>120 U.S. 595 (1887)</b></center>\n<center><h1>MARSH<br>\nv.<br>\nSHEPARD.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 7, 1887.</center>\n<center>Decided March 14, 1887.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF MICHIGAN.\n<p><span class=\"star-pagination\">*597</span> <i>Mr. Edward J. Hill</i> for the motion.</p>\n<p><i>Mr. R.A. Parker</i> and <i>Mr. Don M. Dickinson</i> opposing.</p>\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>This motion is denied. The sole ground of the application is, that since the appeal the Supreme Court of Michigan has, in a suit between the same parties, enjoined these appellants from making any claim against the appellee for the use of the patented invention which is the subject matter of the suit, and has required them to release all the claims and demands which they have been prosecuting.</p>\n<p>Marsh and Le Fever oppose this motion, and Scott has no right to dismiss for them.</p>\n<p><i>Motion denied.</i></p>\n</div>", "html_with_citations": "", "id": 1395207, "judges": "Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1395207/", "sha1": "bdb7d2c864398d3190f15ca3ce7e5e907e8b9a73", "source": "L", "time_retrieved": "2013-10-29T22:56:59.364947"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "120 U.S. 595", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1395207/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Marsh v. Shepard", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1367978, 
+    "resource_uri": "/api/rest/v2/citation/1367978/"
+  }, 
+  "id": 1395207, 
+  "blocked": false, 
+  "judges": "Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1887-03-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>120 U.S. 595 (1887)</b></center>\n<center><h1>MARSH<br>\nv.<br>\nSHEPARD.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 7, 1887.</center>\n<center>Decided March 14, 1887.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF MICHIGAN.\n<p><span class=\"star-pagination\">*597</span> <i>Mr. Edward J. Hill</i> for the motion.</p>\n<p><i>Mr. R.A. Parker</i> and <i>Mr. Don M. Dickinson</i> opposing.</p>\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>This motion is denied. The sole ground of the application is, that since the appeal the Supreme Court of Michigan has, in a suit between the same parties, enjoined these appellants from making any claim against the appellee for the use of the patented invention which is the subject matter of the suit, and has required them to release all the claims and demands which they have been prosecuting.</p>\n<p>Marsh and Le Fever oppose this motion, and Scott has no right to dismiss for them.</p>\n<p><i>Motion denied.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:56:59.364947", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bdb7d2c864398d3190f15ca3ce7e5e907e8b9a73", 
+  "date_modified": "2014-10-30T17:30:02.979203", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1395207/marsh-v-shepard/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2519574/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1395207/"
+}

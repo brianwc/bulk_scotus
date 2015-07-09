@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087805/national-labor-relations-board-v-celanese-corporat/", "blocked": false, "citation": {"case_name": "NATIONAL LABOR RELATIONS BOARD v. Celanese Corporation of America", "docket_number": "382", "document_uris": ["/api/rest/v2/document/1087805/"], "federal_cite_one": "365 U.S. 297", "federal_cite_three": null, "federal_cite_two": null, "id": 1060576, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060576/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-02-20", "date_modified": "2014-10-30T05:42:19.277675", "docket": "/api/rest/v2/docket/854126/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>365 U.S. 297 (1961)</b></center>\n<center><h1>NATIONAL LABOR RELATIONS BOARD<br>\nv.<br>\nCELANESE CORPORATION OF AMERICA.</h1></center>\n<center>No. 382.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 20, 1961.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Solicitor General Rankin, Stuart Rothman, Dominick L. Manoli</i> and <i>Norton Come</i> for petitioner.</p>\n<p><i>Gerard D. Reilly</i> and <i>Joseph C. Wells</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the Court of Appeals for consideration in the light of <i>Labor Board</i> v. <i>Mattison Machine Works, ante,</i> p. 123.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE STEWART are of the opinion that certiorari should be denied.</p>\n</div>", "html_with_citations": "", "id": 1087805, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087805/", "sha1": "7aef5114304719f952c4ae3285d123f172d51b42", "source": "L", "time_retrieved": "2013-10-29T19:45:03.700659"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "365 U.S. 297", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087805/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "NATIONAL LABOR RELATIONS BOARD v. Celanese Corporation of America", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "382", 
+    "id": 1060576, 
+    "resource_uri": "/api/rest/v2/citation/1060576/"
+  }, 
+  "id": 1087805, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-02-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>365 U.S. 297 (1961)</b></center>\n<center><h1>NATIONAL LABOR RELATIONS BOARD<br>\nv.<br>\nCELANESE CORPORATION OF AMERICA.</h1></center>\n<center>No. 382.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 20, 1961.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Solicitor General Rankin, Stuart Rothman, Dominick L. Manoli</i> and <i>Norton Come</i> for petitioner.</p>\n<p><i>Gerard D. Reilly</i> and <i>Joseph C. Wells</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the Court of Appeals for consideration in the light of <i>Labor Board</i> v. <i>Mattison Machine Works, ante,</i> p. 123.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE STEWART are of the opinion that certiorari should be denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:45:03.700659", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "7aef5114304719f952c4ae3285d123f172d51b42", 
+  "date_modified": "2014-10-30T05:42:19.277675", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087805/national-labor-relations-board-v-celanese-corporat/", 
+  "citation_count": 6, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/854126/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087805/"
+}

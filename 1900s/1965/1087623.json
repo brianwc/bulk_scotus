@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087623/california-democratic-council-v-arnebergh/", "blocked": false, "citation": {"case_name": "California Democratic Council v. Arnebergh", "docket_number": "583", "document_uris": ["/api/rest/v2/document/1087623/"], "federal_cite_one": "382 U.S. 202", "federal_cite_three": null, "federal_cite_two": null, "id": 1060394, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060394/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-12-06", "date_modified": "2014-10-30T08:56:54.528029", "docket": "/api/rest/v2/docket/1335518/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>382 U.S. 202 (1965)</b></center>\n<center><h1>CALIFORNIA DEMOCRATIC COUNCIL ET AL.<br>\nv.<br>\nARNEBERGH ET AL.</h1></center>\n<center>No. 583.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 6, 1965.</center>\nAPPEAL FROM THE DISTRICT COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.\n<p><i>Leon M. Cooper</i> for appellants.</p>\n<p><i>Thomas C. Lynch,</i> Attorney General of California, <i>Charles A. Barrett,</i> Assistant Attorney General, <i>Sanford N. Gruskin,</i> Deputy Attorney General, <i>Harold W. Kennedy, Roger Arnebergh, pro se,</i> and <i>Bourke Jones</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 1087623, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087623/", "sha1": "0ee8f5be6239e86e08c48b58f53102f24b22b191", "source": "L", "time_retrieved": "2013-10-29T18:48:31.872305"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "382 U.S. 202", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087623/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "California Democratic Council v. Arnebergh", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "583", 
+    "id": 1060394, 
+    "resource_uri": "/api/rest/v2/citation/1060394/"
+  }, 
+  "id": 1087623, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-12-06", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>382 U.S. 202 (1965)</b></center>\n<center><h1>CALIFORNIA DEMOCRATIC COUNCIL ET AL.<br>\nv.<br>\nARNEBERGH ET AL.</h1></center>\n<center>No. 583.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 6, 1965.</center>\nAPPEAL FROM THE DISTRICT COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.\n<p><i>Leon M. Cooper</i> for appellants.</p>\n<p><i>Thomas C. Lynch,</i> Attorney General of California, <i>Charles A. Barrett,</i> Assistant Attorney General, <i>Sanford N. Gruskin,</i> Deputy Attorney General, <i>Harold W. Kennedy, Roger Arnebergh, pro se,</i> and <i>Bourke Jones</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T18:48:31.872305", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0ee8f5be6239e86e08c48b58f53102f24b22b191", 
+  "date_modified": "2014-10-30T08:56:54.528029", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087623/california-democratic-council-v-arnebergh/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1335518/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087623/"
+}

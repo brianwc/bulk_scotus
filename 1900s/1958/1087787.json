@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087787/walters-v-connecticut/", "blocked": false, "citation": {"case_name": "Walters v. Connecticut", "docket_number": "35, Misc", "document_uris": ["/api/rest/v2/document/1087787/"], "federal_cite_one": "358 U.S. 46", "federal_cite_three": null, "federal_cite_two": null, "id": 1060558, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060558/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-10-13", "date_modified": "2014-10-30T10:15:34.034509", "docket": "/api/rest/v2/docket/1507499/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>358 U.S. 46 (1958)</b></center>\n<center><h1>WALTERS<br>\nv.<br>\nCONNECTICUT.</h1></center>\n<center>No. 35, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF ERRORS OF CONNECTICUT.\n<p><i>Samuel Sumner Freedman</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1087787, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087787/", "sha1": "d17403f717f6badbd4a85a75b8b34a65608cf075", "source": "L", "time_retrieved": "2013-10-29T19:42:48.667496"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "358 U.S. 46", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087787/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Walters v. Connecticut", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "35, Misc", 
+    "id": 1060558, 
+    "resource_uri": "/api/rest/v2/citation/1060558/"
+  }, 
+  "id": 1087787, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-10-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>358 U.S. 46 (1958)</b></center>\n<center><h1>WALTERS<br>\nv.<br>\nCONNECTICUT.</h1></center>\n<center>No. 35, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF ERRORS OF CONNECTICUT.\n<p><i>Samuel Sumner Freedman</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:42:48.667496", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d17403f717f6badbd4a85a75b8b34a65608cf075", 
+  "date_modified": "2014-10-30T10:15:34.034509", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087787/walters-v-connecticut/", 
+  "citation_count": 4, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1507499/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087787/"
+}

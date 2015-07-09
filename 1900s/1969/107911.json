@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107911/jones-v-florida/", "blocked": false, "citation": {"case_name": "Jones v. Florida", "docket_number": "807, Misc", "document_uris": ["/api/rest/v2/document/107911/"], "federal_cite_one": "394 U.S. 720", "federal_cite_three": null, "federal_cite_two": null, "id": 92270, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92270/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-04-22", "date_modified": "2014-12-21T01:56:14.958944", "docket": "/api/rest/v2/docket/2575367/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">394 U.S. 720</p>\n    <p class=\"case_cite\">89 S.Ct. 1473</p>\n    <p class=\"case_cite\">22 L.Ed.2d 675</p>\n    <p class=\"parties\">Willie T. JONES<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 807, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 21, 1969</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Phillip A. Hubbart, for petitioner.</p>\n      <p class=\"indent\">Earl Faircloth, Atty. Gen. of Florida, and Harold Mendelow, Asst. Atty. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the District Court of Appeal of Florida, Third District.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court of Appeal of Florida, Third District, for further consideration in light of Bruton v. United States, 391 U.S. 123, 88 S.Ct. 1620, 20 L.Ed.2d 476, and Roberts v. Russell, 392 U.S. 293, 88 S.Ct. 1921, 20 L.Ed.2d 1100.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>394 U.S. 720 (1969)</b></center>\n<center><h1>JONES<br>\nv.<br>\nFLORIDA.</h1></center>\n<center>No. 807, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 21, 1969.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE DISTRICT COURT OF APPEAL OF FLORIDA, THIRD DISTRICT.\n<p><i>Phillip A. Hubbart</i> for petitioner.</p>\n<p><i>Earl Faircloth,</i> Attorney General of Florida, and <i>Harold Mendelow,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court of Appeal of Florida, Third District, for further consideration in light of <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123, and <i>Roberts</i> v. <i>Russell,</i> 392 U. S. 293.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">394</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">720</span></span> (1969)</b></center>\n<center><h1>JONES<br>\nv.<br>\nFLORIDA.</h1></center>\n<center>No. 807, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 21, 1969.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE DISTRICT COURT OF APPEAL OF FLORIDA, THIRD DISTRICT.\n<p><i>Phillip A. Hubbart</i> for petitioner.</p>\n<p><i>Earl Faircloth,</i> Attorney General of Florida, and <i>Harold Mendelow,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court of Appeal of Florida, Third District, for further consideration in light of <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123, and <i>Roberts</i> v. <i>Russell,</i> 392 U. S. 293.</p>\n</div>", "id": 107911, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107911/", "sha1": "3a337cbfe5e509553bb65ccf1ebb13a4a8e2da36", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:18"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "394 U.S. 720", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107911/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jones v. Florida", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "807, Misc", 
+    "id": 92270, 
+    "resource_uri": "/api/rest/v2/citation/92270/"
+  }, 
+  "id": 107911, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-04-22", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>394 U.S. 720 (1969)</b></center>\n<center><h1>JONES<br>\nv.<br>\nFLORIDA.</h1></center>\n<center>No. 807, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 21, 1969.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE DISTRICT COURT OF APPEAL OF FLORIDA, THIRD DISTRICT.\n<p><i>Phillip A. Hubbart</i> for petitioner.</p>\n<p><i>Earl Faircloth,</i> Attorney General of Florida, and <i>Harold Mendelow,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court of Appeal of Florida, Third District, for further consideration in light of <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123, and <i>Roberts</i> v. <i>Russell,</i> 392 U. S. 293.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:18", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">394</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">720</span></span> (1969)</b></center>\n<center><h1>JONES<br>\nv.<br>\nFLORIDA.</h1></center>\n<center>No. 807, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 21, 1969.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE DISTRICT COURT OF APPEAL OF FLORIDA, THIRD DISTRICT.\n<p><i>Phillip A. Hubbart</i> for petitioner.</p>\n<p><i>Earl Faircloth,</i> Attorney General of Florida, and <i>Harold Mendelow,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court of Appeal of Florida, Third District, for further consideration in light of <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123, and <i>Roberts</i> v. <i>Russell,</i> 392 U. S. 293.</p>\n</div>", 
+  "sha1": "3a337cbfe5e509553bb65ccf1ebb13a4a8e2da36", 
+  "date_modified": "2014-12-21T01:56:14.958944", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107911/jones-v-florida/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2575367/", 
+  "html": "<p class=\"case_cite\">394 U.S. 720</p>\n    <p class=\"case_cite\">89 S.Ct. 1473</p>\n    <p class=\"case_cite\">22 L.Ed.2d 675</p>\n    <p class=\"parties\">Willie T. JONES<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 807, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 21, 1969</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Phillip A. Hubbart, for petitioner.</p>\n      <p class=\"indent\">Earl Faircloth, Atty. Gen. of Florida, and Harold Mendelow, Asst. Atty. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the District Court of Appeal of Florida, Third District.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court of Appeal of Florida, Third District, for further consideration in light of Bruton v. United States, 391 U.S. 123, 88 S.Ct. 1620, 20 L.Ed.2d 476, and Roberts v. Russell, 392 U.S. 293, 88 S.Ct. 1921, 20 L.Ed.2d 1100.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107911/"
+}

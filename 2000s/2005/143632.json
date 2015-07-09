@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/143632/george-mason-university-v-litman/", "blocked": false, "citation": {"case_name": "George Mason University v. Litman", "docket_number": "03-1628", "document_uris": ["/api/rest/v2/document/143632/"], "federal_cite_one": "544 U.S. 960", "federal_cite_three": null, "federal_cite_two": null, "id": 127984, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/127984/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-04-04", "date_modified": "2014-12-21T02:21:53.891091", "docket": "/api/rest/v2/docket/2493300/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.960.03-1628.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 960</p>\n    <p class=\"parties\">GEORGE MASON UNIVERSITY<br><i>v.</i><br>LITMAN.</p>\n    <p class=\"docket\">No. 03-1628.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 92 Fed. Appx. 41.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">960</span></span></p>\n    <p class=\"parties\">GEORGE MASON UNIVERSITY<br><i>v.</i><br>LITMAN.</p>\n    <p class=\"docket\">No. 03-1628.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 92 Fed. Appx. 41.</p>\n    </div>\n    ", "id": 143632, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/143632/", "sha1": "43d1e7c87776dd4696f5f7a7d00d785ff754d62a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:59:24"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 960", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/143632/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "George Mason University v. Litman", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-1628", 
+    "id": 127984, 
+    "resource_uri": "/api/rest/v2/citation/127984/"
+  }, 
+  "id": 143632, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-04-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.960.03-1628.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:59:24", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">960</span></span></p>\n    <p class=\"parties\">GEORGE MASON UNIVERSITY<br><i>v.</i><br>LITMAN.</p>\n    <p class=\"docket\">No. 03-1628.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 92 Fed. Appx. 41.</p>\n    </div>\n    ", 
+  "sha1": "43d1e7c87776dd4696f5f7a7d00d785ff754d62a", 
+  "date_modified": "2014-12-21T02:21:53.891091", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/143632/george-mason-university-v-litman/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2493300/", 
+  "html": "<p class=\"case_cite\">544 U.S. 960</p>\n    <p class=\"parties\">GEORGE MASON UNIVERSITY<br><i>v.</i><br>LITMAN.</p>\n    <p class=\"docket\">No. 03-1628.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 92 Fed. Appx. 41.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/143632/"
+}

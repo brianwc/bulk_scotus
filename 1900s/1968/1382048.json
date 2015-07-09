@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1382048/school-committee-of-city-of-boston-v-board-of-educ/", "blocked": false, "citation": {"case_name": "SCHOOL COMMITTEE OF CITY OF BOSTON v. Board of Education", "docket_number": "759", "document_uris": ["/api/rest/v2/document/1382048/"], "federal_cite_one": "389 U.S. 572", "federal_cite_three": null, "federal_cite_two": null, "id": 1354820, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1354820/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-01-15", "date_modified": "2014-10-30T17:46:50.783435", "docket": "/api/rest/v2/docket/2572076/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>389 U.S. 572 (1968)</b></center>\n<center><h1>SCHOOL COMMITTEE OF CITY OF BOSTON<br>\nv.<br>\nBOARD OF EDUCATION ET AL.</h1></center>\n<center>No. 759.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE SUPREME JUDICIAL COURT OF MASSACHUSETTS.\n<p><i>John W. White</i> for appellant.</p>\n<p><i>Elliot L. Richardson,</i> Attorney General of Massachusetts, and <i>Howard M. Miller,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 1382048, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1382048/", "sha1": "957d3b3601cf1e6ca9df152f4e6916ee3b027b6e", "source": "L", "time_retrieved": "2013-10-29T22:52:55.910229"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 572", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1382048/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "SCHOOL COMMITTEE OF CITY OF BOSTON v. Board of Education", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "759", 
+    "id": 1354820, 
+    "resource_uri": "/api/rest/v2/citation/1354820/"
+  }, 
+  "id": 1382048, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-01-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 572 (1968)</b></center>\n<center><h1>SCHOOL COMMITTEE OF CITY OF BOSTON<br>\nv.<br>\nBOARD OF EDUCATION ET AL.</h1></center>\n<center>No. 759.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE SUPREME JUDICIAL COURT OF MASSACHUSETTS.\n<p><i>John W. White</i> for appellant.</p>\n<p><i>Elliot L. Richardson,</i> Attorney General of Massachusetts, and <i>Howard M. Miller,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:52:55.910229", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "957d3b3601cf1e6ca9df152f4e6916ee3b027b6e", 
+  "date_modified": "2014-10-30T17:46:50.783435", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1382048/school-committee-of-city-of-boston-v-board-of-educ/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2572076/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1382048/"
+}

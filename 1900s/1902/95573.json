@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/95573/aetna-insurance-company-of-hartford-conn/", "blocked": false, "citation": {"case_name": "Aetna Insurance Company of Hartford, Conn. v. Daniel Langan", "docket_number": "500", "document_uris": ["/api/rest/v2/document/95573/"], "federal_cite_one": "183 U.S. 701", "federal_cite_three": null, "federal_cite_two": null, "id": 79954, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/79954/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1902-01-13", "date_modified": "2014-12-21T01:33:43.453737", "docket": "/api/rest/v2/docket/1301339/", "download_url": "http://bulk.resource.org/courts.gov/c/US/183/183.US.701.500.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">183 U.S. 701</p>\n    <p class=\"case_cite\">22 S.Ct. 937</p>\n    <p class=\"case_cite\">46 L.Ed. 397</p>\n    <p class=\"parties\">AETNA INSURANCE COMPANY OF HARTFORD, CONN., <i>Petitioner</i>,<br>v.<br>DANIEL LANGAN.</p>\n    <p class=\"docket\">No. 500.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 13, 1902</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Mr. Henry E. Davis</i> for petitioner.</p>\n      <p class=\"indent\"><i>Mr. R. C. Langan</i> for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Denied</i>. (Mr. Justice Gray took no part in the disposition of this application.)</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">183</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">701</span></span></p>\n    <p class=\"case_cite\">22 S.Ct. 937</p>\n    <p class=\"case_cite\">46 L.Ed. 397</p>\n    <p class=\"parties\">AETNA INSURANCE COMPANY OF HARTFORD, CONN., <i>Petitioner</i>,<br>v.<br>DANIEL LANGAN.</p>\n    <p class=\"docket\">No. 500.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 13, 1902</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Mr. Henry E. Davis</i> for petitioner.</p>\n      <p class=\"indent\"><i>Mr. R. C. Langan</i> for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Denied</i>. (Mr. Justice Gray took no part in the disposition of this application.)</p>\n    </div>\n    ", "id": 95573, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/95573/", "sha1": "a98a0a6ac2c02336e9f91dc76734ffc90fb47bf7", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:38:17"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "183 U.S. 701", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/95573/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Aetna Insurance Company of Hartford, Conn. v. Daniel Langan", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "500", 
+    "id": 79954, 
+    "resource_uri": "/api/rest/v2/citation/79954/"
+  }, 
+  "id": 95573, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1902-01-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/183/183.US.701.500.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:38:17", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">183</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">701</span></span></p>\n    <p class=\"case_cite\">22 S.Ct. 937</p>\n    <p class=\"case_cite\">46 L.Ed. 397</p>\n    <p class=\"parties\">AETNA INSURANCE COMPANY OF HARTFORD, CONN., <i>Petitioner</i>,<br>v.<br>DANIEL LANGAN.</p>\n    <p class=\"docket\">No. 500.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 13, 1902</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Mr. Henry E. Davis</i> for petitioner.</p>\n      <p class=\"indent\"><i>Mr. R. C. Langan</i> for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Denied</i>. (Mr. Justice Gray took no part in the disposition of this application.)</p>\n    </div>\n    ", 
+  "sha1": "a98a0a6ac2c02336e9f91dc76734ffc90fb47bf7", 
+  "date_modified": "2014-12-21T01:33:43.453737", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/95573/aetna-insurance-company-of-hartford-conn/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1301339/", 
+  "html": "<p class=\"case_cite\">183 U.S. 701</p>\n    <p class=\"case_cite\">22 S.Ct. 937</p>\n    <p class=\"case_cite\">46 L.Ed. 397</p>\n    <p class=\"parties\">AETNA INSURANCE COMPANY OF HARTFORD, CONN., <i>Petitioner</i>,<br>v.<br>DANIEL LANGAN.</p>\n    <p class=\"docket\">No. 500.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 13, 1902</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Mr. Henry E. Davis</i> for petitioner.</p>\n      <p class=\"indent\"><i>Mr. R. C. Langan</i> for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Denied</i>. (Mr. Justice Gray took no part in the disposition of this application.)</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/95573/"
+}

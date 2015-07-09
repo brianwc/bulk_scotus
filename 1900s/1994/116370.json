@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/116370/balcor-film-investors-et-al-v-eckstein-et-al/", "blocked": false, "citation": {"case_name": "Balcor Film Investors v. Eckstein", "docket_number": "93-827", "document_uris": ["/api/rest/v2/document/116370/"], "federal_cite_one": "510 U.S. 1073", "federal_cite_three": null, "federal_cite_two": null, "id": 100729, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/100729/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-01-18", "date_modified": "2014-12-21T02:13:58.090617", "docket": "/api/rest/v2/docket/384280/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1073.93-827.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1073</p>\n    <p class=\"parties\">Balcor Film Investors et al.<br>v.<br>Eckstein et al.</p>\n    <p class=\"docket\">No. 93-827.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 18, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 8 F. 3d 1121.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1073</span></span></p>\n    <p class=\"parties\">Balcor Film Investors et al.<br>v.<br>Eckstein et al.</p>\n    <p class=\"docket\">No. 93-827.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 18, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 8 F. 3d 1121.</p>\n    </div>\n    ", "id": 116370, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/116370/", "sha1": "c93eae0d30bd1bebf8e63ee76a97da8f2501e341", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:54"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1073", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/116370/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Balcor Film Investors v. Eckstein", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-827", 
+    "id": 100729, 
+    "resource_uri": "/api/rest/v2/citation/100729/"
+  }, 
+  "id": 116370, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-01-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1073.93-827.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:54", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1073</span></span></p>\n    <p class=\"parties\">Balcor Film Investors et al.<br>v.<br>Eckstein et al.</p>\n    <p class=\"docket\">No. 93-827.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 18, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 8 F. 3d 1121.</p>\n    </div>\n    ", 
+  "sha1": "c93eae0d30bd1bebf8e63ee76a97da8f2501e341", 
+  "date_modified": "2014-12-21T02:13:58.090617", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/116370/balcor-film-investors-et-al-v-eckstein-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/384280/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1073</p>\n    <p class=\"parties\">Balcor Film Investors et al.<br>v.<br>Eckstein et al.</p>\n    <p class=\"docket\">No. 93-827.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 18, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 8 F. 3d 1121.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/116370/"
+}

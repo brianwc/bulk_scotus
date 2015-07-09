@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/102564/a-g-triplett-r-m-triplett-a-nelson-et/", "blocked": false, "citation": {"case_name": "A. G. Triplett, R. M. Triplett, A. Nelson v. Percival D. Lowell, Francis W. Dunmore, and Dubilier Condenser Corporation.", "docket_number": "388", "document_uris": ["/api/rest/v2/document/102564/"], "federal_cite_one": "296 U.S. 621", "federal_cite_three": null, "federal_cite_two": null, "id": 86947, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/86947/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1935-10-14", "date_modified": "2014-12-21T01:41:30.362511", "docket": "/api/rest/v2/docket/2045911/", "download_url": "http://bulk.resource.org/courts.gov/c/US/296/296.US.621.388.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">296 U.S. 621</p>\n    <p class=\"case_cite\">56 S.Ct. 142</p>\n    <p class=\"case_cite\">80 L.Ed. 441</p>\n    <p class=\"parties\">A. G. TRIPLETT, R. M. Triplett, A. Nelson, et  al., petitioners,<br>v.<br>Percival D. LOWELL, Francis W. Dunmore, and Dubilier  Condenser Corporation.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 388.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Samuel E. Darby, Jr., of New York City, for petitioners.</p>\n      <p class=\"indent\">Mr. C. V. Edwards, of New York City, for respondents.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 77 F.(2d) 556.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing granted 296 U. S. 570, 56 S. Ct. 306, 80 L. Ed. 402.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">621</span></span></p>\n    <p class=\"case_cite\">56 S.Ct. 142</p>\n    <p class=\"case_cite\">80 L.Ed. 441</p>\n    <p class=\"parties\">A. G. TRIPLETT, R. M. Triplett, A. Nelson, et  al., petitioners,<br>v.<br>Percival D. LOWELL, Francis W. Dunmore, and Dubilier  Condenser Corporation.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 388.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Samuel E. Darby, Jr., of New York City, for petitioners.</p>\n      <p class=\"indent\">Mr. C. V. Edwards, of New York City, for respondents.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 77 F.(2d) 556.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing granted 296 U. S. 570, <span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">306</span></span>, 80 L. Ed. 402.</p>\n      </div>\n    </div>\n    ", "id": 102564, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/102564/", "sha1": "e9ce5a4f21900cc1f29ecc8b093705b5af411815", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:53:23"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "296 U.S. 621", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/102564/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "A. G. Triplett, R. M. Triplett, A. Nelson v. Percival D. Lowell, Francis W. Dunmore, and Dubilier Condenser Corporation.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "388", 
+    "id": 86947, 
+    "resource_uri": "/api/rest/v2/citation/86947/"
+  }, 
+  "id": 102564, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1935-10-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/296/296.US.621.388.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:53:23", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">621</span></span></p>\n    <p class=\"case_cite\">56 S.Ct. 142</p>\n    <p class=\"case_cite\">80 L.Ed. 441</p>\n    <p class=\"parties\">A. G. TRIPLETT, R. M. Triplett, A. Nelson, et  al., petitioners,<br>v.<br>Percival D. LOWELL, Francis W. Dunmore, and Dubilier  Condenser Corporation.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 388.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Samuel E. Darby, Jr., of New York City, for petitioners.</p>\n      <p class=\"indent\">Mr. C. V. Edwards, of New York City, for respondents.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 77 F.(2d) 556.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing granted 296 U. S. 570, <span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">306</span></span>, 80 L. Ed. 402.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "e9ce5a4f21900cc1f29ecc8b093705b5af411815", 
+  "date_modified": "2014-12-21T01:41:30.362511", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/102564/a-g-triplett-r-m-triplett-a-nelson-et/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2045911/", 
+  "html": "<p class=\"case_cite\">296 U.S. 621</p>\n    <p class=\"case_cite\">56 S.Ct. 142</p>\n    <p class=\"case_cite\">80 L.Ed. 441</p>\n    <p class=\"parties\">A. G. TRIPLETT, R. M. Triplett, A. Nelson, et  al., petitioners,<br>v.<br>Percival D. LOWELL, Francis W. Dunmore, and Dubilier  Condenser Corporation.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 388.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Samuel E. Darby, Jr., of New York City, for petitioners.</p>\n      <p class=\"indent\">Mr. C. V. Edwards, of New York City, for respondents.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 77 F.(2d) 556.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing granted 296 U. S. 570, 56 S. Ct. 306, 80 L. Ed. 402.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/102564/"
+}

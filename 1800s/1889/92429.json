@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92429/norton-et-al-v-taxing-district-of-brownsville/", "blocked": false, "citation": {"case_name": "Norton v. Taxing District of Brownsville", "docket_number": null, "document_uris": ["/api/rest/v2/document/92429/"], "federal_cite_one": "129 U.S. 505", "federal_cite_three": null, "federal_cite_two": null, "id": 76809, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76809/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1889-03-05", "date_modified": "2014-12-21T01:30:40.899828", "docket": "/api/rest/v2/docket/2163168/", "download_url": "http://bulk.resource.org/courts.gov/c/US/129/129.US.505.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">9 S.Ct. 331</p>\n    <p class=\"case_cite\">129 U.S. 505</p>\n    <p class=\"case_cite\">32 L.Ed. 784</p>\n    <p class=\"parties\">NORTON <i>et al.</i><br>v.<br>TAXING DISTRICT OF BROWNSVILLE.</p>\n    <p class=\"date\">March 5, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Henry Craft, L. P. Cooper</i>, and <i>Sparrell Hill</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>W. W. Rutledge</i> and <i>Wm. M. Smith</i>, for defendant in error.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment was rendered against the plaintiffs in error in the circuit court of the United States for the Western district of Tennessee on the 29th of November, 1886, and writ of error brought December 28, 1886, accompanied by a citation to the adverse party, duly returnable to the October term, 1887, and served in January and March of the latter year. But the record was not filed herein until December 20, 1888, and the rule is settled that under such circumstances we do not entertain jurisdiction. Grigsby v. Purcell, 99 U. S. 505; Credit Co. v. Railway Co., 128 U. S. 258, ante, 107; Hill v. Railroad Co., ante, 269, (January 21, 1889;) Edmonson v. Bloomshire, 7 Wall. 306. The writ of error is dismissed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\">9 S.Ct. 331</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">129</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">505</span></span></p>\n    <p class=\"case_cite\">32 L.Ed. 784</p>\n    <p class=\"parties\">NORTON <i>et al.</i><br>v.<br>TAXING DISTRICT OF BROWNSVILLE.</p>\n    <p class=\"date\">March 5, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Henry Craft, L. P. Cooper</i>, and <i>Sparrell Hill</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>W. W. Rutledge</i> and <i>Wm. M. Smith</i>, for defendant in error.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment was rendered against the plaintiffs in error in the circuit court of the United States for the Western district of Tennessee on the 29th of November, 1886, and writ of error brought December 28, 1886, accompanied by a citation to the adverse party, duly returnable to the October term, 1887, and served in January and March of the latter year. But the record was not filed herein until December 20, 1888, and the rule is settled that under such circumstances we do not entertain jurisdiction. Grigsby v. Purcell, 99 U. S. 505; Credit Co. v. Railway Co., 128 U. S. 258, ante, 107; Hill v. Railroad Co., ante, 269, (January 21, 1889;) Edmonson v. Bloomshire, 7 Wall. 306. The writ of error is dismissed.</p>\n    </div>\n    ", "id": 92429, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92429/", "sha1": "ef16356daa9dfa71d002b6872b50a2b506cf1a14", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "129 U.S. 505", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/92429/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Norton v. Taxing District of Brownsville", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76809, 
+    "resource_uri": "/api/rest/v2/citation/76809/"
+  }, 
+  "id": 92429, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1889-03-05", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/129/129.US.505.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:05:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\">9 S.Ct. 331</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">129</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">505</span></span></p>\n    <p class=\"case_cite\">32 L.Ed. 784</p>\n    <p class=\"parties\">NORTON <i>et al.</i><br>v.<br>TAXING DISTRICT OF BROWNSVILLE.</p>\n    <p class=\"date\">March 5, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Henry Craft, L. P. Cooper</i>, and <i>Sparrell Hill</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>W. W. Rutledge</i> and <i>Wm. M. Smith</i>, for defendant in error.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment was rendered against the plaintiffs in error in the circuit court of the United States for the Western district of Tennessee on the 29th of November, 1886, and writ of error brought December 28, 1886, accompanied by a citation to the adverse party, duly returnable to the October term, 1887, and served in January and March of the latter year. But the record was not filed herein until December 20, 1888, and the rule is settled that under such circumstances we do not entertain jurisdiction. Grigsby v. Purcell, 99 U. S. 505; Credit Co. v. Railway Co., 128 U. S. 258, ante, 107; Hill v. Railroad Co., ante, 269, (January 21, 1889;) Edmonson v. Bloomshire, 7 Wall. 306. The writ of error is dismissed.</p>\n    </div>\n    ", 
+  "sha1": "ef16356daa9dfa71d002b6872b50a2b506cf1a14", 
+  "date_modified": "2014-12-21T01:30:40.899828", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92429/norton-et-al-v-taxing-district-of-brownsville/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2163168/", 
+  "html": "<p class=\"case_cite\">9 S.Ct. 331</p>\n    <p class=\"case_cite\">129 U.S. 505</p>\n    <p class=\"case_cite\">32 L.Ed. 784</p>\n    <p class=\"parties\">NORTON <i>et al.</i><br>v.<br>TAXING DISTRICT OF BROWNSVILLE.</p>\n    <p class=\"date\">March 5, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Henry Craft, L. P. Cooper</i>, and <i>Sparrell Hill</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>W. W. Rutledge</i> and <i>Wm. M. Smith</i>, for defendant in error.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment was rendered against the plaintiffs in error in the circuit court of the United States for the Western district of Tennessee on the 29th of November, 1886, and writ of error brought December 28, 1886, accompanied by a citation to the adverse party, duly returnable to the October term, 1887, and served in January and March of the latter year. But the record was not filed herein until December 20, 1888, and the rule is settled that under such circumstances we do not entertain jurisdiction. Grigsby v. Purcell, 99 U. S. 505; Credit Co. v. Railway Co., 128 U. S. 258, ante, 107; Hill v. Railroad Co., ante, 269, (January 21, 1889;) Edmonson v. Bloomshire, 7 Wall. 306. The writ of error is dismissed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92429/"
+}

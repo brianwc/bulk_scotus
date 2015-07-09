@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087650/jones-v-mcfaddin/", "blocked": false, "citation": {"case_name": "Jones v. McFaddin", "docket_number": "226", "document_uris": ["/api/rest/v2/document/1087650/"], "federal_cite_one": "382 U.S. 15", "federal_cite_three": null, "federal_cite_two": null, "id": 1060421, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060421/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-10-11", "date_modified": "2014-10-30T08:28:20.846127", "docket": "/api/rest/v2/docket/1273159/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>382 U.S. 15 (1965)</b></center>\n<center><h1>JONES ET AL.<br>\nv.<br>\nMcFADDIN ET AL.</h1></center>\n<center>No. 226.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 11, 1965.</center>\nAPPEAL FROM THE COURT OF CIVIL APPEALS OF TEXAS, SIXTH SUPREME JUDICIAL DISTRICT.\n<p><i>William Blum, Jr.,</i> for appellants.</p>\n<p><i>George A. Weller, Ewell Strong</i> and <i>Major T. Bell</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE BLACK took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 1087650, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087650/", "sha1": "18a4c1875591f3d2c80858e1be34f932a6317d59", "source": "L", "time_retrieved": "2013-10-29T18:48:43.772474"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "382 U.S. 15", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087650/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jones v. McFaddin", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "226", 
+    "id": 1060421, 
+    "resource_uri": "/api/rest/v2/citation/1060421/"
+  }, 
+  "id": 1087650, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-10-11", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>382 U.S. 15 (1965)</b></center>\n<center><h1>JONES ET AL.<br>\nv.<br>\nMcFADDIN ET AL.</h1></center>\n<center>No. 226.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 11, 1965.</center>\nAPPEAL FROM THE COURT OF CIVIL APPEALS OF TEXAS, SIXTH SUPREME JUDICIAL DISTRICT.\n<p><i>William Blum, Jr.,</i> for appellants.</p>\n<p><i>George A. Weller, Ewell Strong</i> and <i>Major T. Bell</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE BLACK took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T18:48:43.772474", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "18a4c1875591f3d2c80858e1be34f932a6317d59", 
+  "date_modified": "2014-10-30T08:28:20.846127", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087650/jones-v-mcfaddin/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1273159/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087650/"
+}

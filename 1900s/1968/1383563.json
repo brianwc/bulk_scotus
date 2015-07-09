@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1383563/buck-v-new-jersey/", "blocked": false, "citation": {"case_name": "Buck v. New Jersey", "docket_number": "817", "document_uris": ["/api/rest/v2/document/1383563/"], "federal_cite_one": "389 U.S. 571", "federal_cite_three": null, "federal_cite_two": null, "id": 1356334, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1356334/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-01-15", "date_modified": "2014-10-30T06:11:56.621638", "docket": "/api/rest/v2/docket/926837/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>389 U.S. 571 (1968)</b></center>\n<center><h1>BUCK ET UX.<br>\nv.<br>\nNEW JERSEY BY THE STATE HIGHWAY COMMISSIONER.</h1></center>\n<center>No. 817.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE SUPREME COURT OF NEW JERSEY.\n<p><i>James T. Dowd</i> for appellants.</p>\n<p><i>Arthur J. Sills,</i> Attorney General of New Jersey, and <i>Elias Abelson</i> and <i>Edward D. McKirdy,</i> Deputy Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 1383563, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1383563/", "sha1": "d359a9beda5051863950208a1cd624d37b716eac", "source": "L", "time_retrieved": "2013-10-29T22:53:17.620218"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 571", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1383563/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Buck v. New Jersey", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "817", 
+    "id": 1356334, 
+    "resource_uri": "/api/rest/v2/citation/1356334/"
+  }, 
+  "id": 1383563, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-01-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 571 (1968)</b></center>\n<center><h1>BUCK ET UX.<br>\nv.<br>\nNEW JERSEY BY THE STATE HIGHWAY COMMISSIONER.</h1></center>\n<center>No. 817.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE SUPREME COURT OF NEW JERSEY.\n<p><i>James T. Dowd</i> for appellants.</p>\n<p><i>Arthur J. Sills,</i> Attorney General of New Jersey, and <i>Elias Abelson</i> and <i>Edward D. McKirdy,</i> Deputy Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:53:17.620218", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d359a9beda5051863950208a1cd624d37b716eac", 
+  "date_modified": "2014-10-30T06:11:56.621638", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1383563/buck-v-new-jersey/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/926837/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1383563/"
+}

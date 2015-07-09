@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1101126/houston-v-moore/", "blocked": false, "citation": {"case_name": "Houston v. Moore", "docket_number": null, "document_uris": ["/api/rest/v2/document/1101126/"], "federal_cite_one": "16 U.S. 200", "federal_cite_three": null, "federal_cite_two": null, "id": 1073897, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1073897/", "scotus_early_cite": "3 Wheat. 200", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 9, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1818-02-19", "date_modified": "2014-10-30T07:08:42.622360", "docket": "/api/rest/v2/docket/1073676/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>16 U.S. 200 (____)</b></center>\n<center><b>3 Wheat. 200</b></center>\n<center><h1>HOUSTON<br>\nv.<br>\nMOORE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*201</span> C.J. Ingersoll moved to dismiss the writ of error.</p>\n<p>Hopkins, contrà.</p>\n<p>MARSHALL, Ch. J., delivered the opinion of the court.</p>\n<p>The appellate jurisdiction of this court, under the 25th section of the judiciary act, ch. 20, extends only to a final judgment or decree of the highest courts of law or equity in the cases specified. This is not a final judgment of the supreme court of Pennsylvania. The cause may yet be finally determined in favor of the plaintiff, in the state court.</p>\n<p>Writ of error dismissed.</p>\n<p>JUDGMENT.  This cause came on to be heard, on the transcript of the record of the supreme court of the commonwealth of Pennsylvania for the Lancaster district. On examination whereof, it is adjudged and ordered that the writ of error in this cause be, and the same is hereby dismissed, this court not having *jurisdiction in said cause, there not having [*435 been a final judgment in said suit, in the said supreme court of the commonwealth of Pennsylvania.<sup>[(a)]</sup></p>\n<h2>NOTES</h2>\n<p>[(a)]  Costs are not given, where the writ of error is dismissed for want of jurisdiction. Inglee v. Coolidge, 2 Wheat. 368.</p>\n\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">16</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">200</span></span> (____)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">Wheat.</span> <span class=\"page\">200</span></span></b></center>\n<center><h1>HOUSTON<br>\nv.<br>\nMOORE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*201</span> C.J. Ingersoll moved to dismiss the writ of error.</p>\n<p>Hopkins, contrà.</p>\n<p>MARSHALL, Ch. J., delivered the opinion of the court.</p>\n<p>The appellate jurisdiction of this court, under the 25th section of the judiciary act, ch. 20, extends only to a final judgment or decree of the highest courts of law or equity in the cases specified. This is not a final judgment of the supreme court of Pennsylvania. The cause may yet be finally determined in favor of the plaintiff, in the state court.</p>\n<p>Writ of error dismissed.</p>\n<p>JUDGMENT.  This cause came on to be heard, on the transcript of the record of the supreme court of the commonwealth of Pennsylvania for the Lancaster district. On examination whereof, it is adjudged and ordered that the writ of error in this cause be, and the same is hereby dismissed, this court not having *jurisdiction in said cause, there not having [*435 been a final judgment in said suit, in the said supreme court of the commonwealth of Pennsylvania.<sup>[(a)]</sup></p>\n<h2>NOTES</h2>\n<p>[(a)]  Costs are not given, where the writ of error is dismissed for want of jurisdiction. Inglee v. Coolidge, 2 Wheat. 368.</p>\n\n</div>", "id": 1101126, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1101126/", "sha1": "12d8bbbe34099456198fb0e3f08be4de9caacfc0", "source": "L", "time_retrieved": "2013-10-29T20:54:59.139702"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "16 U.S. 200", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1101126/"
+    ], 
+    "scotus_early_cite": "3 Wheat. 200", 
+    "case_name": "Houston v. Moore", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1073897, 
+    "resource_uri": "/api/rest/v2/citation/1073897/"
+  }, 
+  "id": 1101126, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1818-02-19", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>16 U.S. 200 (____)</b></center>\n<center><b>3 Wheat. 200</b></center>\n<center><h1>HOUSTON<br>\nv.<br>\nMOORE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*201</span> C.J. Ingersoll moved to dismiss the writ of error.</p>\n<p>Hopkins, contr\u00e0.</p>\n<p>MARSHALL, Ch. J., delivered the opinion of the court.</p>\n<p>The appellate jurisdiction of this court, under the 25th section of the judiciary act, ch. 20, extends only to a final judgment or decree of the highest courts of law or equity in the cases specified. This is not a final judgment of the supreme court of Pennsylvania. The cause may yet be finally determined in favor of the plaintiff, in the state court.</p>\n<p>Writ of error dismissed.</p>\n<p>JUDGMENT. \u0097 This cause came on to be heard, on the transcript of the record of the supreme court of the commonwealth of Pennsylvania for the Lancaster district. On examination whereof, it is adjudged and ordered that the writ of error in this cause be, and the same is hereby dismissed, this court not having *jurisdiction in said cause, there not having [*435 been a final judgment in said suit, in the said supreme court of the commonwealth of Pennsylvania.<sup>[(a)]</sup></p>\n<h2>NOTES</h2>\n<p>[(a)]  Costs are not given, where the writ of error is dismissed for want of jurisdiction. Inglee v. Coolidge, 2 Wheat. 368.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T20:54:59.139702", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">16</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">200</span></span> (____)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">Wheat.</span> <span class=\"page\">200</span></span></b></center>\n<center><h1>HOUSTON<br>\nv.<br>\nMOORE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*201</span> C.J. Ingersoll moved to dismiss the writ of error.</p>\n<p>Hopkins, contr\u00e0.</p>\n<p>MARSHALL, Ch. J., delivered the opinion of the court.</p>\n<p>The appellate jurisdiction of this court, under the 25th section of the judiciary act, ch. 20, extends only to a final judgment or decree of the highest courts of law or equity in the cases specified. This is not a final judgment of the supreme court of Pennsylvania. The cause may yet be finally determined in favor of the plaintiff, in the state court.</p>\n<p>Writ of error dismissed.</p>\n<p>JUDGMENT. \u0097 This cause came on to be heard, on the transcript of the record of the supreme court of the commonwealth of Pennsylvania for the Lancaster district. On examination whereof, it is adjudged and ordered that the writ of error in this cause be, and the same is hereby dismissed, this court not having *jurisdiction in said cause, there not having [*435 been a final judgment in said suit, in the said supreme court of the commonwealth of Pennsylvania.<sup>[(a)]</sup></p>\n<h2>NOTES</h2>\n<p>[(a)]  Costs are not given, where the writ of error is dismissed for want of jurisdiction. Inglee v. Coolidge, 2 Wheat. 368.</p>\n\n</div>", 
+  "sha1": "12d8bbbe34099456198fb0e3f08be4de9caacfc0", 
+  "date_modified": "2014-10-30T07:08:42.622360", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1101126/houston-v-moore/", 
+  "citation_count": 9, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1073676/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1101126/"
+}

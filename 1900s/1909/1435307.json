@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1435307/united-states-v-stevenson-no-2/", "blocked": false, "citation": {"case_name": "United States v. Stevenson (No. 2)", "docket_number": "293", "document_uris": ["/api/rest/v2/document/1435307/"], "federal_cite_one": "215 U.S. 200", "federal_cite_three": null, "federal_cite_two": null, "id": 1408078, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1408078/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1909-11-29", "date_modified": "2014-10-30T11:06:16.020376", "docket": "/api/rest/v2/docket/1613192/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>215 U.S. 200 (1909)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nSTEVENSON (NO. 2).</h1></center>\n<center>No. 293.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 14, 15, 1909.</center>\n<center>Decided November 29, 1909.</center>\nERROR TO THE DISTRICT COURT OF THE UNITED STATES FOR THE DISTRICT OF MASSACHUSETTS.\n<p><i>The Solicitor General</i> for the United States.</p>\n<p><i>Mr. Herbert Parker, Mr. Charles C. Milton</i> and <i>Mr. Henry H. Fuller,</i> for defendant in error, submitted.</p>\n<p><span class=\"star-pagination\">*202</span> MR. JUSTICE DAY delivered the opinion of the court.</p>\n<p>This case was argued and submitted with No. 292, just decided. The indictment herein in its second count charges a conspiracy, under § 5440 of the Revised Statutes of the United States, to commit the offense of assisting alien contract laborers to migrate into the United States, in violation of the statutes of the United States. Inasmuch as the court below had already reached the conclusion, in considering the former case (No. 292, <i>ante</i>), that assisting alien contract laborers was not punishable as a crime by indictment under the Immigration Act, it held that it followed that to conspire to assist such migration was not an offense against the United States within the meaning of § 5440 of the Revised Statutes of the United States. That section provides:</p>\n<p>\"If two or more persons conspire either to commit any offense against the United States, or to defraud the United States in any manner or for any purpose, and one or more of <span class=\"star-pagination\">*203</span> such parties do any act to effect the object of the conspiracy, all the parties to such conspiracy shall be liable to a penalty of not less than one thousand dollars and not more than ten thousand dollars, and to imprisonment not more than two years.\"</p>\n<p>Inasmuch as we have already held that Congress, in making the assistance of contract laborers into the United States a misdemeanor, has made the same a crime indictable as such under the Immigration Act of 1907, it must necessarily follow that if two or more persons, as is charged in the indictment under consideration, conspire to assist such importation, they do conspire to commit an offense against the United States within the terms of § 5440 of the Revised Statutes of the United States. In this view, applying the principles laid down in the opinion in case No. 292, <i>ante,</i> we think that the court below erred in sustaining the demurrer to the second count of the indictment. Nor does it make any difference that Congress has seen fit to affix a greater punishment to the conspiracy to commit the offense than is denounced against the offense itself; that is a matter to be determined by the legislative body having power to regulate the matter. <i>Clune</i> v. <i>United States,</i> 159 U.S. 590.</p>\n<p><i>Judgment reversed.</i></p>\n</div>", "html_with_citations": "", "id": 1435307, "judges": "Day", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1435307/", "sha1": "583aee3bd72498d1a44f5a835ed67caf38836776", "source": "L", "time_retrieved": "2013-10-29T23:09:00.115636"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "215 U.S. 200", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1435307/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Stevenson (No. 2)", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "293", 
+    "id": 1408078, 
+    "resource_uri": "/api/rest/v2/citation/1408078/"
+  }, 
+  "id": 1435307, 
+  "blocked": false, 
+  "judges": "Day", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1909-11-29", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>215 U.S. 200 (1909)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nSTEVENSON (NO. 2).</h1></center>\n<center>No. 293.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 14, 15, 1909.</center>\n<center>Decided November 29, 1909.</center>\nERROR TO THE DISTRICT COURT OF THE UNITED STATES FOR THE DISTRICT OF MASSACHUSETTS.\n<p><i>The Solicitor General</i> for the United States.</p>\n<p><i>Mr. Herbert Parker, Mr. Charles C. Milton</i> and <i>Mr. Henry H. Fuller,</i> for defendant in error, submitted.</p>\n<p><span class=\"star-pagination\">*202</span> MR. JUSTICE DAY delivered the opinion of the court.</p>\n<p>This case was argued and submitted with No. 292, just decided. The indictment herein in its second count charges a conspiracy, under \u00a7 5440 of the Revised Statutes of the United States, to commit the offense of assisting alien contract laborers to migrate into the United States, in violation of the statutes of the United States. Inasmuch as the court below had already reached the conclusion, in considering the former case (No. 292, <i>ante</i>), that assisting alien contract laborers was not punishable as a crime by indictment under the Immigration Act, it held that it followed that to conspire to assist such migration was not an offense against the United States within the meaning of \u00a7 5440 of the Revised Statutes of the United States. That section provides:</p>\n<p>\"If two or more persons conspire either to commit any offense against the United States, or to defraud the United States in any manner or for any purpose, and one or more of <span class=\"star-pagination\">*203</span> such parties do any act to effect the object of the conspiracy, all the parties to such conspiracy shall be liable to a penalty of not less than one thousand dollars and not more than ten thousand dollars, and to imprisonment not more than two years.\"</p>\n<p>Inasmuch as we have already held that Congress, in making the assistance of contract laborers into the United States a misdemeanor, has made the same a crime indictable as such under the Immigration Act of 1907, it must necessarily follow that if two or more persons, as is charged in the indictment under consideration, conspire to assist such importation, they do conspire to commit an offense against the United States within the terms of \u00a7 5440 of the Revised Statutes of the United States. In this view, applying the principles laid down in the opinion in case No. 292, <i>ante,</i> we think that the court below erred in sustaining the demurrer to the second count of the indictment. Nor does it make any difference that Congress has seen fit to affix a greater punishment to the conspiracy to commit the offense than is denounced against the offense itself; that is a matter to be determined by the legislative body having power to regulate the matter. <i>Clune</i> v. <i>United States,</i> 159 U.S. 590.</p>\n<p><i>Judgment reversed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:09:00.115636", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "583aee3bd72498d1a44f5a835ed67caf38836776", 
+  "date_modified": "2014-10-30T11:06:16.020376", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1435307/united-states-v-stevenson-no-2/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1613192/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1435307/"
+}

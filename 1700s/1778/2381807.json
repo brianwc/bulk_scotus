@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2381807/respublica-v-john-roberts/", "blocked": false, "citation": {"case_name": "Respublica v. John Roberts", "docket_number": null, "document_uris": ["/api/rest/v2/document/2381807/"], "federal_cite_one": "1 U.S. 39", "federal_cite_three": null, "federal_cite_two": null, "id": 2354579, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2354579/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1778-01-01", "date_modified": "2014-10-30T15:45:57.763629", "docket": "/api/rest/v2/docket/2226530/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>1 U.S. 39 (1778)</b></center>\n<center><b>1 Dall. 39</b></center>\n<center><h1>RESPUBLICA<br>\nversus<br>\nJOHN ROBERTS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The Attorney General and Reed, for the Commonwealth  Ross and Wilson, for the Defendant.</p>\n<p>BY THE COURT:  There is proof of an overt act, that the prisoner did enlist, and evidence is now offered to shew, that he also endeavoured to persuade others to enlist, in the armies of the enemy. But we are of opinion, that the word persuading, used by the Legislature, means to succeed; and that there must be an actual enlistment of the person persuaded, in order to bring the Defendant within the intention of the clause. 2 Lord Ray. 889.</p>\n<p>The evidence offered, however, is proper to shew quo animo, the prisoner himself joined the British forces.</p>\n<p>The counsel for the Commonwealth then offered to give in evidence, the confession of the Defendant, that he was going to the Head of Elk, in order to communicate some information to Mr. Galloway, who had at that time, gone over to the enemy.</p>\n<p>But it was opposed by the adverse counsel, who contended, that a confession, unless in open Court, had never been evidence to convict. That, though under the 1 Edward 6. it is said a man might be convicted of treason, by the testimony of two witnesses, or his voluntary confession; 2 Hawk. 256. yet, that statute does not extend to Pennsylvania, and by the 7 W. 3. c. 3. it is expressly declared, that no man can be indicted, arraigned, or tried, in a case of treason, but by the testimony of two witnesses, or the confession of the party made, without violence, in open Court. Fost. 10. 241. 2. 3. But the act of Assembly of Pennsylvania totally excludes a conviction by confession. See Prin. Pen. Law 149. A confession may, indeed, be given in evidence to corroborate a treason that has already been established by two witnesses; but not to prove the treason itself.</p>\n<p><span class=\"star-pagination\">*40</span> BY THE COURT:  To prove the Defendant's confession by two witnesses, is certainly not sufficient, under the statute, to convict him. But a confession after the fact, is proof of the fact itself; and though not competent alone to supply the want of two witnesses, yet it is good by way of corroboration: And, therefore, if an overt act has been proved in the county of Chester by two witnesses, the evidence now offered will be proper, in confirmation of their testimony.</p>\n<p>One of the overt acts, then, laid in the indictment, is aiding and assisting the enemy by joining their armies, and this has been legally and satisfactorily proved. Notwithstanding, therefore, the other overt act of giving intelligence to the enemy, is not supported by any evidence, but the Defendant's own confession now offered, and which is in that respect insufficient; yet, it may be produced to substantiate another species of treason; and on that ground we now admit it to be proved. See Foster 10. 244. 5 Bacon's Abr, 145. Gregg's Case. 2 Hawk. 442.</p>\n</div>", "html_with_citations": "", "id": 2381807, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2381807/", "sha1": "5568e60f16151a647c9119e72f199d522d4582da", "source": "L", "time_retrieved": "2013-10-30T02:18:21.515331"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "1 U.S. 39", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2381807/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Respublica v. John Roberts", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2354579, 
+    "resource_uri": "/api/rest/v2/citation/2354579/"
+  }, 
+  "id": 2381807, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1778-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>1 U.S. 39 (1778)</b></center>\n<center><b>1 Dall. 39</b></center>\n<center><h1>RESPUBLICA<br>\nversus<br>\nJOHN ROBERTS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The Attorney General and Reed, for the Commonwealth \u0097 Ross and Wilson, for the Defendant.</p>\n<p>BY THE COURT: \u0097 There is proof of an overt act, that the prisoner did enlist, and evidence is now offered to shew, that he also endeavoured to persuade others to enlist, in the armies of the enemy. But we are of opinion, that the word persuading, used by the Legislature, means to succeed; and that there must be an actual enlistment of the person persuaded, in order to bring the Defendant within the intention of the clause. 2 Lord Ray. 889.</p>\n<p>The evidence offered, however, is proper to shew quo animo, the prisoner himself joined the British forces.</p>\n<p>The counsel for the Commonwealth then offered to give in evidence, the confession of the Defendant, that he was going to the Head of Elk, in order to communicate some information to Mr. Galloway, who had at that time, gone over to the enemy.</p>\n<p>But it was opposed by the adverse counsel, who contended, that a confession, unless in open Court, had never been evidence to convict. That, though under the 1 Edward 6. it is said a man might be convicted of treason, by the testimony of two witnesses, or his voluntary confession; 2 Hawk. 256. yet, that statute does not extend to Pennsylvania, and by the 7 W. 3. c. 3. it is expressly declared, that no man can be indicted, arraigned, or tried, in a case of treason, but by the testimony of two witnesses, or the confession of the party made, without violence, in open Court. Fost. 10. 241. 2. 3. But the act of Assembly of Pennsylvania totally excludes a conviction by confession. See Prin. Pen. Law 149. A confession may, indeed, be given in evidence to corroborate a treason that has already been established by two witnesses; but not to prove the treason itself.</p>\n<p><span class=\"star-pagination\">*40</span> BY THE COURT: \u0097 To prove the Defendant's confession by two witnesses, is certainly not sufficient, under the statute, to convict him. But a confession after the fact, is proof of the fact itself; and though not competent alone to supply the want of two witnesses, yet it is good by way of corroboration: And, therefore, if an overt act has been proved in the county of Chester by two witnesses, the evidence now offered will be proper, in confirmation of their testimony.</p>\n<p>One of the overt acts, then, laid in the indictment, is aiding and assisting the enemy by joining their armies, and this has been legally and satisfactorily proved. Notwithstanding, therefore, the other overt act of giving intelligence to the enemy, is not supported by any evidence, but the Defendant's own confession now offered, and which is in that respect insufficient; yet, it may be produced to substantiate another species of treason; and on that ground we now admit it to be proved. See Foster 10. 244. 5 Bacon's Abr, 145. Gregg's Case. 2 Hawk. 442.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:18:21.515331", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "5568e60f16151a647c9119e72f199d522d4582da", 
+  "date_modified": "2014-10-30T15:45:57.763629", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2381807/respublica-v-john-roberts/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2226530/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2381807/"
+}

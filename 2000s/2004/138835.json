@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/138835/grethen-v-johnson-director-virginia-department/", "blocked": false, "citation": {"case_name": "Grethen v. Johnson, Director, Virginia Department of Corrections", "docket_number": "04-5142", "document_uris": ["/api/rest/v2/document/138835/"], "federal_cite_one": "543 U.S. 884", "federal_cite_three": null, "federal_cite_two": null, "id": 123188, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/123188/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-10-04", "date_modified": "2014-12-21T02:20:43.514556", "docket": "/api/rest/v2/docket/450478/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.884.04-5142.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 884</p>\n    <p class=\"parties\">GRETHEN<br>v.<br>JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-5142.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">884</span></span></p>\n    <p class=\"parties\">GRETHEN<br>v.<br>JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-5142.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied.</p>\n    </div>\n    ", "id": 138835, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/138835/", "sha1": "0ac063de766330cbf86956fe1ef50b1b0d2eb97c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:32:39"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 884", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/138835/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Grethen v. Johnson, Director, Virginia Department of Corrections", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-5142", 
+    "id": 123188, 
+    "resource_uri": "/api/rest/v2/citation/123188/"
+  }, 
+  "id": 138835, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.884.04-5142.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:32:39", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">884</span></span></p>\n    <p class=\"parties\">GRETHEN<br>v.<br>JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-5142.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "0ac063de766330cbf86956fe1ef50b1b0d2eb97c", 
+  "date_modified": "2014-12-21T02:20:43.514556", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/138835/grethen-v-johnson-director-virginia-department/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/450478/", 
+  "html": "<p class=\"case_cite\">543 U.S. 884</p>\n    <p class=\"parties\">GRETHEN<br>v.<br>JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-5142.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/138835/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108441/bradley-v-united-states/", "blocked": false, "citation": {"case_name": "Bradley v. United States", "docket_number": "71-5431", "document_uris": ["/api/rest/v2/document/108441/"], "federal_cite_one": "404 U.S. 567", "federal_cite_three": "30 L. Ed. 2d 722", "federal_cite_two": "92 S. Ct. 746", "id": 92800, "lexis_cite": "1972 U.S. LEXIS 3831", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92800/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 15, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1972-01-24", "date_modified": "2014-12-21T12:18:07.810476", "docket": "/api/rest/v2/docket/2531860/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">404 U.S. 567</p>\n    <p class=\"case_cite\">92 S.Ct. 746</p>\n    <p class=\"case_cite\">30 L.Ed.2d 722</p>\n    <p class=\"parties\">George Martin BRADLEY<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 71-5431.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 24, 1972</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The judgment is vacated and the case is remanded to the United States District Court for the Southern District of Iowa with directions to dismiss the indictment. Durham v. United States, 401 U.S. 481, 91 S.Ct. 858, 28 L.Ed.2d 200 (1971).</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">THE CHIEF JUSTICE and Mr. Justice BLACKMUN dissent for the reasons stated in Mr. Justice BLACKMUN'S dissenting opinion in Durham v. United States, 401 U.S. 481, 483-485, 91 S.Ct. 858, 860-861 (1971).</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>404 U.S. 567 (1972)</b></center>\n<center><h1>BRADLEY<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 71-5431.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 24, 1972</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted.</p>\n<p>The judgment is vacated and the case is remanded to the United States District Court for the Southern District of Iowa with directions to dismiss the indictment. <i>Durham</i> v. <i>United States,</i> 401 U. S. 481 (1971).</p>\n<p>THE CHIEF JUSTICE and MR. JUSTICE BLACKMUN dissent for the reasons stated in MR. JUSTICE BLACKMUN'S dissenting opinion in <i>Durham</i> v. <i>United States,</i> 401 U. S. 481, 483-485 (1971).</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">404</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">567</span></span> (1972)</b></center>\n<center><h1>BRADLEY<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 71-5431.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 24, 1972</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted.</p>\n<p>The judgment is vacated and the case is remanded to the United States District Court for the Southern District of Iowa with directions to dismiss the indictment. <i>Durham</i> v. <i>United States,</i> 401 U. S. 481 (1971).</p>\n<p>THE CHIEF JUSTICE and MR. JUSTICE BLACKMUN dissent for the reasons stated in MR. JUSTICE BLACKMUN'S dissenting opinion in <i>Durham</i> v. <i>United States,</i> 401 U. S. 481, 483-485 (1971).</p>\n</div>", "id": 108441, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108441/", "sha1": "086c931b2bd8127e0d40eb9d7acaeb1b881631dd", "source": "LR", "supreme_court_db_id": "1971-051", "time_retrieved": "2010-04-28T10:11:31"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "404 U.S. 567", 
+    "federal_cite_two": "92 S. Ct. 746", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "30 L. Ed. 2d 722", 
+    "lexis_cite": "1972 U.S. LEXIS 3831", 
+    "document_uris": [
+      "/api/rest/v2/document/108441/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bradley v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "71-5431", 
+    "id": 92800, 
+    "resource_uri": "/api/rest/v2/citation/92800/"
+  }, 
+  "id": 108441, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1972-01-24", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>404 U.S. 567 (1972)</b></center>\n<center><h1>BRADLEY<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 71-5431.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 24, 1972</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted.</p>\n<p>The judgment is vacated and the case is remanded to the United States District Court for the Southern District of Iowa with directions to dismiss the indictment. <i>Durham</i> v. <i>United States,</i> 401 U. S. 481 (1971).</p>\n<p>THE CHIEF JUSTICE and MR. JUSTICE BLACKMUN dissent for the reasons stated in MR. JUSTICE BLACKMUN'S dissenting opinion in <i>Durham</i> v. <i>United States,</i> 401 U. S. 481, 483-485 (1971).</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:31", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">404</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">567</span></span> (1972)</b></center>\n<center><h1>BRADLEY<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 71-5431.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 24, 1972</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted.</p>\n<p>The judgment is vacated and the case is remanded to the United States District Court for the Southern District of Iowa with directions to dismiss the indictment. <i>Durham</i> v. <i>United States,</i> 401 U. S. 481 (1971).</p>\n<p>THE CHIEF JUSTICE and MR. JUSTICE BLACKMUN dissent for the reasons stated in MR. JUSTICE BLACKMUN'S dissenting opinion in <i>Durham</i> v. <i>United States,</i> 401 U. S. 481, 483-485 (1971).</p>\n</div>", 
+  "sha1": "086c931b2bd8127e0d40eb9d7acaeb1b881631dd", 
+  "date_modified": "2014-12-21T12:18:07.810476", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108441/bradley-v-united-states/", 
+  "citation_count": 15, 
+  "supreme_court_db_id": "1971-051", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2531860/", 
+  "html": "<p class=\"case_cite\">404 U.S. 567</p>\n    <p class=\"case_cite\">92 S.Ct. 746</p>\n    <p class=\"case_cite\">30 L.Ed.2d 722</p>\n    <p class=\"parties\">George Martin BRADLEY<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 71-5431.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 24, 1972</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The judgment is vacated and the case is remanded to the United States District Court for the Southern District of Iowa with directions to dismiss the indictment. Durham v. United States, 401 U.S. 481, 91 S.Ct. 858, 28 L.Ed.2d 200 (1971).</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">THE CHIEF JUSTICE and Mr. Justice BLACKMUN dissent for the reasons stated in Mr. Justice BLACKMUN'S dissenting opinion in Durham v. United States, 401 U.S. 481, 483-485, 91 S.Ct. 858, 860-861 (1971).</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108441/"
+}

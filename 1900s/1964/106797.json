@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106797/aetna-ins-co-v-menendez/", "blocked": false, "citation": {"case_name": "Aetna Ins. Co. v. Menendez", "docket_number": "68", "document_uris": ["/api/rest/v2/document/106797/"], "federal_cite_one": "376 U.S. 781", "federal_cite_three": null, "federal_cite_two": null, "id": 91180, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91180/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-04-06", "date_modified": "2014-12-21T01:53:46.047932", "docket": "/api/rest/v2/docket/319169/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">376 U.S. 781</p>\n    <p class=\"case_cite\">84 S.Ct. 1131</p>\n    <p class=\"case_cite\">12 L.Ed.2d 82</p>\n    <p class=\"parties\">AETNA INSURANCE CO.<br>v.<br>Pedro MENENDEZ.</p>\n    <p class=\"docket\">No. 68.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 6, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">William A. Gillen, for petitioner.</p>\n      <p class=\"indent\">John P. Corcoran, Jr., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Banco Nacional de Cuba v. Sabbatino, 376 U.S. 398, 84 S.Ct. 923.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>376 U.S. 781 (1964)</b></center>\n<center><h1>AETNA INSURANCE CO.<br>\nv.<br>\nMENENDEZ.</h1></center>\n<center>No. 68.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>William A. Gillen</i> for petitioner.</p>\n<p><i>John P. Corcoran, Jr.</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of <i>Banco Nacional de Cuba</i> v. <i>Sabbatino, ante,</i> p. 398.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">376</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">781</span></span> (1964)</b></center>\n<center><h1>AETNA INSURANCE CO.<br>\nv.<br>\nMENENDEZ.</h1></center>\n<center>No. 68.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>William A. Gillen</i> for petitioner.</p>\n<p><i>John P. Corcoran, Jr.</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of <i>Banco Nacional de Cuba</i> v. <i>Sabbatino, ante,</i> p. 398.</p>\n</div>", "id": 106797, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106797/", "sha1": "754ffec592335d3b4e9bbd160121cc7d9e0bdf5a", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "376 U.S. 781", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106797/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Aetna Ins. Co. v. Menendez", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "68", 
+    "id": 91180, 
+    "resource_uri": "/api/rest/v2/citation/91180/"
+  }, 
+  "id": 106797, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-04-06", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>376 U.S. 781 (1964)</b></center>\n<center><h1>AETNA INSURANCE CO.<br>\nv.<br>\nMENENDEZ.</h1></center>\n<center>No. 68.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>William A. Gillen</i> for petitioner.</p>\n<p><i>John P. Corcoran, Jr.</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of <i>Banco Nacional de Cuba</i> v. <i>Sabbatino, ante,</i> p. 398.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">376</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">781</span></span> (1964)</b></center>\n<center><h1>AETNA INSURANCE CO.<br>\nv.<br>\nMENENDEZ.</h1></center>\n<center>No. 68.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>William A. Gillen</i> for petitioner.</p>\n<p><i>John P. Corcoran, Jr.</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of <i>Banco Nacional de Cuba</i> v. <i>Sabbatino, ante,</i> p. 398.</p>\n</div>", 
+  "sha1": "754ffec592335d3b4e9bbd160121cc7d9e0bdf5a", 
+  "date_modified": "2014-12-21T01:53:46.047932", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106797/aetna-ins-co-v-menendez/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/319169/", 
+  "html": "<p class=\"case_cite\">376 U.S. 781</p>\n    <p class=\"case_cite\">84 S.Ct. 1131</p>\n    <p class=\"case_cite\">12 L.Ed.2d 82</p>\n    <p class=\"parties\">AETNA INSURANCE CO.<br>v.<br>Pedro MENENDEZ.</p>\n    <p class=\"docket\">No. 68.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 6, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">William A. Gillen, for petitioner.</p>\n      <p class=\"indent\">John P. Corcoran, Jr., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Banco Nacional de Cuba v. Sabbatino, 376 U.S. 398, 84 S.Ct. 923.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106797/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/803384/fcc-v-cbs-corp/", "blocked": false, "citation": {"case_name": "FCC v. CBS Corp.", "docket_number": "11-1240", "document_uris": ["/api/rest/v2/document/803384/"], "federal_cite_one": null, "federal_cite_three": null, "federal_cite_two": null, "id": 776143, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/776143/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2012-06-29", "date_modified": "2014-10-30T14:17:49.787227", "docket": "/api/rest/v2/docket/2020602/", "download_url": "http://www.supremecourt.gov/opinions/11pdf/11-1240Ginsburg7b8h.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "<pre class=\"inline\">                 Cite as: 567 U. S. ____ (2012)            1\n\n                   GINSBURG, J., concurring\n\nSUPREME COURT OF THE UNITED STATES\nFEDERAL COMMUNICATIONS COMMISSION, ET AL.,\n   PETITIONERS v. CBS CORPORATION ET AL.\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED\n\n    STATES COURT OF APPEALS FOR THE THIRD CIRCUIT\n\n              No. 11–1240. Decided June 29, 2012\n\n\n   JUSTICE GINSBURG, concurring in the denial of certiorari.\n   The Court’s remand in FCC v. Fox Television Stations,\nInc., 567 U. S. ___ (2012), affords the Commission an\nopportunity to reconsider its indecency policy in light of\ntechnological advances and the Commission’s uncertain\ncourse since this Court’s ruling in FCC v. Pacifica Founda-\ntion, 438 U. S. 726 (1978).\n</pre>", "id": 803384, "judges": "", "local_path": "pdf/2012/06/29/fcc_v._cbs_corp._1.pdf", "nature_of_suit": "", "plain_text": "                 Cite as: 567 U. S. ____ (2012)            1\n\n                   GINSBURG, J., concurring\n\nSUPREME COURT OF THE UNITED STATES\nFEDERAL COMMUNICATIONS COMMISSION, ET AL.,\n   PETITIONERS v. CBS CORPORATION ET AL.\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED\n\n    STATES COURT OF APPEALS FOR THE THIRD CIRCUIT\n\n              No. 11–1240. Decided June 29, 2012\n\n\n   JUSTICE GINSBURG, concurring in the denial of certiorari.\n   The Court’s remand in FCC v. Fox Television Stations,\nInc., 567 U. S. ___ (2012), affords the Commission an\nopportunity to reconsider its indecency policy in light of\ntechnological advances and the Commission’s uncertain\ncourse since this Court’s ruling in FCC v. Pacifica Founda-\ntion, 438 U. S. 726 (1978).\n", "precedential_status": "Relating-to", "resource_uri": "/api/rest/v2/document/803384/", "sha1": "86f2d87c1c55c9e894787b766a6ada66819e8df1", "source": "C", "time_retrieved": "2012-06-29T07:26:47"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": null, 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/803384/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "FCC v. CBS Corp.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "11-1240", 
+    "id": 776143, 
+    "resource_uri": "/api/rest/v2/citation/776143/"
+  }, 
+  "id": 803384, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2012-06-29", 
+  "download_url": "http://www.supremecourt.gov/opinions/11pdf/11-1240Ginsburg7b8h.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2012/06/29/fcc_v._cbs_corp._1.pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2012-06-29T07:26:47", 
+  "nature_of_suit": "", 
+  "plain_text": "                 Cite as: 567 U. S. ____ (2012)            1\n\n                   GINSBURG, J., concurring\n\nSUPREME COURT OF THE UNITED STATES\nFEDERAL COMMUNICATIONS COMMISSION, ET AL.,\n   PETITIONERS v. CBS CORPORATION ET AL.\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED\n\n    STATES COURT OF APPEALS FOR THE THIRD CIRCUIT\n\n              No. 11\u20131240. Decided June 29, 2012\n\n\n   JUSTICE GINSBURG, concurring in the denial of certiorari.\n   The Court\u2019s remand in FCC v. Fox Television Stations,\nInc., 567 U. S. ___ (2012), affords the Commission an\nopportunity to reconsider its indecency policy in light of\ntechnological advances and the Commission\u2019s uncertain\ncourse since this Court\u2019s ruling in FCC v. Pacifica Founda-\ntion, 438 U. S. 726 (1978).\n", 
+  "html_with_citations": "<pre class=\"inline\">                 Cite as: 567 U. S. ____ (2012)            1\n\n                   GINSBURG, J., concurring\n\nSUPREME COURT OF THE UNITED STATES\nFEDERAL COMMUNICATIONS COMMISSION, ET AL.,\n   PETITIONERS v. CBS CORPORATION ET AL.\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED\n\n    STATES COURT OF APPEALS FOR THE THIRD CIRCUIT\n\n              No. 11\u20131240. Decided June 29, 2012\n\n\n   JUSTICE GINSBURG, concurring in the denial of certiorari.\n   The Court\u2019s remand in FCC v. Fox Television Stations,\nInc., 567 U. S. ___ (2012), affords the Commission an\nopportunity to reconsider its indecency policy in light of\ntechnological advances and the Commission\u2019s uncertain\ncourse since this Court\u2019s ruling in FCC v. Pacifica Founda-\ntion, 438 U. S. 726 (1978).\n</pre>", 
+  "sha1": "86f2d87c1c55c9e894787b766a6ada66819e8df1", 
+  "date_modified": "2014-10-30T14:17:49.787227", 
+  "precedential_status": "Relating-to", 
+  "absolute_url": "/opinion/803384/fcc-v-cbs-corp/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2020602/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/803384/"
+}

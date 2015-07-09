@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/96030/security-land-exploration-company-plff-in/", "blocked": false, "citation": {"case_name": "Security Land & Exploration Company, Plff. In Err. v. Henry Weckey", "docket_number": "128", "document_uris": ["/api/rest/v2/document/96030/"], "federal_cite_one": "193 U.S. 188", "federal_cite_three": null, "federal_cite_two": null, "id": 80413, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/80413/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1904-02-29", "date_modified": "2014-12-21T01:34:04.883666", "docket": "/api/rest/v2/docket/2447598/", "download_url": "http://bulk.resource.org/courts.gov/c/US/193/193.US.188.128.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">193 U.S. 188</p>\n    <p class=\"case_cite\">24 S.Ct. 431</p>\n    <p class=\"case_cite\">48 L.Ed. 674</p>\n    <p class=\"parties\">SECURITY LAND &amp; EXPLORATION COMPANY, <i>Plff. in Err.</i>,<br>v.<br>HENRY WECKEY <i>et al</i>.</p>\n    <p class=\"docket\">No. 128.</p>\n    <p class=\"date\">Argued January 19, 1904.</p>\n    <p class=\"date\">Decided February 29, 1904.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Messrs.</i> <i>William W. Billson</i> and <i>Chester A. Congdon</i> for plaintiff in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\"><i>Messrs.</i> <i>John R. Van Derlip, R. R. Briggs,</i> and <i>George P. Wilson</i> for defendants in error.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice Peckham delivered the opinion of the court: In this case land in the same section as in the foregoing case is involved, and as the title depends upon precisely the same facts, this case is, by stipulation of counsel, to abide the event of the other.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\"><i>Judgment affirmed</i>.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">193</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">188</span></span></p>\n    <p class=\"case_cite\">24 S.Ct. 431</p>\n    <p class=\"case_cite\">48 L.Ed. 674</p>\n    <p class=\"parties\">SECURITY LAND &amp; EXPLORATION COMPANY, <i>Plff. in Err.</i>,<br>v.<br>HENRY WECKEY <i>et al</i>.</p>\n    <p class=\"docket\">No. 128.</p>\n    <p class=\"date\">Argued January 19, 1904.</p>\n    <p class=\"date\">Decided February 29, 1904.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Messrs.</i> <i>William W. Billson</i> and <i>Chester A. Congdon</i> for plaintiff in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\"><i>Messrs.</i> <i>John R. Van Derlip, R. R. Briggs,</i> and <i>George P. Wilson</i> for defendants in error.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice Peckham delivered the opinion of the court: In this case land in the same section as in the foregoing case is involved, and as the title depends upon precisely the same facts, this case is, by stipulation of counsel, to abide the event of the other.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\"><i>Judgment affirmed</i>.</p>\n    </div>\n    ", "id": 96030, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/96030/", "sha1": "0514a9b976202eec88260f45890702eb87536c93", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:40:22"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "193 U.S. 188", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/96030/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Security Land & Exploration Company, Plff. In Err. v. Henry Weckey", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "128", 
+    "id": 80413, 
+    "resource_uri": "/api/rest/v2/citation/80413/"
+  }, 
+  "id": 96030, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1904-02-29", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/193/193.US.188.128.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:40:22", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">193</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">188</span></span></p>\n    <p class=\"case_cite\">24 S.Ct. 431</p>\n    <p class=\"case_cite\">48 L.Ed. 674</p>\n    <p class=\"parties\">SECURITY LAND &amp; EXPLORATION COMPANY, <i>Plff. in Err.</i>,<br>v.<br>HENRY WECKEY <i>et al</i>.</p>\n    <p class=\"docket\">No. 128.</p>\n    <p class=\"date\">Argued January 19, 1904.</p>\n    <p class=\"date\">Decided February 29, 1904.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Messrs.</i> <i>William W. Billson</i> and <i>Chester A. Congdon</i> for plaintiff in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\"><i>Messrs.</i> <i>John R. Van Derlip, R. R. Briggs,</i> and <i>George P. Wilson</i> for defendants in error.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice Peckham delivered the opinion of the court: In this case land in the same section as in the foregoing case is involved, and as the title depends upon precisely the same facts, this case is, by stipulation of counsel, to abide the event of the other.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\"><i>Judgment affirmed</i>.</p>\n    </div>\n    ", 
+  "sha1": "0514a9b976202eec88260f45890702eb87536c93", 
+  "date_modified": "2014-12-21T01:34:04.883666", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/96030/security-land-exploration-company-plff-in/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2447598/", 
+  "html": "<p class=\"case_cite\">193 U.S. 188</p>\n    <p class=\"case_cite\">24 S.Ct. 431</p>\n    <p class=\"case_cite\">48 L.Ed. 674</p>\n    <p class=\"parties\">SECURITY LAND &amp; EXPLORATION COMPANY, <i>Plff. in Err.</i>,<br>v.<br>HENRY WECKEY <i>et al</i>.</p>\n    <p class=\"docket\">No. 128.</p>\n    <p class=\"date\">Argued January 19, 1904.</p>\n    <p class=\"date\">Decided February 29, 1904.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>Messrs.</i> <i>William W. Billson</i> and <i>Chester A. Congdon</i> for plaintiff in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\"><i>Messrs.</i> <i>John R. Van Derlip, R. R. Briggs,</i> and <i>George P. Wilson</i> for defendants in error.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice Peckham delivered the opinion of the court: In this case land in the same section as in the foregoing case is involved, and as the title depends upon precisely the same facts, this case is, by stipulation of counsel, to abide the event of the other.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\"><i>Judgment affirmed</i>.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/96030/"
+}

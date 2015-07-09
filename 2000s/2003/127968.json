@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/127968/boise-cascade-corp-v-united-states/", "blocked": false, "citation": {"case_name": "Boise Cascade Corp. v. United States", "docket_number": "02-862", "document_uris": ["/api/rest/v2/document/127968/"], "federal_cite_one": "538 U.S. 906", "federal_cite_three": null, "federal_cite_two": null, "id": 112321, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/112321/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-03-10", "date_modified": "2014-12-21T02:18:26.127180", "docket": "/api/rest/v2/docket/2456136/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.906.02-862.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 906</p>\n    <p class=\"parties\">BOISE CASCADE CORP.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-862.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 10, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 296 F. 3d 1339.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">906</span></span></p>\n    <p class=\"parties\">BOISE CASCADE CORP.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-862.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 10, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 296 F. 3d 1339.</p>\n    </div>\n    ", "id": 127968, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/127968/", "sha1": "3677f80b225f1ebf9539440bf69b6484b38a3622", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:26:12"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 906", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/127968/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Boise Cascade Corp. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-862", 
+    "id": 112321, 
+    "resource_uri": "/api/rest/v2/citation/112321/"
+  }, 
+  "id": 127968, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-03-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.906.02-862.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:26:12", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">906</span></span></p>\n    <p class=\"parties\">BOISE CASCADE CORP.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-862.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 10, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 296 F. 3d 1339.</p>\n    </div>\n    ", 
+  "sha1": "3677f80b225f1ebf9539440bf69b6484b38a3622", 
+  "date_modified": "2014-12-21T02:18:26.127180", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/127968/boise-cascade-corp-v-united-states/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2456136/", 
+  "html": "<p class=\"case_cite\">538 U.S. 906</p>\n    <p class=\"parties\">BOISE CASCADE CORP.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-862.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 10, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. Fed. Cir. Certiorari denied. Reported below: 296 F. 3d 1339.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/127968/"
+}

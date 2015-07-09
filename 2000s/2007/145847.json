@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/145847/board-of-ed-of-city-school-dist-of-new-york-v-tom-/", "blocked": false, "citation": {"case_name": "Board of Ed. of City School Dist. of New York v. Tom F.", "docket_number": "06-637", "document_uris": ["/api/rest/v2/document/145847/"], "federal_cite_one": "552 U.S. 1", "federal_cite_three": "169 L. Ed. 2d 1", "federal_cite_two": "128 S. Ct. 1", "id": 130175, "lexis_cite": "2007 U.S. LEXIS 11481", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/130175/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-10-10", "date_modified": "2014-12-21T02:24:30.389349", "docket": "/api/rest/v2/docket/479514/", "download_url": "http://www.supremecourt.gov/opinions/07pdf/06-637.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "", "id": 145847, "judges": "", "local_path": "pdf/2007/10/10/Board_of_Ed._of_City_School_Dist._of_New_York_v._Tom_F..pdf", "nature_of_suit": "", "plain_text": "(Slip Opinion)            Cite as: 552 U. S. ____ (2007)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 06–637\n                                     _________________\n\n\n     BOARD OF EDUCATION OF THE CITY SCHOOL \n\n        DISTRICT OF THE CITY OF NEW YORK, \n\n         PETITIONER v. TOM F., ON BEHALF OF\n\n             GILBERT F., A MINOR CHILD\n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF \n\n           APPEALS FOR THE SECOND CIRCUIT\n\n                                 [October 10, 2007] \n\n\n  PER CURIAM. \n\n  The judgment is affirmed by an equally divided Court. \n\n  JUSTICE KENNEDY took no part in the decision of this\ncase.\n", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/145847/", "sha1": "db71e9c2de06125a106a119bca6f627361613747", "source": "C", "supreme_court_db_id": "2007-001", "time_retrieved": "2010-05-05T17:08:25"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "552 U.S. 1", 
+    "federal_cite_two": "128 S. Ct. 1", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "169 L. Ed. 2d 1", 
+    "lexis_cite": "2007 U.S. LEXIS 11481", 
+    "document_uris": [
+      "/api/rest/v2/document/145847/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Board of Ed. of City School Dist. of New York v. Tom F.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-637", 
+    "id": 130175, 
+    "resource_uri": "/api/rest/v2/citation/130175/"
+  }, 
+  "id": 145847, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-10-10", 
+  "download_url": "http://www.supremecourt.gov/opinions/07pdf/06-637.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2007/10/10/Board_of_Ed._of_City_School_Dist._of_New_York_v._Tom_F..pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-05-05T17:08:25", 
+  "nature_of_suit": "", 
+  "plain_text": "(Slip Opinion)            Cite as: 552 U. S. ____ (2007)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 06\u2013637\n                                     _________________\n\n\n     BOARD OF EDUCATION OF THE CITY SCHOOL \n\n        DISTRICT OF THE CITY OF NEW YORK, \n\n         PETITIONER v. TOM F., ON BEHALF OF\n\n             GILBERT F., A MINOR CHILD\n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF \n\n           APPEALS FOR THE SECOND CIRCUIT\n\n                                 [October 10, 2007] \n\n\n  PER CURIAM. \n\n  The judgment is affirmed by an equally divided Court. \n\n  JUSTICE KENNEDY took no part in the decision of this\ncase.\n", 
+  "html_with_citations": "", 
+  "sha1": "db71e9c2de06125a106a119bca6f627361613747", 
+  "date_modified": "2014-12-21T02:24:30.389349", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/145847/board-of-ed-of-city-school-dist-of-new-york-v-tom-/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": "2007-001", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/479514/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/145847/"
+}

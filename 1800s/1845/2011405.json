@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2011405/winston-v-united-states/", "blocked": false, "citation": {"case_name": "Winston v. United States", "docket_number": null, "document_uris": ["/api/rest/v2/document/2011405/"], "federal_cite_one": "44 U.S. 771", "federal_cite_three": null, "federal_cite_two": null, "id": 1984176, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1984176/", "scotus_early_cite": "3 How. 771", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1845-01-01", "date_modified": "2014-10-30T01:34:51.050852", "docket": "/api/rest/v2/docket/333294/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>44 U.S. 771 (1845)</b></center>\n<center><b>3 How. 771</b></center>\n<center><h1>THOMAS B. WINSTON<br>\nv.<br>\nTHE UNITED STATES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Nelson (attorney-general) moved to dismiss this case for want of jurisdiction, under the circumstances stated in the opinion of the court, which was delivered by</p>\n<p>Mr. Chief Justice TANEY.</p>\n<p>A motion has been made to dismiss the case for want of jurisdiction.</p>\n<p>It appears that an action was brought by the United States against the plaintiff in error, in the District Court of the United States for the northern district of Mississippi, (the said court having the powers of a Circuit Court,) for the purpose of recovering damages against the plaintiff in error, who was a notary public, for having failed to give notice to the endorsers of a promissory note, put into his hands for protest, whereby the United States lost their remedy against them. The note was for $537 27 cents, and the damages in the declaration laid at one thousand dollars. There was a verdict and judgment for the sum of $750 36 cents, and it is upon this judgment that the writ of error is brought.</p>\n<p>The matter in dispute is below the amount necessary to give jurisdiction to this court, and the writ of error must therefore be dismissed.</p>\n</div>", "html_with_citations": "", "id": 2011405, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2011405/", "sha1": "bf0fcfc2c29a709c7585957eb349e95de085e1c4", "source": "L", "time_retrieved": "2013-10-30T01:02:42.438697"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "44 U.S. 771", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2011405/"
+    ], 
+    "scotus_early_cite": "3 How. 771", 
+    "case_name": "Winston v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1984176, 
+    "resource_uri": "/api/rest/v2/citation/1984176/"
+  }, 
+  "id": 2011405, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1845-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>44 U.S. 771 (1845)</b></center>\n<center><b>3 How. 771</b></center>\n<center><h1>THOMAS B. WINSTON<br>\nv.<br>\nTHE UNITED STATES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Nelson (attorney-general) moved to dismiss this case for want of jurisdiction, under the circumstances stated in the opinion of the court, which was delivered by</p>\n<p>Mr. Chief Justice TANEY.</p>\n<p>A motion has been made to dismiss the case for want of jurisdiction.</p>\n<p>It appears that an action was brought by the United States against the plaintiff in error, in the District Court of the United States for the northern district of Mississippi, (the said court having the powers of a Circuit Court,) for the purpose of recovering damages against the plaintiff in error, who was a notary public, for having failed to give notice to the endorsers of a promissory note, put into his hands for protest, whereby the United States lost their remedy against them. The note was for $537 27 cents, and the damages in the declaration laid at one thousand dollars. There was a verdict and judgment for the sum of $750 36 cents, and it is upon this judgment that the writ of error is brought.</p>\n<p>The matter in dispute is below the amount necessary to give jurisdiction to this court, and the writ of error must therefore be dismissed.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T01:02:42.438697", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bf0fcfc2c29a709c7585957eb349e95de085e1c4", 
+  "date_modified": "2014-10-30T01:34:51.050852", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2011405/winston-v-united-states/", 
+  "citation_count": 7, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/333294/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2011405/"
+}

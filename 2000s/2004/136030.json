@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136030/thomas-v-schwarzenegger-governor-of-california/", "blocked": false, "citation": {"case_name": "Thomas v. Schwarzenegger, Governor of California", "docket_number": "03-9282", "document_uris": ["/api/rest/v2/document/136030/"], "federal_cite_one": "541 U.S. 1016", "federal_cite_three": null, "federal_cite_two": null, "id": 120383, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120383/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-04-26", "date_modified": "2014-12-21T02:20:05.618619", "docket": "/api/rest/v2/docket/2347965/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1016.03-9282.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1016</p>\n    <p class=\"parties\">THOMAS<br>v.<br>SCHWARZENEGGER, GOVERNOR OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 03-9282.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 26, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1016</span></span></p>\n    <p class=\"parties\">THOMAS<br>v.<br>SCHWARZENEGGER, GOVERNOR OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 03-9282.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 26, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 136030, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136030/", "sha1": "c8b65847f0d409acfa8b631ca4de978c8a1675ba", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:40"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1016", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136030/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Thomas v. Schwarzenegger, Governor of California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9282", 
+    "id": 120383, 
+    "resource_uri": "/api/rest/v2/citation/120383/"
+  }, 
+  "id": 136030, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-04-26", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1016.03-9282.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:40", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1016</span></span></p>\n    <p class=\"parties\">THOMAS<br>v.<br>SCHWARZENEGGER, GOVERNOR OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 03-9282.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 26, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "c8b65847f0d409acfa8b631ca4de978c8a1675ba", 
+  "date_modified": "2014-12-21T02:20:05.618619", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136030/thomas-v-schwarzenegger-governor-of-california/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2347965/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1016</p>\n    <p class=\"parties\">THOMAS<br>v.<br>SCHWARZENEGGER, GOVERNOR OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 03-9282.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 26, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136030/"
+}

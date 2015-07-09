@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1521130/aristeguieta-v-first-nat-bank-of-ny/", "blocked": false, "citation": {"case_name": "Aristeguieta v. First Nat. Bank of NY", "docket_number": "2", "document_uris": ["/api/rest/v2/document/1521130/"], "federal_cite_one": "375 U.S. 49", "federal_cite_three": null, "federal_cite_two": null, "id": 1493901, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1493901/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-10-21", "date_modified": "2014-10-30T00:23:37.286406", "docket": "/api/rest/v2/docket/190291/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>375 U.S. 49 (1963)</b></center>\n<center><h1>ARISTEGUIETA, CONSUL GENERAL OF THE REPUBLIC OF VENEZUELA,<br>\nv.<br>\nFIRST NATIONAL BANK OF NEW YORK ET AL.</h1></center>\n<center>No. 2.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 21, 1963.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.\n<p><i>Howard C. Westwood</i> for petitioner.</p>\n<p><i>John A. Wilson, Alexis C. Coudert</i> and <i>Melber Chambers</i> for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The motion to vacate the judgment is granted. The judgment is vacated and the case is remanded to the United States District Court for the Southern District of New York with instructions to dismiss the cause as moot.</p>\n<p>MR. JUSTICE WHITE took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 1521130, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1521130/", "sha1": "81b033084fd182003610302f185b065033569b0b", "source": "L", "time_retrieved": "2013-10-29T23:34:05.971730"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 49", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1521130/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Aristeguieta v. First Nat. Bank of NY", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "2", 
+    "id": 1493901, 
+    "resource_uri": "/api/rest/v2/citation/1493901/"
+  }, 
+  "id": 1521130, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-10-21", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 49 (1963)</b></center>\n<center><h1>ARISTEGUIETA, CONSUL GENERAL OF THE REPUBLIC OF VENEZUELA,<br>\nv.<br>\nFIRST NATIONAL BANK OF NEW YORK ET AL.</h1></center>\n<center>No. 2.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 21, 1963.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.\n<p><i>Howard C. Westwood</i> for petitioner.</p>\n<p><i>John A. Wilson, Alexis C. Coudert</i> and <i>Melber Chambers</i> for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The motion to vacate the judgment is granted. The judgment is vacated and the case is remanded to the United States District Court for the Southern District of New York with instructions to dismiss the cause as moot.</p>\n<p>MR. JUSTICE WHITE took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:34:05.971730", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "81b033084fd182003610302f185b065033569b0b", 
+  "date_modified": "2014-10-30T00:23:37.286406", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1521130/aristeguieta-v-first-nat-bank-of-ny/", 
+  "citation_count": 6, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/190291/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1521130/"
+}

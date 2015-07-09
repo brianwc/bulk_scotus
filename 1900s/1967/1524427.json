@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1524427/gerberding-v-tahash/", "blocked": false, "citation": {"case_name": "Gerberding v. Tahash", "docket_number": "1059, Misc", "document_uris": ["/api/rest/v2/document/1524427/"], "federal_cite_one": "387 U.S. 91", "federal_cite_three": null, "federal_cite_two": null, "id": 1497198, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1497198/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-05-15", "date_modified": "2014-10-30T11:15:55.986723", "docket": "/api/rest/v2/docket/1632677/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>387 U.S. 91 (1967)</b></center>\n<center><h1>GERBERDING<br>\nv.<br>\nTAHASH, WARDEN.</h1></center>\n<center>No. 1059, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 15, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF MINNESOTA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Douglas M. Head,</i> Attorney General of Minnesota, <i>William J. Hempel,</i> Deputy Attorney General, and <i>Gerard W. Snell,</i> Acting Solicitor General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is reversed. <i>Jackson</i> v. <i>Denno,</i> 378 U. S. 368.</p>\n</div>", "html_with_citations": "", "id": 1524427, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1524427/", "sha1": "072162acd985130e41fa91976f0fe95fd14e9875", "source": "L", "time_retrieved": "2013-10-29T23:34:43.801160"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "387 U.S. 91", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1524427/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gerberding v. Tahash", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1059, Misc", 
+    "id": 1497198, 
+    "resource_uri": "/api/rest/v2/citation/1497198/"
+  }, 
+  "id": 1524427, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-05-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>387 U.S. 91 (1967)</b></center>\n<center><h1>GERBERDING<br>\nv.<br>\nTAHASH, WARDEN.</h1></center>\n<center>No. 1059, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 15, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF MINNESOTA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Douglas M. Head,</i> Attorney General of Minnesota, <i>William J. Hempel,</i> Deputy Attorney General, and <i>Gerard W. Snell,</i> Acting Solicitor General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is reversed. <i>Jackson</i> v. <i>Denno,</i> 378 U. S. 368.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:34:43.801160", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "072162acd985130e41fa91976f0fe95fd14e9875", 
+  "date_modified": "2014-10-30T11:15:55.986723", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1524427/gerberding-v-tahash/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1632677/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1524427/"
+}

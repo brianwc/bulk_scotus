@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2381666/morris-v-tarin/", "blocked": false, "citation": {"case_name": "Morris v. Tarin", "docket_number": null, "document_uris": ["/api/rest/v2/document/2381666/"], "federal_cite_one": "1 U.S. 147", "federal_cite_three": null, "federal_cite_two": null, "id": 2354439, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2354439/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1785-01-01", "date_modified": "2014-10-30T15:45:54.478511", "docket": "/api/rest/v2/docket/2226392/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>1 U.S. 147 (1785)</b></center>\n<center><b>1 Dall. 147</b></center>\n<center><h1>MORRIS<br>\nversus<br>\nTARIN.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*148</span> Sergeant, for the defendant.</p>\n<p>Wilson, for the plaintiff.</p>\n<p>The Court held the case under advisement till the 21st of November, when THE PRESIDENT delivered their opinion as follows.</p>\n<p>SHIPPEN, President.</p>\n<p>This is an action for money had and received to the plaintiff's use. The facts are, that a bill of exchange was drawn on a house in France by Benjamin Harrison &amp; Company, of which company the plaintiff was one, in favour of the defendant, or some other person, who indorsed the bill to the defendant. The bill being presented to the drawee, he refused to accept it, and a protest was made for non acceptance . The bill with the protest was sent back, and the plaintiff being applied to for payment, voluntarily paid the defendant both principal and damages. This action is brought on an implied Assumpsit to recover back part of the money, to wit, the damages, as paid by mistake; the plaintiff contending, that to compel him to the payment of damages, there ought not only to have been a protest for non acceptance, but likewise a protest for non payment; and that having paid those damages, when by law he was not obliged to pay them, he ought in justice to recover the money back.</p>\n<p>This is a liberal kind of action, and will lie in all cases where by the ties of natural justice and equity the defendant ought to refund the money paid to him; but where the party might with a good conference receive the money, and there was no deceit or unfair practice <span class=\"star-pagination\">*149</span> in obtaining it, although it was money which the party could not recover by law, this action has never been so far extended as to enable the party who paid the money voluntarily, to recover it back again. The case of Lowrey vs Bourdieu in Doug. 452, and that of Farmer vs Arundel in 2 Black. R. 825, are full to this point.</p>\n<p>In the present case the defendant had presented the bill to the drawee for acceptance; and on refusal got it protested. Shortly after, and before the day of payment, an arrët from the King of France prohibits the creditors of the drawee from suing him; upon which the bill was immediately sent back, and Mr. Morris, without waiting for a protest for non payment, voluntarily takes up the bill and pays the damages. A protest for non payment, however, appears to have been made in France before the money was paid by Mr. Morris, although he did not know it. The defendant has acted with fairness, and lain out of his money, and might with a good conscience receive the legal damages.</p>\n<p>The point of law principally agitated in this cause, whether a protest for non acceptance only, is sufficient to recover the money from the drawer, is not material to be determined in this action, because, as it is voluntarily paid, and the defendant might consistent with justice receive it, whether that point of law is for, or against the plaintiff, we think he cannot recover the money back.</p>\n<p>Judgment for the defendant.</p>\n</div>", "html_with_citations": "", "id": 2381666, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2381666/", "sha1": "0a283782cd60550dec6d0aaf599a7da0e1832c8d", "source": "L", "time_retrieved": "2013-10-30T02:18:19.655526"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "1 U.S. 147", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2381666/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Morris v. Tarin", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2354439, 
+    "resource_uri": "/api/rest/v2/citation/2354439/"
+  }, 
+  "id": 2381666, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1785-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>1 U.S. 147 (1785)</b></center>\n<center><b>1 Dall. 147</b></center>\n<center><h1>MORRIS<br>\nversus<br>\nTARIN.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*148</span> Sergeant, for the defendant.</p>\n<p>Wilson, for the plaintiff.</p>\n<p>The Court held the case under advisement till the 21st of November, when THE PRESIDENT delivered their opinion as follows.</p>\n<p>SHIPPEN, President.</p>\n<p>This is an action for money had and received to the plaintiff's use. The facts are, that a bill of exchange was drawn on a house in France by Benjamin Harrison &amp; Company, of which company the plaintiff was one, in favour of the defendant, or some other person, who indorsed the bill to the defendant. The bill being presented to the drawee, he refused to accept it, and a protest was made for non acceptance \u0097. The bill with the protest was sent back, and the plaintiff being applied to for payment, voluntarily paid the defendant both principal and damages. This action is brought on an implied Assumpsit to recover back part of the money, to wit, the damages, as paid by mistake; the plaintiff contending, that to compel him to the payment of damages, there ought not only to have been a protest for non acceptance, but likewise a protest for non payment; and that having paid those damages, when by law he was not obliged to pay them, he ought in justice to recover the money back.</p>\n<p>This is a liberal kind of action, and will lie in all cases where by the ties of natural justice and equity the defendant ought to refund the money paid to him; but where the party might with a good conference receive the money, and there was no deceit or unfair practice <span class=\"star-pagination\">*149</span> in obtaining it, although it was money which the party could not recover by law, this action has never been so far extended as to enable the party who paid the money voluntarily, to recover it back again. The case of Lowrey vs Bourdieu in Doug. 452, and that of Farmer vs Arundel in 2 Black. R. 825, are full to this point.</p>\n<p>In the present case the defendant had presented the bill to the drawee for acceptance; and on refusal got it protested. Shortly after, and before the day of payment, an arr\u00ebt from the King of France prohibits the creditors of the drawee from suing him; upon which the bill was immediately sent back, and Mr. Morris, without waiting for a protest for non payment, voluntarily takes up the bill and pays the damages. A protest for non payment, however, appears to have been made in France before the money was paid by Mr. Morris, although he did not know it. The defendant has acted with fairness, and lain out of his money, and might with a good conscience receive the legal damages.</p>\n<p>The point of law principally agitated in this cause, whether a protest for non acceptance only, is sufficient to recover the money from the drawer, is not material to be determined in this action, because, as it is voluntarily paid, and the defendant might consistent with justice receive it, whether that point of law is for, or against the plaintiff, we think he cannot recover the money back.</p>\n<p>Judgment for the defendant.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:18:19.655526", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0a283782cd60550dec6d0aaf599a7da0e1832c8d", 
+  "date_modified": "2014-10-30T15:45:54.478511", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2381666/morris-v-tarin/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2226392/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2381666/"
+}

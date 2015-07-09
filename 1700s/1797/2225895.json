@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2225895/huger-v-south-carolina/", "blocked": false, "citation": {"case_name": "Huger v. South Carolina", "docket_number": null, "document_uris": ["/api/rest/v2/document/2225895/"], "federal_cite_one": "3 U.S. 339", "federal_cite_three": null, "federal_cite_two": null, "id": 2198666, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2198666/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1797-02-10", "date_modified": "2014-10-30T14:27:53.384149", "docket": "/api/rest/v2/docket/2042100/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>3 U.S. 339 (____)</b></center>\n<center><b>3 Dall. 339</b></center>\n<center><h1>HUGER et al.<br>\nversus<br>\nSOUTH CAROLINA.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*341</span> IREDELL and CHASE, Justices.</p>\n<p>Expressed some doubt, whether shewing the original to the Secretary of State, would <span class=\"star-pagination\">*342</span> have been a service of the process, conformably to the rule, without leaving a copy at the Governor's house: but they agreed with the rest of THE COURT, in deeming the service, under the present circumstances, to be sufficient in strictness of construction, as well as upon principle.</p>\n<p>The service of the subpna being thus proved, the Complainant was entitled to proceed ex parte; and, accordingly, moved for and obtained Commissions, to take the examination of witnesses in several of the States.</p>\n</div>", "html_with_citations": "", "id": 2225895, "judges": "Iredell and Chase", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2225895/", "sha1": "bccf2c338d2b1624cb91a1158bf280b3a7651fb4", "source": "L", "time_retrieved": "2013-10-30T01:41:57.417375"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "3 U.S. 339", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2225895/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Huger v. South Carolina", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2198666, 
+    "resource_uri": "/api/rest/v2/citation/2198666/"
+  }, 
+  "id": 2225895, 
+  "blocked": false, 
+  "judges": "Iredell and Chase", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1797-02-10", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>3 U.S. 339 (____)</b></center>\n<center><b>3 Dall. 339</b></center>\n<center><h1>HUGER et al.<br>\nversus<br>\nSOUTH CAROLINA.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*341</span> IREDELL and CHASE, Justices.</p>\n<p>Expressed some doubt, whether shewing the original to the Secretary of State, would <span class=\"star-pagination\">*342</span> have been a service of the process, conformably to the rule, without leaving a copy at the Governor's house: but they agreed with the rest of THE COURT, in deeming the service, under the present circumstances, to be sufficient in strictness of construction, as well as upon principle.</p>\n<p>The service of the subp\u009cna being thus proved, the Complainant was entitled to proceed ex parte; and, accordingly, moved for and obtained Commissions, to take the examination of witnesses in several of the States.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T01:41:57.417375", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bccf2c338d2b1624cb91a1158bf280b3a7651fb4", 
+  "date_modified": "2014-10-30T14:27:53.384149", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2225895/huger-v-south-carolina/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2042100/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2225895/"
+}

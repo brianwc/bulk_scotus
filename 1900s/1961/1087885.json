@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087885/swift-co-v-united-states/", "blocked": false, "citation": {"case_name": "Swift & Co. v. United States", "docket_number": "875", "document_uris": ["/api/rest/v2/document/1087885/"], "federal_cite_one": "367 U.S. 909", "federal_cite_three": null, "federal_cite_two": null, "id": 1060656, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060656/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 8, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-06-19", "date_modified": "2014-10-30T17:40:05.273470", "docket": "/api/rest/v2/docket/2549478/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>367 U.S. 909 (1961)</b></center>\n<center><h1>SWIFT &amp; CO. ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 875.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 19, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>John T. Chadwell, Richard S. Rhodes, Arthur C. O'Meara, John C. Berghoff, Weymouth Kirkland, E. Houston Harsha, George E. Leonard, Jr., John P. Doyle, Frederick T. Barrett</i> and <i>Howard Ellis</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger</i> and <i>Richard A. Solomon</i> for the United States.</p>\n<p><i>Howard J. Trienens</i> for Western States Meat Packers Association, Inc., et al., as <i>amici curiae.</i></p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed. The motion of Western States Meat Packers Association, Inc., et al. for leave to file brief as <i>amici curiae</i> is granted.</p>\n</div>", "html_with_citations": "", "id": 1087885, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087885/", "sha1": "e5b78f488c3e113c6409dbb575b74caf5f607918", "source": "L", "time_retrieved": "2013-10-29T20:00:07.359131"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "367 U.S. 909", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087885/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Swift & Co. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "875", 
+    "id": 1060656, 
+    "resource_uri": "/api/rest/v2/citation/1060656/"
+  }, 
+  "id": 1087885, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-06-19", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>367 U.S. 909 (1961)</b></center>\n<center><h1>SWIFT &amp; CO. ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 875.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 19, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>John T. Chadwell, Richard S. Rhodes, Arthur C. O'Meara, John C. Berghoff, Weymouth Kirkland, E. Houston Harsha, George E. Leonard, Jr., John P. Doyle, Frederick T. Barrett</i> and <i>Howard Ellis</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger</i> and <i>Richard A. Solomon</i> for the United States.</p>\n<p><i>Howard J. Trienens</i> for Western States Meat Packers Association, Inc., et al., as <i>amici curiae.</i></p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed. The motion of Western States Meat Packers Association, Inc., et al. for leave to file brief as <i>amici curiae</i> is granted.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:00:07.359131", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e5b78f488c3e113c6409dbb575b74caf5f607918", 
+  "date_modified": "2014-10-30T17:40:05.273470", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087885/swift-co-v-united-states/", 
+  "citation_count": 8, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2549478/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087885/"
+}

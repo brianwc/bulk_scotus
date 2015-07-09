@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/133929/old-person-v-brown-secretary-of-state-for-the/", "blocked": false, "citation": {"case_name": "Old Person v. Brown, Secretary of State for the State of Montana", "docket_number": "03-253", "document_uris": ["/api/rest/v2/document/133929/"], "federal_cite_one": "540 U.S. 1016", "federal_cite_three": null, "federal_cite_two": null, "id": 118282, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/118282/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-11-17", "date_modified": "2014-12-21T02:19:38.634386", "docket": "/api/rest/v2/docket/371376/", "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.1016.03-253.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">540 U.S. 1016</p>\n    <p class=\"parties\">OLD PERSON<br>v.<br>BROWN, SECRETARY OF STATE FOR THE STATE OF MONTANA, ET AL.</p>\n    <p class=\"docket\">No. 03-253.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 17, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 312 F. 3d 1036.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1016</span></span></p>\n    <p class=\"parties\">OLD PERSON<br>v.<br>BROWN, SECRETARY OF STATE FOR THE STATE OF MONTANA, ET AL.</p>\n    <p class=\"docket\">No. 03-253.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 17, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 312 F. 3d 1036.</p>\n    </div>\n    ", "id": 133929, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/133929/", "sha1": "25f757e19125b69a3f8bad3d258a3d76cc15e8ab", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:28:37"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "540 U.S. 1016", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/133929/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Old Person v. Brown, Secretary of State for the State of Montana", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-253", 
+    "id": 118282, 
+    "resource_uri": "/api/rest/v2/citation/118282/"
+  }, 
+  "id": 133929, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-11-17", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.1016.03-253.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:28:37", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1016</span></span></p>\n    <p class=\"parties\">OLD PERSON<br>v.<br>BROWN, SECRETARY OF STATE FOR THE STATE OF MONTANA, ET AL.</p>\n    <p class=\"docket\">No. 03-253.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 17, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 312 F. 3d 1036.</p>\n    </div>\n    ", 
+  "sha1": "25f757e19125b69a3f8bad3d258a3d76cc15e8ab", 
+  "date_modified": "2014-12-21T02:19:38.634386", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/133929/old-person-v-brown-secretary-of-state-for-the/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/371376/", 
+  "html": "<p class=\"case_cite\">540 U.S. 1016</p>\n    <p class=\"parties\">OLD PERSON<br>v.<br>BROWN, SECRETARY OF STATE FOR THE STATE OF MONTANA, ET AL.</p>\n    <p class=\"docket\">No. 03-253.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 17, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 312 F. 3d 1036.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/133929/"
+}

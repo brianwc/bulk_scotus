@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620897/dacey-v-grievance-comm-of-bar-of-fairfield-cty/", "blocked": false, "citation": {"case_name": "Dacey v. Grievance Comm. of Bar of Fairfield Cty.", "docket_number": "1049", "document_uris": ["/api/rest/v2/document/2620897/"], "federal_cite_one": "386 U.S. 683", "federal_cite_three": null, "federal_cite_two": null, "id": 2593669, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593669/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-04-17", "date_modified": "2014-10-30T05:32:15.999937", "docket": "/api/rest/v2/docket/828729/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>386 U.S. 683 (1967)</b></center>\n<center><h1>DACEY ET AL.<br>\nv.<br>\nGRIEVANCE COMMITTEE OF THE BAR OF FAIRFIELD COUNTY.</h1></center>\n<center>No. 1049.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 17, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF CONNECTICUT.\n<p><i>George A. Saden</i> for appellants.</p>\n<p><i>David Goldstein</i> and <i>Jacob D. Zeldes</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 2620897, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620897/", "sha1": "362c7c07f220364e82ffc7f1326e70b5c6bc2f2f", "source": "L", "time_retrieved": "2013-11-01T13:02:06.814630"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "386 U.S. 683", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620897/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dacey v. Grievance Comm. of Bar of Fairfield Cty.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1049", 
+    "id": 2593669, 
+    "resource_uri": "/api/rest/v2/citation/2593669/"
+  }, 
+  "id": 2620897, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-04-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>386 U.S. 683 (1967)</b></center>\n<center><h1>DACEY ET AL.<br>\nv.<br>\nGRIEVANCE COMMITTEE OF THE BAR OF FAIRFIELD COUNTY.</h1></center>\n<center>No. 1049.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 17, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF CONNECTICUT.\n<p><i>George A. Saden</i> for appellants.</p>\n<p><i>David Goldstein</i> and <i>Jacob D. Zeldes</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:02:06.814630", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "362c7c07f220364e82ffc7f1326e70b5c6bc2f2f", 
+  "date_modified": "2014-10-30T05:32:15.999937", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620897/dacey-v-grievance-comm-of-bar-of-fairfield-cty/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/828729/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620897/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/121208/voit-v-louisville-and-jefferson-county-board-of/", "blocked": false, "citation": {"case_name": "Voit v. Louisville and Jefferson County Board of Health", "docket_number": "01-1523", "document_uris": ["/api/rest/v2/document/121208/"], "federal_cite_one": "536 U.S. 905", "federal_cite_three": null, "federal_cite_two": null, "id": 105561, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/105561/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-06-10", "date_modified": "2014-12-21T02:17:15.392708", "docket": "/api/rest/v2/docket/148446/", "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.905.01-1523.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">536 U.S. 905</p>\n    <p class=\"parties\">VOIT<br><i>v.</i><br>LOUISVILLE AND JEFFERSON COUNTY BOARD OF HEALTH ET AL.</p>\n    <p class=\"docket\">No. 01-1523.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 6th Cir. Certiorari denied. Reported below: 20 Fed. Appx. 488.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">905</span></span></p>\n    <p class=\"parties\">VOIT<br><i>v.</i><br>LOUISVILLE AND JEFFERSON COUNTY BOARD OF HEALTH ET AL.</p>\n    <p class=\"docket\">No. 01-1523.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 6th Cir. Certiorari denied. Reported below: 20 Fed. Appx. 488.</p>\n    </div>\n    ", "id": 121208, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/121208/", "sha1": "059ad9f0a9277015ef324e362007c295c61bb9ea", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:21"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "536 U.S. 905", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/121208/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Voit v. Louisville and Jefferson County Board of Health", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-1523", 
+    "id": 105561, 
+    "resource_uri": "/api/rest/v2/citation/105561/"
+  }, 
+  "id": 121208, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-06-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.905.01-1523.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:21", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">905</span></span></p>\n    <p class=\"parties\">VOIT<br><i>v.</i><br>LOUISVILLE AND JEFFERSON COUNTY BOARD OF HEALTH ET AL.</p>\n    <p class=\"docket\">No. 01-1523.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 6th Cir. Certiorari denied. Reported below: 20 Fed. Appx. 488.</p>\n    </div>\n    ", 
+  "sha1": "059ad9f0a9277015ef324e362007c295c61bb9ea", 
+  "date_modified": "2014-12-21T02:17:15.392708", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/121208/voit-v-louisville-and-jefferson-county-board-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/148446/", 
+  "html": "<p class=\"case_cite\">536 U.S. 905</p>\n    <p class=\"parties\">VOIT<br><i>v.</i><br>LOUISVILLE AND JEFFERSON COUNTY BOARD OF HEALTH ET AL.</p>\n    <p class=\"docket\">No. 01-1523.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 6th Cir. Certiorari denied. Reported below: 20 Fed. Appx. 488.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/121208/"
+}

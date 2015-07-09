@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1303519/boyd-v-bopst/", "blocked": false, "citation": {"case_name": "Boyd v. Bopst", "docket_number": null, "document_uris": ["/api/rest/v2/document/1303519/"], "federal_cite_one": "2 U.S. 91", "federal_cite_three": null, "federal_cite_two": null, "id": 1276290, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1276290/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1785-09-01", "date_modified": "2014-10-30T16:53:33.391115", "docket": "/api/rest/v2/docket/2405542/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 91 (____)</b></center>\n<center><b>2 Dall. 91</b></center>\n<center><h1>BOYD<br>\nversus<br>\nBOPST.<sup>[*]</sup></h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>IN the charge to the Jury, THE COURT observed, that the maxim of Caveat Emptor only applied to real estates; as the purchaser had the means of examining the title within his own power. But the possession of chattels, is a strong inducement to believe, that the possessor is the owner; and the act of selling them, is such an affirmation of property, that, on that circumstance alone, if the fact should turn out otherwise, the value can be recovered from the seller.</p>\n<h2>NOTES</h2>\n<p>[*]  This cause was tried at Easton, N, P. on the 10th June, 1785, before the CHIEF JUSTICE, and RUSH, Justice.</p>\n\n</div>", "html_with_citations": "", "id": 1303519, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1303519/", "sha1": "a08637b8632142948e987c749f1e26414d7450be", "source": "L", "time_retrieved": "2013-10-29T22:24:35.932584"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 91", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1303519/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Boyd v. Bopst", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1276290, 
+    "resource_uri": "/api/rest/v2/citation/1276290/"
+  }, 
+  "id": 1303519, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1785-09-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 91 (____)</b></center>\n<center><b>2 Dall. 91</b></center>\n<center><h1>BOYD<br>\nversus<br>\nBOPST.<sup>[*]</sup></h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>IN the charge to the Jury, THE COURT observed, that the maxim of Caveat Emptor only applied to real estates; as the purchaser had the means of examining the title within his own power. But the possession of chattels, is a strong inducement to believe, that the possessor is the owner; and the act of selling them, is such an affirmation of property, that, on that circumstance alone, if the fact should turn out otherwise, the value can be recovered from the seller.</p>\n<h2>NOTES</h2>\n<p>[*]  This cause was tried at Easton, N, P. on the 10th June, 1785, before the CHIEF JUSTICE, and RUSH, Justice.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T22:24:35.932584", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a08637b8632142948e987c749f1e26414d7450be", 
+  "date_modified": "2014-10-30T16:53:33.391115", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1303519/boyd-v-bopst/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2405542/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1303519/"
+}

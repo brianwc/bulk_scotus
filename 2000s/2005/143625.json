@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/143625/stevedoring-services-of-america-et-al-v-price/", "blocked": false, "citation": {"case_name": "Stevedoring Services of America v. Price", "docket_number": "04-723", "document_uris": ["/api/rest/v2/document/143625/"], "federal_cite_one": "544 U.S. 960", "federal_cite_three": null, "federal_cite_two": null, "id": 127977, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/127977/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-04-04", "date_modified": "2014-12-21T02:21:53.819269", "docket": "/api/rest/v2/docket/2097928/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.960.04-723.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 960</p>\n    <p class=\"parties\">STEVEDORING SERVICES OF AMERICA ET AL.<br><i>v.</i><br>PRICE ET AL.</p>\n    <p class=\"docket\">No. 04-723.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 382 F. 3d 878.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">960</span></span></p>\n    <p class=\"parties\">STEVEDORING SERVICES OF AMERICA ET AL.<br><i>v.</i><br>PRICE ET AL.</p>\n    <p class=\"docket\">No. 04-723.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 382 F. 3d 878.</p>\n    </div>\n    ", "id": 143625, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/143625/", "sha1": "af81dd194ad2d3f71eef528b967a55ca0ecd5107", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:59:20"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 960", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/143625/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Stevedoring Services of America v. Price", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-723", 
+    "id": 127977, 
+    "resource_uri": "/api/rest/v2/citation/127977/"
+  }, 
+  "id": 143625, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-04-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.960.04-723.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:59:20", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">960</span></span></p>\n    <p class=\"parties\">STEVEDORING SERVICES OF AMERICA ET AL.<br><i>v.</i><br>PRICE ET AL.</p>\n    <p class=\"docket\">No. 04-723.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 382 F. 3d 878.</p>\n    </div>\n    ", 
+  "sha1": "af81dd194ad2d3f71eef528b967a55ca0ecd5107", 
+  "date_modified": "2014-12-21T02:21:53.819269", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/143625/stevedoring-services-of-america-et-al-v-price/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2097928/", 
+  "html": "<p class=\"case_cite\">544 U.S. 960</p>\n    <p class=\"parties\">STEVEDORING SERVICES OF AMERICA ET AL.<br><i>v.</i><br>PRICE ET AL.</p>\n    <p class=\"docket\">No. 04-723.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 382 F. 3d 878.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/143625/"
+}

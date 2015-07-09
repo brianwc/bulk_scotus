@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2621052/chin-ying-v-united-states/", "blocked": false, "citation": {"case_name": "Chin Ying v. United States", "docket_number": "526", "document_uris": ["/api/rest/v2/document/2621052/"], "federal_cite_one": "186 U.S. 202", "federal_cite_three": null, "federal_cite_two": null, "id": 2593824, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593824/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1902-06-02", "date_modified": "2014-10-30T17:45:56.026673", "docket": "/api/rest/v2/docket/2568967/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>186 U.S. 202 (1902)</b></center>\n<center><h1>CHIN YING<br>\nv.<br>\nTHE UNITED STATES.</h1></center>\n<center>No. 526.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 13, 14, 1902.</center>\n<center>Decided June 2, 1902.</center>\nAPPEAL FROM THE DISTRICT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF NEW YORK.\n<p>MR. CHIEF JUSTICE FULLER.</p>\n<p>This case is similar to that just decided, and the judgment of the court below is</p>\n<p><i>Affirmed.</i></p>\n<p>MR. JUSTICE GRAY did not hear the argument and took no part in these decisions.</p>\n<p>MR. JUSTICE BREWER and MR. JUSTICE PECKHAM dissented.</p>\n</div>", "html_with_citations": "", "id": 2621052, "judges": "Mr. Chief Justice Fuller", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2621052/", "sha1": "bdcc7d53f919d1fed7ab7792d06e659b22bca9e8", "source": "L", "time_retrieved": "2013-11-01T13:31:39.532116"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "186 U.S. 202", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2621052/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Chin Ying v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "526", 
+    "id": 2593824, 
+    "resource_uri": "/api/rest/v2/citation/2593824/"
+  }, 
+  "id": 2621052, 
+  "blocked": false, 
+  "judges": "Mr. Chief Justice Fuller", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1902-06-02", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>186 U.S. 202 (1902)</b></center>\n<center><h1>CHIN YING<br>\nv.<br>\nTHE UNITED STATES.</h1></center>\n<center>No. 526.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 13, 14, 1902.</center>\n<center>Decided June 2, 1902.</center>\nAPPEAL FROM THE DISTRICT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF NEW YORK.\n<p>MR. CHIEF JUSTICE FULLER.</p>\n<p>This case is similar to that just decided, and the judgment of the court below is</p>\n<p><i>Affirmed.</i></p>\n<p>MR. JUSTICE GRAY did not hear the argument and took no part in these decisions.</p>\n<p>MR. JUSTICE BREWER and MR. JUSTICE PECKHAM dissented.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:31:39.532116", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bdcc7d53f919d1fed7ab7792d06e659b22bca9e8", 
+  "date_modified": "2014-10-30T17:45:56.026673", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2621052/chin-ying-v-united-states/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2568967/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2621052/"
+}

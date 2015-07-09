@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92857/in-re-huntington/", "blocked": false, "citation": {"case_name": "In Re Huntington", "docket_number": "Not numbered", "document_uris": ["/api/rest/v2/document/92857/"], "federal_cite_one": "137 U.S. 63", "federal_cite_three": null, "federal_cite_two": null, "id": 77237, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/77237/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1890-11-03", "date_modified": "2014-12-21T01:31:05.786181", "docket": "/api/rest/v2/docket/600316/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">137 U.S. 63</p>\n    <p class=\"case_cite\">11 S.Ct. 4</p>\n    <p class=\"case_cite\">34 L.Ed. 567</p>\n    <p class=\"parties\"><i>Ex parte</i> HUNTINGTON.</p>\n    <p class=\"date\">November 3, 1890.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>B. W. Huntington</i>, for petitioner.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitioner alleges that he is detained by the United States marshal for the southern district of New York, by virtue of an order purporting to be an order of the circuit court of the United States for the district of Colorado. The motion for leave to file a petition for the writ of <i>habeas corpus</i> is denied, upon the authority of Ex parte Mirzan, 119 U. S. 584, 7 Sup. Ct. Rep. 341, and cases cited.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>137 U.S. 63 (1890)</b></center>\n<center><h1>IN RE HUNTINGTON, Petitioner.</h1></center>\n<center>Not numbered.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 27, 1890.</center>\n<center>Decided November 3, 1890.</center>\nORIGINAL.\n<p><span class=\"star-pagination\">*64</span> <i>Mr. Backus W. Huntington</i> for the petitioner.</p>\n<p>PER CURIAM:</p>\n<p>Petitioner alleges that he is detained by the United States marshal for the Southern District of New York, by virtue of an order purporting to be an order of the Circuit Court of the United States for the District of Colorado. The motion for leave to file a petition for the writ of <i>habeas corpus</i> is denied upon the authority of <i>Ex parte Mirzan,</i> 119 U.S. 584, and cases cited.</p>\n<p><i>Denied.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">137</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">63</span></span> (1890)</b></center>\n<center><h1>IN RE HUNTINGTON, Petitioner.</h1></center>\n<center>Not numbered.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 27, 1890.</center>\n<center>Decided November 3, 1890.</center>\nORIGINAL.\n<p><span class=\"star-pagination\">*64</span> <i>Mr. Backus W. Huntington</i> for the petitioner.</p>\n<p>PER CURIAM:</p>\n<p>Petitioner alleges that he is detained by the United States marshal for the Southern District of New York, by virtue of an order purporting to be an order of the Circuit Court of the United States for the District of Colorado. The motion for leave to file a petition for the writ of <i>habeas corpus</i> is denied upon the authority of <i>Ex parte Mirzan,</i> <span class=\"citation\" data-id=\"91795\"><a href=\"/opinion/91795/ex-parte-mirzan/\"><span class=\"volume\">119</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">584</span></a></span>, and cases cited.</p>\n<p><i>Denied.</i></p>\n</div>", "id": 92857, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92857/", "sha1": "23a03ecaae000498e9ef88782d51aeb60e8db687", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:06:38"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "137 U.S. 63", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/92857/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "In Re Huntington", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "Not numbered", 
+    "id": 77237, 
+    "resource_uri": "/api/rest/v2/citation/77237/"
+  }, 
+  "id": 92857, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1890-11-03", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>137 U.S. 63 (1890)</b></center>\n<center><h1>IN RE HUNTINGTON, Petitioner.</h1></center>\n<center>Not numbered.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 27, 1890.</center>\n<center>Decided November 3, 1890.</center>\nORIGINAL.\n<p><span class=\"star-pagination\">*64</span> <i>Mr. Backus W. Huntington</i> for the petitioner.</p>\n<p>PER CURIAM:</p>\n<p>Petitioner alleges that he is detained by the United States marshal for the Southern District of New York, by virtue of an order purporting to be an order of the Circuit Court of the United States for the District of Colorado. The motion for leave to file a petition for the writ of <i>habeas corpus</i> is denied upon the authority of <i>Ex parte Mirzan,</i> 119 U.S. 584, and cases cited.</p>\n<p><i>Denied.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:06:38", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">137</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">63</span></span> (1890)</b></center>\n<center><h1>IN RE HUNTINGTON, Petitioner.</h1></center>\n<center>Not numbered.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 27, 1890.</center>\n<center>Decided November 3, 1890.</center>\nORIGINAL.\n<p><span class=\"star-pagination\">*64</span> <i>Mr. Backus W. Huntington</i> for the petitioner.</p>\n<p>PER CURIAM:</p>\n<p>Petitioner alleges that he is detained by the United States marshal for the Southern District of New York, by virtue of an order purporting to be an order of the Circuit Court of the United States for the District of Colorado. The motion for leave to file a petition for the writ of <i>habeas corpus</i> is denied upon the authority of <i>Ex parte Mirzan,</i> <span class=\"citation\" data-id=\"91795\"><a href=\"/opinion/91795/ex-parte-mirzan/\"><span class=\"volume\">119</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">584</span></a></span>, and cases cited.</p>\n<p><i>Denied.</i></p>\n</div>", 
+  "sha1": "23a03ecaae000498e9ef88782d51aeb60e8db687", 
+  "date_modified": "2014-12-21T01:31:05.786181", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92857/in-re-huntington/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/600316/", 
+  "html": "<p class=\"case_cite\">137 U.S. 63</p>\n    <p class=\"case_cite\">11 S.Ct. 4</p>\n    <p class=\"case_cite\">34 L.Ed. 567</p>\n    <p class=\"parties\"><i>Ex parte</i> HUNTINGTON.</p>\n    <p class=\"date\">November 3, 1890.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>B. W. Huntington</i>, for petitioner.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitioner alleges that he is detained by the United States marshal for the southern district of New York, by virtue of an order purporting to be an order of the circuit court of the United States for the district of Colorado. The motion for leave to file a petition for the writ of <i>habeas corpus</i> is denied, upon the authority of Ex parte Mirzan, 119 U. S. 584, 7 Sup. Ct. Rep. 341, and cases cited.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92857/"
+}

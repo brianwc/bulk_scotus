@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620955/marder-v-massachusetts/", "blocked": false, "citation": {"case_name": "Marder v. Massachusetts", "docket_number": "819", "document_uris": ["/api/rest/v2/document/2620955/"], "federal_cite_one": "377 U.S. 407", "federal_cite_three": null, "federal_cite_two": null, "id": 2593727, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593727/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-06-01", "date_modified": "2014-10-30T17:30:27.212785", "docket": "/api/rest/v2/docket/2520664/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>377 U.S. 407 (1964)</b></center>\n<center><h1>MARDER<br>\nv.<br>\nMASSACHUSETTS.</h1></center>\n<center>No. 819.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 1, 1964.</center>\nAPPEAL FROM THE SUPERIOR COURT OF MASSACHUSETTS, SUFFOLK COUNTY.\n<p>Appellant <i>pro se.</i></p>\n<p><i>Edward W. Brooke,</i> Attorney General of Massachusetts, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE GOLDBERG, with whom MR. JUSTICE DOUGLAS joins, dissenting.</p>\n<p>This appeal raises the question of whether a person charged with a traffic violation (or presumably any other criminal offense) may be forced by a statute, General Laws of Mass., c. 90, §§ 20 and 20A, to choose between foregoing a trial by pleading guilty and paying a small fine, or going to trial and thereby exposing himself to the possibility of a greater punishment if found guilty. I express no view on the merits of this question. But I would note probable jurisdiction, since the issue, in my view, presents a substantial federal question, and since I am not convinced that the generally sound advice to \"pay the two dollars\" necessarily reflects a constitutionally permissible requirement.</p>\n<p>MR. JUSTICE WHITE is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "", "id": 2620955, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620955/", "sha1": "84e094f226ec0f2f5ef84c117b1b7653857063ff", "source": "L", "time_retrieved": "2013-11-01T13:08:22.651782"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "377 U.S. 407", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620955/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Marder v. Massachusetts", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "819", 
+    "id": 2593727, 
+    "resource_uri": "/api/rest/v2/citation/2593727/"
+  }, 
+  "id": 2620955, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-06-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>377 U.S. 407 (1964)</b></center>\n<center><h1>MARDER<br>\nv.<br>\nMASSACHUSETTS.</h1></center>\n<center>No. 819.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 1, 1964.</center>\nAPPEAL FROM THE SUPERIOR COURT OF MASSACHUSETTS, SUFFOLK COUNTY.\n<p>Appellant <i>pro se.</i></p>\n<p><i>Edward W. Brooke,</i> Attorney General of Massachusetts, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE GOLDBERG, with whom MR. JUSTICE DOUGLAS joins, dissenting.</p>\n<p>This appeal raises the question of whether a person charged with a traffic violation (or presumably any other criminal offense) may be forced by a statute, General Laws of Mass., c. 90, \u00a7\u00a7 20 and 20A, to choose between foregoing a trial by pleading guilty and paying a small fine, or going to trial and thereby exposing himself to the possibility of a greater punishment if found guilty. I express no view on the merits of this question. But I would note probable jurisdiction, since the issue, in my view, presents a substantial federal question, and since I am not convinced that the generally sound advice to \"pay the two dollars\" necessarily reflects a constitutionally permissible requirement.</p>\n<p>MR. JUSTICE WHITE is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:08:22.651782", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "84e094f226ec0f2f5ef84c117b1b7653857063ff", 
+  "date_modified": "2014-10-30T17:30:27.212785", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620955/marder-v-massachusetts/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2520664/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620955/"
+}

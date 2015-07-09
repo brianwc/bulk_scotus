@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2521688/swann-v-adams/", "blocked": false, "citation": {"case_name": "Swann v. Adams", "docket_number": "297", "document_uris": ["/api/rest/v2/document/2521688/"], "federal_cite_one": "378 U.S. 553", "federal_cite_three": null, "federal_cite_two": null, "id": 2494460, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2494460/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-06-22", "date_modified": "2014-10-30T17:39:27.257457", "docket": "/api/rest/v2/docket/2547181/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>378 U.S. 553 (1964)</b></center>\n<center><h1>SWANN<br>\nv.<br>\nADAMS, SECRETARY OF STATE OF FLORIDA, ET AL.</h1></center>\n<center>No. 297.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF FLORIDA.\n<p><i>Wm. Reece Smith, Jr.</i> for appellant.</p>\n<p><i>Richard W. Ervin,</i> Attorney General of Florida, <i>C. Graham Carothers,</i> Special Assistant Attorney General, and <i>Edward S. Jaffry</i> and <i>Joseph C. Jacobs,</i> Assistant Attorneys General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment below is reversed. <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533. The case is remanded for further proceedings consistent with the views stated in our opinions in <i>Reynolds</i> v. <i>Sims</i> and in the other cases relating to state legislative apportionment decided along with <i>Reynolds.</i></p>\n<p>MR. JUSTICE CLARK would reverse on the grounds stated in his opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 587.</p>\n<p>MR. JUSTICE STEWART would remand for further proceedings consistent with the views expressed in his dissenting opinion in <i>Lucas</i> v. <i>Forty-Fourth General Assembly of Colorado,</i> 377 U. S. 713, 744.</p>\n<p>MR. JUSTICE HARLAN dissents for the reasons stated in his dissenting opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 589.</p>\n</div>", "html_with_citations": "", "id": 2521688, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2521688/", "sha1": "21a27be7cfd08368a52bca005ab84d191c4d8c0a", "source": "L", "time_retrieved": "2013-10-30T03:09:26.811900"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "378 U.S. 553", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2521688/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Swann v. Adams", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "297", 
+    "id": 2494460, 
+    "resource_uri": "/api/rest/v2/citation/2494460/"
+  }, 
+  "id": 2521688, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-06-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>378 U.S. 553 (1964)</b></center>\n<center><h1>SWANN<br>\nv.<br>\nADAMS, SECRETARY OF STATE OF FLORIDA, ET AL.</h1></center>\n<center>No. 297.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF FLORIDA.\n<p><i>Wm. Reece Smith, Jr.</i> for appellant.</p>\n<p><i>Richard W. Ervin,</i> Attorney General of Florida, <i>C. Graham Carothers,</i> Special Assistant Attorney General, and <i>Edward S. Jaffry</i> and <i>Joseph C. Jacobs,</i> Assistant Attorneys General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment below is reversed. <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533. The case is remanded for further proceedings consistent with the views stated in our opinions in <i>Reynolds</i> v. <i>Sims</i> and in the other cases relating to state legislative apportionment decided along with <i>Reynolds.</i></p>\n<p>MR. JUSTICE CLARK would reverse on the grounds stated in his opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 587.</p>\n<p>MR. JUSTICE STEWART would remand for further proceedings consistent with the views expressed in his dissenting opinion in <i>Lucas</i> v. <i>Forty-Fourth General Assembly of Colorado,</i> 377 U. S. 713, 744.</p>\n<p>MR. JUSTICE HARLAN dissents for the reasons stated in his dissenting opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 589.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:09:26.811900", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "21a27be7cfd08368a52bca005ab84d191c4d8c0a", 
+  "date_modified": "2014-10-30T17:39:27.257457", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2521688/swann-v-adams/", 
+  "citation_count": 3, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2547181/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2521688/"
+}

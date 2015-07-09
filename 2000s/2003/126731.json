@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/126731/rojas-v-ionics-inc-et-al-ante-p-1030/", "blocked": false, "citation": {"case_name": "Rojas v. Ionics, Inc., Ante, P. 1030", "docket_number": "02-456", "document_uris": ["/api/rest/v2/document/126731/"], "federal_cite_one": "537 U.S. 1149", "federal_cite_three": null, "federal_cite_two": null, "id": 111084, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/111084/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-01-13", "date_modified": "2014-12-21T02:18:11.827915", "docket": "/api/rest/v2/docket/2075007/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1149.02-456.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1149</p>\n    <p class=\"parties\">ROJAS<br>v.<br>IONICS, INC., ET AL., ante, p. 1030.</p>\n    <p class=\"docket\">No. 02-456.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1149</span></span></p>\n    <p class=\"parties\">ROJAS<br>v.<br>IONICS, INC., ET AL., ante, p. 1030.</p>\n    <p class=\"docket\">No. 02-456.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "id": 126731, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/126731/", "sha1": "7837935cfe4ae0b712adf40f20cbf51f41f5387e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:50"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1149", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/126731/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Rojas v. Ionics, Inc., Ante, P. 1030", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-456", 
+    "id": 111084, 
+    "resource_uri": "/api/rest/v2/citation/111084/"
+  }, 
+  "id": 126731, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-01-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1149.02-456.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:50", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1149</span></span></p>\n    <p class=\"parties\">ROJAS<br>v.<br>IONICS, INC., ET AL., ante, p. 1030.</p>\n    <p class=\"docket\">No. 02-456.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "7837935cfe4ae0b712adf40f20cbf51f41f5387e", 
+  "date_modified": "2014-12-21T02:18:11.827915", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/126731/rojas-v-ionics-inc-et-al-ante-p-1030/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2075007/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1149</p>\n    <p class=\"parties\">ROJAS<br>v.<br>IONICS, INC., ET AL., ante, p. 1030.</p>\n    <p class=\"docket\">No. 02-456.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/126731/"
+}

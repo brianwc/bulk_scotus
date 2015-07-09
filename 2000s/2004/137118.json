@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/137118/arevalo-v-united-states/", "blocked": false, "citation": {"case_name": "Arevalo v. United States", "docket_number": "03-10231", "document_uris": ["/api/rest/v2/document/137118/"], "federal_cite_one": "542 U.S. 910", "federal_cite_three": null, "federal_cite_two": null, "id": 121471, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121471/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-14", "date_modified": "2014-12-21T02:20:25.243652", "docket": "/api/rest/v2/docket/360530/", "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.910.03-10231.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">542 U.S. 910</p>\n    <p class=\"parties\">AREVALO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-10231.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">910</span></span></p>\n    <p class=\"parties\">AREVALO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-10231.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 137118, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/137118/", "sha1": "db1225f4febd66d50c8da4a7604ddea45df99d09", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:30:41"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "542 U.S. 910", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/137118/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Arevalo v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-10231", 
+    "id": 121471, 
+    "resource_uri": "/api/rest/v2/citation/121471/"
+  }, 
+  "id": 137118, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.910.03-10231.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:30:41", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">910</span></span></p>\n    <p class=\"parties\">AREVALO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-10231.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "db1225f4febd66d50c8da4a7604ddea45df99d09", 
+  "date_modified": "2014-12-21T02:20:25.243652", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/137118/arevalo-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/360530/", 
+  "html": "<p class=\"case_cite\">542 U.S. 910</p>\n    <p class=\"parties\">AREVALO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-10231.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/137118/"
+}

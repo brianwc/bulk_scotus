@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/103407/helvering-v-pan-american-life-ins-co/", "blocked": false, "citation": {"case_name": "Helvering v. Pan-American Life Ins. Co.", "docket_number": "264", "document_uris": ["/api/rest/v2/document/103407/"], "federal_cite_one": "311 U.S. 272", "federal_cite_three": null, "federal_cite_two": null, "id": 87790, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/87790/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1940-12-09", "date_modified": "2014-12-21T01:42:46.624603", "docket": "/api/rest/v2/docket/2540484/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">311 U.S. 272</p>\n    <p class=\"case_cite\">61 S.Ct. 210</p>\n    <p class=\"case_cite\">85 L.Ed. 183</p>\n    <p class=\"parties\">Guy T. HELVERING, Commissioner of Internal  Revenue, Petitioner,<br>v.<br>PANAMERICAN LIFE INSURANCE COMPANY.</p>\n    <p class=\"docket\">No. 264.</p>\n    <p class=\"date\">Argued Nov. 19, 1940.</p>\n    <p class=\"date\">Decided Dec. 9, 1940.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Robert H. Jackson, Atty. Gen., and Arnold Raum, of Washington, D.C., for petitioner.</p>\n      <p class=\"indent\">Mr. Eugene J. McGivney, of New Orleans, La., for respondent.</p>\n      <p class=\"indent\">Mr. Justice BLACK delivered the opinion of the Court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case involves respondent's income tax for the tax year 1933. It is in all respects governed by our decision in Helvering v. Oregon Mutual Life Ins. Co., 311 U.S. 267, 61 S.Ct. 207, 85 L.Ed. 180, this day decided, and on the authority of that case the decision below is</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>311 U.S. 272 (1940)</b></center>\n<center><h1>HELVERING, COMMISSIONER OF INTERNAL REVENUE,<br>\nv.<br>\nPAN-AMERICAN LIFE INSURANCE CO.</h1></center>\n<center>No. 264.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1940.</center>\n<center>Decided December 9, 1940.</center>\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>Mr. Arnold Raum,</i> with whom <i>Solicitor General Biddle, Assistant Attorney General Clark,</i> and <i>Messrs.</i> <span class=\"star-pagination\">*273</span> <i>Sewall Key</i> and <i>Edward H. Horton</i> were on the brief, for petitioner.</p>\n<p><i>Mr. Eugene J. McGivney</i> for respondent.</p>\n<p>MR. JUSTICE BLACK delivered the opinion of the Court.</p>\n<p>This case involves respondent's income tax for the tax year 1933. It is in all respects governed by our decision in <i>Helvering</i> v. <i>Oregon Mutual Life Ins. Co., ante,</i> p. 267, and on the authority of that case the decision below is</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">311</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">272</span></span> (1940)</b></center>\n<center><h1>HELVERING, COMMISSIONER OF INTERNAL REVENUE,<br>\nv.<br>\nPAN-AMERICAN LIFE INSURANCE CO.</h1></center>\n<center>No. 264.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1940.</center>\n<center>Decided December 9, 1940.</center>\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>Mr. Arnold Raum,</i> with whom <i>Solicitor General Biddle, Assistant Attorney General Clark,</i> and <i>Messrs.</i> <span class=\"star-pagination\">*273</span> <i>Sewall Key</i> and <i>Edward H. Horton</i> were on the brief, for petitioner.</p>\n<p><i>Mr. Eugene J. McGivney</i> for respondent.</p>\n<p>MR. JUSTICE BLACK delivered the opinion of the Court.</p>\n<p>This case involves respondent's income tax for the tax year 1933. It is in all respects governed by our decision in <i>Helvering</i> v. <i>Oregon Mutual Life Ins. Co., ante,</i> p. 267, and on the authority of that case the decision below is</p>\n<p><i>Affirmed.</i></p>\n</div>", "id": 103407, "judges": "Black", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/103407/", "sha1": "6876781fb7247691c2b0094d92cb92ce68bbe120", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:24"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "311 U.S. 272", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/103407/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Helvering v. Pan-American Life Ins. Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "264", 
+    "id": 87790, 
+    "resource_uri": "/api/rest/v2/citation/87790/"
+  }, 
+  "id": 103407, 
+  "blocked": false, 
+  "judges": "Black", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1940-12-09", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>311 U.S. 272 (1940)</b></center>\n<center><h1>HELVERING, COMMISSIONER OF INTERNAL REVENUE,<br>\nv.<br>\nPAN-AMERICAN LIFE INSURANCE CO.</h1></center>\n<center>No. 264.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1940.</center>\n<center>Decided December 9, 1940.</center>\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>Mr. Arnold Raum,</i> with whom <i>Solicitor General Biddle, Assistant Attorney General Clark,</i> and <i>Messrs.</i> <span class=\"star-pagination\">*273</span> <i>Sewall Key</i> and <i>Edward H. Horton</i> were on the brief, for petitioner.</p>\n<p><i>Mr. Eugene J. McGivney</i> for respondent.</p>\n<p>MR. JUSTICE BLACK delivered the opinion of the Court.</p>\n<p>This case involves respondent's income tax for the tax year 1933. It is in all respects governed by our decision in <i>Helvering</i> v. <i>Oregon Mutual Life Ins. Co., ante,</i> p. 267, and on the authority of that case the decision below is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:54:24", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">311</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">272</span></span> (1940)</b></center>\n<center><h1>HELVERING, COMMISSIONER OF INTERNAL REVENUE,<br>\nv.<br>\nPAN-AMERICAN LIFE INSURANCE CO.</h1></center>\n<center>No. 264.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 19, 1940.</center>\n<center>Decided December 9, 1940.</center>\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>Mr. Arnold Raum,</i> with whom <i>Solicitor General Biddle, Assistant Attorney General Clark,</i> and <i>Messrs.</i> <span class=\"star-pagination\">*273</span> <i>Sewall Key</i> and <i>Edward H. Horton</i> were on the brief, for petitioner.</p>\n<p><i>Mr. Eugene J. McGivney</i> for respondent.</p>\n<p>MR. JUSTICE BLACK delivered the opinion of the Court.</p>\n<p>This case involves respondent's income tax for the tax year 1933. It is in all respects governed by our decision in <i>Helvering</i> v. <i>Oregon Mutual Life Ins. Co., ante,</i> p. 267, and on the authority of that case the decision below is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "sha1": "6876781fb7247691c2b0094d92cb92ce68bbe120", 
+  "date_modified": "2014-12-21T01:42:46.624603", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/103407/helvering-v-pan-american-life-ins-co/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2540484/", 
+  "html": "<p class=\"case_cite\">311 U.S. 272</p>\n    <p class=\"case_cite\">61 S.Ct. 210</p>\n    <p class=\"case_cite\">85 L.Ed. 183</p>\n    <p class=\"parties\">Guy T. HELVERING, Commissioner of Internal  Revenue, Petitioner,<br>v.<br>PANAMERICAN LIFE INSURANCE COMPANY.</p>\n    <p class=\"docket\">No. 264.</p>\n    <p class=\"date\">Argued Nov. 19, 1940.</p>\n    <p class=\"date\">Decided Dec. 9, 1940.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Robert H. Jackson, Atty. Gen., and Arnold Raum, of Washington, D.C., for petitioner.</p>\n      <p class=\"indent\">Mr. Eugene J. McGivney, of New Orleans, La., for respondent.</p>\n      <p class=\"indent\">Mr. Justice BLACK delivered the opinion of the Court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case involves respondent's income tax for the tax year 1933. It is in all respects governed by our decision in Helvering v. Oregon Mutual Life Ins. Co., 311 U.S. 267, 61 S.Ct. 207, 85 L.Ed. 180, this day decided, and on the authority of that case the decision below is</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/103407/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/130121/in-soo-chun-v-employment-security-department-of/", "blocked": false, "citation": {"case_name": "In Soo Chun v. Employment Security Department of the State of Washington, Ante, P. 957", "docket_number": "02-8923", "document_uris": ["/api/rest/v2/document/130121/"], "federal_cite_one": "538 U.S. 1069", "federal_cite_three": null, "federal_cite_two": null, "id": 114474, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/114474/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-05-27", "date_modified": "2014-12-21T02:18:49.267968", "docket": "/api/rest/v2/docket/346219/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.1069.02-8923.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 1069</p>\n    <p class=\"parties\">IN SOO CHUN<br>v.<br>EMPLOYMENT SECURITY DEPARTMENT OF THE STATE OF WASHINGTON, <i>ante,</i> p. 957.</p>\n    <p class=\"docket\">No. 02-8923.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1069</span></span></p>\n    <p class=\"parties\">IN SOO CHUN<br>v.<br>EMPLOYMENT SECURITY DEPARTMENT OF THE STATE OF WASHINGTON, <i>ante,</i> p. 957.</p>\n    <p class=\"docket\">No. 02-8923.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "id": 130121, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/130121/", "sha1": "c3fbd651d789271a029143b19316dda3c42fde9c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:00"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 1069", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/130121/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "In Soo Chun v. Employment Security Department of the State of Washington, Ante, P. 957", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-8923", 
+    "id": 114474, 
+    "resource_uri": "/api/rest/v2/citation/114474/"
+  }, 
+  "id": 130121, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-05-27", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.1069.02-8923.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:00", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1069</span></span></p>\n    <p class=\"parties\">IN SOO CHUN<br>v.<br>EMPLOYMENT SECURITY DEPARTMENT OF THE STATE OF WASHINGTON, <i>ante,</i> p. 957.</p>\n    <p class=\"docket\">No. 02-8923.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "c3fbd651d789271a029143b19316dda3c42fde9c", 
+  "date_modified": "2014-12-21T02:18:49.267968", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/130121/in-soo-chun-v-employment-security-department-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/346219/", 
+  "html": "<p class=\"case_cite\">538 U.S. 1069</p>\n    <p class=\"parties\">IN SOO CHUN<br>v.<br>EMPLOYMENT SECURITY DEPARTMENT OF THE STATE OF WASHINGTON, <i>ante,</i> p. 957.</p>\n    <p class=\"docket\">No. 02-8923.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/130121/"
+}

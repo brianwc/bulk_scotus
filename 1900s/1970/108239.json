@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108239/mrs-robert-lee-moore-et-al-appellants-v/", "blocked": false, "citation": {"case_name": "Mrs. Robert Lee Moore v. Charlotte-Mecklenburg Board of Education", "docket_number": "444", "document_uris": ["/api/rest/v2/document/108239/"], "federal_cite_one": "400 U.S. 803", "federal_cite_three": null, "federal_cite_two": null, "id": 92598, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92598/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-10-06", "date_modified": "2014-12-21T01:57:05.771572", "docket": "/api/rest/v2/docket/2487792/", "download_url": "http://bulk.resource.org/courts.gov/c/US/400/400.US.803.444.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">400 U.S. 803</p>\n    <p class=\"case_cite\">91 S.Ct. 11</p>\n    <p class=\"case_cite\">27 L.Ed.2d 34</p>\n    <p class=\"parties\">Mrs. Robert Lee MOORE et al., appellants,<br>v.<br>CHARLOTTE-MECKLENBURG BOARD OF EDUCATION et al.</p>\n    <p class=\"docket\">No. 444.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 6, 1970</p>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">400</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">803</span></span></p>\n    <p class=\"case_cite\">91 S.Ct. 11</p>\n    <p class=\"case_cite\">27 L.Ed.2d 34</p>\n    <p class=\"parties\">Mrs. Robert Lee MOORE et al., appellants,<br>v.<br>CHARLOTTE-MECKLENBURG BOARD OF EDUCATION et al.</p>\n    <p class=\"docket\">No. 444.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 6, 1970</p>\n    ", "id": 108239, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108239/", "sha1": "bc14f96b8acf7c7f2c6d48a136d6ba6138f66d15", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:27"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "400 U.S. 803", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/108239/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Mrs. Robert Lee Moore v. Charlotte-Mecklenburg Board of Education", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "444", 
+    "id": 92598, 
+    "resource_uri": "/api/rest/v2/citation/92598/"
+  }, 
+  "id": 108239, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-10-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/400/400.US.803.444.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:27", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">400</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">803</span></span></p>\n    <p class=\"case_cite\">91 S.Ct. 11</p>\n    <p class=\"case_cite\">27 L.Ed.2d 34</p>\n    <p class=\"parties\">Mrs. Robert Lee MOORE et al., appellants,<br>v.<br>CHARLOTTE-MECKLENBURG BOARD OF EDUCATION et al.</p>\n    <p class=\"docket\">No. 444.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 6, 1970</p>\n    ", 
+  "sha1": "bc14f96b8acf7c7f2c6d48a136d6ba6138f66d15", 
+  "date_modified": "2014-12-21T01:57:05.771572", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108239/mrs-robert-lee-moore-et-al-appellants-v/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2487792/", 
+  "html": "<p class=\"case_cite\">400 U.S. 803</p>\n    <p class=\"case_cite\">91 S.Ct. 11</p>\n    <p class=\"case_cite\">27 L.Ed.2d 34</p>\n    <p class=\"parties\">Mrs. Robert Lee MOORE et al., appellants,<br>v.<br>CHARLOTTE-MECKLENBURG BOARD OF EDUCATION et al.</p>\n    <p class=\"docket\">No. 444.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 6, 1970</p>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108239/"
+}

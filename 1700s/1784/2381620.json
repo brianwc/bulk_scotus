@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2381620/hight-v-wilson/", "blocked": false, "citation": {"case_name": "Hight v. Wilson", "docket_number": null, "document_uris": ["/api/rest/v2/document/2381620/"], "federal_cite_one": "1 U.S. 94", "federal_cite_three": null, "federal_cite_two": null, "id": 2354392, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2354392/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1784-01-01", "date_modified": "2014-10-30T15:45:54.021316", "docket": "/api/rest/v2/docket/2226352/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>1 U.S. 94 (1784)</b></center>\n<center><b>1 Dall. 94</b></center>\n<center><h1>HIGHT<br>\nversus<br>\nWILSON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The CHIEF JUSTICE, in his charge to the jury, informed them, 1st. That it was not necessary that a will, devising real estate in this Commonwealth, should be sealed. 2d. Nor that all the subscribing witnesses should prove the execution. 3d Nor that the proof of the will should be made by those who subscribed as witnesses. 4th. Nor that the will should be subscribed by the witnesses.<sup>[]</sup></p>\n<h2>NOTES</h2>\n<p>[]  See post Lewis Appellant versus Marks, Appellee.</p>\n\n</div>", "html_with_citations": "", "id": 2381620, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2381620/", "sha1": "507569c9e9886108deeabb8557570ade355d2866", "source": "L", "time_retrieved": "2013-10-30T02:18:19.131748"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "1 U.S. 94", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2381620/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hight v. Wilson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2354392, 
+    "resource_uri": "/api/rest/v2/citation/2354392/"
+  }, 
+  "id": 2381620, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1784-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>1 U.S. 94 (1784)</b></center>\n<center><b>1 Dall. 94</b></center>\n<center><h1>HIGHT<br>\nversus<br>\nWILSON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The CHIEF JUSTICE, in his charge to the jury, informed them, 1st. That it was not necessary that a will, devising real estate in this Commonwealth, should be sealed. 2d. Nor that all the subscribing witnesses should prove the execution. 3d Nor that the proof of the will should be made by those who subscribed as witnesses. 4th. Nor that the will should be subscribed by the witnesses.<sup>[\u0086]</sup></p>\n<h2>NOTES</h2>\n<p>[\u0086]  See post Lewis Appellant versus Marks, Appellee.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T02:18:19.131748", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "507569c9e9886108deeabb8557570ade355d2866", 
+  "date_modified": "2014-10-30T15:45:54.021316", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2381620/hight-v-wilson/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2226352/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2381620/"
+}

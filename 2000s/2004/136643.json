@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136643/dawson-v-united-states/", "blocked": false, "citation": {"case_name": "Dawson v. United States", "docket_number": "03-9937", "document_uris": ["/api/rest/v2/document/136643/"], "federal_cite_one": "541 U.S. 1070", "federal_cite_three": null, "federal_cite_two": null, "id": 120996, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120996/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-05-24", "date_modified": "2014-12-21T02:20:12.047709", "docket": "/api/rest/v2/docket/264027/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1070.03-9937.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1070</p>\n    <p class=\"parties\">DAWSON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-9937.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 141 F. 3d 1160.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1070</span></span></p>\n    <p class=\"parties\">DAWSON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-9937.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 141 F. 3d 1160.</p>\n    </div>\n    ", "id": 136643, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136643/", "sha1": "1121c1cec9d8d44526681a99be1e4fe7b1bd1fac", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:50"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1070", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136643/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dawson v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9937", 
+    "id": 120996, 
+    "resource_uri": "/api/rest/v2/citation/120996/"
+  }, 
+  "id": 136643, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-05-24", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1070.03-9937.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:50", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1070</span></span></p>\n    <p class=\"parties\">DAWSON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-9937.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 141 F. 3d 1160.</p>\n    </div>\n    ", 
+  "sha1": "1121c1cec9d8d44526681a99be1e4fe7b1bd1fac", 
+  "date_modified": "2014-12-21T02:20:12.047709", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136643/dawson-v-united-states/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/264027/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1070</p>\n    <p class=\"parties\">DAWSON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-9937.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 141 F. 3d 1160.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136643/"
+}

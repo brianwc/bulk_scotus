@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/138111/priester-v-lowndes-county-mississippi-school/", "blocked": false, "citation": {"case_name": "Priester v. Lowndes County, Mississippi, School District", "docket_number": "03-10240", "document_uris": ["/api/rest/v2/document/138111/"], "federal_cite_one": "543 U.S. 829", "federal_cite_three": null, "federal_cite_two": null, "id": 122464, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/122464/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-10-04", "date_modified": "2014-12-21T02:20:39.276845", "docket": "/api/rest/v2/docket/1574185/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.829.03-10240.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 829</p>\n    <p class=\"parties\">PRIESTER<br>v.<br>LOWNDES COUNTY, MISSISSIPPI, SCHOOL DISTRICT, ET AL.</p>\n    <p class=\"docket\">No. 03-10240.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 354 F. 3d 414.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">829</span></span></p>\n    <p class=\"parties\">PRIESTER<br>v.<br>LOWNDES COUNTY, MISSISSIPPI, SCHOOL DISTRICT, ET AL.</p>\n    <p class=\"docket\">No. 03-10240.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 354 F. 3d 414.</p>\n    </div>\n    ", "id": 138111, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/138111/", "sha1": "5f9c75339ed824fdb0d9e639d1efaf98c3b34238", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:32:19"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 829", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/138111/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Priester v. Lowndes County, Mississippi, School District", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-10240", 
+    "id": 122464, 
+    "resource_uri": "/api/rest/v2/citation/122464/"
+  }, 
+  "id": 138111, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.829.03-10240.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:32:19", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">829</span></span></p>\n    <p class=\"parties\">PRIESTER<br>v.<br>LOWNDES COUNTY, MISSISSIPPI, SCHOOL DISTRICT, ET AL.</p>\n    <p class=\"docket\">No. 03-10240.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 354 F. 3d 414.</p>\n    </div>\n    ", 
+  "sha1": "5f9c75339ed824fdb0d9e639d1efaf98c3b34238", 
+  "date_modified": "2014-12-21T02:20:39.276845", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/138111/priester-v-lowndes-county-mississippi-school/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1574185/", 
+  "html": "<p class=\"case_cite\">543 U.S. 829</p>\n    <p class=\"parties\">PRIESTER<br>v.<br>LOWNDES COUNTY, MISSISSIPPI, SCHOOL DISTRICT, ET AL.</p>\n    <p class=\"docket\">No. 03-10240.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 354 F. 3d 414.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/138111/"
+}

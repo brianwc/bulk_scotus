@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2000059/atchison-t-sfr-co-v-united-states/", "blocked": false, "citation": {"case_name": "Atchison, T. & SFR Co. v. United States", "docket_number": "741", "document_uris": ["/api/rest/v2/document/2000059/"], "federal_cite_one": "396 U.S. 275", "federal_cite_three": null, "federal_cite_two": null, "id": 1972830, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1972830/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-01-12", "date_modified": "2014-10-30T12:47:27.142856", "docket": "/api/rest/v2/docket/1828029/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>396 U.S. 275 (1970)</b></center>\n<center><h1>ATCHISON, TOPEKA &amp; SANTA FE RAILWAY CO. ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 741.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 12, 1970.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>James E. Nisbet, Ed White,</i> and <i>Jeremiah C. Waterman</i> for appellants.</p>\n<p><i>Solicitor General Griswold, Assistant Attorney General McLaren, Fritz R. Kahn,</i> and <i>Jerome Nelson</i> for the United States et al., and <i>Warren Price, Jr.,</i> and <i>John W. McConnell, Jr.,</i> for Sea-Land Service, Inc., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 2000059, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2000059/", "sha1": "6797f9b3c1c5804245735d46480f70e5e543ca5a", "source": "L", "time_retrieved": "2013-10-30T01:00:50.299139"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "396 U.S. 275", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2000059/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Atchison, T. & SFR Co. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "741", 
+    "id": 1972830, 
+    "resource_uri": "/api/rest/v2/citation/1972830/"
+  }, 
+  "id": 2000059, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-01-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>396 U.S. 275 (1970)</b></center>\n<center><h1>ATCHISON, TOPEKA &amp; SANTA FE RAILWAY CO. ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 741.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 12, 1970.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>James E. Nisbet, Ed White,</i> and <i>Jeremiah C. Waterman</i> for appellants.</p>\n<p><i>Solicitor General Griswold, Assistant Attorney General McLaren, Fritz R. Kahn,</i> and <i>Jerome Nelson</i> for the United States et al., and <i>Warren Price, Jr.,</i> and <i>John W. McConnell, Jr.,</i> for Sea-Land Service, Inc., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T01:00:50.299139", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "6797f9b3c1c5804245735d46480f70e5e543ca5a", 
+  "date_modified": "2014-10-30T12:47:27.142856", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2000059/atchison-t-sfr-co-v-united-states/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1828029/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2000059/"
+}

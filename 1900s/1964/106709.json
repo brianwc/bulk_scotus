@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106709/frank-adams-co-et-al-v-united-states-et-al/", "blocked": false, "citation": {"case_name": "Frank Adams & Co. v. United States", "docket_number": "506", "document_uris": ["/api/rest/v2/document/106709/"], "federal_cite_one": "375 U.S. 215", "federal_cite_three": null, "federal_cite_two": null, "id": 91092, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91092/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-02-17", "date_modified": "2014-12-21T01:53:39.719792", "docket": "/api/rest/v2/docket/2259139/", "download_url": "http://bulk.resource.org/courts.gov/c/US/375/375.US.215.506.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">375 U.S. 215</p>\n    <p class=\"case_cite\">84 S.Ct. 341</p>\n    <p class=\"case_cite\">11 L.Ed.2d 269</p>\n    <p class=\"parties\">FRANK ADAMS &amp; CO. et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 506.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1963</p>\n    <p class=\"date\">Rehearing Denied Feb. 17, 1964.</p>\n    <div class=\"prelims\">\n      <p>See 376 U.S. 929, 84 S.Ct. 657.</p>\n      <p class=\"indent\">Howard Gould, for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Irwin A. Seibel, Robert W. Ginnane and H. Neil Garson, for the United States and Interstate Commerce Commission.</p>\n      <p class=\"indent\">F. B. Henderson, Richard J. Murphy, Kemper A. Dobbins, R. B. Claytor and Robert H. Bierma, for appellee rail carriers.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of Henry B. Street for leave to withdraw his appearance as counsel for the appellants is granted. The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">215</span></span></p>\n    <p class=\"case_cite\">84 S.Ct. 341</p>\n    <p class=\"case_cite\">11 L.Ed.2d 269</p>\n    <p class=\"parties\">FRANK ADAMS &amp; CO. et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 506.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1963</p>\n    <p class=\"date\">Rehearing Denied Feb. 17, 1964.</p>\n    <div class=\"prelims\">\n      <p>See <span class=\"citation no-link\"><span class=\"volume\">376</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">929</span></span>, 84 S.Ct. 657.</p>\n      <p class=\"indent\">Howard Gould, for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Irwin A. Seibel, Robert W. Ginnane and H. Neil Garson, for the United States and Interstate Commerce Commission.</p>\n      <p class=\"indent\">F. B. Henderson, Richard J. Murphy, Kemper A. Dobbins, R. B. Claytor and Robert H. Bierma, for appellee rail carriers.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of Henry B. Street for leave to withdraw his appearance as counsel for the appellants is granted. The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", "id": 106709, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106709/", "sha1": "01b80d8aa368aebaa8d40bd8fac7f94060124afe", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:46"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 215", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/106709/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Frank Adams & Co. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "506", 
+    "id": 91092, 
+    "resource_uri": "/api/rest/v2/citation/91092/"
+  }, 
+  "id": 106709, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-02-17", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/375/375.US.215.506.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:46", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">215</span></span></p>\n    <p class=\"case_cite\">84 S.Ct. 341</p>\n    <p class=\"case_cite\">11 L.Ed.2d 269</p>\n    <p class=\"parties\">FRANK ADAMS &amp; CO. et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 506.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1963</p>\n    <p class=\"date\">Rehearing Denied Feb. 17, 1964.</p>\n    <div class=\"prelims\">\n      <p>See <span class=\"citation no-link\"><span class=\"volume\">376</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">929</span></span>, 84 S.Ct. 657.</p>\n      <p class=\"indent\">Howard Gould, for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Irwin A. Seibel, Robert W. Ginnane and H. Neil Garson, for the United States and Interstate Commerce Commission.</p>\n      <p class=\"indent\">F. B. Henderson, Richard J. Murphy, Kemper A. Dobbins, R. B. Claytor and Robert H. Bierma, for appellee rail carriers.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of Henry B. Street for leave to withdraw his appearance as counsel for the appellants is granted. The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "sha1": "01b80d8aa368aebaa8d40bd8fac7f94060124afe", 
+  "date_modified": "2014-12-21T01:53:39.719792", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106709/frank-adams-co-et-al-v-united-states-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2259139/", 
+  "html": "<p class=\"case_cite\">375 U.S. 215</p>\n    <p class=\"case_cite\">84 S.Ct. 341</p>\n    <p class=\"case_cite\">11 L.Ed.2d 269</p>\n    <p class=\"parties\">FRANK ADAMS &amp; CO. et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 506.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1963</p>\n    <p class=\"date\">Rehearing Denied Feb. 17, 1964.</p>\n    <div class=\"prelims\">\n      <p>See 376 U.S. 929, 84 S.Ct. 657.</p>\n      <p class=\"indent\">Howard Gould, for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Irwin A. Seibel, Robert W. Ginnane and H. Neil Garson, for the United States and Interstate Commerce Commission.</p>\n      <p class=\"indent\">F. B. Henderson, Richard J. Murphy, Kemper A. Dobbins, R. B. Claytor and Robert H. Bierma, for appellee rail carriers.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of Henry B. Street for leave to withdraw his appearance as counsel for the appellants is granted. The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106709/"
+}

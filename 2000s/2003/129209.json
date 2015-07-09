@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/129209/safarian-v-california/", "blocked": false, "citation": {"case_name": "Safarian v. California", "docket_number": "02-1341", "document_uris": ["/api/rest/v2/document/129209/"], "federal_cite_one": "538 U.S. 1000", "federal_cite_three": null, "federal_cite_two": null, "id": 113562, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/113562/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-04-28", "date_modified": "2014-12-21T02:18:42.128849", "docket": "/api/rest/v2/docket/2232867/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.1000.02-1341.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 1000</p>\n    <p class=\"parties\">SAFARIAN<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-1341.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 28, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA, SECOND APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 2d App. Dist. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1000</span></span></p>\n    <p class=\"parties\">SAFARIAN<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-1341.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 28, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA, SECOND APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 2d App. Dist. Certiorari denied.</p>\n    </div>\n    ", "id": 129209, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/129209/", "sha1": "d22a5093cea15015e858f4835c305a35fac71741", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:26:40"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 1000", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/129209/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Safarian v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-1341", 
+    "id": 113562, 
+    "resource_uri": "/api/rest/v2/citation/113562/"
+  }, 
+  "id": 129209, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-04-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.1000.02-1341.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:26:40", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1000</span></span></p>\n    <p class=\"parties\">SAFARIAN<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-1341.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 28, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA, SECOND APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 2d App. Dist. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "d22a5093cea15015e858f4835c305a35fac71741", 
+  "date_modified": "2014-12-21T02:18:42.128849", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/129209/safarian-v-california/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2232867/", 
+  "html": "<p class=\"case_cite\">538 U.S. 1000</p>\n    <p class=\"parties\">SAFARIAN<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-1341.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 28, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA, SECOND APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 2d App. Dist. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/129209/"
+}

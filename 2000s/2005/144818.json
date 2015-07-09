@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/144818/city-of-sequim-washington-et-al-v-johnson/", "blocked": false, "citation": {"case_name": "City of Sequim, Washington v. Johnson", "docket_number": "04-1114", "document_uris": ["/api/rest/v2/document/144818/"], "federal_cite_one": "544 U.S. 1048", "federal_cite_three": null, "federal_cite_two": null, "id": 129169, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/129169/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-05-23", "date_modified": "2014-12-21T02:22:07.139513", "docket": "/api/rest/v2/docket/448872/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1048.04-1114.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 1048</p>\n    <p class=\"parties\">CITY OF SEQUIM, WASHINGTON, ET AL.<br>v.<br>JOHNSON.</p>\n    <p class=\"docket\">No. 04-1114.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 23, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 388 F. 3d 676.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1048</span></span></p>\n    <p class=\"parties\">CITY OF SEQUIM, WASHINGTON, ET AL.<br>v.<br>JOHNSON.</p>\n    <p class=\"docket\">No. 04-1114.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 23, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 388 F. 3d 676.</p>\n    </div>\n    ", "id": 144818, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/144818/", "sha1": "545b324ad6963cff974cdcc5d05da0c8f8d2a68d", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T11:16:38"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 1048", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/144818/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "City of Sequim, Washington v. Johnson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-1114", 
+    "id": 129169, 
+    "resource_uri": "/api/rest/v2/citation/129169/"
+  }, 
+  "id": 144818, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-05-23", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1048.04-1114.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T11:16:38", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1048</span></span></p>\n    <p class=\"parties\">CITY OF SEQUIM, WASHINGTON, ET AL.<br>v.<br>JOHNSON.</p>\n    <p class=\"docket\">No. 04-1114.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 23, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 388 F. 3d 676.</p>\n    </div>\n    ", 
+  "sha1": "545b324ad6963cff974cdcc5d05da0c8f8d2a68d", 
+  "date_modified": "2014-12-21T02:22:07.139513", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/144818/city-of-sequim-washington-et-al-v-johnson/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/448872/", 
+  "html": "<p class=\"case_cite\">544 U.S. 1048</p>\n    <p class=\"parties\">CITY OF SEQUIM, WASHINGTON, ET AL.<br>v.<br>JOHNSON.</p>\n    <p class=\"docket\">No. 04-1114.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 23, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied. Reported below: 388 F. 3d 676.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/144818/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105570/corsa-v-tawes/", "blocked": false, "citation": {"case_name": "Corsa v. Tawes", "docket_number": "416", "document_uris": ["/api/rest/v2/document/105570/"], "federal_cite_one": "355 U.S. 37", "federal_cite_three": null, "federal_cite_two": null, "id": 89953, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/89953/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1957-11-12", "date_modified": "2014-12-21T01:50:57.565919", "docket": "/api/rest/v2/docket/2579540/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">355 U.S. 37</p>\n    <p class=\"case_cite\">78 S.Ct. 116</p>\n    <p class=\"case_cite\">2 L.Ed.2d 70</p>\n    <p class=\"parties\">C. Boyd CORSA, Fish Products Company of New Jersey, a  New Jersey Corporation, Atlantic Navigation Company, a  New Jersey Corporation, et al., appellants,<br>v.<br>John P. TAWES, Fred P. Glose and John R. Jewell,  Constituting the Commission of Tidewater Fisheries  of Maryland, et al.</p>\n    <p class=\"docket\">No. 416.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 12, 1957</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Ambler H. Moss and William H. Price, for appellants.</p>\n      <p class=\"indent\">Messrs. C. Ferdinand Sybert, Atty. Gen. of Maryland, Charles B. Reeves, Jr., Asst. Atty. Gen., Alexander Harvey, II, and Edward S. Digges, Special Asst. Attys. Gen., for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>355 U.S. 37 (1957)</b></center>\n<center><h1>CORSA ET AL.<br>\nv.<br>\nTAWES ET AL., CONSTITUTING THE COMMISSION OF TIDEWATER FISHERIES OF MARYLAND, ET AL.</h1></center>\n<center>No. 416.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 12, 1957.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MARYLAND.\n<p><i>Ambler H. Moss</i> and <i>William H. Price</i> for appellants.</p>\n<p><i>C. Ferdinand Sybert,</i> Attorney General of Maryland, <i>Charles B. Reeves, Jr.,</i> Assistant Attorney General, <i>Alexander Harvey, II</i> and <i>Edward S. Digges,</i> Special Assistant Attorneys General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">37</span></span> (1957)</b></center>\n<center><h1>CORSA ET AL.<br>\nv.<br>\nTAWES ET AL., CONSTITUTING THE COMMISSION OF TIDEWATER FISHERIES OF MARYLAND, ET AL.</h1></center>\n<center>No. 416.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 12, 1957.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MARYLAND.\n<p><i>Ambler H. Moss</i> and <i>William H. Price</i> for appellants.</p>\n<p><i>C. Ferdinand Sybert,</i> Attorney General of Maryland, <i>Charles B. Reeves, Jr.,</i> Assistant Attorney General, <i>Alexander Harvey, II</i> and <i>Edward S. Digges,</i> Special Assistant Attorneys General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "id": 105570, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105570/", "sha1": "b8aa1f5c5816819e1e3c764c8d46fdb67dc16ff8", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:36"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "355 U.S. 37", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/105570/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Corsa v. Tawes", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "416", 
+    "id": 89953, 
+    "resource_uri": "/api/rest/v2/citation/89953/"
+  }, 
+  "id": 105570, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1957-11-12", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>355 U.S. 37 (1957)</b></center>\n<center><h1>CORSA ET AL.<br>\nv.<br>\nTAWES ET AL., CONSTITUTING THE COMMISSION OF TIDEWATER FISHERIES OF MARYLAND, ET AL.</h1></center>\n<center>No. 416.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 12, 1957.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MARYLAND.\n<p><i>Ambler H. Moss</i> and <i>William H. Price</i> for appellants.</p>\n<p><i>C. Ferdinand Sybert,</i> Attorney General of Maryland, <i>Charles B. Reeves, Jr.,</i> Assistant Attorney General, <i>Alexander Harvey, II</i> and <i>Edward S. Digges,</i> Special Assistant Attorneys General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:36", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">37</span></span> (1957)</b></center>\n<center><h1>CORSA ET AL.<br>\nv.<br>\nTAWES ET AL., CONSTITUTING THE COMMISSION OF TIDEWATER FISHERIES OF MARYLAND, ET AL.</h1></center>\n<center>No. 416.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 12, 1957.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MARYLAND.\n<p><i>Ambler H. Moss</i> and <i>William H. Price</i> for appellants.</p>\n<p><i>C. Ferdinand Sybert,</i> Attorney General of Maryland, <i>Charles B. Reeves, Jr.,</i> Assistant Attorney General, <i>Alexander Harvey, II</i> and <i>Edward S. Digges,</i> Special Assistant Attorneys General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "sha1": "b8aa1f5c5816819e1e3c764c8d46fdb67dc16ff8", 
+  "date_modified": "2014-12-21T01:50:57.565919", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105570/corsa-v-tawes/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2579540/", 
+  "html": "<p class=\"case_cite\">355 U.S. 37</p>\n    <p class=\"case_cite\">78 S.Ct. 116</p>\n    <p class=\"case_cite\">2 L.Ed.2d 70</p>\n    <p class=\"parties\">C. Boyd CORSA, Fish Products Company of New Jersey, a  New Jersey Corporation, Atlantic Navigation Company, a  New Jersey Corporation, et al., appellants,<br>v.<br>John P. TAWES, Fred P. Glose and John R. Jewell,  Constituting the Commission of Tidewater Fisheries  of Maryland, et al.</p>\n    <p class=\"docket\">No. 416.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 12, 1957</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Ambler H. Moss and William H. Price, for appellants.</p>\n      <p class=\"indent\">Messrs. C. Ferdinand Sybert, Atty. Gen. of Maryland, Charles B. Reeves, Jr., Asst. Atty. Gen., Alexander Harvey, II, and Edward S. Digges, Special Asst. Attys. Gen., for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105570/"
+}

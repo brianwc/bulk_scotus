@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/133562/pauling-v-washington/", "blocked": false, "citation": {"case_name": "Pauling v. Washington", "docket_number": "03-6038", "document_uris": ["/api/rest/v2/document/133562/"], "federal_cite_one": "540 U.S. 986", "federal_cite_three": null, "federal_cite_two": null, "id": 117915, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/117915/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-11-03", "date_modified": "2014-12-21T02:19:37.218281", "docket": "/api/rest/v2/docket/365475/", "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.986.03-6038.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">540 U.S. 986</p>\n    <p class=\"parties\">PAULING<br>v.<br>WASHINGTON.</p>\n    <p class=\"docket\">No. 03-6038.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 3, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Wash.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 149 Wash. 2d 381, 69 P. 3d 331.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">986</span></span></p>\n    <p class=\"parties\">PAULING<br>v.<br>WASHINGTON.</p>\n    <p class=\"docket\">No. 03-6038.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 3, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Wash.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 149 Wash. 2d 381, 69 P. 3d 331.</p>\n    </div>\n    ", "id": 133562, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/133562/", "sha1": "e260c98681470a512c2c7883de853b85e23e9ef1", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:28:30"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "540 U.S. 986", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/133562/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Pauling v. Washington", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-6038", 
+    "id": 117915, 
+    "resource_uri": "/api/rest/v2/citation/117915/"
+  }, 
+  "id": 133562, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-11-03", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.986.03-6038.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:28:30", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">986</span></span></p>\n    <p class=\"parties\">PAULING<br>v.<br>WASHINGTON.</p>\n    <p class=\"docket\">No. 03-6038.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 3, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Wash.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 149 Wash. 2d 381, 69 P. 3d 331.</p>\n    </div>\n    ", 
+  "sha1": "e260c98681470a512c2c7883de853b85e23e9ef1", 
+  "date_modified": "2014-12-21T02:19:37.218281", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/133562/pauling-v-washington/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/365475/", 
+  "html": "<p class=\"case_cite\">540 U.S. 986</p>\n    <p class=\"parties\">PAULING<br>v.<br>WASHINGTON.</p>\n    <p class=\"docket\">No. 03-6038.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 3, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Wash.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 149 Wash. 2d 381, 69 P. 3d 331.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/133562/"
+}

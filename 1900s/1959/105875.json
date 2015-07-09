@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105875/commercial-com-v-puc/", "blocked": false, "citation": {"case_name": "Commercial Com. v. Puc", "docket_number": "719", "document_uris": ["/api/rest/v2/document/105875/"], "federal_cite_one": "359 U.S. 341", "federal_cite_three": null, "federal_cite_two": null, "id": 90258, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90258/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1959-04-27", "date_modified": "2014-12-21T01:51:15.726549", "docket": "/api/rest/v2/docket/1542861/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">359 U.S. 341</p>\n    <p class=\"case_cite\">79 S.Ct. 896</p>\n    <p class=\"case_cite\">3 L.Ed.2d 927</p>\n    <p class=\"parties\">COMMERCIAL COMMUNICATIONS, INC., et al.<br>v.<br>PUBLIC UTILITIES COMMISSION OF CALIFORNIA et al.</p>\n    <p class=\"docket\">No. 719.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 27, 1959</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick M. Rowe, for appellants.</p>\n      <p class=\"indent\">Mr. J. Thomason Phelps, for appellee Public Utilities Commission of California.</p>\n      <p class=\"indent\">Messrs. Arthur T. George, Eugene M. Prince and Francis R. Kirkham, for appellee Pacific Telephone &amp; Telegraph Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to dismiss are granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice CLARK, Mr. Justice HARLAN and Mr. Justice BRENNAN took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>359 U.S. 341 (1959)</b></center>\n<center><h1>COMMERCIAL COMMUNICATIONS, INC., ET AL.<br>\nv.<br>\nPUBLIC UTILITIES COMMISSION OF CALIFORNIA ET AL.</h1></center>\n<center>No. 719.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 27, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Frederick M. Rowe</i> for appellants.</p>\n<p><i>J. Thomason Phelps</i> for the Public Utilities Commission of California, and <i>Arthur T. George, Eugene M. Prince</i> and <i>Francis R. Kirkham</i> for the Pacific Telephone &amp; Telegraph Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE CLARK, MR. JUSTICE HARLAN and MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">359</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">341</span></span> (1959)</b></center>\n<center><h1>COMMERCIAL COMMUNICATIONS, INC., ET AL.<br>\nv.<br>\nPUBLIC UTILITIES COMMISSION OF CALIFORNIA ET AL.</h1></center>\n<center>No. 719.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 27, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Frederick M. Rowe</i> for appellants.</p>\n<p><i>J. Thomason Phelps</i> for the Public Utilities Commission of California, and <i>Arthur T. George, Eugene M. Prince</i> and <i>Francis R. Kirkham</i> for the Pacific Telephone &amp; Telegraph Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE CLARK, MR. JUSTICE HARLAN and MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", "id": 105875, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105875/", "sha1": "e27dfaadfa6a8b3ebc33b31774124e2b03580121", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "359 U.S. 341", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/105875/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Commercial Com. v. Puc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "719", 
+    "id": 90258, 
+    "resource_uri": "/api/rest/v2/citation/90258/"
+  }, 
+  "id": 105875, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1959-04-27", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>359 U.S. 341 (1959)</b></center>\n<center><h1>COMMERCIAL COMMUNICATIONS, INC., ET AL.<br>\nv.<br>\nPUBLIC UTILITIES COMMISSION OF CALIFORNIA ET AL.</h1></center>\n<center>No. 719.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 27, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Frederick M. Rowe</i> for appellants.</p>\n<p><i>J. Thomason Phelps</i> for the Public Utilities Commission of California, and <i>Arthur T. George, Eugene M. Prince</i> and <i>Francis R. Kirkham</i> for the Pacific Telephone &amp; Telegraph Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE CLARK, MR. JUSTICE HARLAN and MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">359</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">341</span></span> (1959)</b></center>\n<center><h1>COMMERCIAL COMMUNICATIONS, INC., ET AL.<br>\nv.<br>\nPUBLIC UTILITIES COMMISSION OF CALIFORNIA ET AL.</h1></center>\n<center>No. 719.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 27, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF CALIFORNIA.\n<p><i>Frederick M. Rowe</i> for appellants.</p>\n<p><i>J. Thomason Phelps</i> for the Public Utilities Commission of California, and <i>Arthur T. George, Eugene M. Prince</i> and <i>Francis R. Kirkham</i> for the Pacific Telephone &amp; Telegraph Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE CLARK, MR. JUSTICE HARLAN and MR. JUSTICE BRENNAN took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "e27dfaadfa6a8b3ebc33b31774124e2b03580121", 
+  "date_modified": "2014-12-21T01:51:15.726549", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105875/commercial-com-v-puc/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1542861/", 
+  "html": "<p class=\"case_cite\">359 U.S. 341</p>\n    <p class=\"case_cite\">79 S.Ct. 896</p>\n    <p class=\"case_cite\">3 L.Ed.2d 927</p>\n    <p class=\"parties\">COMMERCIAL COMMUNICATIONS, INC., et al.<br>v.<br>PUBLIC UTILITIES COMMISSION OF CALIFORNIA et al.</p>\n    <p class=\"docket\">No. 719.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 27, 1959</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick M. Rowe, for appellants.</p>\n      <p class=\"indent\">Mr. J. Thomason Phelps, for appellee Public Utilities Commission of California.</p>\n      <p class=\"indent\">Messrs. Arthur T. George, Eugene M. Prince and Francis R. Kirkham, for appellee Pacific Telephone &amp; Telegraph Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to dismiss are granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice CLARK, Mr. Justice HARLAN and Mr. Justice BRENNAN took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105875/"
+}

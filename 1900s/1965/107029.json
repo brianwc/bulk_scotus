@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107029/western-southern-life-insurance-co-v-national-labo/", "blocked": false, "citation": {"case_name": "Western & Southern Life Insurance Co. v. National Labor Relations Board", "docket_number": "91", "document_uris": ["/api/rest/v2/document/107029/"], "federal_cite_one": "380 U.S. 522", "federal_cite_three": null, "federal_cite_two": null, "id": 91388, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91388/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-04-26", "date_modified": "2014-12-21T01:54:09.114827", "docket": "/api/rest/v2/docket/1513384/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">380 U.S. 522</p>\n    <p class=\"case_cite\">85 S.Ct. 1326</p>\n    <p class=\"parties\">WESTERN &amp; SOUTHERN LIFE INSURANCE CO.<br>v.<br>NATIONAL LABOR RELATIONS BOARD.</p>\n    <p class=\"docket\">No. 91.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 26, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">John G. Wayman, for petitioner.</p>\n      <p class=\"indent\">Solicitor General Cox, Arnold Ordman, Dominick L. Manoli and Norton J. Come, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Third Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment of the Court of Appeals is vacated and the case remanded to that court with instructions to remand it to the National Labor Relations Board for further proceedings consistent with the opinion of this Court in National Labor Relations Board v. Metropolitan Ins. Co., 380 U.S. 438, 85 S.Ct. 1061. The judgment shall issue forthwith. It is so ordered.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>380 U.S. 522 (1965)</b></center>\n<center><h1>WESTERN &amp; SOUTHERN LIFE INSURANCE CO.<br>\nv.<br>\nNATIONAL LABOR RELATIONS BOARD.</h1></center>\n<center>No. 91.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 26, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.\n<p><i>John G. Wayman</i> for petitioner.</p>\n<p><i>Solicitor General Cox, Arnold Ordman, Dominick L. Manoli</i> and <i>Norton J. Come</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the Court of Appeals is vacated and the case remanded to that court with instructions to remand it to the National Labor Relations Board for further proceedings consistent with the opinion of this Court in <i>Labor Board</i> v. <i>Metropolitan Ins. Co., ante,</i> p. 438. The judgment shall issue forthwith.</p>\n<p><i>It is so ordered.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">522</span></span> (1965)</b></center>\n<center><h1>WESTERN &amp; SOUTHERN LIFE INSURANCE CO.<br>\nv.<br>\nNATIONAL LABOR RELATIONS BOARD.</h1></center>\n<center>No. 91.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 26, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.\n<p><i>John G. Wayman</i> for petitioner.</p>\n<p><i>Solicitor General Cox, Arnold Ordman, Dominick L. Manoli</i> and <i>Norton J. Come</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the Court of Appeals is vacated and the case remanded to that court with instructions to remand it to the National Labor Relations Board for further proceedings consistent with the opinion of this Court in <i>Labor Board</i> v. <i>Metropolitan Ins. Co., ante,</i> p. 438. The judgment shall issue forthwith.</p>\n<p><i>It is so ordered.</i></p>\n</div>", "id": 107029, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107029/", "sha1": "4d8414f622d26fef5506ad3490bfb44ed28d479d", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "380 U.S. 522", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107029/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Western & Southern Life Insurance Co. v. National Labor Relations Board", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "91", 
+    "id": 91388, 
+    "resource_uri": "/api/rest/v2/citation/91388/"
+  }, 
+  "id": 107029, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-04-26", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>380 U.S. 522 (1965)</b></center>\n<center><h1>WESTERN &amp; SOUTHERN LIFE INSURANCE CO.<br>\nv.<br>\nNATIONAL LABOR RELATIONS BOARD.</h1></center>\n<center>No. 91.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 26, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.\n<p><i>John G. Wayman</i> for petitioner.</p>\n<p><i>Solicitor General Cox, Arnold Ordman, Dominick L. Manoli</i> and <i>Norton J. Come</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the Court of Appeals is vacated and the case remanded to that court with instructions to remand it to the National Labor Relations Board for further proceedings consistent with the opinion of this Court in <i>Labor Board</i> v. <i>Metropolitan Ins. Co., ante,</i> p. 438. The judgment shall issue forthwith.</p>\n<p><i>It is so ordered.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">522</span></span> (1965)</b></center>\n<center><h1>WESTERN &amp; SOUTHERN LIFE INSURANCE CO.<br>\nv.<br>\nNATIONAL LABOR RELATIONS BOARD.</h1></center>\n<center>No. 91.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 26, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.\n<p><i>John G. Wayman</i> for petitioner.</p>\n<p><i>Solicitor General Cox, Arnold Ordman, Dominick L. Manoli</i> and <i>Norton J. Come</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the Court of Appeals is vacated and the case remanded to that court with instructions to remand it to the National Labor Relations Board for further proceedings consistent with the opinion of this Court in <i>Labor Board</i> v. <i>Metropolitan Ins. Co., ante,</i> p. 438. The judgment shall issue forthwith.</p>\n<p><i>It is so ordered.</i></p>\n</div>", 
+  "sha1": "4d8414f622d26fef5506ad3490bfb44ed28d479d", 
+  "date_modified": "2014-12-21T01:54:09.114827", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107029/western-southern-life-insurance-co-v-national-labo/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1513384/", 
+  "html": "<p class=\"case_cite\">380 U.S. 522</p>\n    <p class=\"case_cite\">85 S.Ct. 1326</p>\n    <p class=\"parties\">WESTERN &amp; SOUTHERN LIFE INSURANCE CO.<br>v.<br>NATIONAL LABOR RELATIONS BOARD.</p>\n    <p class=\"docket\">No. 91.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 26, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">John G. Wayman, for petitioner.</p>\n      <p class=\"indent\">Solicitor General Cox, Arnold Ordman, Dominick L. Manoli and Norton J. Come, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Third Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment of the Court of Appeals is vacated and the case remanded to that court with instructions to remand it to the National Labor Relations Board for further proceedings consistent with the opinion of this Court in National Labor Relations Board v. Metropolitan Ins. Co., 380 U.S. 438, 85 S.Ct. 1061. The judgment shall issue forthwith. It is so ordered.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107029/"
+}

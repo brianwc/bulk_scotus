@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/102917/florida-tex-oil-company-a-corporation-etc-et/", "blocked": false, "citation": {"case_name": "Florida Tex Oil Company, a Corporation, Etc. v. Robert L. Ballentine, Individually, Etc", "docket_number": "355", "document_uris": ["/api/rest/v2/document/102917/"], "federal_cite_one": "302 U.S. 729", "federal_cite_three": null, "federal_cite_two": null, "id": 87300, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/87300/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1937-10-18", "date_modified": "2014-12-21T01:41:55.350322", "docket": "/api/rest/v2/docket/2410785/", "download_url": "http://bulk.resource.org/courts.gov/c/US/302/302.US.729.355.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">302 U.S. 729</p>\n    <p class=\"case_cite\">58 S.Ct. 54</p>\n    <p class=\"case_cite\">82 L.Ed. 564</p>\n    <p class=\"parties\">FLORIDA TEX OIL COMPANY, a corporation, etc., et  al., petitioners,<br>v.<br>Robert L. BALLENTINE, Individually, etc.</p>\n    <p class=\"docket\">No. 355.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 18, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. W. K. Zewadski, for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Newfield v. Ryan, 91 F.(2d) 700.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied 302 U.S. 777, 58 S.Ct. 138, 82 L.Ed. &#8212;&#8212;; Second rehearing denied 302 U.S. 650, 58 S.Ct. 262, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">729</span></span></p>\n    <p class=\"case_cite\">58 S.Ct. 54</p>\n    <p class=\"case_cite\">82 L.Ed. 564</p>\n    <p class=\"parties\">FLORIDA TEX OIL COMPANY, a corporation, etc., et  al., petitioners,<br>v.<br>Robert L. BALLENTINE, Individually, etc.</p>\n    <p class=\"docket\">No. 355.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 18, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. W. K. Zewadski, for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Newfield v. Ryan, 91 F.(2d) 700.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied <span class=\"citation\" data-id=\"102944\"><a href=\"/opinion/102944/kellogg-company-petitioner-v-national-biscuit/\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">777</span></a></span>, 58 S.Ct. 138, 82 L.Ed. &#8212;&#8212;; Second rehearing denied <span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">650</span></span>, 58 S.Ct. 262, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ", "id": 102917, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/102917/", "sha1": "196b255e0baafbc4f25745a7dbdee6a14d1f72f3", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:10"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "302 U.S. 729", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/102917/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Florida Tex Oil Company, a Corporation, Etc. v. Robert L. Ballentine, Individually, Etc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "355", 
+    "id": 87300, 
+    "resource_uri": "/api/rest/v2/citation/87300/"
+  }, 
+  "id": 102917, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1937-10-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/302/302.US.729.355.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:54:10", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">729</span></span></p>\n    <p class=\"case_cite\">58 S.Ct. 54</p>\n    <p class=\"case_cite\">82 L.Ed. 564</p>\n    <p class=\"parties\">FLORIDA TEX OIL COMPANY, a corporation, etc., et  al., petitioners,<br>v.<br>Robert L. BALLENTINE, Individually, etc.</p>\n    <p class=\"docket\">No. 355.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 18, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. W. K. Zewadski, for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Newfield v. Ryan, 91 F.(2d) 700.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied <span class=\"citation\" data-id=\"102944\"><a href=\"/opinion/102944/kellogg-company-petitioner-v-national-biscuit/\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">777</span></a></span>, 58 S.Ct. 138, 82 L.Ed. &#8212;&#8212;; Second rehearing denied <span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">650</span></span>, 58 S.Ct. 262, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ", 
+  "sha1": "196b255e0baafbc4f25745a7dbdee6a14d1f72f3", 
+  "date_modified": "2014-12-21T01:41:55.350322", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/102917/florida-tex-oil-company-a-corporation-etc-et/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2410785/", 
+  "html": "<p class=\"case_cite\">302 U.S. 729</p>\n    <p class=\"case_cite\">58 S.Ct. 54</p>\n    <p class=\"case_cite\">82 L.Ed. 564</p>\n    <p class=\"parties\">FLORIDA TEX OIL COMPANY, a corporation, etc., et  al., petitioners,<br>v.<br>Robert L. BALLENTINE, Individually, etc.</p>\n    <p class=\"docket\">No. 355.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 18, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. W. K. Zewadski, for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Newfield v. Ryan, 91 F.(2d) 700.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied 302 U.S. 777, 58 S.Ct. 138, 82 L.Ed. &#8212;&#8212;; Second rehearing denied 302 U.S. 650, 58 S.Ct. 262, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/102917/"
+}

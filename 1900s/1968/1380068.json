@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1380068/james-v-gilmore/", "blocked": false, "citation": {"case_name": "James v. Gilmore", "docket_number": "850", "document_uris": ["/api/rest/v2/document/1380068/"], "federal_cite_one": "389 U.S. 572", "federal_cite_three": null, "federal_cite_two": null, "id": 1352839, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1352839/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-01-15", "date_modified": "2014-10-30T12:53:31.249295", "docket": "/api/rest/v2/docket/1841166/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>389 U.S. 572 (1968)</b></center>\n<center><h1>JAMES, STATE TREASURER OF TEXAS, ET AL.<br>\nv.<br>\nGILMORE ET AL.</h1></center>\n<center>No. 850.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS.\n<p><i>Crawford C. Martin,</i> Attorney General of Texas, <i>George M. Cowden,</i> First Assistant Attorney General, and <i>J. C. Davis, W. O. Shultz II</i> and <i>James C. McCoy,</i> Assistant Attorneys General, and <i>A. J. Carubbi, Jr.,</i> for appellants.</p>\n<p><i>David R. Richards</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1380068, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1380068/", "sha1": "4fc648291dc603a5552af7c7b55a75aee0670ef5", "source": "L", "time_retrieved": "2013-10-29T22:52:32.712181"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 572", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1380068/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "James v. Gilmore", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "850", 
+    "id": 1352839, 
+    "resource_uri": "/api/rest/v2/citation/1352839/"
+  }, 
+  "id": 1380068, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-01-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 572 (1968)</b></center>\n<center><h1>JAMES, STATE TREASURER OF TEXAS, ET AL.<br>\nv.<br>\nGILMORE ET AL.</h1></center>\n<center>No. 850.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS.\n<p><i>Crawford C. Martin,</i> Attorney General of Texas, <i>George M. Cowden,</i> First Assistant Attorney General, and <i>J. C. Davis, W. O. Shultz II</i> and <i>James C. McCoy,</i> Assistant Attorneys General, and <i>A. J. Carubbi, Jr.,</i> for appellants.</p>\n<p><i>David R. Richards</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:52:32.712181", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "4fc648291dc603a5552af7c7b55a75aee0670ef5", 
+  "date_modified": "2014-10-30T12:53:31.249295", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1380068/james-v-gilmore/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1841166/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1380068/"
+}

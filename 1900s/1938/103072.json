@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/103072/ex-parte-harry-m-blair-petitioner/", "blocked": false, "citation": {"case_name": "Ex Parte Harry M. Blair", "docket_number": "22, original", "document_uris": ["/api/rest/v2/document/103072/"], "federal_cite_one": "304 U.S. 579", "federal_cite_three": null, "federal_cite_two": null, "id": 87455, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/87455/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1938-05-31", "date_modified": "2014-12-21T01:42:16.292834", "docket": "/api/rest/v2/docket/2350995/", "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.579.22.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">304 U.S. 579</p>\n    <p class=\"case_cite\">58 S.Ct. 1051</p>\n    <p class=\"case_cite\">82 L.Ed. 1542</p>\n    <p class=\"parties\">Ex parte Harry M. BLAIR, petitioner.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 22, original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 31, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. George Pfeil, of New York City, Poffenbarger &amp; Poffenbarger, of Charleston, W. Va., and John Levi Clark of New York City, for petitioners.</p>\n      <p class=\"indent\">For opinion below, see 95 F.2d 995.</p>\n      <p class=\"indent\">The motion to deter consideration is denied. The motion for leave to file petition for writ of certiorari is granted. The petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit is denied.</p>\n      <p class=\"indent\">Mr. Justice Roberts took no part in the consideration or decision of this application.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 59 S.Ct. 55, 83 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">579</span></span></p>\n    <p class=\"case_cite\">58 S.Ct. 1051</p>\n    <p class=\"case_cite\">82 L.Ed. 1542</p>\n    <p class=\"parties\">Ex parte Harry M. BLAIR, petitioner.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 22, original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 31, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. George Pfeil, of New York City, Poffenbarger &amp; Poffenbarger, of Charleston, W. Va., and John Levi Clark of New York City, for petitioners.</p>\n      <p class=\"indent\">For opinion below, see 95 F.2d 995.</p>\n      <p class=\"indent\">The motion to deter consideration is denied. The motion for leave to file petition for writ of certiorari is granted. The petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit is denied.</p>\n      <p class=\"indent\">Mr. Justice Roberts took no part in the consideration or decision of this application.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 59 S.Ct. 55, 83 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", "id": 103072, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/103072/", "sha1": "8136df8d71265256f9d12cdfb9bd0777cbd2f16a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:15"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "304 U.S. 579", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/103072/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ex Parte Harry M. Blair", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "22, original", 
+    "id": 87455, 
+    "resource_uri": "/api/rest/v2/citation/87455/"
+  }, 
+  "id": 103072, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1938-05-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.579.22.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:54:15", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">579</span></span></p>\n    <p class=\"case_cite\">58 S.Ct. 1051</p>\n    <p class=\"case_cite\">82 L.Ed. 1542</p>\n    <p class=\"parties\">Ex parte Harry M. BLAIR, petitioner.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 22, original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 31, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. George Pfeil, of New York City, Poffenbarger &amp; Poffenbarger, of Charleston, W. Va., and John Levi Clark of New York City, for petitioners.</p>\n      <p class=\"indent\">For opinion below, see 95 F.2d 995.</p>\n      <p class=\"indent\">The motion to deter consideration is denied. The motion for leave to file petition for writ of certiorari is granted. The petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit is denied.</p>\n      <p class=\"indent\">Mr. Justice Roberts took no part in the consideration or decision of this application.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 59 S.Ct. 55, 83 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "8136df8d71265256f9d12cdfb9bd0777cbd2f16a", 
+  "date_modified": "2014-12-21T01:42:16.292834", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/103072/ex-parte-harry-m-blair-petitioner/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2350995/", 
+  "html": "<p class=\"case_cite\">304 U.S. 579</p>\n    <p class=\"case_cite\">58 S.Ct. 1051</p>\n    <p class=\"case_cite\">82 L.Ed. 1542</p>\n    <p class=\"parties\">Ex parte Harry M. BLAIR, petitioner.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 22, original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 31, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. George Pfeil, of New York City, Poffenbarger &amp; Poffenbarger, of Charleston, W. Va., and John Levi Clark of New York City, for petitioners.</p>\n      <p class=\"indent\">For opinion below, see 95 F.2d 995.</p>\n      <p class=\"indent\">The motion to deter consideration is denied. The motion for leave to file petition for writ of certiorari is granted. The petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit is denied.</p>\n      <p class=\"indent\">Mr. Justice Roberts took no part in the consideration or decision of this application.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 59 S.Ct. 55, 83 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/103072/"
+}

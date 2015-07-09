@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1101276/martinez-v-united-states/", "blocked": false, "citation": {"case_name": "Martinez v. United States", "docket_number": "397, Misc", "document_uris": ["/api/rest/v2/document/1101276/"], "federal_cite_one": "380 U.S. 260", "federal_cite_three": null, "federal_cite_two": null, "id": 1074047, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1074047/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-03-15", "date_modified": "2014-12-21T07:03:00.449069", "docket": "/api/rest/v2/docket/1513409/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>380 U.S. 260 (1965)</b></center>\n<center><h1>MARTINEZ<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 397, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 15, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Solicitor General Cox</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of California with instructions to make findings with respect to petitioner's consent to the search.</p>\n</div>", "html_with_citations": "", "id": 1101276, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1101276/", "sha1": "93266d11994e3fdedd105db9d93fd825fdd46c46", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T20:58:57.028615"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "380 U.S. 260", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1101276/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Martinez v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "397, Misc", 
+    "id": 1074047, 
+    "resource_uri": "/api/rest/v2/citation/1074047/"
+  }, 
+  "id": 1101276, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-03-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>380 U.S. 260 (1965)</b></center>\n<center><h1>MARTINEZ<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 397, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 15, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Solicitor General Cox</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of California with instructions to make findings with respect to petitioner's consent to the search.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:58:57.028615", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "93266d11994e3fdedd105db9d93fd825fdd46c46", 
+  "date_modified": "2014-12-21T07:03:00.449069", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1101276/martinez-v-united-states/", 
+  "citation_count": 6, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1513409/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1101276/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2490597/smyth-v-strader-pevine-co/", "blocked": false, "citation": {"case_name": "Smyth v. Strader, Pevine, & Co.", "docket_number": null, "document_uris": ["/api/rest/v2/document/2490597/"], "federal_cite_one": "53 U.S. 327", "federal_cite_three": null, "federal_cite_two": null, "id": 2463369, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2463369/", "scotus_early_cite": "12 How. 327", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1852-03-18", "date_modified": "2014-10-30T06:41:22.665546", "docket": "/api/rest/v2/docket/1000525/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>53 U.S. 327 (1851)</b></center>\n<center><b>12 How. 327</b></center>\n<center><h1>GAMUEL SMYTH<br>\nv.<br>\nSTRADER, PEVINE, &amp; CO.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. Pryor, counsel for the defendants in error.</p>\n<p>Whereupon, the court passed the following order:</p>\n<p></p>\n<h2>Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the Circuit Court of the United States for the Southern District of Alabama, and it appearing to the court here that this writ of error is vicious and defective, inasmuch as it does not set out the names of all the parties to the judgment of the Circuit Court, it is thereupon, on the motion of Mr. Pryor, of counsel for the defendants in error, now here ordered and adjudged by this court, that this cause be, and the same is hereby, dismissed, with costs.</p>\n</div>", "html_with_citations": "", "id": 2490597, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2490597/", "sha1": "6abd3e48eb9faa12121e10327e4a164fc7ad54f7", "source": "L", "time_retrieved": "2013-10-30T02:54:15.750111"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "53 U.S. 327", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2490597/"
+    ], 
+    "scotus_early_cite": "12 How. 327", 
+    "case_name": "Smyth v. Strader, Pevine, & Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2463369, 
+    "resource_uri": "/api/rest/v2/citation/2463369/"
+  }, 
+  "id": 2490597, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1852-03-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>53 U.S. 327 (1851)</b></center>\n<center><b>12 How. 327</b></center>\n<center><h1>GAMUEL SMYTH<br>\nv.<br>\nSTRADER, PEVINE, &amp; CO.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. Pryor, counsel for the defendants in error.</p>\n<p>Whereupon, the court passed the following order:</p>\n<p></p>\n<h2>Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the Circuit Court of the United States for the Southern District of Alabama, and it appearing to the court here that this writ of error is vicious and defective, inasmuch as it does not set out the names of all the parties to the judgment of the Circuit Court, it is thereupon, on the motion of Mr. Pryor, of counsel for the defendants in error, now here ordered and adjudged by this court, that this cause be, and the same is hereby, dismissed, with costs.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:54:15.750111", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "6abd3e48eb9faa12121e10327e4a164fc7ad54f7", 
+  "date_modified": "2014-10-30T06:41:22.665546", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2490597/smyth-v-strader-pevine-co/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1000525/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2490597/"
+}

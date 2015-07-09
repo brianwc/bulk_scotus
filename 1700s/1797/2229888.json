@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2229888/hamilton-v-moore/", "blocked": false, "citation": {"case_name": "Hamilton v. Moore", "docket_number": null, "document_uris": ["/api/rest/v2/document/2229888/"], "federal_cite_one": "3 U.S. 371", "federal_cite_three": null, "federal_cite_two": null, "id": 2202659, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2202659/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1797-08-15", "date_modified": "2014-10-30T17:49:53.157727", "docket": "/api/rest/v2/docket/2582468/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>3 U.S. 371 (____)</b></center>\n<center><b>3 Dall. 371</b></center>\n<center><h1>HAMILTON<br>\nversus<br>\nMOORE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*374</span> Ingersoll and Dallas, for the Defendant in error.</p>\n<p><span class=\"star-pagination\">*377</span> But, THE COURT observed, that there was no error in point of fact; nor any clerical error to amend. The writ bears the date when it was actually sued out and lodged in the office: there is, therefore, nothing on the record, by which it can be amended; and the objection is fatal.</p>\n<p>The Writ of Error was, therefore, non-prossed.</p>\n</div>", "html_with_citations": "", "id": 2229888, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2229888/", "sha1": "a4f85d9f301f5006e220ab87db5e5d2c5003e5db", "source": "L", "time_retrieved": "2013-10-30T01:43:31.512759"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "3 U.S. 371", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2229888/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hamilton v. Moore", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2202659, 
+    "resource_uri": "/api/rest/v2/citation/2202659/"
+  }, 
+  "id": 2229888, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1797-08-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>3 U.S. 371 (____)</b></center>\n<center><b>3 Dall. 371</b></center>\n<center><h1>HAMILTON<br>\nversus<br>\nMOORE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*374</span> Ingersoll and Dallas, for the Defendant in error.</p>\n<p><span class=\"star-pagination\">*377</span> But, THE COURT observed, that there was no error in point of fact; nor any clerical error to amend. The writ bears the date when it was actually sued out and lodged in the office: there is, therefore, nothing on the record, by which it can be amended; and the objection is fatal.</p>\n<p>The Writ of Error was, therefore, non-prossed.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T01:43:31.512759", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a4f85d9f301f5006e220ab87db5e5d2c5003e5db", 
+  "date_modified": "2014-10-30T17:49:53.157727", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2229888/hamilton-v-moore/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2582468/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2229888/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/121297/blackburn-v-ashcroft-attorney-general-et-al/", "blocked": false, "citation": {"case_name": "Blackburn v. Ashcroft, Attorney General", "docket_number": "01-10013", "document_uris": ["/api/rest/v2/document/121297/"], "federal_cite_one": "536 U.S. 911", "federal_cite_three": null, "federal_cite_two": null, "id": 105650, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/105650/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-06-10", "date_modified": "2014-12-21T02:17:15.910052", "docket": "/api/rest/v2/docket/38209/", "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.911.01-10013.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">536 U.S. 911</p>\n    <p class=\"parties\">BLACKBURN<br><i>v.</i><br>ASHCROFT, ATTORNEY GENERAL, ET AL.</p>\n    <p class=\"docket\">No. 01-10013.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 21 Fed. Appx. 229.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">911</span></span></p>\n    <p class=\"parties\">BLACKBURN<br><i>v.</i><br>ASHCROFT, ATTORNEY GENERAL, ET AL.</p>\n    <p class=\"docket\">No. 01-10013.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 21 Fed. Appx. 229.</p>\n    </div>\n    ", "id": 121297, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/121297/", "sha1": "1eeb802f95bbdf9ac50ffe33e7e4704b21ade87a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:23"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "536 U.S. 911", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/121297/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Blackburn v. Ashcroft, Attorney General", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-10013", 
+    "id": 105650, 
+    "resource_uri": "/api/rest/v2/citation/105650/"
+  }, 
+  "id": 121297, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-06-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.911.01-10013.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:23", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">911</span></span></p>\n    <p class=\"parties\">BLACKBURN<br><i>v.</i><br>ASHCROFT, ATTORNEY GENERAL, ET AL.</p>\n    <p class=\"docket\">No. 01-10013.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 21 Fed. Appx. 229.</p>\n    </div>\n    ", 
+  "sha1": "1eeb802f95bbdf9ac50ffe33e7e4704b21ade87a", 
+  "date_modified": "2014-12-21T02:17:15.910052", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/121297/blackburn-v-ashcroft-attorney-general-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/38209/", 
+  "html": "<p class=\"case_cite\">536 U.S. 911</p>\n    <p class=\"parties\">BLACKBURN<br><i>v.</i><br>ASHCROFT, ATTORNEY GENERAL, ET AL.</p>\n    <p class=\"docket\">No. 01-10013.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 21 Fed. Appx. 229.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/121297/"
+}

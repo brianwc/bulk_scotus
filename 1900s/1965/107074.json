@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107074/air-dispatch-inc-v-united-states/", "blocked": false, "citation": {"case_name": "Air Dispatch, Inc. v. United States", "docket_number": "1004", "document_uris": ["/api/rest/v2/document/107074/"], "federal_cite_one": "381 U.S. 412", "federal_cite_three": null, "federal_cite_two": null, "id": 91433, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91433/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-06-01", "date_modified": "2014-12-21T01:54:56.875307", "docket": "/api/rest/v2/docket/2377638/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">381 U.S. 412</p>\n    <p class=\"case_cite\">85 S.Ct. 1576</p>\n    <p class=\"case_cite\">14 L.Ed.2d 693</p>\n    <p class=\"parties\">AIR DISPATCH, INC., et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 1004.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 1, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Arthur R. Littleton, Harold S. Shertz, Louis P. Haffer and Robert M. Beckman, for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Orrick, Lionel Kestenbaum, Robert W. Ginnane and Leonard S. Goodman, for the United States and others.</p>\n      <p class=\"indent\">Robert J. Corber, Drew L. Carraway, John S. Fessenden, Peter T. Beardsley, Richard R. Sigmon and Bryce Rea, Jr., for National Association of Motor Bus Owners and others.</p>\n      <p class=\"indent\">Russell S. Bernhard, for Air Cargo, Inc., appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>381 U.S. 412 (1965)</b></center>\n<center><h1>AIR DISPATCH, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 1004.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 1, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.\n<p><i>Arthur R. Littleton, Harold S. Shertz, Louis P. Haffer</i> and <i>Robert M. Beckman</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Lionel Kestenbaum, Robert W. Ginnane</i> and <i>Leonard S. Goodman</i> for the United States et al.; <i>Robert J. Corber, Drew L. Carraway, John S. Fessenden, Peter T. Beardsley, Richard R. Sigmon</i> and <i>Bryce Rea, Jr.,</i> for National Association of Motor Bus Owners et al.; and <i>Russell S. Bernhard</i> for Air Cargo, Inc., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">381</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">412</span></span> (1965)</b></center>\n<center><h1>AIR DISPATCH, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 1004.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 1, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.\n<p><i>Arthur R. Littleton, Harold S. Shertz, Louis P. Haffer</i> and <i>Robert M. Beckman</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Lionel Kestenbaum, Robert W. Ginnane</i> and <i>Leonard S. Goodman</i> for the United States et al.; <i>Robert J. Corber, Drew L. Carraway, John S. Fessenden, Peter T. Beardsley, Richard R. Sigmon</i> and <i>Bryce Rea, Jr.,</i> for National Association of Motor Bus Owners et al.; and <i>Russell S. Bernhard</i> for Air Cargo, Inc., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "id": 107074, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107074/", "sha1": "be50d19bdc1d3b65b756cec5b55d5ca7794d53cb", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "381 U.S. 412", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107074/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Air Dispatch, Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1004", 
+    "id": 91433, 
+    "resource_uri": "/api/rest/v2/citation/91433/"
+  }, 
+  "id": 107074, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-06-01", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>381 U.S. 412 (1965)</b></center>\n<center><h1>AIR DISPATCH, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 1004.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 1, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.\n<p><i>Arthur R. Littleton, Harold S. Shertz, Louis P. Haffer</i> and <i>Robert M. Beckman</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Lionel Kestenbaum, Robert W. Ginnane</i> and <i>Leonard S. Goodman</i> for the United States et al.; <i>Robert J. Corber, Drew L. Carraway, John S. Fessenden, Peter T. Beardsley, Richard R. Sigmon</i> and <i>Bryce Rea, Jr.,</i> for National Association of Motor Bus Owners et al.; and <i>Russell S. Bernhard</i> for Air Cargo, Inc., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">381</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">412</span></span> (1965)</b></center>\n<center><h1>AIR DISPATCH, INC., ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 1004.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 1, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA.\n<p><i>Arthur R. Littleton, Harold S. Shertz, Louis P. Haffer</i> and <i>Robert M. Beckman</i> for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Lionel Kestenbaum, Robert W. Ginnane</i> and <i>Leonard S. Goodman</i> for the United States et al.; <i>Robert J. Corber, Drew L. Carraway, John S. Fessenden, Peter T. Beardsley, Richard R. Sigmon</i> and <i>Bryce Rea, Jr.,</i> for National Association of Motor Bus Owners et al.; and <i>Russell S. Bernhard</i> for Air Cargo, Inc., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "sha1": "be50d19bdc1d3b65b756cec5b55d5ca7794d53cb", 
+  "date_modified": "2014-12-21T01:54:56.875307", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107074/air-dispatch-inc-v-united-states/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2377638/", 
+  "html": "<p class=\"case_cite\">381 U.S. 412</p>\n    <p class=\"case_cite\">85 S.Ct. 1576</p>\n    <p class=\"case_cite\">14 L.Ed.2d 693</p>\n    <p class=\"parties\">AIR DISPATCH, INC., et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 1004.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 1, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Arthur R. Littleton, Harold S. Shertz, Louis P. Haffer and Robert M. Beckman, for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Orrick, Lionel Kestenbaum, Robert W. Ginnane and Leonard S. Goodman, for the United States and others.</p>\n      <p class=\"indent\">Robert J. Corber, Drew L. Carraway, John S. Fessenden, Peter T. Beardsley, Richard R. Sigmon and Bryce Rea, Jr., for National Association of Motor Bus Owners and others.</p>\n      <p class=\"indent\">Russell S. Bernhard, for Air Cargo, Inc., appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107074/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/142174/ibp-inc-v-alvarez-individually-and-on-behalf/", "blocked": false, "citation": {"case_name": "Ibp, Inc. v. Alvarez, Individually and on Behalf of All Others Similarly Situated", "docket_number": "03-1238", "document_uris": ["/api/rest/v2/document/142174/"], "federal_cite_one": "543 U.S. 1144", "federal_cite_three": null, "federal_cite_two": null, "id": 126526, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/126526/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-02-22", "date_modified": "2014-12-21T02:21:07.912445", "docket": "/api/rest/v2/docket/1632470/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1144.03-1238.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1144</p>\n    <p class=\"parties\">IBP, INC.<br>v.<br>ALVAREZ, INDIVIDUALLY AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED, ET AL.</p>\n    <p class=\"docket\">No. 03-1238.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir.; and C. A. 1st Cir. Motion of National Chicken Council et al. for leave to file a brief as <i>amici curiae</i> in No. 03-1238 granted. Certiorari in No. 03-1238 granted limited to Question 1 presented by the petition. Certiorari in No. 04-66 granted limited to Question 1 presented by the petition and the following question: \"Do employees have a right to compensation for time they must spend waiting at required safety equipment distribution stations?\" Cases consolidated, and a total of one hour allotted for oral argument. Reported below: No. 03-1238, 339 F. 3d 894; No. 04-66, 360 F. 3d 274.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1144</span></span></p>\n    <p class=\"parties\">IBP, INC.<br>v.<br>ALVAREZ, INDIVIDUALLY AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED, ET AL.</p>\n    <p class=\"docket\">No. 03-1238.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir.; and C. A. 1st Cir. Motion of National Chicken Council et al. for leave to file a brief as <i>amici curiae</i> in No. 03-1238 granted. Certiorari in No. 03-1238 granted limited to Question 1 presented by the petition. Certiorari in No. 04-66 granted limited to Question 1 presented by the petition and the following question: \"Do employees have a right to compensation for time they must spend waiting at required safety equipment distribution stations?\" Cases consolidated, and a total of one hour allotted for oral argument. Reported below: No. 03-1238, 339 F. 3d 894; No. 04-66, 360 F. 3d 274.</p>\n    </div>\n    ", "id": 142174, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/142174/", "sha1": "39a95e3d658ac693b655a3fbc3449283c2f6aec4", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:34:03"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1144", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/142174/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ibp, Inc. v. Alvarez, Individually and on Behalf of All Others Similarly Situated", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-1238", 
+    "id": 126526, 
+    "resource_uri": "/api/rest/v2/citation/126526/"
+  }, 
+  "id": 142174, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-02-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1144.03-1238.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:34:03", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1144</span></span></p>\n    <p class=\"parties\">IBP, INC.<br>v.<br>ALVAREZ, INDIVIDUALLY AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED, ET AL.</p>\n    <p class=\"docket\">No. 03-1238.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir.; and C. A. 1st Cir. Motion of National Chicken Council et al. for leave to file a brief as <i>amici curiae</i> in No. 03-1238 granted. Certiorari in No. 03-1238 granted limited to Question 1 presented by the petition. Certiorari in No. 04-66 granted limited to Question 1 presented by the petition and the following question: \"Do employees have a right to compensation for time they must spend waiting at required safety equipment distribution stations?\" Cases consolidated, and a total of one hour allotted for oral argument. Reported below: No. 03-1238, 339 F. 3d 894; No. 04-66, 360 F. 3d 274.</p>\n    </div>\n    ", 
+  "sha1": "39a95e3d658ac693b655a3fbc3449283c2f6aec4", 
+  "date_modified": "2014-12-21T02:21:07.912445", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/142174/ibp-inc-v-alvarez-individually-and-on-behalf/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1632470/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1144</p>\n    <p class=\"parties\">IBP, INC.<br>v.<br>ALVAREZ, INDIVIDUALLY AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED, ET AL.</p>\n    <p class=\"docket\">No. 03-1238.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir.; and C. A. 1st Cir. Motion of National Chicken Council et al. for leave to file a brief as <i>amici curiae</i> in No. 03-1238 granted. Certiorari in No. 03-1238 granted limited to Question 1 presented by the petition. Certiorari in No. 04-66 granted limited to Question 1 presented by the petition and the following question: \"Do employees have a right to compensation for time they must spend waiting at required safety equipment distribution stations?\" Cases consolidated, and a total of one hour allotted for oral argument. Reported below: No. 03-1238, 339 F. 3d 894; No. 04-66, 360 F. 3d 274.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/142174/"
+}

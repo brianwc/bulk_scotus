@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/141952/shaw-v-shaw/", "blocked": false, "citation": {"case_name": "Shaw v. Shaw", "docket_number": "04-688", "document_uris": ["/api/rest/v2/document/141952/"], "federal_cite_one": "543 U.S. 1121", "federal_cite_three": null, "federal_cite_two": null, "id": 126304, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/126304/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-01-24", "date_modified": "2014-12-21T02:21:05.077016", "docket": "/api/rest/v2/docket/465376/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1121.04-688.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1121</p>\n    <p class=\"parties\">SHAW<br>v.<br>SHAW.</p>\n    <p class=\"docket\">No. 04-688.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 24, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Fla. Certiorari denied. Reported below: 879 So. 2d 623.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1121</span></span></p>\n    <p class=\"parties\">SHAW<br>v.<br>SHAW.</p>\n    <p class=\"docket\">No. 04-688.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 24, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Fla. Certiorari denied. Reported below: 879 So. 2d 623.</p>\n    </div>\n    ", "id": 141952, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/141952/", "sha1": "d56c81d9d97b8ff18a8c5adb675b3c9f936d4468", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:33:57"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1121", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/141952/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Shaw v. Shaw", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-688", 
+    "id": 126304, 
+    "resource_uri": "/api/rest/v2/citation/126304/"
+  }, 
+  "id": 141952, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-01-24", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1121.04-688.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:33:57", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1121</span></span></p>\n    <p class=\"parties\">SHAW<br>v.<br>SHAW.</p>\n    <p class=\"docket\">No. 04-688.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 24, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Fla. Certiorari denied. Reported below: 879 So. 2d 623.</p>\n    </div>\n    ", 
+  "sha1": "d56c81d9d97b8ff18a8c5adb675b3c9f936d4468", 
+  "date_modified": "2014-12-21T02:21:05.077016", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/141952/shaw-v-shaw/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/465376/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1121</p>\n    <p class=\"parties\">SHAW<br>v.<br>SHAW.</p>\n    <p class=\"docket\">No. 04-688.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 24, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Fla. Certiorari denied. Reported below: 879 So. 2d 623.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/141952/"
+}

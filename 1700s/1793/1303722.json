@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1303722/pleasants-v-pemberton/", "blocked": false, "citation": {"case_name": "Pleasants v. Pemberton", "docket_number": null, "document_uris": ["/api/rest/v2/document/1303722/"], "federal_cite_one": "2 U.S. 196", "federal_cite_three": null, "federal_cite_two": null, "id": 1276493, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1276493/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1793-01-01", "date_modified": "2014-10-30T04:29:23.154929", "docket": "/api/rest/v2/docket/685204/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 196 (____)</b></center>\n<center><b>2 Dall. 196</b></center>\n<center><h1>PLEASANTS, Adm'tor,<br>\nversus<br>\nPEMBERTON, Adm'trix.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*197</span> Ingersoll, for the plaintiff.</p>\n<p>M`KEAN, Chief Justice.</p>\n<p>The general expression in Walton &amp; Shelley must be limited as explained in 3 Term. 33. 6. and, therefore, since the witness is disinterested, he must be admitted. Besides, he is not to contradict the writing, or deny any thing that is in it.</p>\n</div>", "html_with_citations": "", "id": 1303722, "judges": "M`kean", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1303722/", "sha1": "3fd16f54282112efb16d5ef4838eaf85312fa219", "source": "L", "time_retrieved": "2013-10-29T22:24:37.613501"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 196", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1303722/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Pleasants v. Pemberton", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1276493, 
+    "resource_uri": "/api/rest/v2/citation/1276493/"
+  }, 
+  "id": 1303722, 
+  "blocked": false, 
+  "judges": "M`kean", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1793-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 196 (____)</b></center>\n<center><b>2 Dall. 196</b></center>\n<center><h1>PLEASANTS, Adm'tor,<br>\nversus<br>\nPEMBERTON, Adm'trix.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*197</span> Ingersoll, for the plaintiff.</p>\n<p>M`KEAN, Chief Justice.</p>\n<p>The general expression in Walton &amp; Shelley must be limited as explained in 3 Term. 33. 6. and, therefore, since the witness is disinterested, he must be admitted. Besides, he is not to contradict the writing, or deny any thing that is in it.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:24:37.613501", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "3fd16f54282112efb16d5ef4838eaf85312fa219", 
+  "date_modified": "2014-10-30T04:29:23.154929", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1303722/pleasants-v-pemberton/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/685204/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1303722/"
+}

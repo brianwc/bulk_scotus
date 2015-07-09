@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1859655/davis-v-georgia/", "blocked": false, "citation": {"case_name": "Davis v. Georgia", "docket_number": "08-66 O8A241", "document_uris": ["/api/rest/v2/document/1859655/"], "federal_cite_one": "129 S. Ct. 397", "federal_cite_three": null, "federal_cite_two": null, "id": 1832426, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1832426/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2008-09-23", "date_modified": "2014-10-30T17:29:43.156897", "docket": "/api/rest/v2/docket/2518645/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><h1>TROY A. DAVIS<br>\nv.<br>\nGEORGIA</h1></center>\n<center>08-66\nO8A241</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 23, 2008.</center>\n<p>The application for stay of execution of sentence of death presented to Justice Thomas and by him referred to the Court is granted pending the disposition of the petition for a writ of certiorari. Should the petition for a writ of certiorari be denied, this stay shall terminate automatically. In the event the petition for a writ of certiorari is granted, the stay shall terminate upon the issuance of the mandate of this Court.</p>\n</div>", "html_with_citations": "", "id": 1859655, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1859655/", "sha1": "0d386e01d2d65e57aca4ca915e6a8c870fcb253b", "source": "L", "time_retrieved": "2013-10-30T00:38:49.190870"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "129 S. Ct. 397", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1859655/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Davis v. Georgia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "08-66 O8A241", 
+    "id": 1832426, 
+    "resource_uri": "/api/rest/v2/citation/1832426/"
+  }, 
+  "id": 1859655, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2008-09-23", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><h1>TROY A. DAVIS<br>\nv.<br>\nGEORGIA</h1></center>\n<center>08-66\nO8A241</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>September 23, 2008.</center>\n<p>The application for stay of execution of sentence of death presented to Justice Thomas and by him referred to the Court is granted pending the disposition of the petition for a writ of certiorari. Should the petition for a writ of certiorari be denied, this stay shall terminate automatically. In the event the petition for a writ of certiorari is granted, the stay shall terminate upon the issuance of the mandate of this Court.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:38:49.190870", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0d386e01d2d65e57aca4ca915e6a8c870fcb253b", 
+  "date_modified": "2014-10-30T17:29:43.156897", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1859655/davis-v-georgia/", 
+  "citation_count": 7, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2518645/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1859655/"
+}

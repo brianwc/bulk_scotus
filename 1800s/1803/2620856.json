@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620856/humphries-v-blights-assignees/", "blocked": false, "citation": {"case_name": "Humphries v. Blight's Assignees", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620856/"], "federal_cite_one": "4 U.S. 370", "federal_cite_three": null, "federal_cite_two": null, "id": 2593628, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593628/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1803-04-01", "date_modified": "2014-10-30T17:23:47.298507", "docket": "/api/rest/v2/docket/2503853/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 370 (____)</b></center>\n<center><b>4 Dall. 370</b></center>\n<center><h1>Humphries<br>\nv.<br>\nBlight's Assignees.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Hare and Dallas argued for the plaintiff.</p>\n<p><span class=\"star-pagination\">*371</span> Rawle argued for the defendants.</p>\n<p>By the COURT:</p>\n<p>1st. We have no doubt upon the right of the assignee of the note in this case, to prove the debt under the commission, and to receive a dividend. The certificate of the bankrupt, would be a bar to a recovery, in an action by the present holder of the note against him; and wherever a certificate will be a bar, the right to prove the debt, under the commission, must be unquestionable.</p>\n<p>2d. In the case of negotiable paper, or in the case of an assignable bond, we have always thought, that the assignee takes it discharged of all the equity (as between the original parties) of which he had no notice. But whenever the assignee has notice of such equity, either positively, or constructively, he takes the assignment at his peril. The assignment, in this case, was taken after the commission of bankruptcy had issued; and the commission was legal notice, that wherever mutual debts subsisted, between the bankrupt and his creditors, the right of set-off attached. The set-off claimed by the assignees must, therefore, be allowed: and this opinion is given, without admitting any distinction, whether the notes were due, or not, before the assignment; but merely upon the ground, that the assignment was subsequent to the commission.</p>\n</div>", "html_with_citations": "", "id": 2620856, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620856/", "sha1": "e849180eb306a15de5de8f97de7f1f68d7deedf0", "source": "L", "time_retrieved": "2013-11-01T12:33:25.437562"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 370", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620856/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Humphries v. Blight's Assignees", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593628, 
+    "resource_uri": "/api/rest/v2/citation/2593628/"
+  }, 
+  "id": 2620856, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1803-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 370 (____)</b></center>\n<center><b>4 Dall. 370</b></center>\n<center><h1>Humphries<br>\nv.<br>\nBlight's Assignees.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Hare and Dallas argued for the plaintiff.</p>\n<p><span class=\"star-pagination\">*371</span> Rawle argued for the defendants.</p>\n<p>By the COURT:</p>\n<p>1st. We have no doubt upon the right of the assignee of the note in this case, to prove the debt under the commission, and to receive a dividend. The certificate of the bankrupt, would be a bar to a recovery, in an action by the present holder of the note against him; and wherever a certificate will be a bar, the right to prove the debt, under the commission, must be unquestionable.</p>\n<p>2d. In the case of negotiable paper, or in the case of an assignable bond, we have always thought, that the assignee takes it discharged of all the equity (as between the original parties) of which he had no notice. But whenever the assignee has notice of such equity, either positively, or constructively, he takes the assignment at his peril. The assignment, in this case, was taken after the commission of bankruptcy had issued; and the commission was legal notice, that wherever mutual debts subsisted, between the bankrupt and his creditors, the right of set-off attached. The set-off claimed by the assignees must, therefore, be allowed: and this opinion is given, without admitting any distinction, whether the notes were due, or not, before the assignment; but merely upon the ground, that the assignment was subsequent to the commission.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T12:33:25.437562", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e849180eb306a15de5de8f97de7f1f68d7deedf0", 
+  "date_modified": "2014-10-30T17:23:47.298507", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620856/humphries-v-blights-assignees/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2503853/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620856/"
+}

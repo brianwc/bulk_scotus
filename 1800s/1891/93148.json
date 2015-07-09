@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/93148/williams-v-passumpsic-sav-bank/", "blocked": false, "citation": {"case_name": "Williams v. Passumpsic Sav. Bank", "docket_number": null, "document_uris": ["/api/rest/v2/document/93148/"], "federal_cite_one": "141 U.S. 249", "federal_cite_three": null, "federal_cite_two": null, "id": 77528, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/77528/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1891-04-06", "date_modified": "2014-12-21T01:31:19.082116", "docket": "/api/rest/v2/docket/1387597/", "download_url": "http://bulk.resource.org/courts.gov/c/US/141/141.US.249.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">141 U.S. 249</p>\n    <p class=\"case_cite\">11 S.Ct. 1005</p>\n    <p class=\"case_cite\">35 L.Ed. 628</p>\n    <p class=\"parties\">WILLIAMS<br>v.<br>PASSUMPSIC SAV. BANK.</p>\n    <p class=\"date\">April 6, 1891.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>H. Bisbee</i>, for plaintiff in error.</p>\n      <p class=\"indent\"><i>Henry C. Ide</i>, for defendant in error.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The mandate in this cause will issue forthwith, and if the plaintiff in error seasonably take and prosecute an appeal from that rendered by the circuit court, leave will be granted to file as part of the return on said appeal the transcript of the record in this cause.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">141</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">249</span></span></p>\n    <p class=\"case_cite\">11 S.Ct. 1005</p>\n    <p class=\"case_cite\">35 L.Ed. 628</p>\n    <p class=\"parties\">WILLIAMS<br>v.<br>PASSUMPSIC SAV. BANK.</p>\n    <p class=\"date\">April 6, 1891.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>H. Bisbee</i>, for plaintiff in error.</p>\n      <p class=\"indent\"><i>Henry C. Ide</i>, for defendant in error.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The mandate in this cause will issue forthwith, and if the plaintiff in error seasonably take and prosecute an appeal from that rendered by the circuit court, leave will be granted to file as part of the return on said appeal the transcript of the record in this cause.</p>\n    </div>\n    ", "id": 93148, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/93148/", "sha1": "89d0590c60533900a8e97441c3881bdaee319eaf", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:06:57"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "141 U.S. 249", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/93148/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Williams v. Passumpsic Sav. Bank", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 77528, 
+    "resource_uri": "/api/rest/v2/citation/77528/"
+  }, 
+  "id": 93148, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1891-04-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/141/141.US.249.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:06:57", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">141</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">249</span></span></p>\n    <p class=\"case_cite\">11 S.Ct. 1005</p>\n    <p class=\"case_cite\">35 L.Ed. 628</p>\n    <p class=\"parties\">WILLIAMS<br>v.<br>PASSUMPSIC SAV. BANK.</p>\n    <p class=\"date\">April 6, 1891.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>H. Bisbee</i>, for plaintiff in error.</p>\n      <p class=\"indent\"><i>Henry C. Ide</i>, for defendant in error.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The mandate in this cause will issue forthwith, and if the plaintiff in error seasonably take and prosecute an appeal from that rendered by the circuit court, leave will be granted to file as part of the return on said appeal the transcript of the record in this cause.</p>\n    </div>\n    ", 
+  "sha1": "89d0590c60533900a8e97441c3881bdaee319eaf", 
+  "date_modified": "2014-12-21T01:31:19.082116", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/93148/williams-v-passumpsic-sav-bank/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1387597/", 
+  "html": "<p class=\"case_cite\">141 U.S. 249</p>\n    <p class=\"case_cite\">11 S.Ct. 1005</p>\n    <p class=\"case_cite\">35 L.Ed. 628</p>\n    <p class=\"parties\">WILLIAMS<br>v.<br>PASSUMPSIC SAV. BANK.</p>\n    <p class=\"date\">April 6, 1891.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>H. Bisbee</i>, for plaintiff in error.</p>\n      <p class=\"indent\"><i>Henry C. Ide</i>, for defendant in error.</p>\n      <p class=\"indent\">FULLER, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The mandate in this cause will issue forthwith, and if the plaintiff in error seasonably take and prosecute an appeal from that rendered by the circuit court, leave will be granted to file as part of the return on said appeal the transcript of the record in this cause.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/93148/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/111640/eurus-kelly-waters-petitioner-v-ralph-kemp/", "blocked": false, "citation": {"case_name": "Eurus Kelly Waters v. Ralph Kemp, Warden", "docket_number": "85-6010", "document_uris": ["/api/rest/v2/document/111640/"], "federal_cite_one": "475 U.S. 1039", "federal_cite_three": null, "federal_cite_two": null, "id": 95999, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/95999/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1986-02-24", "date_modified": "2014-12-21T02:08:54.022118", "docket": "/api/rest/v2/docket/2501097/", "download_url": "http://bulk.resource.org/courts.gov/c/US/475/475.US.1039.85-6010.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">475 U.S. 1039</p>\n    <p class=\"case_cite\">106 S.Ct. 1249</p>\n    <p class=\"case_cite\">89 L.Ed.2d 357</p>\n    <p class=\"parties\">Eurus Kelly WATERS, petitioner,<br>v.<br>Ralph KEMP, Warden.</p>\n    <p class=\"docket\">No. 85-6010</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 24, 1986</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The petition for a writ of certiorari to the Supreme Court of Georgia is denied.</p>\n      <p class=\"indent\">Justice BRENNAN, dissenting:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Adhering to my view that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> 428 U.S. 153, 227, 96 S.Ct. 2909, 2950, 49 L.Ed.2d 859 (1976), I would grant certiorari and vacate the death sentence in this case.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Justice MARSHALL and Justice BLACKMUN would grant the petition for a writ of certiorari, vacate the judgment and remand the case to the Supreme Court of Georgia for further consideration in light of <i>Caldwell v. Mississippi,</i> 472 U.S. 320, 105 S.Ct. 2633, 86 L.Ed.2d 231 (1985).</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">475</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1039</span></span></p>\n    <p class=\"case_cite\">106 S.Ct. 1249</p>\n    <p class=\"case_cite\">89 L.Ed.2d 357</p>\n    <p class=\"parties\">Eurus Kelly WATERS, petitioner,<br>v.<br>Ralph KEMP, Warden.</p>\n    <p class=\"docket\">No. 85-6010</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 24, 1986</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The petition for a writ of certiorari to the Supreme Court of Georgia is denied.</p>\n      <p class=\"indent\">Justice BRENNAN, dissenting:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Adhering to my view that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> <span class=\"citation\" data-id=\"109532\"><a href=\"/opinion/109532/gregg-v-georgia/\"><span class=\"volume\">428</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">153</span></a></span>, 227, 96 S.Ct. 2909, 2950, 49 L.Ed.2d 859 (1976), I would grant certiorari and vacate the death sentence in this case.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Justice MARSHALL and Justice BLACKMUN would grant the petition for a writ of certiorari, vacate the judgment and remand the case to the Supreme Court of Georgia for further consideration in light of <i>Caldwell v. Mississippi,</i> <span class=\"citation\" data-id=\"111471\"><a href=\"/opinion/111471/caldwell-v-mississippi/\"><span class=\"volume\">472</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">320</span></a></span>, 105 S.Ct. 2633, 86 L.Ed.2d 231 (1985).</p>\n    </div>\n    ", "id": 111640, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/111640/", "sha1": "562adebc04bd44bf3cd263de477f621ef11e933b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:13:19"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "475 U.S. 1039", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/111640/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Eurus Kelly Waters v. Ralph Kemp, Warden", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "85-6010", 
+    "id": 95999, 
+    "resource_uri": "/api/rest/v2/citation/95999/"
+  }, 
+  "id": 111640, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1986-02-24", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/475/475.US.1039.85-6010.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:13:19", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">475</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1039</span></span></p>\n    <p class=\"case_cite\">106 S.Ct. 1249</p>\n    <p class=\"case_cite\">89 L.Ed.2d 357</p>\n    <p class=\"parties\">Eurus Kelly WATERS, petitioner,<br>v.<br>Ralph KEMP, Warden.</p>\n    <p class=\"docket\">No. 85-6010</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 24, 1986</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The petition for a writ of certiorari to the Supreme Court of Georgia is denied.</p>\n      <p class=\"indent\">Justice BRENNAN, dissenting:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Adhering to my view that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> <span class=\"citation\" data-id=\"109532\"><a href=\"/opinion/109532/gregg-v-georgia/\"><span class=\"volume\">428</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">153</span></a></span>, 227, 96 S.Ct. 2909, 2950, 49 L.Ed.2d 859 (1976), I would grant certiorari and vacate the death sentence in this case.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Justice MARSHALL and Justice BLACKMUN would grant the petition for a writ of certiorari, vacate the judgment and remand the case to the Supreme Court of Georgia for further consideration in light of <i>Caldwell v. Mississippi,</i> <span class=\"citation\" data-id=\"111471\"><a href=\"/opinion/111471/caldwell-v-mississippi/\"><span class=\"volume\">472</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">320</span></a></span>, 105 S.Ct. 2633, 86 L.Ed.2d 231 (1985).</p>\n    </div>\n    ", 
+  "sha1": "562adebc04bd44bf3cd263de477f621ef11e933b", 
+  "date_modified": "2014-12-21T02:08:54.022118", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/111640/eurus-kelly-waters-petitioner-v-ralph-kemp/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2501097/", 
+  "html": "<p class=\"case_cite\">475 U.S. 1039</p>\n    <p class=\"case_cite\">106 S.Ct. 1249</p>\n    <p class=\"case_cite\">89 L.Ed.2d 357</p>\n    <p class=\"parties\">Eurus Kelly WATERS, petitioner,<br>v.<br>Ralph KEMP, Warden.</p>\n    <p class=\"docket\">No. 85-6010</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 24, 1986</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The petition for a writ of certiorari to the Supreme Court of Georgia is denied.</p>\n      <p class=\"indent\">Justice BRENNAN, dissenting:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Adhering to my view that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> 428 U.S. 153, 227, 96 S.Ct. 2909, 2950, 49 L.Ed.2d 859 (1976), I would grant certiorari and vacate the death sentence in this case.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Justice MARSHALL and Justice BLACKMUN would grant the petition for a writ of certiorari, vacate the judgment and remand the case to the Supreme Court of Georgia for further consideration in light of <i>Caldwell v. Mississippi,</i> 472 U.S. 320, 105 S.Ct. 2633, 86 L.Ed.2d 231 (1985).</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/111640/"
+}

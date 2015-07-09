@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/102426/anselan-buchanan-thompson-buchanan-et-al/", "blocked": false, "citation": {"case_name": "Anselan Buchanan, Thompson Buchanan v. The United States.", "docket_number": "679", "document_uris": ["/api/rest/v2/document/102426/"], "federal_cite_one": "294 U.S. 723", "federal_cite_three": null, "federal_cite_two": null, "id": 86809, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/86809/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1935-03-18", "date_modified": "2014-12-21T01:40:49.460142", "docket": "/api/rest/v2/docket/2045780/", "download_url": "http://bulk.resource.org/courts.gov/c/US/294/294.US.723.679.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">294 U.S. 723</p>\n    <p class=\"case_cite\">55 S.Ct. 550</p>\n    <p class=\"case_cite\">79 L.Ed. 1254</p>\n    <p class=\"parties\">Anselan BUCHANAN, Thompson Buchanan, et al., petitioners,<br>v.<br>The UNITED STATES.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 679.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 18, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Camden R. McAtee, of Washington, D. C., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Attorney General, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Claims denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 55 S. Ct. 647, 79 L. Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">723</span></span></p>\n    <p class=\"case_cite\">55 S.Ct. 550</p>\n    <p class=\"case_cite\">79 L.Ed. 1254</p>\n    <p class=\"parties\">Anselan BUCHANAN, Thompson Buchanan, et al., petitioners,<br>v.<br>The UNITED STATES.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 679.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 18, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Camden R. McAtee, of Washington, D. C., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Attorney General, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Claims denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">647</span></span>, 79 L. Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", "id": 102426, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/102426/", "sha1": "e3843c4937268df65f6ab2c9c0feb3337db4fa1a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:52:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "294 U.S. 723", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/102426/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Anselan Buchanan, Thompson Buchanan v. The United States.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "679", 
+    "id": 86809, 
+    "resource_uri": "/api/rest/v2/citation/86809/"
+  }, 
+  "id": 102426, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1935-03-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/294/294.US.723.679.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:52:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">723</span></span></p>\n    <p class=\"case_cite\">55 S.Ct. 550</p>\n    <p class=\"case_cite\">79 L.Ed. 1254</p>\n    <p class=\"parties\">Anselan BUCHANAN, Thompson Buchanan, et al., petitioners,<br>v.<br>The UNITED STATES.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 679.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 18, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Camden R. McAtee, of Washington, D. C., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Attorney General, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Claims denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">647</span></span>, 79 L. Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "e3843c4937268df65f6ab2c9c0feb3337db4fa1a", 
+  "date_modified": "2014-12-21T01:40:49.460142", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/102426/anselan-buchanan-thompson-buchanan-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2045780/", 
+  "html": "<p class=\"case_cite\">294 U.S. 723</p>\n    <p class=\"case_cite\">55 S.Ct. 550</p>\n    <p class=\"case_cite\">79 L.Ed. 1254</p>\n    <p class=\"parties\">Anselan BUCHANAN, Thompson Buchanan, et al., petitioners,<br>v.<br>The UNITED STATES.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 679.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 18, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Camden R. McAtee, of Washington, D. C., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Attorney General, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Claims denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 55 S. Ct. 647, 79 L. Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/102426/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/142749/leon-c-baker-p-c-v-merrill-lynch-pierce/", "blocked": false, "citation": {"case_name": "Leon C. Baker P. C. v. Merrill Lynch, Pierce, Fenner & Smith, Inc", "docket_number": "04M55", "document_uris": ["/api/rest/v2/document/142749/"], "federal_cite_one": "543 U.S. 1185", "federal_cite_three": null, "federal_cite_two": null, "id": 127101, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/127101/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-02-28", "date_modified": "2014-12-21T02:21:15.523430", "docket": "/api/rest/v2/docket/1803999/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1185.04.55.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1185</p>\n    <p class=\"parties\">LEON C. BAKER P. C.<br>v.<br>MERRILL LYNCH, PIERCE, FENNER &amp; SMITH, INC.</p>\n    <p class=\"docket\">No. 04M55.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motions to direct the Clerk to file petitions for writs of certiorari out of time denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1185</span></span></p>\n    <p class=\"parties\">LEON C. BAKER P. C.<br>v.<br>MERRILL LYNCH, PIERCE, FENNER &amp; SMITH, INC.</p>\n    <p class=\"docket\">No. 04M55.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motions to direct the Clerk to file petitions for writs of certiorari out of time denied.</p>\n    </div>\n    ", "id": 142749, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/142749/", "sha1": "52d052f1693acf64018ef1d7a785cb614c5ded63", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:34:16"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1185", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/142749/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Leon C. Baker P. C. v. Merrill Lynch, Pierce, Fenner & Smith, Inc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04M55", 
+    "id": 127101, 
+    "resource_uri": "/api/rest/v2/citation/127101/"
+  }, 
+  "id": 142749, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-02-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1185.04.55.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:34:16", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1185</span></span></p>\n    <p class=\"parties\">LEON C. BAKER P. C.<br>v.<br>MERRILL LYNCH, PIERCE, FENNER &amp; SMITH, INC.</p>\n    <p class=\"docket\">No. 04M55.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motions to direct the Clerk to file petitions for writs of certiorari out of time denied.</p>\n    </div>\n    ", 
+  "sha1": "52d052f1693acf64018ef1d7a785cb614c5ded63", 
+  "date_modified": "2014-12-21T02:21:15.523430", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/142749/leon-c-baker-p-c-v-merrill-lynch-pierce/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1803999/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1185</p>\n    <p class=\"parties\">LEON C. BAKER P. C.<br>v.<br>MERRILL LYNCH, PIERCE, FENNER &amp; SMITH, INC.</p>\n    <p class=\"docket\">No. 04M55.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 28, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Motions to direct the Clerk to file petitions for writs of certiorari out of time denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/142749/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/109152/edwin-clay-and-arthur-john-sweeney-jr/", "blocked": false, "citation": {"case_name": "Edwin Clay and Arthur John Sweeney, Jr. v. United States", "docket_number": "73-6623", "document_uris": ["/api/rest/v2/document/109152/"], "federal_cite_one": "419 U.S. 937", "federal_cite_three": null, "federal_cite_two": null, "id": 93511, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/93511/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 17, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1974-10-21", "date_modified": "2014-12-21T02:00:01.699561", "docket": "/api/rest/v2/docket/264069/", "download_url": "http://bulk.resource.org/courts.gov/c/US/419/419.US.937.73-6623.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">419 U.S. 937</p>\n    <p class=\"case_cite\">95 S.Ct. 207</p>\n    <p class=\"case_cite\">42 L.Ed.2d 164</p>\n    <p class=\"parties\">Edwin CLAY and Arthur John Sweeney, Jr., petitioners,<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 73-6623.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1974</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART would grant certiorari.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS and Mr. Justice STEWART join.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">Separate dissenting statement by Mr. Justice DOUGLAS.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">419</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">937</span></span></p>\n    <p class=\"case_cite\">95 S.Ct. 207</p>\n    <p class=\"case_cite\">42 L.Ed.2d 164</p>\n    <p class=\"parties\">Edwin CLAY and Arthur John Sweeney, Jr., petitioners,<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 73-6623.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1974</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART would grant certiorari.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS and Mr. Justice STEWART join.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">Separate dissenting statement by Mr. Justice DOUGLAS.</p>\n    </div>\n    ", "id": 109152, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/109152/", "sha1": "4fa0632fbc6a05f39b31254d91ea303bae1f7b57", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "419 U.S. 937", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/109152/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Edwin Clay and Arthur John Sweeney, Jr. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "73-6623", 
+    "id": 93511, 
+    "resource_uri": "/api/rest/v2/citation/93511/"
+  }, 
+  "id": 109152, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1974-10-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/419/419.US.937.73-6623.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">419</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">937</span></span></p>\n    <p class=\"case_cite\">95 S.Ct. 207</p>\n    <p class=\"case_cite\">42 L.Ed.2d 164</p>\n    <p class=\"parties\">Edwin CLAY and Arthur John Sweeney, Jr., petitioners,<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 73-6623.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1974</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART would grant certiorari.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS and Mr. Justice STEWART join.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">Separate dissenting statement by Mr. Justice DOUGLAS.</p>\n    </div>\n    ", 
+  "sha1": "4fa0632fbc6a05f39b31254d91ea303bae1f7b57", 
+  "date_modified": "2014-12-21T02:00:01.699561", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/109152/edwin-clay-and-arthur-john-sweeney-jr/", 
+  "citation_count": 17, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/264069/", 
+  "html": "<p class=\"case_cite\">419 U.S. 937</p>\n    <p class=\"case_cite\">95 S.Ct. 207</p>\n    <p class=\"case_cite\">42 L.Ed.2d 164</p>\n    <p class=\"parties\">Edwin CLAY and Arthur John Sweeney, Jr., petitioners,<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 73-6623.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1974</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART would grant certiorari.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS and Mr. Justice STEWART join.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">Separate dissenting statement by Mr. Justice DOUGLAS.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/109152/"
+}

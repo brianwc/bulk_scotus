@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108258/dexter-et-al-v-schrunk-et-al/", "blocked": false, "citation": {"case_name": "Dexter v. Schrunk", "docket_number": null, "document_uris": ["/api/rest/v2/document/108258/"], "federal_cite_one": "400 U.S. 1207", "federal_cite_three": null, "federal_cite_two": null, "id": 92617, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92617/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-08-29", "date_modified": "2014-12-21T01:57:07.289805", "docket": "/api/rest/v2/docket/2325485/", "download_url": "http://bulk.resource.org/courts.gov/c/US/400/400.US.1207.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">400 U.S. 1207</p>\n    <p class=\"case_cite\">91 S.Ct. 7</p>\n    <p class=\"case_cite\">27 L.Ed.2d 29</p>\n    <p class=\"parties\">DEXTER et al.<br>v.<br>SCHRUNK et al.</p>\n    <p class=\"docket\">No. _____.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">August 29, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Application for a restraining order</i>.</p>\n      <p class=\"indent\">Mr. Justice DOUGLAS, Circuit Justice.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Under Dombrowski Pfister, 380 U.S. 479, 85 S.Ct. 1116, 14 L.Ed.2d 22, applicants make out a strong case for federal protection of their First Amendment rights. But <i>Dombrowski</i>, a five-to-two decision decided in 1965, is up for reexamination in cases set for reargument this fall. If the present case were before the Conference, I am confident it would be held pending the cases to be reargued. Hence, as Circuit Justice, I do not feel warranted in taking action contrary to what I feel the Conference would do. Accordingly, I deny the restraining order requested.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">400</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1207</span></span></p>\n    <p class=\"case_cite\">91 S.Ct. 7</p>\n    <p class=\"case_cite\">27 L.Ed.2d 29</p>\n    <p class=\"parties\">DEXTER et al.<br>v.<br>SCHRUNK et al.</p>\n    <p class=\"docket\">No. _____.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">August 29, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Application for a restraining order</i>.</p>\n      <p class=\"indent\">Mr. Justice DOUGLAS, Circuit Justice.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Under Dombrowski Pfister, <span class=\"citation\" data-id=\"107025\"><a href=\"/opinion/107025/dombrowski-v-pfister/\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">479</span></a></span>, 85 S.Ct. 1116, 14 L.Ed.2d 22, applicants make out a strong case for federal protection of their First Amendment rights. But <i>Dombrowski</i>, a five-to-two decision decided in 1965, is up for reexamination in cases set for reargument this fall. If the present case were before the Conference, I am confident it would be held pending the cases to be reargued. Hence, as Circuit Justice, I do not feel warranted in taking action contrary to what I feel the Conference would do. Accordingly, I deny the restraining order requested.</p>\n    </div>\n    ", "id": 108258, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108258/", "sha1": "9ebde290da9617c1e92bfafec9e26ad2d0ce4fb5", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:27"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "400 U.S. 1207", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/108258/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dexter v. Schrunk", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 92617, 
+    "resource_uri": "/api/rest/v2/citation/92617/"
+  }, 
+  "id": 108258, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-08-29", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/400/400.US.1207.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:27", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">400</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1207</span></span></p>\n    <p class=\"case_cite\">91 S.Ct. 7</p>\n    <p class=\"case_cite\">27 L.Ed.2d 29</p>\n    <p class=\"parties\">DEXTER et al.<br>v.<br>SCHRUNK et al.</p>\n    <p class=\"docket\">No. _____.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">August 29, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Application for a restraining order</i>.</p>\n      <p class=\"indent\">Mr. Justice DOUGLAS, Circuit Justice.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Under Dombrowski Pfister, <span class=\"citation\" data-id=\"107025\"><a href=\"/opinion/107025/dombrowski-v-pfister/\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">479</span></a></span>, 85 S.Ct. 1116, 14 L.Ed.2d 22, applicants make out a strong case for federal protection of their First Amendment rights. But <i>Dombrowski</i>, a five-to-two decision decided in 1965, is up for reexamination in cases set for reargument this fall. If the present case were before the Conference, I am confident it would be held pending the cases to be reargued. Hence, as Circuit Justice, I do not feel warranted in taking action contrary to what I feel the Conference would do. Accordingly, I deny the restraining order requested.</p>\n    </div>\n    ", 
+  "sha1": "9ebde290da9617c1e92bfafec9e26ad2d0ce4fb5", 
+  "date_modified": "2014-12-21T01:57:07.289805", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108258/dexter-et-al-v-schrunk-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2325485/", 
+  "html": "<p class=\"case_cite\">400 U.S. 1207</p>\n    <p class=\"case_cite\">91 S.Ct. 7</p>\n    <p class=\"case_cite\">27 L.Ed.2d 29</p>\n    <p class=\"parties\">DEXTER et al.<br>v.<br>SCHRUNK et al.</p>\n    <p class=\"docket\">No. _____.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">August 29, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Application for a restraining order</i>.</p>\n      <p class=\"indent\">Mr. Justice DOUGLAS, Circuit Justice.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Under Dombrowski Pfister, 380 U.S. 479, 85 S.Ct. 1116, 14 L.Ed.2d 22, applicants make out a strong case for federal protection of their First Amendment rights. But <i>Dombrowski</i>, a five-to-two decision decided in 1965, is up for reexamination in cases set for reargument this fall. If the present case were before the Conference, I am confident it would be held pending the cases to be reargued. Hence, as Circuit Justice, I do not feel warranted in taking action contrary to what I feel the Conference would do. Accordingly, I deny the restraining order requested.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108258/"
+}

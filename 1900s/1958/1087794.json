@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087794/ullner-v-ohio/", "blocked": false, "citation": {"case_name": "Ullner v. Ohio", "docket_number": "426", "document_uris": ["/api/rest/v2/document/1087794/"], "federal_cite_one": "358 U.S. 131", "federal_cite_three": null, "federal_cite_two": null, "id": 1060565, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060565/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-12-08", "date_modified": "2014-10-30T17:42:05.877189", "docket": "/api/rest/v2/docket/2555897/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>358 U.S. 131 (1958)</b></center>\n<center><h1>ULLNER<br>\nv.<br>\nOHIO.</h1></center>\n<center>No. 426.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 8, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF OHIO.\n<p><i>Robert P. Goldman</i> for appellant.</p>\n<p><i>Morton B. Icove</i> filed a brief for the Ohio Civil Liberties Union et al., as <i>amici curiae,</i> in support of jurisdiction.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE FRANKFURTER and MR. JUSTICE STEWART took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 1087794, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087794/", "sha1": "85e5f7d69c3f8b1559b54dfa444da27f2c4c5dce", "source": "L", "time_retrieved": "2013-10-29T19:43:02.106542"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "358 U.S. 131", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087794/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ullner v. Ohio", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "426", 
+    "id": 1060565, 
+    "resource_uri": "/api/rest/v2/citation/1060565/"
+  }, 
+  "id": 1087794, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-12-08", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>358 U.S. 131 (1958)</b></center>\n<center><h1>ULLNER<br>\nv.<br>\nOHIO.</h1></center>\n<center>No. 426.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 8, 1958.</center>\nAPPEAL FROM THE SUPREME COURT OF OHIO.\n<p><i>Robert P. Goldman</i> for appellant.</p>\n<p><i>Morton B. Icove</i> filed a brief for the Ohio Civil Liberties Union et al., as <i>amici curiae,</i> in support of jurisdiction.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of a substantial federal question.</p>\n<p>MR. JUSTICE FRANKFURTER and MR. JUSTICE STEWART took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:43:02.106542", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "85e5f7d69c3f8b1559b54dfa444da27f2c4c5dce", 
+  "date_modified": "2014-10-30T17:42:05.877189", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087794/ullner-v-ohio/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2555897/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087794/"
+}

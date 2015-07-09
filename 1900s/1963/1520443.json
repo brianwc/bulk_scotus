@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1520443/newsome-v-north-carolina/", "blocked": false, "citation": {"case_name": "Newsome v. North Carolina", "docket_number": "11 M", "document_uris": ["/api/rest/v2/document/1520443/"], "federal_cite_one": "375 U.S. 21", "federal_cite_three": "11 L. Ed. 2d 41", "federal_cite_two": "84 S. Ct. 80", "id": 1493214, "lexis_cite": "1963 U.S. LEXIS 530", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1493214/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-10-14", "date_modified": "2014-12-19T17:50:01.388510", "docket": "/api/rest/v2/docket/1063935/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>375 U.S. 21 (1963)</b></center>\n<center><h1>NEWSOME<br>\nv.<br>\nNORTH CAROLINA.</h1></center>\n<center>No. 11, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF NORTH CAROLINA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Thomas Wade Bruton,</i> Attorney General of North Carolina, and <i>Ralph Moody,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of North Carolina for further consideration in light of <i>Gideon</i> v. <i>Wainwright,</i> 372 U. S. 335.</p>\n<p>MR. JUSTICE HARLAN, for the reasons stated in his dissenting opinion in <i>Pickelsimer</i> v. <i>Wainwright, ante,</i> p. 3, would have withheld disposition of this petition for certiorari until the disposition, after argument, of that case.</p>\n</div>", "html_with_citations": "", "id": 1520443, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1520443/", "sha1": "bf4215dc32d36115f7c24b1e70ad74982b28e9df", "source": "L", "supreme_court_db_id": "1963-005", "time_retrieved": "2013-10-29T23:33:57.384171"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 21", 
+    "federal_cite_two": "84 S. Ct. 80", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "11 L. Ed. 2d 41", 
+    "lexis_cite": "1963 U.S. LEXIS 530", 
+    "document_uris": [
+      "/api/rest/v2/document/1520443/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Newsome v. North Carolina", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "11 M", 
+    "id": 1493214, 
+    "resource_uri": "/api/rest/v2/citation/1493214/"
+  }, 
+  "id": 1520443, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-10-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 21 (1963)</b></center>\n<center><h1>NEWSOME<br>\nv.<br>\nNORTH CAROLINA.</h1></center>\n<center>No. 11, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF NORTH CAROLINA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Thomas Wade Bruton,</i> Attorney General of North Carolina, and <i>Ralph Moody,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of North Carolina for further consideration in light of <i>Gideon</i> v. <i>Wainwright,</i> 372 U. S. 335.</p>\n<p>MR. JUSTICE HARLAN, for the reasons stated in his dissenting opinion in <i>Pickelsimer</i> v. <i>Wainwright, ante,</i> p. 3, would have withheld disposition of this petition for certiorari until the disposition, after argument, of that case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:33:57.384171", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bf4215dc32d36115f7c24b1e70ad74982b28e9df", 
+  "date_modified": "2014-12-19T17:50:01.388510", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1520443/newsome-v-north-carolina/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": "1963-005", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1063935/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1520443/"
+}

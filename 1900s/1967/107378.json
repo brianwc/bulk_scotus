@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107378/harold-lloyd-garner-v-california/", "blocked": false, "citation": {"case_name": "Harold Lloyd Garner v. California", "docket_number": "22, Misc", "document_uris": ["/api/rest/v2/document/107378/"], "federal_cite_one": "386 U.S. 272", "federal_cite_three": null, "federal_cite_two": null, "id": 91737, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91737/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-03-13", "date_modified": "2014-12-21T01:55:18.396204", "docket": "/api/rest/v2/docket/490480/", "download_url": "http://bulk.resource.org/courts.gov/c/US/386/386.US.272.22.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">386 U.S. 272</p>\n    <p class=\"case_cite\">87 S.Ct. 1033</p>\n    <p class=\"case_cite\">18 L.Ed.2d 41</p>\n    <p class=\"parties\">Harold Lloyd GARNER<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 22, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 13, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Harold Lloyd Garner, pro se.</p>\n      <p class=\"indent\">Thomas C. Lynch, Atty. Gen. of California, and Robert R. Granucci and John F. Kraetzer, Deputy Attys. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case remanded for further consideration in light of Chapman v. State of California, 386 U.S. 18, 87 S.Ct. 824.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART would grant certiorari and reverse the judgment for the reasons stated in his opinion concurring in the result in Chapman v. State of California, 386 U.S., at 42, 87 S.Ct., at 837.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">272</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 1033</p>\n    <p class=\"case_cite\">18 L.Ed.2d 41</p>\n    <p class=\"parties\">Harold Lloyd GARNER<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 22, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 13, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Harold Lloyd Garner, pro se.</p>\n      <p class=\"indent\">Thomas C. Lynch, Atty. Gen. of California, and Robert R. Granucci and John F. Kraetzer, Deputy Attys. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case remanded for further consideration in light of Chapman v. State of California, <span class=\"citation\" data-id=\"107359\"><a href=\"/opinion/107359/chapman-v-california/\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">18</span></a></span>, 87 S.Ct. 824.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART would grant certiorari and reverse the judgment for the reasons stated in his opinion concurring in the result in Chapman v. State of California, 386 U.S., at 42, 87 S.Ct., at 837.</p>\n    </div>\n    ", "id": 107378, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107378/", "sha1": "bd33e1bd1e99d788a85fe51d05f6fef877a244ea", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:00"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "386 U.S. 272", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107378/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Harold Lloyd Garner v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "22, Misc", 
+    "id": 91737, 
+    "resource_uri": "/api/rest/v2/citation/91737/"
+  }, 
+  "id": 107378, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-03-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/386/386.US.272.22.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:00", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">272</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 1033</p>\n    <p class=\"case_cite\">18 L.Ed.2d 41</p>\n    <p class=\"parties\">Harold Lloyd GARNER<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 22, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 13, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Harold Lloyd Garner, pro se.</p>\n      <p class=\"indent\">Thomas C. Lynch, Atty. Gen. of California, and Robert R. Granucci and John F. Kraetzer, Deputy Attys. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case remanded for further consideration in light of Chapman v. State of California, <span class=\"citation\" data-id=\"107359\"><a href=\"/opinion/107359/chapman-v-california/\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">18</span></a></span>, 87 S.Ct. 824.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART would grant certiorari and reverse the judgment for the reasons stated in his opinion concurring in the result in Chapman v. State of California, 386 U.S., at 42, 87 S.Ct., at 837.</p>\n    </div>\n    ", 
+  "sha1": "bd33e1bd1e99d788a85fe51d05f6fef877a244ea", 
+  "date_modified": "2014-12-21T01:55:18.396204", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107378/harold-lloyd-garner-v-california/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/490480/", 
+  "html": "<p class=\"case_cite\">386 U.S. 272</p>\n    <p class=\"case_cite\">87 S.Ct. 1033</p>\n    <p class=\"case_cite\">18 L.Ed.2d 41</p>\n    <p class=\"parties\">Harold Lloyd GARNER<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 22, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 13, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Harold Lloyd Garner, pro se.</p>\n      <p class=\"indent\">Thomas C. Lynch, Atty. Gen. of California, and Robert R. Granucci and John F. Kraetzer, Deputy Attys. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case remanded for further consideration in light of Chapman v. State of California, 386 U.S. 18, 87 S.Ct. 824.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice STEWART would grant certiorari and reverse the judgment for the reasons stated in his opinion concurring in the result in Chapman v. State of California, 386 U.S., at 42, 87 S.Ct., at 837.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107378/"
+}

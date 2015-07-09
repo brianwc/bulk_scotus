@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1999653/national-labor-relations-board-v-clarks-gamble-cor/", "blocked": false, "citation": {"case_name": "NATIONAL LABOR RELATIONS BOARD v. Clark's Gamble Corp.", "docket_number": "439", "document_uris": ["/api/rest/v2/document/1999653/"], "federal_cite_one": "396 U.S. 23", "federal_cite_three": null, "federal_cite_two": null, "id": 1972424, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1972424/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-11-10", "date_modified": "2014-10-30T08:50:40.034771", "docket": "/api/rest/v2/docket/1321812/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>396 U.S. 23 (1969)</b></center>\n<center><h1>NATIONAL LABOR RELATIONS BOARD<br>\nv.<br>\nCLARK'S GAMBLE CORP., DBA CLARK'S DISCOUNT DEPARTMENT STORE, ET AL.</h1></center>\n<center>No. 439.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 10, 1969.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Solicitor General Griswold, Arnold Ordman, Dominick L. Manoli, Norton J. Come,</i> and <i>Leonard M. Wagman</i> for petitioner.</p>\n<p><i>Earle K. Shawe</i> for respondent M. N. Landau Stores, Inc.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted, the judgment is vacated, and the case is remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of <i>NLRB</i> v. <i>Gissel Packing Co.,</i> 395 U. S. 575.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n</div>", "html_with_citations": "", "id": 1999653, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1999653/", "sha1": "0e232a683bb27cb3a597d7a52125b1d046bd5fc2", "source": "L", "time_retrieved": "2013-10-30T01:00:46.482558"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "396 U.S. 23", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1999653/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "NATIONAL LABOR RELATIONS BOARD v. Clark's Gamble Corp.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "439", 
+    "id": 1972424, 
+    "resource_uri": "/api/rest/v2/citation/1972424/"
+  }, 
+  "id": 1999653, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-11-10", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>396 U.S. 23 (1969)</b></center>\n<center><h1>NATIONAL LABOR RELATIONS BOARD<br>\nv.<br>\nCLARK'S GAMBLE CORP., DBA CLARK'S DISCOUNT DEPARTMENT STORE, ET AL.</h1></center>\n<center>No. 439.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 10, 1969.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Solicitor General Griswold, Arnold Ordman, Dominick L. Manoli, Norton J. Come,</i> and <i>Leonard M. Wagman</i> for petitioner.</p>\n<p><i>Earle K. Shawe</i> for respondent M. N. Landau Stores, Inc.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted, the judgment is vacated, and the case is remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of <i>NLRB</i> v. <i>Gissel Packing Co.,</i> 395 U. S. 575.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T01:00:46.482558", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0e232a683bb27cb3a597d7a52125b1d046bd5fc2", 
+  "date_modified": "2014-10-30T08:50:40.034771", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1999653/national-labor-relations-board-v-clarks-gamble-cor/", 
+  "citation_count": 3, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1321812/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1999653/"
+}

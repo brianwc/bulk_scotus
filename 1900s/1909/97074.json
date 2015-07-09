@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/97074/st-paul-m-m-ry-co-v-minnesota/", "blocked": false, "citation": {"case_name": "St. Paul, M. & M. Ry. Co. v. Minnesota", "docket_number": "162", "document_uris": ["/api/rest/v2/document/97074/"], "federal_cite_one": "214 U.S. 497", "federal_cite_three": null, "federal_cite_two": null, "id": 81457, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/81457/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1909-04-26", "date_modified": "2014-12-21T01:35:00.799235", "docket": "/api/rest/v2/docket/1455054/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">214 U.S. 497</p>\n    <p class=\"case_cite\">29 S.Ct. 698</p>\n    <p class=\"case_cite\">53 L.Ed. 1060</p>\n    <p class=\"parties\">ST. PAUL, MINNEAPOLIS, &amp; MANITOBA RAILWAY COMPANY and  Great Northern Railway Company, Plaintiffs in Error,<br>v.<br>STATE OF MINNESOTA EX REL. CITY OF MINNEAPOLIS.</p>\n    <p class=\"docket\">No. 162.</p>\n    <p class=\"date\">April 26, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Rome G. Brown, William R. Begg, and Charles S. Albert for plaintiffs in error.</p>\n      <p class=\"indent\">Messrs. Frank Healy and Albert E. Clarke for defendant in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment affirmed on authority of Northern P. R. Co. v. Minnesota, 208 U. S. 583, 52 L. ed. 630, 28 Sup. Ct. Rep. 341.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>214 U.S. 497 (1909)</b></center>\n<center><h1>ST. PAUL, MINNEAPOLIS &amp; MANITOBA RAILWAY COMPANY<br>\nv.<br>\nSTATE OF MINNESOTA ex rel. CITY OF MINNEAPOLIS.</h1></center>\n<center>No. 162.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 19, 20, 1909.</center>\n<center>Decided April 26, 1909.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF MINNESOTA.\n<p><span class=\"star-pagination\">*498</span> <i>Mr. Rome G. Brown,</i> with whom <i>Mr. Charles S. Albert</i> and <i>Mr. William R. Begg</i> were on the brief, for plaintiffs in error.</p>\n<p><i>Mr. Frank Healy,</i> with whom <i>Mr. Albert E. Clarke</i> was on the brief, for defendant in error.</p>\n<p><i>Per Curiam:</i></p>\n<p>Judgment affirmed on authority of <i>Northern Pacific Railway Company</i> v. <i>State of Minnesota ex rel. Duluth,</i> 208 U.S. 583.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">497</span></span> (1909)</b></center>\n<center><h1>ST. PAUL, MINNEAPOLIS &amp; MANITOBA RAILWAY COMPANY<br>\nv.<br>\nSTATE OF MINNESOTA ex rel. CITY OF MINNEAPOLIS.</h1></center>\n<center>No. 162.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 19, 20, 1909.</center>\n<center>Decided April 26, 1909.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF MINNESOTA.\n<p><span class=\"star-pagination\">*498</span> <i>Mr. Rome G. Brown,</i> with whom <i>Mr. Charles S. Albert</i> and <i>Mr. William R. Begg</i> were on the brief, for plaintiffs in error.</p>\n<p><i>Mr. Frank Healy,</i> with whom <i>Mr. Albert E. Clarke</i> was on the brief, for defendant in error.</p>\n<p><i>Per Curiam:</i></p>\n<p>Judgment affirmed on authority of <i>Northern Pacific Railway Company</i> v. <i>State of Minnesota ex rel. Duluth,</i> 208 U.S. 583.</p>\n</div>", "id": 97074, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/97074/", "sha1": "bede14f3002de6954a5b5249d910ac0d37b52d8b", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:42:18"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "214 U.S. 497", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/97074/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "St. Paul, M. & M. Ry. Co. v. Minnesota", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "162", 
+    "id": 81457, 
+    "resource_uri": "/api/rest/v2/citation/81457/"
+  }, 
+  "id": 97074, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1909-04-26", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>214 U.S. 497 (1909)</b></center>\n<center><h1>ST. PAUL, MINNEAPOLIS &amp; MANITOBA RAILWAY COMPANY<br>\nv.<br>\nSTATE OF MINNESOTA ex rel. CITY OF MINNEAPOLIS.</h1></center>\n<center>No. 162.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 19, 20, 1909.</center>\n<center>Decided April 26, 1909.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF MINNESOTA.\n<p><span class=\"star-pagination\">*498</span> <i>Mr. Rome G. Brown,</i> with whom <i>Mr. Charles S. Albert</i> and <i>Mr. William R. Begg</i> were on the brief, for plaintiffs in error.</p>\n<p><i>Mr. Frank Healy,</i> with whom <i>Mr. Albert E. Clarke</i> was on the brief, for defendant in error.</p>\n<p><i>Per Curiam:</i></p>\n<p>Judgment affirmed on authority of <i>Northern Pacific Railway Company</i> v. <i>State of Minnesota ex rel. Duluth,</i> 208 U.S. 583.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:42:18", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">497</span></span> (1909)</b></center>\n<center><h1>ST. PAUL, MINNEAPOLIS &amp; MANITOBA RAILWAY COMPANY<br>\nv.<br>\nSTATE OF MINNESOTA ex rel. CITY OF MINNEAPOLIS.</h1></center>\n<center>No. 162.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 19, 20, 1909.</center>\n<center>Decided April 26, 1909.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF MINNESOTA.\n<p><span class=\"star-pagination\">*498</span> <i>Mr. Rome G. Brown,</i> with whom <i>Mr. Charles S. Albert</i> and <i>Mr. William R. Begg</i> were on the brief, for plaintiffs in error.</p>\n<p><i>Mr. Frank Healy,</i> with whom <i>Mr. Albert E. Clarke</i> was on the brief, for defendant in error.</p>\n<p><i>Per Curiam:</i></p>\n<p>Judgment affirmed on authority of <i>Northern Pacific Railway Company</i> v. <i>State of Minnesota ex rel. Duluth,</i> 208 U.S. 583.</p>\n</div>", 
+  "sha1": "bede14f3002de6954a5b5249d910ac0d37b52d8b", 
+  "date_modified": "2014-12-21T01:35:00.799235", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/97074/st-paul-m-m-ry-co-v-minnesota/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1455054/", 
+  "html": "<p class=\"case_cite\">214 U.S. 497</p>\n    <p class=\"case_cite\">29 S.Ct. 698</p>\n    <p class=\"case_cite\">53 L.Ed. 1060</p>\n    <p class=\"parties\">ST. PAUL, MINNEAPOLIS, &amp; MANITOBA RAILWAY COMPANY and  Great Northern Railway Company, Plaintiffs in Error,<br>v.<br>STATE OF MINNESOTA EX REL. CITY OF MINNEAPOLIS.</p>\n    <p class=\"docket\">No. 162.</p>\n    <p class=\"date\">April 26, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Rome G. Brown, William R. Begg, and Charles S. Albert for plaintiffs in error.</p>\n      <p class=\"indent\">Messrs. Frank Healy and Albert E. Clarke for defendant in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment affirmed on authority of Northern P. R. Co. v. Minnesota, 208 U. S. 583, 52 L. ed. 630, 28 Sup. Ct. Rep. 341.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/97074/"
+}

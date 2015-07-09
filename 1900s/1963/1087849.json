@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1087849/luckman-v-dunbar/", "blocked": false, "citation": {"case_name": "Luckman v. Dunbar", "docket_number": "63 M", "document_uris": ["/api/rest/v2/document/1087849/"], "federal_cite_one": "372 U.S. 708", "federal_cite_three": "10 L. Ed. 2d 125", "federal_cite_two": "83 S. Ct. 1019", "id": 1060620, "lexis_cite": "1963 U.S. LEXIS 1811", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060620/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-04-15", "date_modified": "2014-12-21T13:37:18.582563", "docket": "/api/rest/v2/docket/2544645/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>372 U.S. 708 (1963)</b></center>\n<center><h1>LUCKMAN<br>\nv.<br>\nDUNBAR, CORRECTIONS DIRECTOR, ET AL.</h1></center>\n<center>No. 63, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 15, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Stanley Mosk,</i> Attorney General of California, and <i>Robert R. Granucci</i> and <i>John S. McInerny,</i> Deputy Attorneys General, for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of <i>Douglas</i> v. <i>California,</i> 372 U. S. 353.</p>\n<p>MR. JUSTICE CLARK and MR. JUSTICE HARLAN dissent for the reasons stated in their opinions in <i>Douglas</i> v. <i>California,</i> 372 U. S., at 358, 360.</p>\n</div>", "html_with_citations": "", "id": 1087849, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087849/", "sha1": "df385863638282a5ac04f985ef1ef1fd4f019074", "source": "L", "supreme_court_db_id": "1962-083", "time_retrieved": "2013-10-29T19:57:36.100037"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "372 U.S. 708", 
+    "federal_cite_two": "83 S. Ct. 1019", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "10 L. Ed. 2d 125", 
+    "lexis_cite": "1963 U.S. LEXIS 1811", 
+    "document_uris": [
+      "/api/rest/v2/document/1087849/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Luckman v. Dunbar", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "63 M", 
+    "id": 1060620, 
+    "resource_uri": "/api/rest/v2/citation/1060620/"
+  }, 
+  "id": 1087849, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-04-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>372 U.S. 708 (1963)</b></center>\n<center><h1>LUCKMAN<br>\nv.<br>\nDUNBAR, CORRECTIONS DIRECTOR, ET AL.</h1></center>\n<center>No. 63, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 15, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.\n<p>Petitioner <i>pro se.</i></p>\n<p><i>Stanley Mosk,</i> Attorney General of California, and <i>Robert R. Granucci</i> and <i>John S. McInerny,</i> Deputy Attorneys General, for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of <i>Douglas</i> v. <i>California,</i> 372 U. S. 353.</p>\n<p>MR. JUSTICE CLARK and MR. JUSTICE HARLAN dissent for the reasons stated in their opinions in <i>Douglas</i> v. <i>California,</i> 372 U. S., at 358, 360.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:57:36.100037", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "df385863638282a5ac04f985ef1ef1fd4f019074", 
+  "date_modified": "2014-12-21T13:37:18.582563", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087849/luckman-v-dunbar/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": "1962-083", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2544645/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087849/"
+}

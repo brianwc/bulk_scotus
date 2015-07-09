@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/141423/potter-v-castro-warden-et-al-ante-p-947/", "blocked": false, "citation": {"case_name": "Potter v. Castro, Warden, Ante, P. 947", "docket_number": "04-6081", "document_uris": ["/api/rest/v2/document/141423/"], "federal_cite_one": "543 U.S. 1084", "federal_cite_three": null, "federal_cite_two": null, "id": 125776, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/125776/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-01-10", "date_modified": "2014-12-21T02:21:01.490265", "docket": "/api/rest/v2/docket/291828/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1084.04-6081.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1084</p>\n    <p class=\"parties\">POTTER<br>v.<br>CASTRO, WARDEN, ET AL., <i>ante,</i> p. 947.</p>\n    <p class=\"docket\">No. 04-6081.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitioner for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1084</span></span></p>\n    <p class=\"parties\">POTTER<br>v.<br>CASTRO, WARDEN, ET AL., <i>ante,</i> p. 947.</p>\n    <p class=\"docket\">No. 04-6081.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitioner for rehearing denied.</p>\n    </div>\n    ", "id": 141423, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/141423/", "sha1": "45e19453af71494ebb70082f55c65f18dc2912b4", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:33:26"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1084", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/141423/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Potter v. Castro, Warden, Ante, P. 947", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-6081", 
+    "id": 125776, 
+    "resource_uri": "/api/rest/v2/citation/125776/"
+  }, 
+  "id": 141423, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-01-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1084.04-6081.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:33:26", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1084</span></span></p>\n    <p class=\"parties\">POTTER<br>v.<br>CASTRO, WARDEN, ET AL., <i>ante,</i> p. 947.</p>\n    <p class=\"docket\">No. 04-6081.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitioner for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "45e19453af71494ebb70082f55c65f18dc2912b4", 
+  "date_modified": "2014-12-21T02:21:01.490265", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/141423/potter-v-castro-warden-et-al-ante-p-947/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/291828/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1084</p>\n    <p class=\"parties\">POTTER<br>v.<br>CASTRO, WARDEN, ET AL., <i>ante,</i> p. 947.</p>\n    <p class=\"docket\">No. 04-6081.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitioner for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/141423/"
+}

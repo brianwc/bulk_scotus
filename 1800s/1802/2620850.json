@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620850/commonwealth-v-franklin/", "blocked": false, "citation": {"case_name": "Commonwealth v. Franklin", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620850/"], "federal_cite_one": "4 U.S. 255", "federal_cite_three": null, "federal_cite_two": null, "id": 2593622, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593622/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1802-12-01", "date_modified": "2014-10-30T08:51:32.575146", "docket": "/api/rest/v2/docket/1323799/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 255 (____)</b></center>\n<center><b>4 Dall. 255</b></center>\n<center><h1>The Commonwealth<br>\nversus<br>\nFranklin et al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*258</span> The case was opened, and argued, by Duncan, for the commonwealth.</p>\n<p><span class=\"star-pagination\">*265</span> BRACKENRIDGE, Justice.</p>\n<p>The second count in the indictment, is founded upon the second section of the act of assembly; and the special verdict finds expressly, that the defendants did conspire for the purpose mentioned in that section. The purpose was, \"to lay out townships in the county of Luzerne, by persons \"not appointed, or acknowledged, by the laws of this commonwealth.\" \"Now, the term township, indicates a local jurisdiction, for objects of local police, with powers and officers to effectuate the jurisdiction; and a conspiracy by individuals to erect such townships, is an encroachment upon the rights and authority of the state. It is an offence indictable at common law; and the legislature, with a view more effectually to prevent its commission, had an unquestionable power to increase the punishment.</p>\n<p>As to the first section of the act of assembly, I am not prepared to pronounce, that it is unconstitutional; and, consequently, I could not, even on that ground, decide, at present, to arrest the judgment. But it is enough to observe, that on the finding of the jury, I shall be ready to give judgment, for the commonwealth, on the second count of the indictment, when the subject is brought before us in the Circuit Court.<sup>[(1)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  The cause was argued, upon the other objections, in arrest of judgment, before the Supreme Court, in December Term 1804. See post.</p>\n\n</div>", "html_with_citations": "", "id": 2620850, "judges": "Brackenridge", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620850/", "sha1": "00aa18739f8f7b8ca3410fc385de56c4a2928c7a", "source": "L", "time_retrieved": "2013-11-01T12:31:08.293478"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 255", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620850/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Commonwealth v. Franklin", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593622, 
+    "resource_uri": "/api/rest/v2/citation/2593622/"
+  }, 
+  "id": 2620850, 
+  "blocked": false, 
+  "judges": "Brackenridge", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1802-12-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 255 (____)</b></center>\n<center><b>4 Dall. 255</b></center>\n<center><h1>The Commonwealth<br>\nversus<br>\nFranklin et al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*258</span> The case was opened, and argued, by Duncan, for the commonwealth.</p>\n<p><span class=\"star-pagination\">*265</span> BRACKENRIDGE, Justice.</p>\n<p>The second count in the indictment, is founded upon the second section of the act of assembly; and the special verdict finds expressly, that the defendants did conspire for the purpose mentioned in that section. The purpose was, \"to lay out townships in the county of Luzerne, by persons \"not appointed, or acknowledged, by the laws of this commonwealth.\" \"Now, the term township, indicates a local jurisdiction, for objects of local police, with powers and officers to effectuate the jurisdiction; and a conspiracy by individuals to erect such townships, is an encroachment upon the rights and authority of the state. It is an offence indictable at common law; and the legislature, with a view more effectually to prevent its commission, had an unquestionable power to increase the punishment.</p>\n<p>As to the first section of the act of assembly, I am not prepared to pronounce, that it is unconstitutional; and, consequently, I could not, even on that ground, decide, at present, to arrest the judgment. But it is enough to observe, that on the finding of the jury, I shall be ready to give judgment, for the commonwealth, on the second count of the indictment, when the subject is brought before us in the Circuit Court.<sup>[(1)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  The cause was argued, upon the other objections, in arrest of judgment, before the Supreme Court, in December Term 1804. See post.</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T12:31:08.293478", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "00aa18739f8f7b8ca3410fc385de56c4a2928c7a", 
+  "date_modified": "2014-10-30T08:51:32.575146", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620850/commonwealth-v-franklin/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1323799/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620850/"
+}

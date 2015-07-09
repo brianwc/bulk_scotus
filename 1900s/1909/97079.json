@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/97079/missouri-kansas-texas-railway-co-v-kennedy/", "blocked": false, "citation": {"case_name": "MISSOURI, KANSAS & TEXAS RAILWAY CO. v. Kennedy", "docket_number": "817", "document_uris": ["/api/rest/v2/document/97079/"], "federal_cite_one": "214 U.S. 502", "federal_cite_three": null, "federal_cite_two": null, "id": 81462, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/81462/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1909-05-03", "date_modified": "2014-12-21T01:35:00.688009", "docket": "/api/rest/v2/docket/2550336/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">214 U.S. 502</p>\n    <p class=\"case_cite\">29 S.Ct. 699</p>\n    <p class=\"case_cite\">53 L.Ed. 1061</p>\n    <p class=\"parties\">MISSOURI, KANSAS, &amp; TEXAS RAILWAY COMPANY OF TEXAS et  al., Plaintiffs in Error,<br>v.<br>S. M. KENNEDY.</p>\n    <p class=\"docket\">No. 817.</p>\n    <p class=\"date\">May 3, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. James Hagerman, J. M. Bryson, and A. B. Browne for plaintiffs in error.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Charles A. Culberson for defendant in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Dismissed for want of jurisdiction.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>214 U.S. 502 (1909)</b></center>\n<center><h1>MISSOURI, KANSAS &amp; TEXAS RAILWAY CO.<br>\nv.<br>\nKENNEDY.</h1></center>\n<center>No. 817.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 26, 1909.</center>\n<center>Decided May 3, 1909.</center>\nERROR TO THE COURT OF CIVIL APPEALS FOR THE THIRD SUPREME JUDICIAL DISTRICT OF THE STATE OF TEXAS.\nMotion to dismiss or affirm.\n<p><span class=\"star-pagination\">*503</span> <i>Mr. C.A. Culberson</i> for the defendant in error in support of the motion.</p>\n<p><i>Mr. James Hagerman, Mr. J.M. Bryson</i> and <i>Mr. A.B. Browne,</i> for the plaintiff in error in opposition thereto.</p>\n<p><i>Per Curiam:</i></p>\n<p>Writ of error dismissed for want of jurisdiction.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">502</span></span> (1909)</b></center>\n<center><h1>MISSOURI, KANSAS &amp; TEXAS RAILWAY CO.<br>\nv.<br>\nKENNEDY.</h1></center>\n<center>No. 817.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 26, 1909.</center>\n<center>Decided May 3, 1909.</center>\nERROR TO THE COURT OF CIVIL APPEALS FOR THE THIRD SUPREME JUDICIAL DISTRICT OF THE STATE OF TEXAS.\nMotion to dismiss or affirm.\n<p><span class=\"star-pagination\">*503</span> <i>Mr. C.A. Culberson</i> for the defendant in error in support of the motion.</p>\n<p><i>Mr. James Hagerman, Mr. J.M. Bryson</i> and <i>Mr. A.B. Browne,</i> for the plaintiff in error in opposition thereto.</p>\n<p><i>Per Curiam:</i></p>\n<p>Writ of error dismissed for want of jurisdiction.</p>\n</div>", "id": 97079, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/97079/", "sha1": "b7a9e8ae2881c71d85d6118245b01b117b6f4d5b", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:42:18"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "214 U.S. 502", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/97079/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "MISSOURI, KANSAS & TEXAS RAILWAY CO. v. Kennedy", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "817", 
+    "id": 81462, 
+    "resource_uri": "/api/rest/v2/citation/81462/"
+  }, 
+  "id": 97079, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1909-05-03", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>214 U.S. 502 (1909)</b></center>\n<center><h1>MISSOURI, KANSAS &amp; TEXAS RAILWAY CO.<br>\nv.<br>\nKENNEDY.</h1></center>\n<center>No. 817.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 26, 1909.</center>\n<center>Decided May 3, 1909.</center>\nERROR TO THE COURT OF CIVIL APPEALS FOR THE THIRD SUPREME JUDICIAL DISTRICT OF THE STATE OF TEXAS.\nMotion to dismiss or affirm.\n<p><span class=\"star-pagination\">*503</span> <i>Mr. C.A. Culberson</i> for the defendant in error in support of the motion.</p>\n<p><i>Mr. James Hagerman, Mr. J.M. Bryson</i> and <i>Mr. A.B. Browne,</i> for the plaintiff in error in opposition thereto.</p>\n<p><i>Per Curiam:</i></p>\n<p>Writ of error dismissed for want of jurisdiction.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:42:18", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">502</span></span> (1909)</b></center>\n<center><h1>MISSOURI, KANSAS &amp; TEXAS RAILWAY CO.<br>\nv.<br>\nKENNEDY.</h1></center>\n<center>No. 817.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 26, 1909.</center>\n<center>Decided May 3, 1909.</center>\nERROR TO THE COURT OF CIVIL APPEALS FOR THE THIRD SUPREME JUDICIAL DISTRICT OF THE STATE OF TEXAS.\nMotion to dismiss or affirm.\n<p><span class=\"star-pagination\">*503</span> <i>Mr. C.A. Culberson</i> for the defendant in error in support of the motion.</p>\n<p><i>Mr. James Hagerman, Mr. J.M. Bryson</i> and <i>Mr. A.B. Browne,</i> for the plaintiff in error in opposition thereto.</p>\n<p><i>Per Curiam:</i></p>\n<p>Writ of error dismissed for want of jurisdiction.</p>\n</div>", 
+  "sha1": "b7a9e8ae2881c71d85d6118245b01b117b6f4d5b", 
+  "date_modified": "2014-12-21T01:35:00.688009", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/97079/missouri-kansas-texas-railway-co-v-kennedy/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2550336/", 
+  "html": "<p class=\"case_cite\">214 U.S. 502</p>\n    <p class=\"case_cite\">29 S.Ct. 699</p>\n    <p class=\"case_cite\">53 L.Ed. 1061</p>\n    <p class=\"parties\">MISSOURI, KANSAS, &amp; TEXAS RAILWAY COMPANY OF TEXAS et  al., Plaintiffs in Error,<br>v.<br>S. M. KENNEDY.</p>\n    <p class=\"docket\">No. 817.</p>\n    <p class=\"date\">May 3, 1909.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. James Hagerman, J. M. Bryson, and A. B. Browne for plaintiffs in error.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Charles A. Culberson for defendant in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Dismissed for want of jurisdiction.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/97079/"
+}

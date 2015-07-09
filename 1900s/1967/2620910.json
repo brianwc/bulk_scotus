@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620910/risch-v-risch/", "blocked": false, "citation": {"case_name": "Risch v. Risch", "docket_number": "963, Misc", "document_uris": ["/api/rest/v2/document/2620910/"], "federal_cite_one": "386 U.S. 10", "federal_cite_three": null, "federal_cite_two": null, "id": 2593682, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593682/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-02-13", "date_modified": "2014-10-29T23:10:58.998156", "docket": "/api/rest/v2/docket/47099/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>386 U.S. 10 (1967)</b></center>\n<center><h1>RISCH<br>\nv.<br>\nRISCH.</h1></center>\n<center>No. 963, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 13, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF TEXAS.\n<p><i>Ted Musick</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 2620910, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620910/", "sha1": "e7806e61c26264e16f259b616997fa1af8843caf", "source": "L", "time_retrieved": "2013-11-01T13:02:34.660420"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "386 U.S. 10", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620910/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Risch v. Risch", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "963, Misc", 
+    "id": 2593682, 
+    "resource_uri": "/api/rest/v2/citation/2593682/"
+  }, 
+  "id": 2620910, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-02-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>386 U.S. 10 (1967)</b></center>\n<center><h1>RISCH<br>\nv.<br>\nRISCH.</h1></center>\n<center>No. 963, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 13, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF TEXAS.\n<p><i>Ted Musick</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:02:34.660420", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "e7806e61c26264e16f259b616997fa1af8843caf", 
+  "date_modified": "2014-10-29T23:10:58.998156", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620910/risch-v-risch/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/47099/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620910/"
+}

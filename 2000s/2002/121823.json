@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/121823/king-v-georgia/", "blocked": false, "citation": {"case_name": "King v. Georgia", "docket_number": "00-9976", "document_uris": ["/api/rest/v2/document/121823/"], "federal_cite_one": "536 U.S. 957", "federal_cite_three": null, "federal_cite_two": null, "id": 106176, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/106176/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-06-28", "date_modified": "2014-12-21T02:17:23.776264", "docket": "/api/rest/v2/docket/1754152/", "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.957.00-9976.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">536 U.S. 957</p>\n    <p class=\"parties\">KING<br><i>v.</i><br>GEORGIA.</p>\n    <p class=\"docket\">No. 00-9976.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ga. Certiorari denied. Reported below: 273 Ga. 258, 539 S. E. 2d 783.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">957</span></span></p>\n    <p class=\"parties\">KING<br><i>v.</i><br>GEORGIA.</p>\n    <p class=\"docket\">No. 00-9976.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ga. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1358591\"><a href=\"/opinion/1358591/king-v-state/\"><span class=\"volume\">273</span> <span class=\"reporter\">Ga.</span> <span class=\"page\">258</span></a></span>, 539 S. E. 2d 783.</p>\n    </div>\n    ", "id": 121823, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/121823/", "sha1": "878cc308cecdef3d6415dc2a26e8e20487894d17", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:32"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "536 U.S. 957", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/121823/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "King v. Georgia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "00-9976", 
+    "id": 106176, 
+    "resource_uri": "/api/rest/v2/citation/106176/"
+  }, 
+  "id": 121823, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-06-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.957.00-9976.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:32", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">957</span></span></p>\n    <p class=\"parties\">KING<br><i>v.</i><br>GEORGIA.</p>\n    <p class=\"docket\">No. 00-9976.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ga. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1358591\"><a href=\"/opinion/1358591/king-v-state/\"><span class=\"volume\">273</span> <span class=\"reporter\">Ga.</span> <span class=\"page\">258</span></a></span>, 539 S. E. 2d 783.</p>\n    </div>\n    ", 
+  "sha1": "878cc308cecdef3d6415dc2a26e8e20487894d17", 
+  "date_modified": "2014-12-21T02:17:23.776264", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/121823/king-v-georgia/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1754152/", 
+  "html": "<p class=\"case_cite\">536 U.S. 957</p>\n    <p class=\"parties\">KING<br><i>v.</i><br>GEORGIA.</p>\n    <p class=\"docket\">No. 00-9976.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ga. Certiorari denied. Reported below: 273 Ga. 258, 539 S. E. 2d 783.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/121823/"
+}

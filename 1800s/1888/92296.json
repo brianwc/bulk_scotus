@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92296/walker-et-al-v-commonwealth-of-pennsylvania-1/", "blocked": false, "citation": {"case_name": "Walker . v. Commonwealth of Pennsylvania. 1", "docket_number": null, "document_uris": ["/api/rest/v2/document/92296/"], "federal_cite_one": "127 U.S. 699", "federal_cite_three": null, "federal_cite_two": null, "id": 76676, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76676/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1888-05-14", "date_modified": "2014-12-21T01:30:36.248283", "docket": "/api/rest/v2/docket/1491350/", "download_url": "http://bulk.resource.org/courts.gov/c/US/127/127.US.699.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">8 S.Ct. 997</p>\n    <p class=\"case_cite\">127 U.S. 699</p>\n    <p class=\"case_cite\">32 L.Ed. 261</p>\n    <p class=\"parties\">WALKER <i>et al</i>.<br>v.<br>COMMONWEALTH OF PENNSYLVANIA.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">April 9, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>D. T. Watson</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>Wayne MacVeagh</i> and <i>W. S. Kirkpatrick</i>, Atty. Gen., for defendant in error.</p>\n      <p class=\"indent\">HARLAN, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The questions presented in this case do not differ, in any material respect, from those determined in <i>Powell</i> v. <i>Com., ante</i>, 992, (just decided.) The principles announced in that case necessarily require an affirmance of the judgment below. It is so ordered.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Affirming 11 Atl. Rep. 623.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\">8 S.Ct. 997</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">127</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">699</span></span></p>\n    <p class=\"case_cite\">32 L.Ed. 261</p>\n    <p class=\"parties\">WALKER <i>et al</i>.<br>v.<br>COMMONWEALTH OF PENNSYLVANIA.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">April 9, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>D. T. Watson</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>Wayne MacVeagh</i> and <i>W. S. Kirkpatrick</i>, Atty. Gen., for defendant in error.</p>\n      <p class=\"indent\">HARLAN, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The questions presented in this case do not differ, in any material respect, from those determined in <i>Powell</i> v. <i>Com., ante</i>, 992, (just decided.) The principles announced in that case necessarily require an affirmance of the judgment below. It is so ordered.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Affirming 11 Atl. Rep. 623.</p>\n      </div>\n    </div>\n    ", "id": 92296, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92296/", "sha1": "1b1e94f189f8d0b935effaf9b2cbbb96c65c856c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:38"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 U.S. 699", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/92296/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Walker . v. Commonwealth of Pennsylvania. 1", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76676, 
+    "resource_uri": "/api/rest/v2/citation/76676/"
+  }, 
+  "id": 92296, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1888-05-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/127/127.US.699.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:05:38", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\">8 S.Ct. 997</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">127</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">699</span></span></p>\n    <p class=\"case_cite\">32 L.Ed. 261</p>\n    <p class=\"parties\">WALKER <i>et al</i>.<br>v.<br>COMMONWEALTH OF PENNSYLVANIA.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">April 9, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>D. T. Watson</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>Wayne MacVeagh</i> and <i>W. S. Kirkpatrick</i>, Atty. Gen., for defendant in error.</p>\n      <p class=\"indent\">HARLAN, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The questions presented in this case do not differ, in any material respect, from those determined in <i>Powell</i> v. <i>Com., ante</i>, 992, (just decided.) The principles announced in that case necessarily require an affirmance of the judgment below. It is so ordered.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Affirming 11 Atl. Rep. 623.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "1b1e94f189f8d0b935effaf9b2cbbb96c65c856c", 
+  "date_modified": "2014-12-21T01:30:36.248283", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92296/walker-et-al-v-commonwealth-of-pennsylvania-1/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1491350/", 
+  "html": "<p class=\"case_cite\">8 S.Ct. 997</p>\n    <p class=\"case_cite\">127 U.S. 699</p>\n    <p class=\"case_cite\">32 L.Ed. 261</p>\n    <p class=\"parties\">WALKER <i>et al</i>.<br>v.<br>COMMONWEALTH OF PENNSYLVANIA.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">April 9, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>D. T. Watson</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>Wayne MacVeagh</i> and <i>W. S. Kirkpatrick</i>, Atty. Gen., for defendant in error.</p>\n      <p class=\"indent\">HARLAN, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The questions presented in this case do not differ, in any material respect, from those determined in <i>Powell</i> v. <i>Com., ante</i>, 992, (just decided.) The principles announced in that case necessarily require an affirmance of the judgment below. It is so ordered.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Affirming 11 Atl. Rep. 623.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92296/"
+}

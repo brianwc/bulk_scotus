@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/110568/george-n-campbell-jr-commissioner-of/", "blocked": false, "citation": {"case_name": "George N. Campbell, Jr., Commissioner of Transportation, State of Maine v. John Donnelly & Sons", "docket_number": "80-1597", "document_uris": ["/api/rest/v2/document/110568/"], "federal_cite_one": "453 U.S. 916", "federal_cite_three": null, "federal_cite_two": null, "id": 94927, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/94927/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1981-07-02", "date_modified": "2014-12-21T02:05:13.743870", "docket": "/api/rest/v2/docket/2051812/", "download_url": "http://bulk.resource.org/courts.gov/c/US/453/453.US.916.80-1597.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">453 U.S. 916</p>\n    <p class=\"case_cite\">101 S.Ct. 3151</p>\n    <p class=\"case_cite\">69 L.Ed.2d 999</p>\n    <p class=\"parties\">George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant,<br>v.<br>JOHN DONNELLY &amp; SONS, et al</p>\n    <p class=\"docket\">No. 80-1597</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">July 2, 1981</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The judgment is affirmed.</p>\n      <p class=\"indent\">THE CHIEF JUSTICE, Justice REHNQUIST and Justice STEVENS would note probable jurisdiction and set the case for oral argument.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Justice STEWART took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">453</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">916</span></span></p>\n    <p class=\"case_cite\">101 S.Ct. 3151</p>\n    <p class=\"case_cite\">69 L.Ed.2d 999</p>\n    <p class=\"parties\">George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant,<br>v.<br>JOHN DONNELLY &amp; SONS, et al</p>\n    <p class=\"docket\">No. 80-1597</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">July 2, 1981</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The judgment is affirmed.</p>\n      <p class=\"indent\">THE CHIEF JUSTICE, Justice REHNQUIST and Justice STEVENS would note probable jurisdiction and set the case for oral argument.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Justice STEWART took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "id": 110568, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/110568/", "sha1": "1cfc2fc7001249f057030ef8701d69c8ccfdad51", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:12:39"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "453 U.S. 916", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/110568/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "George N. Campbell, Jr., Commissioner of Transportation, State of Maine v. John Donnelly & Sons", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "80-1597", 
+    "id": 94927, 
+    "resource_uri": "/api/rest/v2/citation/94927/"
+  }, 
+  "id": 110568, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1981-07-02", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/453/453.US.916.80-1597.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:12:39", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">453</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">916</span></span></p>\n    <p class=\"case_cite\">101 S.Ct. 3151</p>\n    <p class=\"case_cite\">69 L.Ed.2d 999</p>\n    <p class=\"parties\">George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant,<br>v.<br>JOHN DONNELLY &amp; SONS, et al</p>\n    <p class=\"docket\">No. 80-1597</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">July 2, 1981</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The judgment is affirmed.</p>\n      <p class=\"indent\">THE CHIEF JUSTICE, Justice REHNQUIST and Justice STEVENS would note probable jurisdiction and set the case for oral argument.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Justice STEWART took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "sha1": "1cfc2fc7001249f057030ef8701d69c8ccfdad51", 
+  "date_modified": "2014-12-21T02:05:13.743870", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/110568/george-n-campbell-jr-commissioner-of/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2051812/", 
+  "html": "<p class=\"case_cite\">453 U.S. 916</p>\n    <p class=\"case_cite\">101 S.Ct. 3151</p>\n    <p class=\"case_cite\">69 L.Ed.2d 999</p>\n    <p class=\"parties\">George N. CAMPBELL, Jr., Commissioner of  Transportation, State of Maine, appellant,<br>v.<br>JOHN DONNELLY &amp; SONS, et al</p>\n    <p class=\"docket\">No. 80-1597</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">July 2, 1981</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The judgment is affirmed.</p>\n      <p class=\"indent\">THE CHIEF JUSTICE, Justice REHNQUIST and Justice STEVENS would note probable jurisdiction and set the case for oral argument.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Justice STEWART took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/110568/"
+}

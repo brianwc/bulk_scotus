@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1380065/cobb-v-georgia/", "blocked": false, "citation": {"case_name": "Cobb v. Georgia", "docket_number": "51, Misc", "document_uris": ["/api/rest/v2/document/1380065/"], "federal_cite_one": "389 U.S. 12", "federal_cite_three": null, "federal_cite_two": null, "id": 1352836, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1352836/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-10-09", "date_modified": "2014-10-30T17:48:38.824423", "docket": "/api/rest/v2/docket/2578112/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>389 U.S. 12 (1967)</b></center>\n<center><h1>COBB<br>\nv.<br>\nGEORGIA.</h1></center>\n<center>No. 51, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 9, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF GEORGIA.\n<p><i>Jack Greenberg, James M. Nabrit III, Michael Meltsner</i> and <i>Howard Moore, Jr.,</i> for petitioner.</p>\n<p><i>Arthur K. Bolton,</i> Attorney General of Georgia, <i>G. Ernest Tidwell,</i> Executive Assistant Attorney General, <i>Marion O. Gordon,</i> Assistant Attorney General, and <i>George D. Lawrence,</i> Solicitor General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is reversed. <i>Whitus</i> v. <i>Georgia,</i> 385 U. S. 545.</p>\n</div>", "html_with_citations": "", "id": 1380065, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1380065/", "sha1": "dd37e18d7b829bee0d5e77344621cec643c1c950", "source": "L", "time_retrieved": "2013-10-29T22:52:32.672975"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 12", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1380065/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Cobb v. Georgia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "51, Misc", 
+    "id": 1352836, 
+    "resource_uri": "/api/rest/v2/citation/1352836/"
+  }, 
+  "id": 1380065, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-10-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 12 (1967)</b></center>\n<center><h1>COBB<br>\nv.<br>\nGEORGIA.</h1></center>\n<center>No. 51, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 9, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF GEORGIA.\n<p><i>Jack Greenberg, James M. Nabrit III, Michael Meltsner</i> and <i>Howard Moore, Jr.,</i> for petitioner.</p>\n<p><i>Arthur K. Bolton,</i> Attorney General of Georgia, <i>G. Ernest Tidwell,</i> Executive Assistant Attorney General, <i>Marion O. Gordon,</i> Assistant Attorney General, and <i>George D. Lawrence,</i> Solicitor General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is reversed. <i>Whitus</i> v. <i>Georgia,</i> 385 U. S. 545.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:52:32.672975", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "dd37e18d7b829bee0d5e77344621cec643c1c950", 
+  "date_modified": "2014-10-30T17:48:38.824423", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1380065/cobb-v-georgia/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2578112/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1380065/"
+}

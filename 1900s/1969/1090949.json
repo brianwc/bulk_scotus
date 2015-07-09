@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1090949/standard-fruit-steamship-co-v-united-fruit-co/", "blocked": false, "citation": {"case_name": "Standard Fruit & Steamship Co. v. United Fruit Co.", "docket_number": "740", "document_uris": ["/api/rest/v2/document/1090949/"], "federal_cite_one": "393 U.S. 406", "federal_cite_three": null, "federal_cite_two": null, "id": 1063720, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1063720/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-01-20", "date_modified": "2014-10-30T02:34:02.397622", "docket": "/api/rest/v2/docket/447667/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>393 U.S. 406 (1969)</b></center>\n<center><h1>STANDARD FRUIT &amp; STEAMSHIP CO.<br>\nv.<br>\nUNITED FRUIT CO. ET AL.</h1></center>\n<center>No. 740.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 20, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Eberhard P. Deutsch, Robert M. Moore,</i> and <i>René H. Himel, Jr.,</i> for appellant.</p>\n<p><i>Hugh B. Cox</i> and <i>James H. McGlothlin</i> for United Fruit Co., and <i>Solicitor General Griswold</i> for the United States, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of jurisdiction. <i>Shenandoah Valley Broadcasting, Inc.</i> v. <i>American Society of Composers, Authors &amp; Publishers,</i> 375 U. S. 39.</p>\n</div>", "html_with_citations": "", "id": 1090949, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1090949/", "sha1": "3f0c6cd69594381f481fb162ea2af5c7b4daef60", "source": "L", "time_retrieved": "2013-10-29T20:48:12.872752"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 406", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1090949/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Standard Fruit & Steamship Co. v. United Fruit Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "740", 
+    "id": 1063720, 
+    "resource_uri": "/api/rest/v2/citation/1063720/"
+  }, 
+  "id": 1090949, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-01-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 406 (1969)</b></center>\n<center><h1>STANDARD FRUIT &amp; STEAMSHIP CO.<br>\nv.<br>\nUNITED FRUIT CO. ET AL.</h1></center>\n<center>No. 740.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 20, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Eberhard P. Deutsch, Robert M. Moore,</i> and <i>Ren\u00e9 H. Himel, Jr.,</i> for appellant.</p>\n<p><i>Hugh B. Cox</i> and <i>James H. McGlothlin</i> for United Fruit Co., and <i>Solicitor General Griswold</i> for the United States, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of jurisdiction. <i>Shenandoah Valley Broadcasting, Inc.</i> v. <i>American Society of Composers, Authors &amp; Publishers,</i> 375 U. S. 39.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:48:12.872752", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "3f0c6cd69594381f481fb162ea2af5c7b4daef60", 
+  "date_modified": "2014-10-30T02:34:02.397622", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1090949/standard-fruit-steamship-co-v-united-fruit-co/", 
+  "citation_count": 5, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/447667/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1090949/"
+}

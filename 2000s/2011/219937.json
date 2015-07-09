@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/219937/beer-v-united-states/", "blocked": false, "citation": {"case_name": "Beer v. United States", "docket_number": "09-1395", "document_uris": ["/api/rest/v2/document/219937/"], "federal_cite_one": "", "federal_cite_three": null, "federal_cite_two": null, "id": 193971, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/193971/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2011-06-28", "date_modified": "2014-12-21T04:18:27.601662", "docket": "/api/rest/v2/docket/1012341/", "download_url": "http://www.supremecourt.gov/opinions/10pdf/09-1395.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "<pre class=\"inline\">                  Cite as: 564 U. S. ____ (2011)              1\n\n                      SCALIA, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n       PETER H. BEER ET AL. v. UNITED STATES\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n   STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT\n\n               No. 09–1395. Decided June 28, 2011 \n\n\n   The petition for writ of certiorari is granted. The judg\nment is vacated, and the case is remanded to the United\nStates Court of Appeals for the Federal Circuit for consid\neration of the question of preclusion raised by the Acting\nSolicitor General in his brief for the United States filed\nJuly 26, 2010. The Court considers it important that there\nbe a decision on the question, rather than that an answer\nbe deemed unnecessary in light of prior precedent on the\nmerits. Further proceedings after decision of the preclu\nsion question are for the Court of Appeals to determine in\nthe first instance. JUSTICE BREYER would grant the peti\ntion for writ of certiorari and set the case for argument.\n   JUSTICE SCALIA, dissenting.\n   It has been my consistent view, not always shared by\nthe Court, that “we have no power to set aside the duly\nrecorded judgments of lower courts unless we find them to\nbe in error, or unless they are cast in doubt by a factor\narising after they were rendered.” Webster v. Cooper, 558\nU. S. ___, ___ (2009) (SCALIA, J., dissenting) (slip op., at 3).\nToday’s vacatur resembles that in Youngblood v. West\nVirginia, 547 U. S. 867 (2006) (per curiam), from which I\ndissented, id., at 870. I would grant the petition and set\nthe case for argument.\n</pre>", "id": 219937, "judges": "", "local_path": "pdf/2011/06/28/Beer_v._United_States.pdf", "nature_of_suit": "", "plain_text": "                  Cite as: 564 U. S. ____ (2011)              1\n\n                      SCALIA, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n       PETER H. BEER ET AL. v. UNITED STATES\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n   STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT\n\n               No. 09–1395. Decided June 28, 2011 \n\n\n   The petition for writ of certiorari is granted. The judg\nment is vacated, and the case is remanded to the United\nStates Court of Appeals for the Federal Circuit for consid\neration of the question of preclusion raised by the Acting\nSolicitor General in his brief for the United States filed\nJuly 26, 2010. The Court considers it important that there\nbe a decision on the question, rather than that an answer\nbe deemed unnecessary in light of prior precedent on the\nmerits. Further proceedings after decision of the preclu\nsion question are for the Court of Appeals to determine in\nthe first instance. JUSTICE BREYER would grant the peti\ntion for writ of certiorari and set the case for argument.\n   JUSTICE SCALIA, dissenting.\n   It has been my consistent view, not always shared by\nthe Court, that “we have no power to set aside the duly\nrecorded judgments of lower courts unless we find them to\nbe in error, or unless they are cast in doubt by a factor\narising after they were rendered.” Webster v. Cooper, 558\nU. S. ___, ___ (2009) (SCALIA, J., dissenting) (slip op., at 3).\nToday’s vacatur resembles that in Youngblood v. West\nVirginia, 547 U. S. 867 (2006) (per curiam), from which I\ndissented, id., at 870. I would grant the petition and set\nthe case for argument.\n", "precedential_status": "Relating-to", "resource_uri": "/api/rest/v2/document/219937/", "sha1": "5f2dc37a0fe676064369a6e3fa241b62ce644901", "source": "C", "supreme_court_db_id": null, "time_retrieved": "2011-06-28T17:02:28"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/219937/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Beer v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "09-1395", 
+    "id": 193971, 
+    "resource_uri": "/api/rest/v2/citation/193971/"
+  }, 
+  "id": 219937, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2011-06-28", 
+  "download_url": "http://www.supremecourt.gov/opinions/10pdf/09-1395.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2011/06/28/Beer_v._United_States.pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2011-06-28T17:02:28", 
+  "nature_of_suit": "", 
+  "plain_text": "                  Cite as: 564 U. S. ____ (2011)              1\n\n                      SCALIA, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n       PETER H. BEER ET AL. v. UNITED STATES\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n   STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT\n\n               No. 09\u20131395. Decided June 28, 2011 \n\n\n   The petition for writ of certiorari is granted. The judg\nment is vacated, and the case is remanded to the United\nStates Court of Appeals for the Federal Circuit for consid\neration of the question of preclusion raised by the Acting\nSolicitor General in his brief for the United States filed\nJuly 26, 2010. The Court considers it important that there\nbe a decision on the question, rather than that an answer\nbe deemed unnecessary in light of prior precedent on the\nmerits. Further proceedings after decision of the preclu\nsion question are for the Court of Appeals to determine in\nthe first instance. JUSTICE BREYER would grant the peti\ntion for writ of certiorari and set the case for argument.\n   JUSTICE SCALIA, dissenting.\n   It has been my consistent view, not always shared by\nthe Court, that \u201cwe have no power to set aside the duly\nrecorded judgments of lower courts unless we find them to\nbe in error, or unless they are cast in doubt by a factor\narising after they were rendered.\u201d Webster v. Cooper, 558\nU. S. ___, ___ (2009) (SCALIA, J., dissenting) (slip op., at 3).\nToday\u2019s vacatur resembles that in Youngblood v. West\nVirginia, 547 U. S. 867 (2006) (per curiam), from which I\ndissented, id., at 870. I would grant the petition and set\nthe case for argument.\n", 
+  "html_with_citations": "<pre class=\"inline\">                  Cite as: 564 U. S. ____ (2011)              1\n\n                      SCALIA, J., dissenting\n\nSUPREME COURT OF THE UNITED STATES\n       PETER H. BEER ET AL. v. UNITED STATES\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n   STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT\n\n               No. 09\u20131395. Decided June 28, 2011 \n\n\n   The petition for writ of certiorari is granted. The judg\nment is vacated, and the case is remanded to the United\nStates Court of Appeals for the Federal Circuit for consid\neration of the question of preclusion raised by the Acting\nSolicitor General in his brief for the United States filed\nJuly 26, 2010. The Court considers it important that there\nbe a decision on the question, rather than that an answer\nbe deemed unnecessary in light of prior precedent on the\nmerits. Further proceedings after decision of the preclu\nsion question are for the Court of Appeals to determine in\nthe first instance. JUSTICE BREYER would grant the peti\ntion for writ of certiorari and set the case for argument.\n   JUSTICE SCALIA, dissenting.\n   It has been my consistent view, not always shared by\nthe Court, that \u201cwe have no power to set aside the duly\nrecorded judgments of lower courts unless we find them to\nbe in error, or unless they are cast in doubt by a factor\narising after they were rendered.\u201d Webster v. Cooper, 558\nU. S. ___, ___ (2009) (SCALIA, J., dissenting) (slip op., at 3).\nToday\u2019s vacatur resembles that in Youngblood v. West\nVirginia, 547 U. S. 867 (2006) (per curiam), from which I\ndissented, id., at 870. I would grant the petition and set\nthe case for argument.\n</pre>", 
+  "sha1": "5f2dc37a0fe676064369a6e3fa241b62ce644901", 
+  "date_modified": "2014-12-21T04:18:27.601662", 
+  "precedential_status": "Relating-to", 
+  "absolute_url": "/opinion/219937/beer-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1012341/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/219937/"
+}

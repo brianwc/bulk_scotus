@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2620779/united-states-v-powell/", "blocked": false, "citation": {"case_name": "United States v. Powell", "docket_number": "63", "document_uris": ["/api/rest/v2/document/2620779/"], "federal_cite_one": "212 U.S. 564", "federal_cite_three": null, "federal_cite_two": null, "id": 2593551, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593551/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1909-01-11", "date_modified": "2014-12-22T08:51:59.404735", "docket": "/api/rest/v2/docket/12528/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>212 U.S. 564 (1909)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nPOWELL.</h1></center>\n<center>No. 63.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted January 8, 1909.</center>\n<center>Decided January 11, 1909.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ALABAMA.\n<p><span class=\"star-pagination\">*565</span> <i>The Attorney General</i> and <i>Mr. Assistant Attorney General Fowler</i> for the United States.</p>\n<p>There was no appearance or brief filed for defendant in error.</p>\n<p><i>Per Curiam:</i></p>\n<p>The judgment is affirmed on the authority of <i>Hodges</i> v. <i>United States,</i> 203 U.S. 1.</p>\n<p>MR. JUSTICE MOODY did not sit.</p>\n</div>", "html_with_citations": "", "id": 2620779, "judges": "Mr. Justice Moody", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620779/", "sha1": "2e85116a2acebeba83d510030a75669434c0326a", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-11-01T11:55:35.484291"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "212 U.S. 564", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620779/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Powell", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "63", 
+    "id": 2593551, 
+    "resource_uri": "/api/rest/v2/citation/2593551/"
+  }, 
+  "id": 2620779, 
+  "blocked": false, 
+  "judges": "Mr. Justice Moody", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1909-01-11", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>212 U.S. 564 (1909)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nPOWELL.</h1></center>\n<center>No. 63.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted January 8, 1909.</center>\n<center>Decided January 11, 1909.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ALABAMA.\n<p><span class=\"star-pagination\">*565</span> <i>The Attorney General</i> and <i>Mr. Assistant Attorney General Fowler</i> for the United States.</p>\n<p>There was no appearance or brief filed for defendant in error.</p>\n<p><i>Per Curiam:</i></p>\n<p>The judgment is affirmed on the authority of <i>Hodges</i> v. <i>United States,</i> 203 U.S. 1.</p>\n<p>MR. JUSTICE MOODY did not sit.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T11:55:35.484291", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "2e85116a2acebeba83d510030a75669434c0326a", 
+  "date_modified": "2014-12-22T08:51:59.404735", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620779/united-states-v-powell/", 
+  "citation_count": 6, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/12528/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620779/"
+}

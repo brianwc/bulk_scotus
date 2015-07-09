@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/115573/immigration-and-naturalization-service-et-al-v/", "blocked": false, "citation": {"case_name": "Immigration and Naturalization Service v. Legalization Assistance Project of Los Angeles County Federation of Labor", "docket_number": "93-73", "document_uris": ["/api/rest/v2/document/115573/"], "federal_cite_one": "510 U.S. 1007", "federal_cite_three": null, "federal_cite_two": null, "id": 99932, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/99932/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-12-06", "date_modified": "2014-12-21T02:13:51.676111", "docket": "/api/rest/v2/docket/2449630/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1007.93-73.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1007</p>\n    <p class=\"parties\">Immigration and Naturalization Service et al.<br>v.<br>Legalization Assistance Project of Los Angeles County Federation of Labor et al.</p>\n    <p class=\"docket\">No. 93-73.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 6, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Heller</i> v. <i>Doe,</i> 509 U. S. 312 (1993), and <i>Reno</i> v. <i>Catholic Social Services, Inc.,</i> 509 U.S. 43 (1993). Reported below: 976 F. 2d 1198.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1007</span></span></p>\n    <p class=\"parties\">Immigration and Naturalization Service et al.<br>v.<br>Legalization Assistance Project of Los Angeles County Federation of Labor et al.</p>\n    <p class=\"docket\">No. 93-73.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 6, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Heller</i> v. <i>Doe,</i> 509 U. S. 312 (1993), and <i>Reno</i> v. <i>Catholic Social Services, Inc.,</i> <span class=\"citation\" data-id=\"112889\"><a href=\"/opinion/112889/reno-v-catholic-social-services-inc/\"><span class=\"volume\">509</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">43</span></a></span> (1993). Reported below: 976 F. 2d 1198.</p>\n    </div>\n    ", "id": 115573, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/115573/", "sha1": "d6eac79369bd9fbd3726cfb1829f42f0b3fbbef3", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1007", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/115573/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Immigration and Naturalization Service v. Legalization Assistance Project of Los Angeles County Federation of Labor", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-73", 
+    "id": 99932, 
+    "resource_uri": "/api/rest/v2/citation/99932/"
+  }, 
+  "id": 115573, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-12-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1007.93-73.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1007</span></span></p>\n    <p class=\"parties\">Immigration and Naturalization Service et al.<br>v.<br>Legalization Assistance Project of Los Angeles County Federation of Labor et al.</p>\n    <p class=\"docket\">No. 93-73.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 6, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Heller</i> v. <i>Doe,</i> 509 U. S. 312 (1993), and <i>Reno</i> v. <i>Catholic Social Services, Inc.,</i> <span class=\"citation\" data-id=\"112889\"><a href=\"/opinion/112889/reno-v-catholic-social-services-inc/\"><span class=\"volume\">509</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">43</span></a></span> (1993). Reported below: 976 F. 2d 1198.</p>\n    </div>\n    ", 
+  "sha1": "d6eac79369bd9fbd3726cfb1829f42f0b3fbbef3", 
+  "date_modified": "2014-12-21T02:13:51.676111", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/115573/immigration-and-naturalization-service-et-al-v/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2449630/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1007</p>\n    <p class=\"parties\">Immigration and Naturalization Service et al.<br>v.<br>Legalization Assistance Project of Los Angeles County Federation of Labor et al.</p>\n    <p class=\"docket\">No. 93-73.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 6, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Heller</i> v. <i>Doe,</i> 509 U. S. 312 (1993), and <i>Reno</i> v. <i>Catholic Social Services, Inc.,</i> 509 U.S. 43 (1993). Reported below: 976 F. 2d 1198.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/115573/"
+}

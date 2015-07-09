@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/94622/united-states-v-union-pac-ry-co-et-al-same/", "blocked": false, "citation": {"case_name": "United States v. Union Pac. Ry. Co. Same v. St. Paul & S. C. R. Co.", "docket_number": "Nos. 319, 322", "document_uris": ["/api/rest/v2/document/94622/"], "federal_cite_one": "165 U.S. 482", "federal_cite_three": null, "federal_cite_two": null, "id": 79003, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/79003/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1897-02-15", "date_modified": "2014-12-21T01:32:35.768732", "docket": "/api/rest/v2/docket/2498403/", "download_url": "http://bulk.resource.org/courts.gov/c/US/165/165.US.482.319.322.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">165 U.S. 482</p>\n    <p class=\"case_cite\">17 S.Ct. 1001</p>\n    <p class=\"case_cite\">41 L.Ed. 797</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>UNION PAC. RY. CO. et al.  SAME  v.  ST. PAUL &amp; S. C. R. CO. et al.</p>\n    <p class=\"docket\">Nos. 319, 322.</p>\n    <p class=\"date\">February 15, 1897.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice BREWER delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The facts in these cases are different from the facts in the case just decided. U. S. v. Winona &amp; St. P. R. Co., 17 Sup. Ct. 368. But the principles announced in the foregoing opinion are conclusive of the rights of the parties herein, and so, without any statement in detail of the facts, and for the reasons given in that opinion, the decrees in these cases will be affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sol. Gen. Conrad, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Thomas Wilson, for appellees St. Paul &amp; S. C. R. Co. et al.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">John F. Dillon, for appellees Union Pac. Ry. Co. et al.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">165</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">482</span></span></p>\n    <p class=\"case_cite\">17 S.Ct. 1001</p>\n    <p class=\"case_cite\">41 L.Ed. 797</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>UNION PAC. RY. CO. et al.  SAME  v.  ST. PAUL &amp; S. C. R. CO. et al.</p>\n    <p class=\"docket\">Nos. 319, 322.</p>\n    <p class=\"date\">February 15, 1897.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice BREWER delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The facts in these cases are different from the facts in the case just decided. U. S. v. Winona &amp; St. P. R. Co., 17 Sup. Ct. 368. But the principles announced in the foregoing opinion are conclusive of the rights of the parties herein, and so, without any statement in detail of the facts, and for the reasons given in that opinion, the decrees in these cases will be affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sol. Gen. Conrad, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Thomas Wilson, for appellees St. Paul &amp; S. C. R. Co. et al.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">John F. Dillon, for appellees Union Pac. Ry. Co. et al.</p>\n    </div>\n    ", "id": 94622, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/94622/", "sha1": "be8d583ea24d49839f82a29203daf31282e96e7d", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:37:49"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "165 U.S. 482", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/94622/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Union Pac. Ry. Co. Same v. St. Paul & S. C. R. Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "Nos. 319, 322", 
+    "id": 79003, 
+    "resource_uri": "/api/rest/v2/citation/79003/"
+  }, 
+  "id": 94622, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1897-02-15", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/165/165.US.482.319.322.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:37:49", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">165</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">482</span></span></p>\n    <p class=\"case_cite\">17 S.Ct. 1001</p>\n    <p class=\"case_cite\">41 L.Ed. 797</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>UNION PAC. RY. CO. et al.  SAME  v.  ST. PAUL &amp; S. C. R. CO. et al.</p>\n    <p class=\"docket\">Nos. 319, 322.</p>\n    <p class=\"date\">February 15, 1897.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice BREWER delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The facts in these cases are different from the facts in the case just decided. U. S. v. Winona &amp; St. P. R. Co., 17 Sup. Ct. 368. But the principles announced in the foregoing opinion are conclusive of the rights of the parties herein, and so, without any statement in detail of the facts, and for the reasons given in that opinion, the decrees in these cases will be affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sol. Gen. Conrad, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Thomas Wilson, for appellees St. Paul &amp; S. C. R. Co. et al.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">John F. Dillon, for appellees Union Pac. Ry. Co. et al.</p>\n    </div>\n    ", 
+  "sha1": "be8d583ea24d49839f82a29203daf31282e96e7d", 
+  "date_modified": "2014-12-21T01:32:35.768732", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/94622/united-states-v-union-pac-ry-co-et-al-same/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2498403/", 
+  "html": "<p class=\"case_cite\">165 U.S. 482</p>\n    <p class=\"case_cite\">17 S.Ct. 1001</p>\n    <p class=\"case_cite\">41 L.Ed. 797</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>UNION PAC. RY. CO. et al.  SAME  v.  ST. PAUL &amp; S. C. R. CO. et al.</p>\n    <p class=\"docket\">Nos. 319, 322.</p>\n    <p class=\"date\">February 15, 1897.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice BREWER delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The facts in these cases are different from the facts in the case just decided. U. S. v. Winona &amp; St. P. R. Co., 17 Sup. Ct. 368. But the principles announced in the foregoing opinion are conclusive of the rights of the parties herein, and so, without any statement in detail of the facts, and for the reasons given in that opinion, the decrees in these cases will be affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sol. Gen. Conrad, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Thomas Wilson, for appellees St. Paul &amp; S. C. R. Co. et al.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">John F. Dillon, for appellees Union Pac. Ry. Co. et al.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/94622/"
+}

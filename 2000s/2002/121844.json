@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/121844/atwood-director-wyoming-department-of-revenue/", "blocked": false, "citation": {"case_name": "Atwood, Director, Wyoming Department of Revenue v. Burlington Northern & Santa Fe Railway Co.", "docket_number": "01-1617", "document_uris": ["/api/rest/v2/document/121844/"], "federal_cite_one": "536 U.S. 959", "federal_cite_three": null, "federal_cite_two": null, "id": 106197, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/106197/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-06-28", "date_modified": "2014-12-21T02:17:23.849713", "docket": "/api/rest/v2/docket/2354079/", "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.959.01-1617.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">536 U.S. 959</p>\n    <p class=\"parties\">ATWOOD, DIRECTOR, WYOMING DEPARTMENT OF REVENUE, ET AL.<br><i>v.</i><br>BURLINGTON NORTHERN &amp; SANTA FE RAILWAY CO. ET AL.</p>\n    <p class=\"docket\">No. 01-1617.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 10th Cir. Certiorari denied. Reported below: 270 F. 3d 942.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">959</span></span></p>\n    <p class=\"parties\">ATWOOD, DIRECTOR, WYOMING DEPARTMENT OF REVENUE, ET AL.<br><i>v.</i><br>BURLINGTON NORTHERN &amp; SANTA FE RAILWAY CO. ET AL.</p>\n    <p class=\"docket\">No. 01-1617.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 10th Cir. Certiorari denied. Reported below: 270 F. 3d 942.</p>\n    </div>\n    ", "id": 121844, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/121844/", "sha1": "9796213364700f3f8fce3ce7dff8935866e37173", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:32"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "536 U.S. 959", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/121844/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Atwood, Director, Wyoming Department of Revenue v. Burlington Northern & Santa Fe Railway Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-1617", 
+    "id": 106197, 
+    "resource_uri": "/api/rest/v2/citation/106197/"
+  }, 
+  "id": 121844, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-06-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.959.01-1617.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:32", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">959</span></span></p>\n    <p class=\"parties\">ATWOOD, DIRECTOR, WYOMING DEPARTMENT OF REVENUE, ET AL.<br><i>v.</i><br>BURLINGTON NORTHERN &amp; SANTA FE RAILWAY CO. ET AL.</p>\n    <p class=\"docket\">No. 01-1617.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 10th Cir. Certiorari denied. Reported below: 270 F. 3d 942.</p>\n    </div>\n    ", 
+  "sha1": "9796213364700f3f8fce3ce7dff8935866e37173", 
+  "date_modified": "2014-12-21T02:17:23.849713", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/121844/atwood-director-wyoming-department-of-revenue/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2354079/", 
+  "html": "<p class=\"case_cite\">536 U.S. 959</p>\n    <p class=\"parties\">ATWOOD, DIRECTOR, WYOMING DEPARTMENT OF REVENUE, ET AL.<br><i>v.</i><br>BURLINGTON NORTHERN &amp; SANTA FE RAILWAY CO. ET AL.</p>\n    <p class=\"docket\">No. 01-1617.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 28, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 10th Cir. Certiorari denied. Reported below: 270 F. 3d 942.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/121844/"
+}

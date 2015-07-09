@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087764/spalding-v-the-people-of-the-st-of-ny-ex-rel-frede/", "blocked": false, "citation": {"case_name": "Spalding v. THE PEOPLE OF THE ST. OF NY, EX REL, FREDERICK F. BACKUS", "docket_number": null, "document_uris": ["/api/rest/v2/document/1087764/"], "federal_cite_one": "43 U.S. 66", "federal_cite_three": null, "federal_cite_two": null, "id": 1060535, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060535/", "scotus_early_cite": "2 How. 66", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1844-02-24", "date_modified": "2014-10-30T07:45:40.569031", "docket": "/api/rest/v2/docket/1167205/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>43 U.S. 66 (____)</b></center>\n<center><b>2 How. 66</b></center>\n<center><h1>SPALDING<br>\nv.<br>\nTHE PEOPLE OF THE STATE OF NEW YORK, EX REL. FREDERICK F. BACKUS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Beardsley moved to dismiss the writ of error in this case, because Spalding had given a bond to The People of the State of New York, or Frederick F. Backus.</p>\n<p>But Mr. Justice STORY delivered the opinion of the court, and said that the bond was good, and, if forfeited, might be sued upon in the name of the people or of the relator, at the option of the government.</p>\n</div>", "html_with_citations": "", "id": 1087764, "judges": "Story", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087764/", "sha1": "1c6eb79ce9f7351fbfee12e88479cecb4c31635e", "source": "L", "time_retrieved": "2013-10-29T19:35:44.326702"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "43 U.S. 66", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087764/"
+    ], 
+    "scotus_early_cite": "2 How. 66", 
+    "case_name": "Spalding v. THE PEOPLE OF THE ST. OF NY, EX REL, FREDERICK F. BACKUS", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1060535, 
+    "resource_uri": "/api/rest/v2/citation/1060535/"
+  }, 
+  "id": 1087764, 
+  "blocked": false, 
+  "judges": "Story", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1844-02-24", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>43 U.S. 66 (____)</b></center>\n<center><b>2 How. 66</b></center>\n<center><h1>SPALDING<br>\nv.<br>\nTHE PEOPLE OF THE STATE OF NEW YORK, EX REL. FREDERICK F. BACKUS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Beardsley moved to dismiss the writ of error in this case, because Spalding had given a bond to The People of the State of New York, or Frederick F. Backus.</p>\n<p>But Mr. Justice STORY delivered the opinion of the court, and said that the bond was good, and, if forfeited, might be sued upon in the name of the people or of the relator, at the option of the government.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:35:44.326702", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "1c6eb79ce9f7351fbfee12e88479cecb4c31635e", 
+  "date_modified": "2014-10-30T07:45:40.569031", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087764/spalding-v-the-people-of-the-st-of-ny-ex-rel-frede/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1167205/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087764/"
+}

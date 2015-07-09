@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620833/commonwealth-v-dillon/", "blocked": false, "citation": {"case_name": "Commonwealth v. Dillon", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620833/"], "federal_cite_one": "4 U.S. 116", "federal_cite_three": null, "federal_cite_two": null, "id": 2593605, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593605/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1792-01-01", "date_modified": "2014-10-30T13:50:52.799108", "docket": "/api/rest/v2/docket/1962951/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 116 (____)</b></center>\n<center><b>4 Dall. 116</b></center>\n<center><h1>The Commonwealth<br>\nversus<br>\nDillon.<sup>[(1)]</sup></h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*117</span> For the Commonwealth, Ingersoll, attorney-general.</p>\n<p>For the Prisoner, Sergeant and Todd.</p>\n<p>By the COURT:</p>\n<p>The fact of the arson is established; and it only remains to decide, whether it was committed by the prisoner? The proof against him, depends upon his own confession, slightly corroborated by the testimony of two witnesses. The confession was freely and voluntarily made, was fairly and openly received, before the mayor; and, therefore, it was regularly read in evidence. But still, it has been urged, that it was thus apparently well made before the mayor, in consequence of improper measures previously pursued with the boy. The interference of the inspectors of the prison was certainly irregular; though the public anxiety, in which they participated, upon this extraordinary occasion, may be admitted as an excuse. The manner in which he was urged, though not threatened, by the citizens who visited him, may, likewise, be objectionable. But is it reasonable to infer, that all the prisoner's confessions were falsely made under the influence of those occurrences? Consider the nature of the offence. It cannot be openly perpetrated; for, it would be instantly preyented; and if it is secretly perpetrated, how, generally speaking, can the offender be detected, <span class=\"star-pagination\">*118</span> but by his own declarations? If such declarations are voluntarily made, all the world will agree, that they furnish the strongest evidence, of imputed guilt. The hope of mercy actuates almost every criminal, who confesses his crime; and merely that he cherishes the hope, is no reason, in morality, nor in law, to disbelieve him. The true point for consideration, therefore, is, whether the prisoner has falsely declared himself guilty of a capital offence? If there is ground even to suspect, that he has done so, God forbid, that his life should be the sacrifice! While, therefore, on the one hand, it is remarked, that all the stables set on fire, were in the neighbourhood of his master's house; that he has, in part, communicated the facts to another boy; that his conduct had excited the attention and suspicion of a girl, who knew him; and that he expressed no wish to retract the statement, which he has given: the jury will, on the other hand, remember, that if they entertain a doubt upon the subject, it is their duty to pronounce an acquittal. Though it is their province to administer justice, and not to bestow mercy; and though it is better not to err at all; yet, in a doubtful case, an error on the side of mercy is safer, is more venial, than error on the side of rigid justice.</p>\n<p>Verdict, Not Guilty.<sup>[(2)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  The humanity of the jury being gratified by an acquital of the prisoner, from the capital charge, he was indicted and convicted, on the same facts, for a misdemeanor. By the reform of our penal code, Arson is no longer a capital crime.</p>\n<p>[(2)]  The trial was held at a Court of Oyer and Terminer, in Philadelphia, on the 31st of January 1792, before M'KEAN, Chief Justice, and SHIPPEN and BRADFORD, Justices.</p>\n\n</div>", "html_with_citations": "", "id": 2620833, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620833/", "sha1": "4049c21c85ec1d71403af8150a61f3b4be8da578", "source": "L", "time_retrieved": "2013-11-01T12:20:09.442986"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 116", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620833/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Commonwealth v. Dillon", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593605, 
+    "resource_uri": "/api/rest/v2/citation/2593605/"
+  }, 
+  "id": 2620833, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1792-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 116 (____)</b></center>\n<center><b>4 Dall. 116</b></center>\n<center><h1>The Commonwealth<br>\nversus<br>\nDillon.<sup>[(1)]</sup></h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*117</span> For the Commonwealth, Ingersoll, attorney-general.</p>\n<p>For the Prisoner, Sergeant and Todd.</p>\n<p>By the COURT:</p>\n<p>The fact of the arson is established; and it only remains to decide, whether it was committed by the prisoner? The proof against him, depends upon his own confession, slightly corroborated by the testimony of two witnesses. The confession was freely and voluntarily made, was fairly and openly received, before the mayor; and, therefore, it was regularly read in evidence. But still, it has been urged, that it was thus apparently well made before the mayor, in consequence of improper measures previously pursued with the boy. The interference of the inspectors of the prison was certainly irregular; though the public anxiety, in which they participated, upon this extraordinary occasion, may be admitted as an excuse. The manner in which he was urged, though not threatened, by the citizens who visited him, may, likewise, be objectionable. But is it reasonable to infer, that all the prisoner's confessions were falsely made under the influence of those occurrences? Consider the nature of the offence. It cannot be openly perpetrated; for, it would be instantly preyented; and if it is secretly perpetrated, how, generally speaking, can the offender be detected, <span class=\"star-pagination\">*118</span> but by his own declarations? If such declarations are voluntarily made, all the world will agree, that they furnish the strongest evidence, of imputed guilt. The hope of mercy actuates almost every criminal, who confesses his crime; and merely that he cherishes the hope, is no reason, in morality, nor in law, to disbelieve him. The true point for consideration, therefore, is, whether the prisoner has falsely declared himself guilty of a capital offence? If there is ground even to suspect, that he has done so, God forbid, that his life should be the sacrifice! While, therefore, on the one hand, it is remarked, that all the stables set on fire, were in the neighbourhood of his master's house; that he has, in part, communicated the facts to another boy; that his conduct had excited the attention and suspicion of a girl, who knew him; and that he expressed no wish to retract the statement, which he has given: the jury will, on the other hand, remember, that if they entertain a doubt upon the subject, it is their duty to pronounce an acquittal. Though it is their province to administer justice, and not to bestow mercy; and though it is better not to err at all; yet, in a doubtful case, an error on the side of mercy is safer, is more venial, than error on the side of rigid justice.</p>\n<p>Verdict, Not Guilty.<sup>[(2)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  The humanity of the jury being gratified by an acquital of the prisoner, from the capital charge, he was indicted and convicted, on the same facts, for a misdemeanor. By the reform of our penal code, Arson is no longer a capital crime.</p>\n<p>[(2)]  The trial was held at a Court of Oyer and Terminer, in Philadelphia, on the 31st of January 1792, before M'KEAN, Chief Justice, and SHIPPEN and BRADFORD, Justices.</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T12:20:09.442986", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "4049c21c85ec1d71403af8150a61f3b4be8da578", 
+  "date_modified": "2014-10-30T13:50:52.799108", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620833/commonwealth-v-dillon/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1962951/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620833/"
+}

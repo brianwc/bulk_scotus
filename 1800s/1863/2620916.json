@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2620916/gelpcke-v-dubuque/", "blocked": false, "citation": {"case_name": "Gelpcke v. Dubuque", "docket_number": "79", "document_uris": ["/api/rest/v2/document/2620916/"], "federal_cite_one": "68 U.S. 221", "federal_cite_three": null, "federal_cite_two": null, "id": 2593688, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593688/", "scotus_early_cite": "1 Wall. 221", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1863-01-01", "date_modified": "2014-12-21T13:44:50.893067", "docket": "/api/rest/v2/docket/727272/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>68 U.S. 221 (1863)</b></center>\n<center><b>1 Wall. 221</b></center>\n<center><h1>GELPCKE ET AL.<br>\nv.<br>\nTHE CITY OF DUBUQUE.</h1></center>\n<center>No. 79.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*222</span> Mr. JUSTICE SWAYNE delivered the opinion of the court:</p>\n<p>The counsel of the plaintiffs in error have submitted no argument in regard to the two first causes assigned for the demurrer. We have not therefore considered the questions which they present. They relate to certain provisions of the contract which are claimed to be invalid. Conceding this to be so, they are clearly separable and severable from the other parts which are relied upon. The rule in such cases, where there is no imputation of malum in se is, that the bad parts do not affect the good. The valid may be enforced.<sup>[*]</sup> That part of the complaint only which relates to the stipulations claimed to be valid will be considered. The residue of the complaint may be laid out of view as surplusage. The demurrer is to the whole complaint. If the part to be considered shows a sufficient cause of action, the court below should have overruled the demurrer.</p>\n<p><span class=\"star-pagination\">*223</span> I. It is claimed that the contract is for the borrowing of money, and that the complaint is bad, because it does not aver the sanction of two-thirds of the electors of the city. If the fact were so, the consequence would not follow. If the city could make such a contract with that sanction, the sanction will be presumed until the contrary is shown. The non-existence of the fact is a matter of defence which must be shown by the defendant.</p>\n<p>II. We are also of the opinion that the contract, except the provision for an advance to the city of $20,000, which it is stated has been repaid, is not for borrowing money. It bound the plaintiffs to pay the interest for the city upon the debts of the city already created and presumed to be valid. The city agreed to refund the amount so paid at the times and in the manner specified. Such a contract is neither within the terms nor the spirit of the provisions of the charter upon the subject of borrowing.</p>\n<p>JUDGMENT REVERSED AND CAUSE REMANDED.</p>\n<p>N.B. The dissenting opinion of Mr. Justice Miller, given in the principal case, No. 80, applied to Nos. 79 and 81. See also the dissenting opinion of that Justice in Meyer v. City of Muscatine (post), as well as that case generally.</p>\n<h2>NOTES</h2>\n<p>[*]  United States v. Bradley, 10 Peters, 360.</p>\n\n</div>", "html_with_citations": "", "id": 2620916, "judges": "Swayne", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620916/", "sha1": "5a651c9173c0b13b87e11c0213789c70e3158217", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-11-01T13:04:47.948275"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "68 U.S. 221", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620916/"
+    ], 
+    "scotus_early_cite": "1 Wall. 221", 
+    "case_name": "Gelpcke v. Dubuque", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "79", 
+    "id": 2593688, 
+    "resource_uri": "/api/rest/v2/citation/2593688/"
+  }, 
+  "id": 2620916, 
+  "blocked": false, 
+  "judges": "Swayne", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1863-01-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>68 U.S. 221 (1863)</b></center>\n<center><b>1 Wall. 221</b></center>\n<center><h1>GELPCKE ET AL.<br>\nv.<br>\nTHE CITY OF DUBUQUE.</h1></center>\n<center>No. 79.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*222</span> Mr. JUSTICE SWAYNE delivered the opinion of the court:</p>\n<p>The counsel of the plaintiffs in error have submitted no argument in regard to the two first causes assigned for the demurrer. We have not therefore considered the questions which they present. They relate to certain provisions of the contract which are claimed to be invalid. Conceding this to be so, they are clearly separable and severable from the other parts which are relied upon. The rule in such cases, where there is no imputation of malum in se is, that the bad parts do not affect the good. The valid may be enforced.<sup>[*]</sup> That part of the complaint only which relates to the stipulations claimed to be valid will be considered. The residue of the complaint may be laid out of view as surplusage. The demurrer is to the whole complaint. If the part to be considered shows a sufficient cause of action, the court below should have overruled the demurrer.</p>\n<p><span class=\"star-pagination\">*223</span> I. It is claimed that the contract is for the borrowing of money, and that the complaint is bad, because it does not aver the sanction of two-thirds of the electors of the city. If the fact were so, the consequence would not follow. If the city could make such a contract with that sanction, the sanction will be presumed until the contrary is shown. The non-existence of the fact is a matter of defence which must be shown by the defendant.</p>\n<p>II. We are also of the opinion that the contract, except the provision for an advance to the city of $20,000, which it is stated has been repaid, is not for borrowing money. It bound the plaintiffs to pay the interest for the city upon the debts of the city already created and presumed to be valid. The city agreed to refund the amount so paid at the times and in the manner specified. Such a contract is neither within the terms nor the spirit of the provisions of the charter upon the subject of borrowing.</p>\n<p>JUDGMENT REVERSED AND CAUSE REMANDED.</p>\n<p>N.B. The dissenting opinion of Mr. Justice Miller, given in the principal case, No. 80, applied to Nos. 79 and 81. See also the dissenting opinion of that Justice in Meyer v. City of Muscatine (post), as well as that case generally.</p>\n<h2>NOTES</h2>\n<p>[*]  United States v. Bradley, 10 Peters, 360.</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T13:04:47.948275", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "5a651c9173c0b13b87e11c0213789c70e3158217", 
+  "date_modified": "2014-12-21T13:44:50.893067", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620916/gelpcke-v-dubuque/", 
+  "citation_count": 6, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/727272/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620916/"
+}

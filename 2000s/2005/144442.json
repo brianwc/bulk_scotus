@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/144442/grooms-v-johnson-director-virginia-department/", "blocked": false, "citation": {"case_name": "Grooms v. Johnson, Director, Virginia Department of Corrections", "docket_number": "04-8882", "document_uris": ["/api/rest/v2/document/144442/"], "federal_cite_one": "544 U.S. 1020", "federal_cite_three": null, "federal_cite_two": null, "id": 128794, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/128794/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-05-02", "date_modified": "2014-12-21T02:22:03.401603", "docket": "/api/rest/v2/docket/2462666/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1020.04-8882.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 1020</p>\n    <p class=\"parties\">GROOMS<br>v.<br>JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-8882.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 2, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 114 Fed. Appx. 96.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1020</span></span></p>\n    <p class=\"parties\">GROOMS<br>v.<br>JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-8882.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 2, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 114 Fed. Appx. 96.</p>\n    </div>\n    ", "id": 144442, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/144442/", "sha1": "6afca744d5319746faac080b96d33ab46f129905", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T11:14:49"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 1020", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/144442/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Grooms v. Johnson, Director, Virginia Department of Corrections", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-8882", 
+    "id": 128794, 
+    "resource_uri": "/api/rest/v2/citation/128794/"
+  }, 
+  "id": 144442, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-05-02", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1020.04-8882.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T11:14:49", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1020</span></span></p>\n    <p class=\"parties\">GROOMS<br>v.<br>JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-8882.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 2, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 114 Fed. Appx. 96.</p>\n    </div>\n    ", 
+  "sha1": "6afca744d5319746faac080b96d33ab46f129905", 
+  "date_modified": "2014-12-21T02:22:03.401603", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/144442/grooms-v-johnson-director-virginia-department/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2462666/", 
+  "html": "<p class=\"case_cite\">544 U.S. 1020</p>\n    <p class=\"parties\">GROOMS<br>v.<br>JOHNSON, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-8882.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 2, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 114 Fed. Appx. 96.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/144442/"
+}

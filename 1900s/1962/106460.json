@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106460/state-of-louisiana-ex-rel-steve-washington-v-v/", "blocked": false, "citation": {"case_name": "State of Louisiana Ex Rel. Steve Washington v. V. G. Walker", "docket_number": "900, Misc", "document_uris": ["/api/rest/v2/document/106460/"], "federal_cite_one": "370 U.S. 726", "federal_cite_three": null, "federal_cite_two": null, "id": 90843, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90843/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-06-25", "date_modified": "2014-12-21T01:52:24.673662", "docket": "/api/rest/v2/docket/2403419/", "download_url": "http://bulk.resource.org/courts.gov/c/US/370/370.US.726.900.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">370 U.S. 726</p>\n    <p class=\"case_cite\">82 S.Ct. 1572</p>\n    <p class=\"case_cite\">8 L.Ed.2d 802</p>\n    <p class=\"parties\">STATE OF LOUISIANA ex rel. Steve WASHINGTON<br>v.<br>V. G. WALKER</p>\n    <p class=\"docket\">No. 900, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 25, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert H. Reiter and Jack N. Rogers, for appellant.</p>\n      <p class=\"indent\">Jack P. F. Gremillion, Atty. Gen. of Louisiana, and Scallan E. Walsh, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">370</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">726</span></span></p>\n    <p class=\"case_cite\">82 S.Ct. 1572</p>\n    <p class=\"case_cite\">8 L.Ed.2d 802</p>\n    <p class=\"parties\">STATE OF LOUISIANA ex rel. Steve WASHINGTON<br>v.<br>V. G. WALKER</p>\n    <p class=\"docket\">No. 900, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 25, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert H. Reiter and Jack N. Rogers, for appellant.</p>\n      <p class=\"indent\">Jack P. F. Gremillion, Atty. Gen. of Louisiana, and Scallan E. Walsh, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "id": 106460, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106460/", "sha1": "bfbe8866e412e071d89d9429ca1d319d791a27d9", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:41"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "370 U.S. 726", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/106460/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "State of Louisiana Ex Rel. Steve Washington v. V. G. Walker", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "900, Misc", 
+    "id": 90843, 
+    "resource_uri": "/api/rest/v2/citation/90843/"
+  }, 
+  "id": 106460, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-06-25", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/370/370.US.726.900.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:41", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">370</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">726</span></span></p>\n    <p class=\"case_cite\">82 S.Ct. 1572</p>\n    <p class=\"case_cite\">8 L.Ed.2d 802</p>\n    <p class=\"parties\">STATE OF LOUISIANA ex rel. Steve WASHINGTON<br>v.<br>V. G. WALKER</p>\n    <p class=\"docket\">No. 900, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 25, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert H. Reiter and Jack N. Rogers, for appellant.</p>\n      <p class=\"indent\">Jack P. F. Gremillion, Atty. Gen. of Louisiana, and Scallan E. Walsh, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "sha1": "bfbe8866e412e071d89d9429ca1d319d791a27d9", 
+  "date_modified": "2014-12-21T01:52:24.673662", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106460/state-of-louisiana-ex-rel-steve-washington-v-v/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2403419/", 
+  "html": "<p class=\"case_cite\">370 U.S. 726</p>\n    <p class=\"case_cite\">82 S.Ct. 1572</p>\n    <p class=\"case_cite\">8 L.Ed.2d 802</p>\n    <p class=\"parties\">STATE OF LOUISIANA ex rel. Steve WASHINGTON<br>v.<br>V. G. WALKER</p>\n    <p class=\"docket\">No. 900, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 25, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert H. Reiter and Jack N. Rogers, for appellant.</p>\n      <p class=\"indent\">Jack P. F. Gremillion, Atty. Gen. of Louisiana, and Scallan E. Walsh, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106460/"
+}

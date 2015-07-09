@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087646/snapp-v-neal/", "blocked": false, "citation": {"case_name": "Snapp v. Neal", "docket_number": "16", "document_uris": ["/api/rest/v2/document/1087646/"], "federal_cite_one": "382 U.S. 397", "federal_cite_three": null, "federal_cite_two": null, "id": 1060417, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060417/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-01-18", "date_modified": "2014-10-30T10:15:14.206087", "docket": "/api/rest/v2/docket/1506999/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>382 U.S. 397 (1966)</b></center>\n<center><h1>SNAPP<br>\nv.<br>\nNEAL, STATE AUDITOR, ET AL.</h1></center>\n<center>No. 16.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 15-16, 1965.</center>\n<center>Decided January 18, 1966.</center>\nCERTIORARI TO THE SUPREME COURT OF MISSISSIPPI.\n<p><i>Leon D. Hubert, Jr.,</i> argued the cause for petitioner. With him on the briefs was <i>Carl J. Felth.</i></p>\n<p><i>Martin R. McLendon,</i> Assistant Attorney General of Mississippi, argued the cause for respondents. With him on the brief was <i>Joe T. Patterson,</i> Attorney General.</p>\n<p><i>Acting Solicitor General Spritzer, Acting Assistant Attorney General Jones</i> and <i>I. Henry Kutz</i> filed a brief for the United States, as <i>amicus curiae,</i> urging reversal.</p>\n<p>Mr. JUSTICE BRENNAN delivered the opinion of the Court.</p>\n<p>This is a companion case to <i>California</i> v. <i>Buzard, ante,</i> p. 386, decided today. The State of Mississippi levied an ad valorem tax against a house trailer of the petitioner, Sergeant Jesse E. Snapp. Sergeant Snapp was stationed under military orders at Crystal Springs Air Force Base, Mississippi. He bought the trailer in Mississippi and moved it on Mississippi highways to a private trailer park near the Air Force Base where he placed it on movable concrete blocks and used it as a home. He did not register or license the trailer, or pay <span class=\"star-pagination\">*398</span> any taxes on it in his home State of South Carolina. He challenged the Mississippi tax as a tax on his personal property prohibited by the Soldiers' and Sailors' Civil Relief Act of 1940, 54 Stat. 1178, as amended in 1944, § 514, 50 U. S. C. App. § 574.<sup>[*]</sup> The Mississippi Supreme Court sustained the levy on the ground that, as applied to motor vehicles, § 514 (2) (b) conditions the nonresident serviceman's immunity from its ad valorem tax on the serviceman's prior payment of the fees imposed by his home State. The court reasoned that since § 514 (2) (b) \"stipulat[es] expressly that the taxation should not be limited to privilege and excise taxes, it necessarily follows that the prohibited tax must include the only other general branch of taxation, that is, ad valorem. It is emphasized that the federal statute is meant to include ad valorem taxes as being one of the taxes for which the serviceman is <i>immune, provided he complies with the laws of his home state concerning registration of the motor vehicle.</i> If he fails to so comply, as was done in this case at bar, he is no longer entitled to protection of the Act of Congress.\" 250 Miss. 597, at 614-615, 164 So. 2d 752, at 760. We granted certiorari, 380 U. S. 931. We reverse on the authority of our holding today in <i>Buzard</i> that the failure to pay the motor vehicle \"license, fee, or excise\" of the home State entitles the host State only to exact motor vehicle taxes qualifying as \"licenses, fees, or excise\"; the ad valorem tax, as the Mississippi Supreme Court acknowledged, is not such an exaction. We thus have no occasion to decide whether the Mississippi Supreme Court was correct in holding that the house trailer was a \"motor vehicle\" within the meaning of § 514 (2) (b).</p>\n<p><i>Reversed.</i></p>\n<h2>NOTES</h2>\n<p>[*]  The relevant text of the statute is in <i>California</i> v. <i>Buzard, ante,</i> p. 388, n. 1.</p>\n\n</div>", "html_with_citations": "", "id": 1087646, "judges": "Brennan", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087646/", "sha1": "308b612b5706e403c549b32bef247321b9da73f2", "source": "L", "time_retrieved": "2013-10-29T18:48:41.054899"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "382 U.S. 397", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087646/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Snapp v. Neal", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "16", 
+    "id": 1060417, 
+    "resource_uri": "/api/rest/v2/citation/1060417/"
+  }, 
+  "id": 1087646, 
+  "blocked": false, 
+  "judges": "Brennan", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-01-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>382 U.S. 397 (1966)</b></center>\n<center><h1>SNAPP<br>\nv.<br>\nNEAL, STATE AUDITOR, ET AL.</h1></center>\n<center>No. 16.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 15-16, 1965.</center>\n<center>Decided January 18, 1966.</center>\nCERTIORARI TO THE SUPREME COURT OF MISSISSIPPI.\n<p><i>Leon D. Hubert, Jr.,</i> argued the cause for petitioner. With him on the briefs was <i>Carl J. Felth.</i></p>\n<p><i>Martin R. McLendon,</i> Assistant Attorney General of Mississippi, argued the cause for respondents. With him on the brief was <i>Joe T. Patterson,</i> Attorney General.</p>\n<p><i>Acting Solicitor General Spritzer, Acting Assistant Attorney General Jones</i> and <i>I. Henry Kutz</i> filed a brief for the United States, as <i>amicus curiae,</i> urging reversal.</p>\n<p>Mr. JUSTICE BRENNAN delivered the opinion of the Court.</p>\n<p>This is a companion case to <i>California</i> v. <i>Buzard, ante,</i> p. 386, decided today. The State of Mississippi levied an ad valorem tax against a house trailer of the petitioner, Sergeant Jesse E. Snapp. Sergeant Snapp was stationed under military orders at Crystal Springs Air Force Base, Mississippi. He bought the trailer in Mississippi and moved it on Mississippi highways to a private trailer park near the Air Force Base where he placed it on movable concrete blocks and used it as a home. He did not register or license the trailer, or pay <span class=\"star-pagination\">*398</span> any taxes on it in his home State of South Carolina. He challenged the Mississippi tax as a tax on his personal property prohibited by the Soldiers' and Sailors' Civil Relief Act of 1940, 54 Stat. 1178, as amended in 1944, \u00a7 514, 50 U. S. C. App. \u00a7 574.<sup>[*]</sup> The Mississippi Supreme Court sustained the levy on the ground that, as applied to motor vehicles, \u00a7 514 (2) (b) conditions the nonresident serviceman's immunity from its ad valorem tax on the serviceman's prior payment of the fees imposed by his home State. The court reasoned that since \u00a7 514 (2) (b) \"stipulat[es] expressly that the taxation should not be limited to privilege and excise taxes, it necessarily follows that the prohibited tax must include the only other general branch of taxation, that is, ad valorem. It is emphasized that the federal statute is meant to include ad valorem taxes as being one of the taxes for which the serviceman is <i>immune, provided he complies with the laws of his home state concerning registration of the motor vehicle.</i> If he fails to so comply, as was done in this case at bar, he is no longer entitled to protection of the Act of Congress.\" 250 Miss. 597, at 614-615, 164 So. 2d 752, at 760. We granted certiorari, 380 U. S. 931. We reverse on the authority of our holding today in <i>Buzard</i> that the failure to pay the motor vehicle \"license, fee, or excise\" of the home State entitles the host State only to exact motor vehicle taxes qualifying as \"licenses, fees, or excise\"; the ad valorem tax, as the Mississippi Supreme Court acknowledged, is not such an exaction. We thus have no occasion to decide whether the Mississippi Supreme Court was correct in holding that the house trailer was a \"motor vehicle\" within the meaning of \u00a7 514 (2) (b).</p>\n<p><i>Reversed.</i></p>\n<h2>NOTES</h2>\n<p>[*]  The relevant text of the statute is in <i>California</i> v. <i>Buzard, ante,</i> p. 388, n. 1.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T18:48:41.054899", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "308b612b5706e403c549b32bef247321b9da73f2", 
+  "date_modified": "2014-10-30T10:15:14.206087", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087646/snapp-v-neal/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1506999/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087646/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108211/colombo-v-new-york/", "blocked": false, "citation": {"case_name": "Colombo v. New York", "docket_number": "175", "document_uris": ["/api/rest/v2/document/108211/"], "federal_cite_one": "400 U.S. 16", "federal_cite_three": "27 L. Ed. 2d 16", "federal_cite_two": "91 S. Ct. 99", "id": 92570, "lexis_cite": "1970 U.S. LEXIS 720", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92570/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-10-19", "date_modified": "2014-12-21T09:48:20.561199", "docket": "/api/rest/v2/docket/2572662/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">400 U.S. 16</p>\n    <p class=\"case_cite\">91 S.Ct. 99</p>\n    <p class=\"parties\">Joseph COLOMBO<br>v.<br>NEW YORK.</p>\n    <p class=\"docket\">No. 175.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 19, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Appeals of New York.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for a writ of certiorari is granted, the judgment is vacated, and the case is remanded to the Court of Appeals of New York for further consideration in light of Waller v. Florida, 397 U.S. 387, 90 S.Ct. 1184, 25 L.Ed.2d 435.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK is of the opinion that certiorari should be granted and the judgment reversed on the ground that the state prosecution is barred by the Double Jeopardy Clause of the Fifth Amendment of the Constitution.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>400 U.S. 16 (1970)</b></center>\n<center><h1>COLOMBO<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 175.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 19, 1970</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF NEW YORK.\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted, the judgment is vacated, and the case is remanded to the Court of Appeals of New York for further consideration in light of <i>Waller</i> v. <i>Florida,</i> 397 U. S. 387.</p>\n<p>MR. JUSTICE BLACK is of the opinion that certiorari should be granted and the judgment reversed on the ground that the state prosecution is barred by the Double Jeopardy Clause of the Fifth Amendment of the Constitution.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">400</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">16</span></span> (1970)</b></center>\n<center><h1>COLOMBO<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 175.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 19, 1970</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF NEW YORK.\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted, the judgment is vacated, and the case is remanded to the Court of Appeals of New York for further consideration in light of <i>Waller</i> v. <i>Florida,</i> 397 U. S. 387.</p>\n<p>MR. JUSTICE BLACK is of the opinion that certiorari should be granted and the judgment reversed on the ground that the state prosecution is barred by the Double Jeopardy Clause of the Fifth Amendment of the Constitution.</p>\n</div>", "id": 108211, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108211/", "sha1": "a5849cc69af41facd438d96316e392b5ed3853b4", "source": "LR", "supreme_court_db_id": "1970-003", "time_retrieved": "2010-04-28T10:11:26"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "400 U.S. 16", 
+    "federal_cite_two": "91 S. Ct. 99", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "27 L. Ed. 2d 16", 
+    "lexis_cite": "1970 U.S. LEXIS 720", 
+    "document_uris": [
+      "/api/rest/v2/document/108211/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Colombo v. New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "175", 
+    "id": 92570, 
+    "resource_uri": "/api/rest/v2/citation/92570/"
+  }, 
+  "id": 108211, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-10-19", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>400 U.S. 16 (1970)</b></center>\n<center><h1>COLOMBO<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 175.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 19, 1970</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF NEW YORK.\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted, the judgment is vacated, and the case is remanded to the Court of Appeals of New York for further consideration in light of <i>Waller</i> v. <i>Florida,</i> 397 U. S. 387.</p>\n<p>MR. JUSTICE BLACK is of the opinion that certiorari should be granted and the judgment reversed on the ground that the state prosecution is barred by the Double Jeopardy Clause of the Fifth Amendment of the Constitution.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:26", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">400</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">16</span></span> (1970)</b></center>\n<center><h1>COLOMBO<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 175.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 19, 1970</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF APPEALS OF NEW YORK.\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted, the judgment is vacated, and the case is remanded to the Court of Appeals of New York for further consideration in light of <i>Waller</i> v. <i>Florida,</i> 397 U. S. 387.</p>\n<p>MR. JUSTICE BLACK is of the opinion that certiorari should be granted and the judgment reversed on the ground that the state prosecution is barred by the Double Jeopardy Clause of the Fifth Amendment of the Constitution.</p>\n</div>", 
+  "sha1": "a5849cc69af41facd438d96316e392b5ed3853b4", 
+  "date_modified": "2014-12-21T09:48:20.561199", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108211/colombo-v-new-york/", 
+  "citation_count": 5, 
+  "supreme_court_db_id": "1970-003", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2572662/", 
+  "html": "<p class=\"case_cite\">400 U.S. 16</p>\n    <p class=\"case_cite\">91 S.Ct. 99</p>\n    <p class=\"parties\">Joseph COLOMBO<br>v.<br>NEW YORK.</p>\n    <p class=\"docket\">No. 175.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 19, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Appeals of New York.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for a writ of certiorari is granted, the judgment is vacated, and the case is remanded to the Court of Appeals of New York for further consideration in light of Waller v. Florida, 397 U.S. 387, 90 S.Ct. 1184, 25 L.Ed.2d 435.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK is of the opinion that certiorari should be granted and the judgment reversed on the ground that the state prosecution is barred by the Double Jeopardy Clause of the Fifth Amendment of the Constitution.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108211/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/87722/barrel-v-transportation-co/", "blocked": false, "citation": {"case_name": "Barrel v. Transportation Co.", "docket_number": null, "document_uris": ["/api/rest/v2/document/87722/"], "federal_cite_one": "70 U.S. 424", "federal_cite_three": null, "federal_cite_two": null, "id": 56535, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/56535/", "scotus_early_cite": "3 Wall. 424", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1866-02-19", "date_modified": "2014-12-21T01:25:44.765044", "docket": "/api/rest/v2/docket/2519022/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">70 U.S. 424</p>\n    <p class=\"case_cite\">18 L.Ed. 168</p>\n    <p class=\"case_cite\">3 Wall. 424</p>\n    <p class=\"parties\">BARREL<br>v.<br>TRANSPORTATION COMPANY.</p>\n    <p class=\"date\">December Term, 1865</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">MOTION by <i>Mr. Browing (Mr. Rae, contra</i>) to dismiss an appeal from the Circuit Court of the United States for the Northern District of Illinois.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The record showed that no appeal had been prayed or allowed in the Circuit Court. Accompanying the record, however, was a petitioner addressed to that court, which prayed for an appeal. This petition was dated on the 20th July, 1865, ten days after the decree, and was filed on the same 20th of July, in the office of the clerk of the Circuit Court.</p>\n    </div>\n    <p class=\"indent\">The CHIEF JUSTICE:</p>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion to dismiss in this case must prevail. The proceeding in the case is not warranted by any act of Congress, and we have no authority to act on such a petition. The filing of it in the clerk's office, even if it could be regarded as addressed to the Circuit Court, would be of no avail, unless accompanied by an allowance of an appeal by that court; and in the case before us there was no allowance.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">CASE DISMISSED.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>70 U.S. 424 (1865)</b></center>\n<center><b>3 Wall. 424</b></center>\n<center><h1>BARREL<br>\nv.<br>\nTRANSPORTATION COMPANY.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The CHIEF JUSTICE:</p>\n<p>The motion to dismiss in this case must prevail. The proceeding in the case is not warranted by any act of Congress, and we have no authority to act on such a petition. The filing of it in the clerk's office, even if it could be regarded as addressed to the Circuit Court, would be of no avail, unless accompanied by an allowance of an appeal by that court; and in the case before us there was no allowance.</p>\n<p>CASE DISMISSED.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">70</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">424</span></span> (1865)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">Wall.</span> <span class=\"page\">424</span></span></b></center>\n<center><h1>BARREL<br>\nv.<br>\nTRANSPORTATION COMPANY.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The CHIEF JUSTICE:</p>\n<p>The motion to dismiss in this case must prevail. The proceeding in the case is not warranted by any act of Congress, and we have no authority to act on such a petition. The filing of it in the clerk's office, even if it could be regarded as addressed to the Circuit Court, would be of no avail, unless accompanied by an allowance of an appeal by that court; and in the case before us there was no allowance.</p>\n<p>CASE DISMISSED.</p>\n</div>", "id": 87722, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/87722/", "sha1": "16c01433e54d55c0afdcdd05539656b98ff48867", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:01:22"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "70 U.S. 424", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/87722/"
+    ], 
+    "scotus_early_cite": "3 Wall. 424", 
+    "case_name": "Barrel v. Transportation Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 56535, 
+    "resource_uri": "/api/rest/v2/citation/56535/"
+  }, 
+  "id": 87722, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1866-02-19", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>70 U.S. 424 (1865)</b></center>\n<center><b>3 Wall. 424</b></center>\n<center><h1>BARREL<br>\nv.<br>\nTRANSPORTATION COMPANY.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The CHIEF JUSTICE:</p>\n<p>The motion to dismiss in this case must prevail. The proceeding in the case is not warranted by any act of Congress, and we have no authority to act on such a petition. The filing of it in the clerk's office, even if it could be regarded as addressed to the Circuit Court, would be of no avail, unless accompanied by an allowance of an appeal by that court; and in the case before us there was no allowance.</p>\n<p>CASE DISMISSED.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:01:22", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">70</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">424</span></span> (1865)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">Wall.</span> <span class=\"page\">424</span></span></b></center>\n<center><h1>BARREL<br>\nv.<br>\nTRANSPORTATION COMPANY.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The CHIEF JUSTICE:</p>\n<p>The motion to dismiss in this case must prevail. The proceeding in the case is not warranted by any act of Congress, and we have no authority to act on such a petition. The filing of it in the clerk's office, even if it could be regarded as addressed to the Circuit Court, would be of no avail, unless accompanied by an allowance of an appeal by that court; and in the case before us there was no allowance.</p>\n<p>CASE DISMISSED.</p>\n</div>", 
+  "sha1": "16c01433e54d55c0afdcdd05539656b98ff48867", 
+  "date_modified": "2014-12-21T01:25:44.765044", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/87722/barrel-v-transportation-co/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2519022/", 
+  "html": "<p class=\"case_cite\">70 U.S. 424</p>\n    <p class=\"case_cite\">18 L.Ed. 168</p>\n    <p class=\"case_cite\">3 Wall. 424</p>\n    <p class=\"parties\">BARREL<br>v.<br>TRANSPORTATION COMPANY.</p>\n    <p class=\"date\">December Term, 1865</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">MOTION by <i>Mr. Browing (Mr. Rae, contra</i>) to dismiss an appeal from the Circuit Court of the United States for the Northern District of Illinois.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The record showed that no appeal had been prayed or allowed in the Circuit Court. Accompanying the record, however, was a petitioner addressed to that court, which prayed for an appeal. This petition was dated on the 20th July, 1865, ten days after the decree, and was filed on the same 20th of July, in the office of the clerk of the Circuit Court.</p>\n    </div>\n    <p class=\"indent\">The CHIEF JUSTICE:</p>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion to dismiss in this case must prevail. The proceeding in the case is not warranted by any act of Congress, and we have no authority to act on such a petition. The filing of it in the clerk's office, even if it could be regarded as addressed to the Circuit Court, would be of no avail, unless accompanied by an allowance of an appeal by that court; and in the case before us there was no allowance.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">CASE DISMISSED.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/87722/"
+}

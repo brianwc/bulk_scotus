@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087810/sullivan-v-alabama-state-bar/", "blocked": false, "citation": {"case_name": "Sullivan v. Alabama State Bar", "docket_number": "1170", "document_uris": ["/api/rest/v2/document/1087810/"], "federal_cite_one": "394 U.S. 812", "federal_cite_three": null, "federal_cite_two": null, "id": 1060581, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060581/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-04-28", "date_modified": "2014-10-30T10:15:36.765397", "docket": "/api/rest/v2/docket/1507612/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>394 U.S. 812 (1969)</b></center>\n<center><h1>SULLIVAN<br>\nv.<br>\nALABAMA STATE BAR ET AL.</h1></center>\n<center>No. 1170.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 28, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE MIDDLE DISTRICT OF ALABAMA.\n<p><i>Fred Blanton, Jr.,</i> for appellant.</p>\n<p><i>Truman Hobbs</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1087810, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087810/", "sha1": "ce3d023cb97b0d4a31a8832b4bf3f9221e3007c3", "source": "L", "time_retrieved": "2013-10-29T19:45:10.895523"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "394 U.S. 812", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087810/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Sullivan v. Alabama State Bar", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1170", 
+    "id": 1060581, 
+    "resource_uri": "/api/rest/v2/citation/1060581/"
+  }, 
+  "id": 1087810, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-04-28", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>394 U.S. 812 (1969)</b></center>\n<center><h1>SULLIVAN<br>\nv.<br>\nALABAMA STATE BAR ET AL.</h1></center>\n<center>No. 1170.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 28, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE MIDDLE DISTRICT OF ALABAMA.\n<p><i>Fred Blanton, Jr.,</i> for appellant.</p>\n<p><i>Truman Hobbs</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:45:10.895523", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ce3d023cb97b0d4a31a8832b4bf3f9221e3007c3", 
+  "date_modified": "2014-10-30T10:15:36.765397", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087810/sullivan-v-alabama-state-bar/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1507612/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087810/"
+}

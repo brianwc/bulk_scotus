@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106174/bullock-v-south-carolina/", "blocked": false, "citation": {"case_name": "Bullock v. South Carolina", "docket_number": "78", "document_uris": ["/api/rest/v2/document/106174/"], "federal_cite_one": "365 U.S. 292", "federal_cite_three": "5 L. Ed. 2d 570", "federal_cite_two": "81 S. Ct. 686", "id": 90557, "lexis_cite": "1961 U.S. LEXIS 1689", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90557/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-02-20", "date_modified": "2014-12-21T16:01:52.839613", "docket": "/api/rest/v2/docket/2520451/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">365 U.S. 292</p>\n    <p class=\"case_cite\">81 S.Ct. 686</p>\n    <p class=\"case_cite\">5 L.Ed.2d 570</p>\n    <p class=\"parties\">Quincy BULLOCK, petitioner,<br>v.<br>STATE OF SOUTH CAROLINA.</p>\n    <p class=\"docket\">No. 78.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1960.</p>\n    <p class=\"date\">February 20, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Matthew J. Perry, Spartanburg, S. C., for petitioner.</p>\n      <p class=\"indent\">Mr. Robert L. Kilgo, Darlington, S. C., for respondent.</p>\n      <p class=\"indent\">On Writ of Certiorari to the Supreme Court of South Carolina.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">After hearing oral argument and fully examining the record which was only partially set forth in the petition for certiorari, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>365 U.S. 292 (1961)</b></center>\n<center><h1>BULLOCK<br>\nv.<br>\nSOUTH CAROLINA.</h1></center>\n<center>No. 78.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 9, 1961.</center>\n<center>Decided February 20, 1961.</center>\nCERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA.\n<p><i>Matthew J. Perry</i> argued the cause for petitioner. With him on the brief were <i>Lincoln C. Jenkins, Jr.</i> and <i>Donald James Sampson.</i></p>\n<p><i>Robert L. Kilgo</i> argued the cause for respondent. With him on the brief were <i>Daniel R. McLeod,</i> Attorney General of South Carolina, <i>Everett N. Brandon,</i> Assistant Attorney General, and <i>S. Norwood Gasque.</i></p>\n<p>PER CURIAM.</p>\n<p>After hearing oral argument and fully examining the record which was only partially set forth in the petition for certiorari, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">365</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">292</span></span> (1961)</b></center>\n<center><h1>BULLOCK<br>\nv.<br>\nSOUTH CAROLINA.</h1></center>\n<center>No. 78.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 9, 1961.</center>\n<center>Decided February 20, 1961.</center>\nCERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA.\n<p><i>Matthew J. Perry</i> argued the cause for petitioner. With him on the brief were <i>Lincoln C. Jenkins, Jr.</i> and <i>Donald James Sampson.</i></p>\n<p><i>Robert L. Kilgo</i> argued the cause for respondent. With him on the brief were <i>Daniel R. McLeod,</i> Attorney General of South Carolina, <i>Everett N. Brandon,</i> Assistant Attorney General, and <i>S. Norwood Gasque.</i></p>\n<p>PER CURIAM.</p>\n<p>After hearing oral argument and fully examining the record which was only partially set forth in the petition for certiorari, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n</div>", "id": 106174, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106174/", "sha1": "a5f41c5b9f73c2552b8a9b973b9cb7b819301240", "source": "LR", "supreme_court_db_id": "1960-045", "time_retrieved": "2010-04-28T09:55:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "365 U.S. 292", 
+    "federal_cite_two": "81 S. Ct. 686", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "5 L. Ed. 2d 570", 
+    "lexis_cite": "1961 U.S. LEXIS 1689", 
+    "document_uris": [
+      "/api/rest/v2/document/106174/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bullock v. South Carolina", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "78", 
+    "id": 90557, 
+    "resource_uri": "/api/rest/v2/citation/90557/"
+  }, 
+  "id": 106174, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-02-20", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>365 U.S. 292 (1961)</b></center>\n<center><h1>BULLOCK<br>\nv.<br>\nSOUTH CAROLINA.</h1></center>\n<center>No. 78.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 9, 1961.</center>\n<center>Decided February 20, 1961.</center>\nCERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA.\n<p><i>Matthew J. Perry</i> argued the cause for petitioner. With him on the brief were <i>Lincoln C. Jenkins, Jr.</i> and <i>Donald James Sampson.</i></p>\n<p><i>Robert L. Kilgo</i> argued the cause for respondent. With him on the brief were <i>Daniel R. McLeod,</i> Attorney General of South Carolina, <i>Everett N. Brandon,</i> Assistant Attorney General, and <i>S. Norwood Gasque.</i></p>\n<p>PER CURIAM.</p>\n<p>After hearing oral argument and fully examining the record which was only partially set forth in the petition for certiorari, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">365</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">292</span></span> (1961)</b></center>\n<center><h1>BULLOCK<br>\nv.<br>\nSOUTH CAROLINA.</h1></center>\n<center>No. 78.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 9, 1961.</center>\n<center>Decided February 20, 1961.</center>\nCERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA.\n<p><i>Matthew J. Perry</i> argued the cause for petitioner. With him on the brief were <i>Lincoln C. Jenkins, Jr.</i> and <i>Donald James Sampson.</i></p>\n<p><i>Robert L. Kilgo</i> argued the cause for respondent. With him on the brief were <i>Daniel R. McLeod,</i> Attorney General of South Carolina, <i>Everett N. Brandon,</i> Assistant Attorney General, and <i>S. Norwood Gasque.</i></p>\n<p>PER CURIAM.</p>\n<p>After hearing oral argument and fully examining the record which was only partially set forth in the petition for certiorari, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n</div>", 
+  "sha1": "a5f41c5b9f73c2552b8a9b973b9cb7b819301240", 
+  "date_modified": "2014-12-21T16:01:52.839613", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106174/bullock-v-south-carolina/", 
+  "citation_count": 5, 
+  "supreme_court_db_id": "1960-045", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2520451/", 
+  "html": "<p class=\"case_cite\">365 U.S. 292</p>\n    <p class=\"case_cite\">81 S.Ct. 686</p>\n    <p class=\"case_cite\">5 L.Ed.2d 570</p>\n    <p class=\"parties\">Quincy BULLOCK, petitioner,<br>v.<br>STATE OF SOUTH CAROLINA.</p>\n    <p class=\"docket\">No. 78.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1960.</p>\n    <p class=\"date\">February 20, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Matthew J. Perry, Spartanburg, S. C., for petitioner.</p>\n      <p class=\"indent\">Mr. Robert L. Kilgo, Darlington, S. C., for respondent.</p>\n      <p class=\"indent\">On Writ of Certiorari to the Supreme Court of South Carolina.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">After hearing oral argument and fully examining the record which was only partially set forth in the petition for certiorari, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106174/"
+}

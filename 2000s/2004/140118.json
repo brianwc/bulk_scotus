@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/140118/larimer-v-international-business-machines-corp/", "blocked": false, "citation": {"case_name": "Larimer v. International Business MacHines Corp", "docket_number": "04-330", "document_uris": ["/api/rest/v2/document/140118/"], "federal_cite_one": "543 U.S. 984", "federal_cite_three": null, "federal_cite_two": null, "id": 124471, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/124471/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-11-08", "date_modified": "2014-12-21T02:20:53.395983", "docket": "/api/rest/v2/docket/208110/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.984.04-330.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 984</p>\n    <p class=\"parties\">LARIMER<br>v.<br>INTERNATIONAL BUSINESS MACHINES CORP.</p>\n    <p class=\"docket\">No. 04-330.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C.A. 7th Cir. Certiorari denied. JUSTICE BREYER took no part in the consideration or decision of this petition. Reported below: 370 F.3d 698.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">984</span></span></p>\n    <p class=\"parties\">LARIMER<br>v.<br>INTERNATIONAL BUSINESS MACHINES CORP.</p>\n    <p class=\"docket\">No. 04-330.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C.A. 7th Cir. Certiorari denied. JUSTICE BREYER took no part in the consideration or decision of this petition. Reported below: 370 F.3d 698.</p>\n    </div>\n    ", "id": 140118, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/140118/", "sha1": "9741fd039a39ae22c658604f79ff66640bbb23e4", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:33:08"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 984", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/140118/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Larimer v. International Business MacHines Corp", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-330", 
+    "id": 124471, 
+    "resource_uri": "/api/rest/v2/citation/124471/"
+  }, 
+  "id": 140118, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-11-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.984.04-330.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:33:08", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">984</span></span></p>\n    <p class=\"parties\">LARIMER<br>v.<br>INTERNATIONAL BUSINESS MACHINES CORP.</p>\n    <p class=\"docket\">No. 04-330.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C.A. 7th Cir. Certiorari denied. JUSTICE BREYER took no part in the consideration or decision of this petition. Reported below: 370 F.3d 698.</p>\n    </div>\n    ", 
+  "sha1": "9741fd039a39ae22c658604f79ff66640bbb23e4", 
+  "date_modified": "2014-12-21T02:20:53.395983", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/140118/larimer-v-international-business-machines-corp/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/208110/", 
+  "html": "<p class=\"case_cite\">543 U.S. 984</p>\n    <p class=\"parties\">LARIMER<br>v.<br>INTERNATIONAL BUSINESS MACHINES CORP.</p>\n    <p class=\"docket\">No. 04-330.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C.A. 7th Cir. Certiorari denied. JUSTICE BREYER took no part in the consideration or decision of this petition. Reported below: 370 F.3d 698.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/140118/"
+}

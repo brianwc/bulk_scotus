@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1394601/the-frances/", "blocked": false, "citation": {"case_name": "The Frances", "docket_number": null, "document_uris": ["/api/rest/v2/document/1394601/"], "federal_cite_one": "12 U.S. 363", "federal_cite_three": null, "federal_cite_two": null, "id": 1367372, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1367372/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1814-03-12", "date_modified": "2014-10-30T08:32:32.754102", "docket": "/api/rest/v2/docket/1282206/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>12 U.S. 363 (1814)</b></center>\n<center><b>8 Cranch 363</b></center>\n<center><h1>THE FRANCES, BOYER, MASTER. (Gillespie's claim.)</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>March 12, 1814.</center>\n<p><span class=\"star-pagination\">*364</span> <i>JONES,</i> for the Claimant.</p>\n<p><i>PINKNEY,</i> for the captors.</p>\n<p><i>Absent</i>... . LIVINGSTON, <i>J.</i></p>\n<p><span class=\"star-pagination\">*371</span> MARSHALL, <i>Ch. J.</i> delivered the opinion of the Court as follows:</p>\n<p>Colin Gillespie, a naturalized American citizen residing in Glasgow, claimed sundry goods, shipped on his own account, as his property. This claim depends entirely on his national character, and is decided in the case of the <i>Venus.</i></p>\n<p>The sentence of the Circuit Court, condemning the property of the Claimant, is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1394601, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1394601/", "sha1": "ddc7e756de69f99aa231dfe384388d83ba05378e", "source": "L", "time_retrieved": "2013-10-29T22:56:51.635882"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "12 U.S. 363", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1394601/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "The Frances", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1367372, 
+    "resource_uri": "/api/rest/v2/citation/1367372/"
+  }, 
+  "id": 1394601, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1814-03-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>12 U.S. 363 (1814)</b></center>\n<center><b>8 Cranch 363</b></center>\n<center><h1>THE FRANCES, BOYER, MASTER. (Gillespie's claim.)</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>March 12, 1814.</center>\n<p><span class=\"star-pagination\">*364</span> <i>JONES,</i> for the Claimant.</p>\n<p><i>PINKNEY,</i> for the captors.</p>\n<p><i>Absent</i>... . LIVINGSTON, <i>J.</i></p>\n<p><span class=\"star-pagination\">*371</span> MARSHALL, <i>Ch. J.</i> delivered the opinion of the Court as follows:</p>\n<p>Colin Gillespie, a naturalized American citizen residing in Glasgow, claimed sundry goods, shipped on his own account, as his property. This claim depends entirely on his national character, and is decided in the case of the <i>Venus.</i></p>\n<p>The sentence of the Circuit Court, condemning the property of the Claimant, is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:56:51.635882", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ddc7e756de69f99aa231dfe384388d83ba05378e", 
+  "date_modified": "2014-10-30T08:32:32.754102", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1394601/the-frances/", 
+  "citation_count": 4, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1282206/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1394601/"
+}

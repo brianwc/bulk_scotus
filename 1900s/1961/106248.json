@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106248/herrin-transp-co-v-united-states/", "blocked": false, "citation": {"case_name": "Herrin Transp. Co. v. United States", "docket_number": "837", "document_uris": ["/api/rest/v2/document/106248/"], "federal_cite_one": "366 U.S. 419", "federal_cite_three": null, "federal_cite_two": null, "id": 90631, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90631/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 8, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-05-22", "date_modified": "2014-12-21T01:51:55.625592", "docket": "/api/rest/v2/docket/2553378/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">366 U.S. 419</p>\n    <p class=\"case_cite\">81 S.Ct. 1356</p>\n    <p class=\"case_cite\">6 L.Ed.2d 387</p>\n    <p class=\"parties\">HERRIN TRANSPORTATION CO.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 837.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 22, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Carl L. Phinney, for appellant.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Loevinger, Richard A. Solomon, Robert W. Ginnane and James Y. Piper, for the United States.</p>\n      <p class=\"indent\">Edwell H. Muse, Jr., for appellee Stickland Transportation Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>366 U.S. 419 (1961)</b></center>\n<center><h1>HERRIN TRANSPORTATION CO.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 837.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 22, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF TEXAS.\n<p><i>Carl L. Phinney</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Richard A. Solomon, Robert W. Ginnane</i> and <i>James Y. Piper</i> for the United States, and <i>Ewell H. Muse, Jr.</i> for Strickland Transportation Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">366</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">419</span></span> (1961)</b></center>\n<center><h1>HERRIN TRANSPORTATION CO.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 837.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 22, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF TEXAS.\n<p><i>Carl L. Phinney</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Richard A. Solomon, Robert W. Ginnane</i> and <i>James Y. Piper</i> for the United States, and <i>Ewell H. Muse, Jr.</i> for Strickland Transportation Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "id": 106248, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106248/", "sha1": "248a81878169d9b63f0089cb94b9bdf16b5f395d", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:54"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "366 U.S. 419", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106248/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Herrin Transp. Co. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "837", 
+    "id": 90631, 
+    "resource_uri": "/api/rest/v2/citation/90631/"
+  }, 
+  "id": 106248, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-05-22", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>366 U.S. 419 (1961)</b></center>\n<center><h1>HERRIN TRANSPORTATION CO.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 837.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 22, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF TEXAS.\n<p><i>Carl L. Phinney</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Richard A. Solomon, Robert W. Ginnane</i> and <i>James Y. Piper</i> for the United States, and <i>Ewell H. Muse, Jr.</i> for Strickland Transportation Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:54", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">366</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">419</span></span> (1961)</b></center>\n<center><h1>HERRIN TRANSPORTATION CO.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 837.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 22, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF TEXAS.\n<p><i>Carl L. Phinney</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Richard A. Solomon, Robert W. Ginnane</i> and <i>James Y. Piper</i> for the United States, and <i>Ewell H. Muse, Jr.</i> for Strickland Transportation Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "sha1": "248a81878169d9b63f0089cb94b9bdf16b5f395d", 
+  "date_modified": "2014-12-21T01:51:55.625592", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106248/herrin-transp-co-v-united-states/", 
+  "citation_count": 8, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2553378/", 
+  "html": "<p class=\"case_cite\">366 U.S. 419</p>\n    <p class=\"case_cite\">81 S.Ct. 1356</p>\n    <p class=\"case_cite\">6 L.Ed.2d 387</p>\n    <p class=\"parties\">HERRIN TRANSPORTATION CO.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 837.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 22, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Carl L. Phinney, for appellant.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Loevinger, Richard A. Solomon, Robert W. Ginnane and James Y. Piper, for the United States.</p>\n      <p class=\"indent\">Edwell H. Muse, Jr., for appellee Stickland Transportation Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106248/"
+}

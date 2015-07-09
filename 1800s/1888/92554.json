@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92554/list-v-pennsylvania/", "blocked": false, "citation": {"case_name": "List v. Pennsylvania", "docket_number": "984", "document_uris": ["/api/rest/v2/document/92554/"], "federal_cite_one": "131 U.S. 396", "federal_cite_three": null, "federal_cite_two": null, "id": 76934, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76934/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 8, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1888-12-10", "date_modified": "2014-12-21T01:30:55.370916", "docket": "/api/rest/v2/docket/417671/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">131 U.S. 396</p>\n    <p class=\"case_cite\">9 S.Ct. 794</p>\n    <p class=\"case_cite\">33 L.Ed. 222</p>\n    <p class=\"parties\">LIST<br>v.<br>STATE OF PENNSYLVANIA.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">December 10, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>W. P. Potter</i>, for plaintiff in error.</p>\n      <p class=\"indent\"><i>W. D. Porter</i>, for the State of Pennsylvania.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The death of George B. List, the plaintiff in error in this cause, having been suggested in a communication from the counsel for defendant in error to the clerk, and it appearing to the court that this is a criminal case, it is considered by the court that this cause has abated. Therefore it is ordered and adjudged by the court that the writ of error in this cause be, and the same is hereby, dismissed.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Publication delayed through failure to receive copy.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>131 U.S. 396 (1888)</b></center>\n<center><h1>LIST<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 984.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 10, 1888.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF PENNSYLVANIA.\n<p><i>Mr. W.P. Potter</i> for plaintiff in error.</p>\n<p><i>Mr. W.D. Porter</i> for defendant in error.</p>\n<p>PER CURIAM:</p>\n<p>The death of George B. List, the plaintiff in error in this cause, having been suggested in a communication from counsel for defendant in error to the clerk, and it appearing to the court that this is a criminal case, it is considered by the court that this cause has abated. Therefore, it is ordered and adjudged by the court that the writ of error in this cause be, and the same is hereby,</p>\n<p><i>Dismissed.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">131</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">396</span></span> (1888)</b></center>\n<center><h1>LIST<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 984.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 10, 1888.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF PENNSYLVANIA.\n<p><i>Mr. W.P. Potter</i> for plaintiff in error.</p>\n<p><i>Mr. W.D. Porter</i> for defendant in error.</p>\n<p>PER CURIAM:</p>\n<p>The death of George B. List, the plaintiff in error in this cause, having been suggested in a communication from counsel for defendant in error to the clerk, and it appearing to the court that this is a criminal case, it is considered by the court that this cause has abated. Therefore, it is ordered and adjudged by the court that the writ of error in this cause be, and the same is hereby,</p>\n<p><i>Dismissed.</i></p>\n</div>", "id": 92554, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92554/", "sha1": "c5b0d7dbd4e3f68071e9fb4365357a33d12867e2", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "131 U.S. 396", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/92554/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "List v. Pennsylvania", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "984", 
+    "id": 76934, 
+    "resource_uri": "/api/rest/v2/citation/76934/"
+  }, 
+  "id": 92554, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1888-12-10", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>131 U.S. 396 (1888)</b></center>\n<center><h1>LIST<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 984.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 10, 1888.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF PENNSYLVANIA.\n<p><i>Mr. W.P. Potter</i> for plaintiff in error.</p>\n<p><i>Mr. W.D. Porter</i> for defendant in error.</p>\n<p>PER CURIAM:</p>\n<p>The death of George B. List, the plaintiff in error in this cause, having been suggested in a communication from counsel for defendant in error to the clerk, and it appearing to the court that this is a criminal case, it is considered by the court that this cause has abated. Therefore, it is ordered and adjudged by the court that the writ of error in this cause be, and the same is hereby,</p>\n<p><i>Dismissed.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:05:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">131</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">396</span></span> (1888)</b></center>\n<center><h1>LIST<br>\nv.<br>\nPENNSYLVANIA.</h1></center>\n<center>No. 984.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 10, 1888.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF PENNSYLVANIA.\n<p><i>Mr. W.P. Potter</i> for plaintiff in error.</p>\n<p><i>Mr. W.D. Porter</i> for defendant in error.</p>\n<p>PER CURIAM:</p>\n<p>The death of George B. List, the plaintiff in error in this cause, having been suggested in a communication from counsel for defendant in error to the clerk, and it appearing to the court that this is a criminal case, it is considered by the court that this cause has abated. Therefore, it is ordered and adjudged by the court that the writ of error in this cause be, and the same is hereby,</p>\n<p><i>Dismissed.</i></p>\n</div>", 
+  "sha1": "c5b0d7dbd4e3f68071e9fb4365357a33d12867e2", 
+  "date_modified": "2014-12-21T01:30:55.370916", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92554/list-v-pennsylvania/", 
+  "citation_count": 8, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/417671/", 
+  "html": "<p class=\"case_cite\">131 U.S. 396</p>\n    <p class=\"case_cite\">9 S.Ct. 794</p>\n    <p class=\"case_cite\">33 L.Ed. 222</p>\n    <p class=\"parties\">LIST<br>v.<br>STATE OF PENNSYLVANIA.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"date\">December 10, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>W. P. Potter</i>, for plaintiff in error.</p>\n      <p class=\"indent\"><i>W. D. Porter</i>, for the State of Pennsylvania.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The death of George B. List, the plaintiff in error in this cause, having been suggested in a communication from the counsel for defendant in error to the clerk, and it appearing to the court that this is a criminal case, it is considered by the court that this cause has abated. Therefore it is ordered and adjudged by the court that the writ of error in this cause be, and the same is hereby, dismissed.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Publication delayed through failure to receive copy.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92554/"
+}

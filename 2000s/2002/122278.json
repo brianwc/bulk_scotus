@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/122278/tennard-v-cockrell-director-texas-department/", "blocked": false, "citation": {"case_name": "Tennard v. Cockrell, Director, Texas Department of Criminal Justice, Institutional Division", "docket_number": "02-5164", "document_uris": ["/api/rest/v2/document/122278/"], "federal_cite_one": "537 U.S. 802", "federal_cite_three": null, "federal_cite_two": null, "id": 106631, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/106631/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-07", "date_modified": "2014-12-21T02:17:30.373806", "docket": "/api/rest/v2/docket/258091/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.802.02-5164.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 802</p>\n    <p class=\"parties\">TENNARD<br>v.<br>COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION.</p>\n    <p class=\"docket\">No. 02-5164.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Atkins</i> v. <i>Virginia,</i> 536 U. S. 304 (2002). Reported below: 284 F. 3d 591.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">802</span></span></p>\n    <p class=\"parties\">TENNARD<br>v.<br>COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION.</p>\n    <p class=\"docket\">No. 02-5164.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Atkins</i> v. <i>Virginia,</i> 536 U. S. 304 (2002). Reported below: 284 F. 3d 591.</p>\n    </div>\n    ", "id": 122278, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/122278/", "sha1": "d1c81b2fe4f5aa7128e497cd8d206ca3ce0c2be1", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 802", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/122278/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Tennard v. Cockrell, Director, Texas Department of Criminal Justice, Institutional Division", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-5164", 
+    "id": 106631, 
+    "resource_uri": "/api/rest/v2/citation/106631/"
+  }, 
+  "id": 122278, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.802.02-5164.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">802</span></span></p>\n    <p class=\"parties\">TENNARD<br>v.<br>COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION.</p>\n    <p class=\"docket\">No. 02-5164.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Atkins</i> v. <i>Virginia,</i> 536 U. S. 304 (2002). Reported below: 284 F. 3d 591.</p>\n    </div>\n    ", 
+  "sha1": "d1c81b2fe4f5aa7128e497cd8d206ca3ce0c2be1", 
+  "date_modified": "2014-12-21T02:17:30.373806", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/122278/tennard-v-cockrell-director-texas-department/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/258091/", 
+  "html": "<p class=\"case_cite\">537 U.S. 802</p>\n    <p class=\"parties\">TENNARD<br>v.<br>COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION.</p>\n    <p class=\"docket\">No. 02-5164.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Atkins</i> v. <i>Virginia,</i> 536 U. S. 304 (2002). Reported below: 284 F. 3d 591.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/122278/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/111269/board-of-license-commissioners-of-the-town-of/", "blocked": false, "citation": {"case_name": "Board of License Commissioners of the Town of Tiverton v. Louis H. Pastore, Jr., Etc.", "docket_number": "83-963", "document_uris": ["/api/rest/v2/document/111269/"], "federal_cite_one": "468 U.S. 1216", "federal_cite_three": null, "federal_cite_two": null, "id": 95628, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/95628/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1984-07-05", "date_modified": "2014-12-21T02:07:32.949536", "docket": "/api/rest/v2/docket/895330/", "download_url": "http://bulk.resource.org/courts.gov/c/US/468/468.US.1216.83-963.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">468 U.S. 1216</p>\n    <p class=\"case_cite\">104 S.Ct. 3585</p>\n    <p class=\"case_cite\">82 L.Ed.2d 883</p>\n    <p class=\"parties\">BOARD OF LICENSE COMMISSIONERS OF the TOWN OF  TIVERTON, petitioner,<br>v.<br>Louis H. PASTORE, Jr., etc., et al.</p>\n    <p class=\"docket\">No. 83-963.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">July 5, 1984.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Rhode Island.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Granted.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">468</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1216</span></span></p>\n    <p class=\"case_cite\">104 S.Ct. 3585</p>\n    <p class=\"case_cite\">82 L.Ed.2d 883</p>\n    <p class=\"parties\">BOARD OF LICENSE COMMISSIONERS OF the TOWN OF  TIVERTON, petitioner,<br>v.<br>Louis H. PASTORE, Jr., etc., et al.</p>\n    <p class=\"docket\">No. 83-963.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">July 5, 1984.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Rhode Island.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Granted.</p>\n    </div>\n    ", "id": 111269, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/111269/", "sha1": "f2a43b66202514a67193977098d22d7cbe25c08b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:13:06"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "468 U.S. 1216", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/111269/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Board of License Commissioners of the Town of Tiverton v. Louis H. Pastore, Jr., Etc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "83-963", 
+    "id": 95628, 
+    "resource_uri": "/api/rest/v2/citation/95628/"
+  }, 
+  "id": 111269, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1984-07-05", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/468/468.US.1216.83-963.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:13:06", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">468</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1216</span></span></p>\n    <p class=\"case_cite\">104 S.Ct. 3585</p>\n    <p class=\"case_cite\">82 L.Ed.2d 883</p>\n    <p class=\"parties\">BOARD OF LICENSE COMMISSIONERS OF the TOWN OF  TIVERTON, petitioner,<br>v.<br>Louis H. PASTORE, Jr., etc., et al.</p>\n    <p class=\"docket\">No. 83-963.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">July 5, 1984.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Rhode Island.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Granted.</p>\n    </div>\n    ", 
+  "sha1": "f2a43b66202514a67193977098d22d7cbe25c08b", 
+  "date_modified": "2014-12-21T02:07:32.949536", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/111269/board-of-license-commissioners-of-the-town-of/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/895330/", 
+  "html": "<p class=\"case_cite\">468 U.S. 1216</p>\n    <p class=\"case_cite\">104 S.Ct. 3585</p>\n    <p class=\"case_cite\">82 L.Ed.2d 883</p>\n    <p class=\"parties\">BOARD OF LICENSE COMMISSIONERS OF the TOWN OF  TIVERTON, petitioner,<br>v.<br>Louis H. PASTORE, Jr., etc., et al.</p>\n    <p class=\"docket\">No. 83-963.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">July 5, 1984.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Rhode Island.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Granted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/111269/"
+}

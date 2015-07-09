@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108704/communist-party-of-indiana-et-al-petitioners/", "blocked": false, "citation": {"case_name": "Communist Party of Indiana v. Edgar D. Whitcomb, Governor of Indiana No. A-378", "docket_number": null, "document_uris": ["/api/rest/v2/document/108704/"], "federal_cite_one": "409 U.S. 1235", "federal_cite_three": null, "federal_cite_two": null, "id": 93063, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/93063/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1972-10-06", "date_modified": "2014-12-21T01:58:35.829057", "docket": "/api/rest/v2/docket/2470316/", "download_url": "http://bulk.resource.org/courts.gov/c/US/409/409.US.1235.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">409 U.S. 1235</p>\n    <p class=\"case_cite\">93 S.Ct. 16</p>\n    <p class=\"case_cite\">34 L.Ed.2d 64</p>\n    <p class=\"parties\">COMMUNIST PARTY OF INDIANA et al., Petitioners,<br>v.<br>Edgar D. WHITCOMB, Governor of Indiana, et al.<br>No. A-378.</p>\n    <p class=\"date\">Oct. 6, 1972.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice REHNQUIST, Circuit Justice.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Applicants have filed a motion denominated an 'Application for Stay of Order of United States District Court of the Northern District of Indiana, Hammond Division,' which order was entered following a hearing on their complaint alleging that the oath required by Indiana law in order for a party to be placed on the ballot was unconstitutional. An examination of the application, however, shows that applicants do not seek a stay of that order, but instead a partial summary reversal of the District Court order entered on October 4, 1972. While a Circuit Justice of this Court apparently has authority under Supreme Court Rule 51 to grant such relief in the form of a mandatory injunction, usage and practice suggest that this extraordinary remedy be employed only in the most unusual case. In order that it be available, the applicants' right to relief must be indisputably clear. Applicants do not present such a case, and their application is therefore denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">409</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1235</span></span></p>\n    <p class=\"case_cite\">93 S.Ct. 16</p>\n    <p class=\"case_cite\">34 L.Ed.2d 64</p>\n    <p class=\"parties\">COMMUNIST PARTY OF INDIANA et al., Petitioners,<br>v.<br>Edgar D. WHITCOMB, Governor of Indiana, et al.<br>No. A-378.</p>\n    <p class=\"date\">Oct. 6, 1972.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice REHNQUIST, Circuit Justice.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Applicants have filed a motion denominated an 'Application for Stay of Order of United States District Court of the Northern District of Indiana, Hammond Division,' which order was entered following a hearing on their complaint alleging that the oath required by Indiana law in order for a party to be placed on the ballot was unconstitutional. An examination of the application, however, shows that applicants do not seek a stay of that order, but instead a partial summary reversal of the District Court order entered on October 4, 1972. While a Circuit Justice of this Court apparently has authority under Supreme Court Rule 51 to grant such relief in the form of a mandatory injunction, usage and practice suggest that this extraordinary remedy be employed only in the most unusual case. In order that it be available, the applicants' right to relief must be indisputably clear. Applicants do not present such a case, and their application is therefore denied.</p>\n    </div>\n    ", "id": 108704, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108704/", "sha1": "b9095d5237833fa2d98b15302a6118024eb3320b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:40"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "409 U.S. 1235", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/108704/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Communist Party of Indiana v. Edgar D. Whitcomb, Governor of Indiana No. A-378", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 93063, 
+    "resource_uri": "/api/rest/v2/citation/93063/"
+  }, 
+  "id": 108704, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1972-10-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/409/409.US.1235.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:40", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">409</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1235</span></span></p>\n    <p class=\"case_cite\">93 S.Ct. 16</p>\n    <p class=\"case_cite\">34 L.Ed.2d 64</p>\n    <p class=\"parties\">COMMUNIST PARTY OF INDIANA et al., Petitioners,<br>v.<br>Edgar D. WHITCOMB, Governor of Indiana, et al.<br>No. A-378.</p>\n    <p class=\"date\">Oct. 6, 1972.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice REHNQUIST, Circuit Justice.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Applicants have filed a motion denominated an 'Application for Stay of Order of United States District Court of the Northern District of Indiana, Hammond Division,' which order was entered following a hearing on their complaint alleging that the oath required by Indiana law in order for a party to be placed on the ballot was unconstitutional. An examination of the application, however, shows that applicants do not seek a stay of that order, but instead a partial summary reversal of the District Court order entered on October 4, 1972. While a Circuit Justice of this Court apparently has authority under Supreme Court Rule 51 to grant such relief in the form of a mandatory injunction, usage and practice suggest that this extraordinary remedy be employed only in the most unusual case. In order that it be available, the applicants' right to relief must be indisputably clear. Applicants do not present such a case, and their application is therefore denied.</p>\n    </div>\n    ", 
+  "sha1": "b9095d5237833fa2d98b15302a6118024eb3320b", 
+  "date_modified": "2014-12-21T01:58:35.829057", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108704/communist-party-of-indiana-et-al-petitioners/", 
+  "citation_count": 6, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2470316/", 
+  "html": "<p class=\"case_cite\">409 U.S. 1235</p>\n    <p class=\"case_cite\">93 S.Ct. 16</p>\n    <p class=\"case_cite\">34 L.Ed.2d 64</p>\n    <p class=\"parties\">COMMUNIST PARTY OF INDIANA et al., Petitioners,<br>v.<br>Edgar D. WHITCOMB, Governor of Indiana, et al.<br>No. A-378.</p>\n    <p class=\"date\">Oct. 6, 1972.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Justice REHNQUIST, Circuit Justice.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Applicants have filed a motion denominated an 'Application for Stay of Order of United States District Court of the Northern District of Indiana, Hammond Division,' which order was entered following a hearing on their complaint alleging that the oath required by Indiana law in order for a party to be placed on the ballot was unconstitutional. An examination of the application, however, shows that applicants do not seek a stay of that order, but instead a partial summary reversal of the District Court order entered on October 4, 1972. While a Circuit Justice of this Court apparently has authority under Supreme Court Rule 51 to grant such relief in the form of a mandatory injunction, usage and practice suggest that this extraordinary remedy be employed only in the most unusual case. In order that it be available, the applicants' right to relief must be indisputably clear. Applicants do not present such a case, and their application is therefore denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108704/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/123574/gaither-v-gomez-et-al/", "blocked": false, "citation": {"case_name": "Gaither v. Gomez", "docket_number": "02-5245", "document_uris": ["/api/rest/v2/document/123574/"], "federal_cite_one": "537 U.S. 903", "federal_cite_three": null, "federal_cite_two": null, "id": 107927, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/107927/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-07", "date_modified": "2014-12-21T02:17:46.467124", "docket": "/api/rest/v2/docket/271102/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.903.02-5245.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 903</p>\n    <p class=\"parties\">GAITHER<br>v.<br>GOMEZ ET AL.</p>\n    <p class=\"docket\">No. 02-5245.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">903</span></span></p>\n    <p class=\"parties\">GAITHER<br>v.<br>GOMEZ ET AL.</p>\n    <p class=\"docket\">No. 02-5245.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 123574, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/123574/", "sha1": "b2c8f5e119339ecfd6a995cf3c0659bd4c03b941", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:06"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 903", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/123574/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gaither v. Gomez", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-5245", 
+    "id": 107927, 
+    "resource_uri": "/api/rest/v2/citation/107927/"
+  }, 
+  "id": 123574, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.903.02-5245.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:06", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">903</span></span></p>\n    <p class=\"parties\">GAITHER<br>v.<br>GOMEZ ET AL.</p>\n    <p class=\"docket\">No. 02-5245.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "b2c8f5e119339ecfd6a995cf3c0659bd4c03b941", 
+  "date_modified": "2014-12-21T02:17:46.467124", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/123574/gaither-v-gomez-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/271102/", 
+  "html": "<p class=\"case_cite\">537 U.S. 903</p>\n    <p class=\"parties\">GAITHER<br>v.<br>GOMEZ ET AL.</p>\n    <p class=\"docket\">No. 02-5245.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/123574/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/97215/united-states-v-grimaud/", "blocked": false, "citation": {"case_name": "United States v. Grimaud", "docket_number": "490", "document_uris": ["/api/rest/v2/document/97215/"], "federal_cite_one": "216 U.S. 614", "federal_cite_three": null, "federal_cite_two": null, "id": 81598, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/81598/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 14, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1910-03-14", "date_modified": "2014-12-21T11:16:11.721694", "docket": "/api/rest/v2/docket/559382/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">216 U.S. 614</p>\n    <p class=\"case_cite\">30 S.Ct. 576</p>\n    <p class=\"case_cite\">54 L.Ed. 639</p>\n    <p class=\"parties\">UNITED STATES, Plaintiff in Error,<br>v.<br>PIERRE GRIMAUD et al.  UNITED STATES Plaintiff in Error,  v.  ANTONIO INDA.</p>\n    <p class=\"docket\">No. 490.</p>\n    <p class=\"docket\">No. 491.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 14, 1910</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Attorney General and the Solicitor General for plaintiffs in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No appearance for defendants in error.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Judgments affirmed by a divided court.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p>April 18, 1910. Rehearing granted, and cases restored</p>\n    </div>\n    <div class=\"num\" id=\"p5\">\n      <span class=\"num\">5</span>\n      <p>to docket for reargument.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>216 U.S. 614 (1910)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nGRIMAUD.<br>\nUNITED STATES<br>\nv.<br>\nINDA.</h1></center>\n<center>Nos. 490, 491.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued February 28, 1910.</center>\n<center>Decided March 14, 1910.</center>\nERROR TO THE DISTRICT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF CALIFORNIA.\n<p><span class=\"star-pagination\">*615</span> <i>The Solicitor General,</i> with whom <i>The Attorney General</i> was on the brief, for the plaintiff in error.</p>\n<p>No appearance for the defendants in error.</p>\n<p><i>Per Curiam.</i> Judgments affirmed by a divided court.</p>\n<p>April 18, 1910, petitions for rehearing granted and cases restored to the docket.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">216</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">614</span></span> (1910)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nGRIMAUD.<br>\nUNITED STATES<br>\nv.<br>\nINDA.</h1></center>\n<center>Nos. 490, 491.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued February 28, 1910.</center>\n<center>Decided March 14, 1910.</center>\nERROR TO THE DISTRICT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF CALIFORNIA.\n<p><span class=\"star-pagination\">*615</span> <i>The Solicitor General,</i> with whom <i>The Attorney General</i> was on the brief, for the plaintiff in error.</p>\n<p>No appearance for the defendants in error.</p>\n<p><i>Per Curiam.</i> Judgments affirmed by a divided court.</p>\n<p>April 18, 1910, petitions for rehearing granted and cases restored to the docket.</p>\n</div>", "id": 97215, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/97215/", "sha1": "b2b2ebc41d3cc4e7f4887f10bf1035817d60ccad", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:42:27"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "216 U.S. 614", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/97215/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Grimaud", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "490", 
+    "id": 81598, 
+    "resource_uri": "/api/rest/v2/citation/81598/"
+  }, 
+  "id": 97215, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1910-03-14", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>216 U.S. 614 (1910)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nGRIMAUD.<br>\nUNITED STATES<br>\nv.<br>\nINDA.</h1></center>\n<center>Nos. 490, 491.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued February 28, 1910.</center>\n<center>Decided March 14, 1910.</center>\nERROR TO THE DISTRICT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF CALIFORNIA.\n<p><span class=\"star-pagination\">*615</span> <i>The Solicitor General,</i> with whom <i>The Attorney General</i> was on the brief, for the plaintiff in error.</p>\n<p>No appearance for the defendants in error.</p>\n<p><i>Per Curiam.</i> Judgments affirmed by a divided court.</p>\n<p>April 18, 1910, petitions for rehearing granted and cases restored to the docket.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:42:27", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">216</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">614</span></span> (1910)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nGRIMAUD.<br>\nUNITED STATES<br>\nv.<br>\nINDA.</h1></center>\n<center>Nos. 490, 491.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued February 28, 1910.</center>\n<center>Decided March 14, 1910.</center>\nERROR TO THE DISTRICT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF CALIFORNIA.\n<p><span class=\"star-pagination\">*615</span> <i>The Solicitor General,</i> with whom <i>The Attorney General</i> was on the brief, for the plaintiff in error.</p>\n<p>No appearance for the defendants in error.</p>\n<p><i>Per Curiam.</i> Judgments affirmed by a divided court.</p>\n<p>April 18, 1910, petitions for rehearing granted and cases restored to the docket.</p>\n</div>", 
+  "sha1": "b2b2ebc41d3cc4e7f4887f10bf1035817d60ccad", 
+  "date_modified": "2014-12-21T11:16:11.721694", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/97215/united-states-v-grimaud/", 
+  "citation_count": 14, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/559382/", 
+  "html": "<p class=\"case_cite\">216 U.S. 614</p>\n    <p class=\"case_cite\">30 S.Ct. 576</p>\n    <p class=\"case_cite\">54 L.Ed. 639</p>\n    <p class=\"parties\">UNITED STATES, Plaintiff in Error,<br>v.<br>PIERRE GRIMAUD et al.  UNITED STATES Plaintiff in Error,  v.  ANTONIO INDA.</p>\n    <p class=\"docket\">No. 490.</p>\n    <p class=\"docket\">No. 491.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 14, 1910</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Attorney General and the Solicitor General for plaintiffs in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No appearance for defendants in error.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Judgments affirmed by a divided court.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p>April 18, 1910. Rehearing granted, and cases restored</p>\n    </div>\n    <div class=\"num\" id=\"p5\">\n      <span class=\"num\">5</span>\n      <p>to docket for reargument.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/97215/"
+}

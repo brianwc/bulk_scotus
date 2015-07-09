@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/95791/calumet-grain-elevator-co-v-chicago/", "blocked": false, "citation": {"case_name": "Calumet Grain & Elevator Co. v. Chicago", "docket_number": "135", "document_uris": ["/api/rest/v2/document/95791/"], "federal_cite_one": "188 U.S. 431", "federal_cite_three": null, "federal_cite_two": null, "id": 80174, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/80174/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1903-02-23", "date_modified": "2014-12-21T01:33:53.281821", "docket": "/api/rest/v2/docket/2590038/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">188 U.S. 431</p>\n    <p class=\"case_cite\">23 S.Ct. 477</p>\n    <p class=\"case_cite\">47 L.Ed. 532</p>\n    <p class=\"parties\">CALUMET GRAIN &amp; ELEVATOR COMPANY, <i>Appt.</i>,<br>v.<br>CITY OF CHICAGO.</p>\n    <p class=\"docket\">No. 135.</p>\n    <p class=\"date\">Submitted December 19, 1902.</p>\n    <p class=\"date\">Decided February 23, 1903.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Messrs.</i> <i>Warren B. Wilson</i> and <i>S. A. Lynde</i> for appellant.</p>\n      <p class=\"indent\"><i>Messrs.</i> <i>Charles M. Walker</i> and <i>Henry Schofield</i> for appellee.</p>\n      <p class=\"indent\">Mr. Justice Harlan delivered the opinion of the court:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case relates to the construction of a dock in Calumet river, on or in front of land belonging to the appellant. The facts upon which that company principally bases its claims for relief are those upon which the plaintiffs relied in <i>Cummings</i> v. <i>Chicago</i>, just decided. 187 U. S. &#8212;&#8212;, <i>ante</i>, 472, 23 Sup. Ct. Rep. 472. Upon the authority of the decision in that case, <i>the judgment in this case is affirmed</i>.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>188 U.S. 431 (1903)</b></center>\n<center><h1>CALUMET GRAIN AND ELEVATOR COMPANY<br>\nv.<br>\nCHICAGO.</h1></center>\n<center>No. 135.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted December 19, 1902.</center>\n<center>Decided February 23, 1903.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>This case relates to the construction of a dock in Calumet River, on or in front of land belonging to the appellant. The facts upon which that company principally bases its claims for relief are those upon which the plaintiffs relied in <i>Cummings</i> v. <i>Chicago,</i> just decided. Upon the authority of the decision in that case, the judgment in this case is</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">188</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">431</span></span> (1903)</b></center>\n<center><h1>CALUMET GRAIN AND ELEVATOR COMPANY<br>\nv.<br>\nCHICAGO.</h1></center>\n<center>No. 135.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted December 19, 1902.</center>\n<center>Decided February 23, 1903.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>This case relates to the construction of a dock in Calumet River, on or in front of land belonging to the appellant. The facts upon which that company principally bases its claims for relief are those upon which the plaintiffs relied in <i>Cummings</i> v. <i>Chicago,</i> just decided. Upon the authority of the decision in that case, the judgment in this case is</p>\n<p><i>Affirmed.</i></p>\n</div>", "id": 95791, "judges": "Harlan", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/95791/", "sha1": "ef3890334fc11b2349c57650549a5d1363eb1cbd", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:40:15"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "188 U.S. 431", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/95791/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Calumet Grain & Elevator Co. v. Chicago", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "135", 
+    "id": 80174, 
+    "resource_uri": "/api/rest/v2/citation/80174/"
+  }, 
+  "id": 95791, 
+  "blocked": false, 
+  "judges": "Harlan", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1903-02-23", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>188 U.S. 431 (1903)</b></center>\n<center><h1>CALUMET GRAIN AND ELEVATOR COMPANY<br>\nv.<br>\nCHICAGO.</h1></center>\n<center>No. 135.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted December 19, 1902.</center>\n<center>Decided February 23, 1903.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>This case relates to the construction of a dock in Calumet River, on or in front of land belonging to the appellant. The facts upon which that company principally bases its claims for relief are those upon which the plaintiffs relied in <i>Cummings</i> v. <i>Chicago,</i> just decided. Upon the authority of the decision in that case, the judgment in this case is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:40:15", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">188</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">431</span></span> (1903)</b></center>\n<center><h1>CALUMET GRAIN AND ELEVATOR COMPANY<br>\nv.<br>\nCHICAGO.</h1></center>\n<center>No. 135.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted December 19, 1902.</center>\n<center>Decided February 23, 1903.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p>MR. JUSTICE HARLAN delivered the opinion of the court.</p>\n<p>This case relates to the construction of a dock in Calumet River, on or in front of land belonging to the appellant. The facts upon which that company principally bases its claims for relief are those upon which the plaintiffs relied in <i>Cummings</i> v. <i>Chicago,</i> just decided. Upon the authority of the decision in that case, the judgment in this case is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "sha1": "ef3890334fc11b2349c57650549a5d1363eb1cbd", 
+  "date_modified": "2014-12-21T01:33:53.281821", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/95791/calumet-grain-elevator-co-v-chicago/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2590038/", 
+  "html": "<p class=\"case_cite\">188 U.S. 431</p>\n    <p class=\"case_cite\">23 S.Ct. 477</p>\n    <p class=\"case_cite\">47 L.Ed. 532</p>\n    <p class=\"parties\">CALUMET GRAIN &amp; ELEVATOR COMPANY, <i>Appt.</i>,<br>v.<br>CITY OF CHICAGO.</p>\n    <p class=\"docket\">No. 135.</p>\n    <p class=\"date\">Submitted December 19, 1902.</p>\n    <p class=\"date\">Decided February 23, 1903.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Messrs.</i> <i>Warren B. Wilson</i> and <i>S. A. Lynde</i> for appellant.</p>\n      <p class=\"indent\"><i>Messrs.</i> <i>Charles M. Walker</i> and <i>Henry Schofield</i> for appellee.</p>\n      <p class=\"indent\">Mr. Justice Harlan delivered the opinion of the court:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case relates to the construction of a dock in Calumet river, on or in front of land belonging to the appellant. The facts upon which that company principally bases its claims for relief are those upon which the plaintiffs relied in <i>Cummings</i> v. <i>Chicago</i>, just decided. 187 U. S. &#8212;&#8212;, <i>ante</i>, 472, 23 Sup. Ct. Rep. 472. Upon the authority of the decision in that case, <i>the judgment in this case is affirmed</i>.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/95791/"
+}

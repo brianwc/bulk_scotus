@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1695921/skidmore-v-pittsburg-c-st-lr-co/", "blocked": false, "citation": {"case_name": "Skidmore v. Pittsburg, C. & St. LR Co.", "docket_number": null, "document_uris": ["/api/rest/v2/document/1695921/"], "federal_cite_one": "112 U.S. 33", "federal_cite_three": null, "federal_cite_two": null, "id": 1668692, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1668692/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1884-10-27", "date_modified": "2014-10-30T00:54:55.494656", "docket": "/api/rest/v2/docket/251878/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>112 U.S. 33 (1884)</b></center>\n<center><h1>SKIDMORE &amp; Others<br>\nv.<br>\nPITTSBURG, CINCINNATI &amp; ST. LOUIS RAILWAY COMPANY.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 17, 1884.</center>\n<center>Decided October 27, 1884.</center>\nIN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><span class=\"star-pagination\">*34</span> <i>Mr. George Willard</i> and <i>Mr. George Driggs</i> for plaintiffs in error.</p>\n<p>No counsel appeared for defendant in error.</p>\n<p><span class=\"star-pagination\">*36</span> MR. CHIEF JUSTICE WAITE delivered the opinion of the court. He stated the facts in the foregoing language and continued:</p>\n<p>The judgment below was clearly right. The Columbus, Chicago &amp; Indiana Central Company was, in equity, the owner of the property when the lease was made and when the Pittsburg, Cincinnati &amp; St. Louis Company went into possession under it. The deed executed in February, 1872, pursuant to the contract of purchase, converted the equitable title of the Columbus, Chicago &amp; Indiana Central Company into a legal title, which at once, by operation of law, inured to the benefit of the Pittsburg, Cincinnati &amp; St. Louis Company under its lease. All the rights of William B. Skidmore, as against the property, accrued long after those of the Pittsburg, Cincinnati &amp; St. Louis Company and are subject to the title of that company. Such being the case, it is entirely unnecessary to inquire whether the Skidmores acquired a valid title to the property as against the Columbus, Chicago &amp; Indiana Central Company. The Pittsburg, Cincinnati &amp; St. Louis Company is entitled to the possession, whether that title be good or bad.</p>\n<p><i>The judgment is affirmed.</i></p>\n</div>", "html_with_citations": "", "id": 1695921, "judges": "Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1695921/", "sha1": "6f887d9aa7064cdb276bf3bd85d2616e50dd0f85", "source": "L", "time_retrieved": "2013-10-30T00:08:56.309357"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "112 U.S. 33", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1695921/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Skidmore v. Pittsburg, C. & St. LR Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1668692, 
+    "resource_uri": "/api/rest/v2/citation/1668692/"
+  }, 
+  "id": 1695921, 
+  "blocked": false, 
+  "judges": "Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1884-10-27", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>112 U.S. 33 (1884)</b></center>\n<center><h1>SKIDMORE &amp; Others<br>\nv.<br>\nPITTSBURG, CINCINNATI &amp; ST. LOUIS RAILWAY COMPANY.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 17, 1884.</center>\n<center>Decided October 27, 1884.</center>\nIN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><span class=\"star-pagination\">*34</span> <i>Mr. George Willard</i> and <i>Mr. George Driggs</i> for plaintiffs in error.</p>\n<p>No counsel appeared for defendant in error.</p>\n<p><span class=\"star-pagination\">*36</span> MR. CHIEF JUSTICE WAITE delivered the opinion of the court. He stated the facts in the foregoing language and continued:</p>\n<p>The judgment below was clearly right. The Columbus, Chicago &amp; Indiana Central Company was, in equity, the owner of the property when the lease was made and when the Pittsburg, Cincinnati &amp; St. Louis Company went into possession under it. The deed executed in February, 1872, pursuant to the contract of purchase, converted the equitable title of the Columbus, Chicago &amp; Indiana Central Company into a legal title, which at once, by operation of law, inured to the benefit of the Pittsburg, Cincinnati &amp; St. Louis Company under its lease. All the rights of William B. Skidmore, as against the property, accrued long after those of the Pittsburg, Cincinnati &amp; St. Louis Company and are subject to the title of that company. Such being the case, it is entirely unnecessary to inquire whether the Skidmores acquired a valid title to the property as against the Columbus, Chicago &amp; Indiana Central Company. The Pittsburg, Cincinnati &amp; St. Louis Company is entitled to the possession, whether that title be good or bad.</p>\n<p><i>The judgment is affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:08:56.309357", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "6f887d9aa7064cdb276bf3bd85d2616e50dd0f85", 
+  "date_modified": "2014-10-30T00:54:55.494656", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1695921/skidmore-v-pittsburg-c-st-lr-co/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/251878/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1695921/"
+}

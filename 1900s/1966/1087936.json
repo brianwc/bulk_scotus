@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1087936/united-states-v-ohio/", "blocked": false, "citation": {"case_name": "United States v. Ohio", "docket_number": "271", "document_uris": ["/api/rest/v2/document/1087936/"], "federal_cite_one": "385 U.S. 9", "federal_cite_three": null, "federal_cite_two": null, "id": 1060707, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060707/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-10-10", "date_modified": "2014-12-21T10:40:37.375813", "docket": "/api/rest/v2/docket/1308987/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>385 U.S. 9 (1966)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nOHIO.</h1></center>\n<center>No. 271.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 10, 1966.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Solicitor General Marshall, Assistant Attorney General Douglas, Morton Hollander</i> and <i>J. F. Bishop</i> for the United States.</p>\n<p><i>William B. Saxbe,</i> Attorney General of Ohio, and <i>Gerald A. Donahue,</i> First Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment is reversed. <i>Wickard</i> v. <i>Filburn,</i> 317 U. S. 111.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">385</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">9</span></span> (1966)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nOHIO.</h1></center>\n<center>No. 271.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 10, 1966.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Solicitor General Marshall, Assistant Attorney General Douglas, Morton Hollander</i> and <i>J. F. Bishop</i> for the United States.</p>\n<p><i>William B. Saxbe,</i> Attorney General of Ohio, and <i>Gerald A. Donahue,</i> First Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment is reversed. <i>Wickard</i> v. <i>Filburn,</i> 317 U. S. 111.</p>\n</div>", "id": 1087936, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087936/", "sha1": "2b8b58d1dbc4419cf5e7eb1d43fb24709c1905ed", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T20:04:06.700344"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "385 U.S. 9", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087936/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Ohio", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "271", 
+    "id": 1060707, 
+    "resource_uri": "/api/rest/v2/citation/1060707/"
+  }, 
+  "id": 1087936, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-10-10", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>385 U.S. 9 (1966)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nOHIO.</h1></center>\n<center>No. 271.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 10, 1966.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Solicitor General Marshall, Assistant Attorney General Douglas, Morton Hollander</i> and <i>J. F. Bishop</i> for the United States.</p>\n<p><i>William B. Saxbe,</i> Attorney General of Ohio, and <i>Gerald A. Donahue,</i> First Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment is reversed. <i>Wickard</i> v. <i>Filburn,</i> 317 U. S. 111.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:04:06.700344", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">385</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">9</span></span> (1966)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nOHIO.</h1></center>\n<center>No. 271.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 10, 1966.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p><i>Solicitor General Marshall, Assistant Attorney General Douglas, Morton Hollander</i> and <i>J. F. Bishop</i> for the United States.</p>\n<p><i>William B. Saxbe,</i> Attorney General of Ohio, and <i>Gerald A. Donahue,</i> First Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment is reversed. <i>Wickard</i> v. <i>Filburn,</i> 317 U. S. 111.</p>\n</div>", 
+  "sha1": "2b8b58d1dbc4419cf5e7eb1d43fb24709c1905ed", 
+  "date_modified": "2014-12-21T10:40:37.375813", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087936/united-states-v-ohio/", 
+  "citation_count": 6, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1308987/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087936/"
+}

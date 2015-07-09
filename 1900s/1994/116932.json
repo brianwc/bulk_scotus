@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/116932/carranza-v-california/", "blocked": false, "citation": {"case_name": "Carranza v. California", "docket_number": "93-7041", "document_uris": ["/api/rest/v2/document/116932/"], "federal_cite_one": "510 U.S. 1123", "federal_cite_three": null, "federal_cite_two": null, "id": 101291, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101291/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-02-22", "date_modified": "2014-12-21T02:14:02.732697", "docket": "/api/rest/v2/docket/2061605/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1123.93-7041.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1123</p>\n    <p class=\"parties\">Carranza<br>v.<br>California.</p>\n    <p class=\"docket\">No. 93-7041.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Cal., 3d App. Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1123</span></span></p>\n    <p class=\"parties\">Carranza<br>v.<br>California.</p>\n    <p class=\"docket\">No. 93-7041.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Cal., 3d App. Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "id": 116932, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/116932/", "sha1": "03b2031635cd419c26e089b12b961121db8fca13", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:03"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1123", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/116932/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Carranza v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-7041", 
+    "id": 101291, 
+    "resource_uri": "/api/rest/v2/citation/101291/"
+  }, 
+  "id": 116932, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-02-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1123.93-7041.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:03", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1123</span></span></p>\n    <p class=\"parties\">Carranza<br>v.<br>California.</p>\n    <p class=\"docket\">No. 93-7041.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Cal., 3d App. Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "03b2031635cd419c26e089b12b961121db8fca13", 
+  "date_modified": "2014-12-21T02:14:02.732697", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/116932/carranza-v-california/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2061605/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1123</p>\n    <p class=\"parties\">Carranza<br>v.<br>California.</p>\n    <p class=\"docket\">No. 93-7041.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 22, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Cal., 3d App. Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/116932/"
+}

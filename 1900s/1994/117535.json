@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117535/nebraska-v-wyoming-et-al/", "blocked": false, "citation": {"case_name": "Nebraska v. Wyoming", "docket_number": "108, Orig", "document_uris": ["/api/rest/v2/document/117535/"], "federal_cite_one": "510 U.S. 1189", "federal_cite_three": null, "federal_cite_two": null, "id": 101894, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101894/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-03-21", "date_modified": "2014-12-21T02:14:06.707948", "docket": "/api/rest/v2/docket/2039936/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1189.108.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1189</p>\n    <p class=\"parties\">Nebraska<br>v.<br>Wyoming et al.</p>\n    <p class=\"docket\">No. 108, Orig.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Joint motion to refer motions for leave to file amended pleadings to the Special Master granted. Motion of Nebraska for leave to file an amended petition referred to the Special Master for his recommendation. Motion of Wyoming for leave to file amended counterclaims and cross-claims referred to the Special Master for his recommendation. The Special Master is requested to file his report and recommendation on the motions to amend within 120 days. [For earlier order herein, see, <i>e. g., ante,</i> p. 941.]</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1189</span></span></p>\n    <p class=\"parties\">Nebraska<br>v.<br>Wyoming et al.</p>\n    <p class=\"docket\">No. 108, Orig.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Joint motion to refer motions for leave to file amended pleadings to the Special Master granted. Motion of Nebraska for leave to file an amended petition referred to the Special Master for his recommendation. Motion of Wyoming for leave to file amended counterclaims and cross-claims referred to the Special Master for his recommendation. The Special Master is requested to file his report and recommendation on the motions to amend within 120 days. [For earlier order herein, see, <i>e. g., ante,</i> p. 941.]</p>\n    </div>\n    ", "id": 117535, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117535/", "sha1": "2f2bfc4e3814475f35a5d0ab8abcbc298ad1185f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:11"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1189", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117535/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Nebraska v. Wyoming", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "108, Orig", 
+    "id": 101894, 
+    "resource_uri": "/api/rest/v2/citation/101894/"
+  }, 
+  "id": 117535, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-03-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1189.108.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:11", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1189</span></span></p>\n    <p class=\"parties\">Nebraska<br>v.<br>Wyoming et al.</p>\n    <p class=\"docket\">No. 108, Orig.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Joint motion to refer motions for leave to file amended pleadings to the Special Master granted. Motion of Nebraska for leave to file an amended petition referred to the Special Master for his recommendation. Motion of Wyoming for leave to file amended counterclaims and cross-claims referred to the Special Master for his recommendation. The Special Master is requested to file his report and recommendation on the motions to amend within 120 days. [For earlier order herein, see, <i>e. g., ante,</i> p. 941.]</p>\n    </div>\n    ", 
+  "sha1": "2f2bfc4e3814475f35a5d0ab8abcbc298ad1185f", 
+  "date_modified": "2014-12-21T02:14:06.707948", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117535/nebraska-v-wyoming-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2039936/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1189</p>\n    <p class=\"parties\">Nebraska<br>v.<br>Wyoming et al.</p>\n    <p class=\"docket\">No. 108, Orig.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Joint motion to refer motions for leave to file amended pleadings to the Special Master granted. Motion of Nebraska for leave to file an amended petition referred to the Special Master for his recommendation. Motion of Wyoming for leave to file amended counterclaims and cross-claims referred to the Special Master for his recommendation. The Special Master is requested to file his report and recommendation on the motions to amend within 120 days. [For earlier order herein, see, <i>e. g., ante,</i> p. 941.]</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117535/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2621030/townley-v-united-states/", "blocked": false, "citation": {"case_name": "Townley v. United States", "docket_number": "06-10032", "document_uris": ["/api/rest/v2/document/2621030/"], "federal_cite_one": "127 S. Ct. 3069", "federal_cite_three": null, "federal_cite_two": null, "id": 2593802, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593802/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-06-29", "date_modified": "2014-12-21T03:01:15.362097", "docket": "/api/rest/v2/docket/76624/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 3069 (2007)</b></center>\n<center><h1>Rodney Joe TOWNLEY, petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 06-10032.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 29, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n</div>", "html_with_citations": "", "id": 2621030, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2621030/", "sha1": "7289d69688fe45b817d4b35bc788c7e4f20f9a50", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-11-01T13:29:05.482878"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 3069", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2621030/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Townley v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-10032", 
+    "id": 2593802, 
+    "resource_uri": "/api/rest/v2/citation/2593802/"
+  }, 
+  "id": 2621030, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-06-29", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 3069 (2007)</b></center>\n<center><h1>Rodney Joe TOWNLEY, petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 06-10032.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 29, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:29:05.482878", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "7289d69688fe45b817d4b35bc788c7e4f20f9a50", 
+  "date_modified": "2014-12-21T03:01:15.362097", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2621030/townley-v-united-states/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/76624/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2621030/"
+}

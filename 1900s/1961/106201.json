@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106201/utah-citizens-rate-assn-v-united-states/", "blocked": false, "citation": {"case_name": "Utah Citizens Rate Assn. v. United States", "docket_number": "712", "document_uris": ["/api/rest/v2/document/106201/"], "federal_cite_one": "365 U.S. 649", "federal_cite_three": null, "federal_cite_two": null, "id": 90584, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90584/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-04-03", "date_modified": "2014-12-21T01:51:51.214762", "docket": "/api/rest/v2/docket/2547821/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">365 U.S. 649</p>\n    <p class=\"case_cite\">81 S.Ct. 834</p>\n    <p class=\"case_cite\">5 L.Ed.2d 857</p>\n    <p class=\"parties\">UTAH CITIZENS RATE ASSOCIATION et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 712.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 3, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Calvin L. Rampton, for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Acting Assistant Attorney General Kirkpatrick, Charles H. Weston, Robert W. Ginnane and Charles H. Johns, Jr., for the United States and Interstate Commerce Commission.</p>\n      <p class=\"indent\">A. U. Miner, L. W. Hobbs, Bryan P. Leverich and Ernest P. Porter, for Denver &amp; Rio Grande Western Railroad Co. and others, appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm the granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>365 U.S. 649 (1961)</b></center>\n<center><h1>UTAH CITIZENS RATE ASSOCIATION ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 712.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 3, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF UTAH.\n<p><i>Calvin L. Rampton</i> for appellants.</p>\n<p><i>Solicitor General Cox, Acting Assistant Attorney General Kirkpatrick, Charles H. Weston, Robert W. Ginnane</i> and <i>Charlie H. Johns, Jr.</i> for the United States and the Interstate Commerce Commission, and <i>A. U. Miner, L. W. Hobbs, Bryan P. Leverich</i> and <i>Ernest P. Porter</i> for the Denver &amp; Rio Grande Western Railroad Co. et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">365</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">649</span></span> (1961)</b></center>\n<center><h1>UTAH CITIZENS RATE ASSOCIATION ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 712.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 3, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF UTAH.\n<p><i>Calvin L. Rampton</i> for appellants.</p>\n<p><i>Solicitor General Cox, Acting Assistant Attorney General Kirkpatrick, Charles H. Weston, Robert W. Ginnane</i> and <i>Charlie H. Johns, Jr.</i> for the United States and the Interstate Commerce Commission, and <i>A. U. Miner, L. W. Hobbs, Bryan P. Leverich</i> and <i>Ernest P. Porter</i> for the Denver &amp; Rio Grande Western Railroad Co. et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "id": 106201, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106201/", "sha1": "d34464bc95e54ada2c8fe1473d810e8bd31237d9", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "365 U.S. 649", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106201/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Utah Citizens Rate Assn. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "712", 
+    "id": 90584, 
+    "resource_uri": "/api/rest/v2/citation/90584/"
+  }, 
+  "id": 106201, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-04-03", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>365 U.S. 649 (1961)</b></center>\n<center><h1>UTAH CITIZENS RATE ASSOCIATION ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 712.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 3, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF UTAH.\n<p><i>Calvin L. Rampton</i> for appellants.</p>\n<p><i>Solicitor General Cox, Acting Assistant Attorney General Kirkpatrick, Charles H. Weston, Robert W. Ginnane</i> and <i>Charlie H. Johns, Jr.</i> for the United States and the Interstate Commerce Commission, and <i>A. U. Miner, L. W. Hobbs, Bryan P. Leverich</i> and <i>Ernest P. Porter</i> for the Denver &amp; Rio Grande Western Railroad Co. et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">365</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">649</span></span> (1961)</b></center>\n<center><h1>UTAH CITIZENS RATE ASSOCIATION ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 712.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 3, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF UTAH.\n<p><i>Calvin L. Rampton</i> for appellants.</p>\n<p><i>Solicitor General Cox, Acting Assistant Attorney General Kirkpatrick, Charles H. Weston, Robert W. Ginnane</i> and <i>Charlie H. Johns, Jr.</i> for the United States and the Interstate Commerce Commission, and <i>A. U. Miner, L. W. Hobbs, Bryan P. Leverich</i> and <i>Ernest P. Porter</i> for the Denver &amp; Rio Grande Western Railroad Co. et al., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "sha1": "d34464bc95e54ada2c8fe1473d810e8bd31237d9", 
+  "date_modified": "2014-12-21T01:51:51.214762", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106201/utah-citizens-rate-assn-v-united-states/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2547821/", 
+  "html": "<p class=\"case_cite\">365 U.S. 649</p>\n    <p class=\"case_cite\">81 S.Ct. 834</p>\n    <p class=\"case_cite\">5 L.Ed.2d 857</p>\n    <p class=\"parties\">UTAH CITIZENS RATE ASSOCIATION et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 712.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 3, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Calvin L. Rampton, for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Acting Assistant Attorney General Kirkpatrick, Charles H. Weston, Robert W. Ginnane and Charles H. Johns, Jr., for the United States and Interstate Commerce Commission.</p>\n      <p class=\"indent\">A. U. Miner, L. W. Hobbs, Bryan P. Leverich and Ernest P. Porter, for Denver &amp; Rio Grande Western Railroad Co. and others, appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm the granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106201/"
+}

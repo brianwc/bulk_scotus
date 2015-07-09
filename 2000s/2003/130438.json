@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/130438/biggins-v-united-states/", "blocked": false, "citation": {"case_name": "Biggins v. United States", "docket_number": "02-10593", "document_uris": ["/api/rest/v2/document/130438/"], "federal_cite_one": "539 U.S. 922", "federal_cite_three": null, "federal_cite_two": null, "id": 114791, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/114791/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-06-09", "date_modified": "2014-12-21T02:18:54.508030", "docket": "/api/rest/v2/docket/2471196/", "download_url": "http://bulk.resource.org/courts.gov/c/US/539/539.US.922.02-10593.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">539 U.S. 922</p>\n    <p class=\"parties\">Biggins<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 02-10593.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 11th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">539</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">922</span></span></p>\n    <p class=\"parties\">Biggins<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 02-10593.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 11th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "id": 130438, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/130438/", "sha1": "4cad5b702ad4b1a180d668765b7ae3876554cb2c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:10"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "539 U.S. 922", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/130438/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Biggins v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-10593", 
+    "id": 114791, 
+    "resource_uri": "/api/rest/v2/citation/114791/"
+  }, 
+  "id": 130438, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-06-09", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/539/539.US.922.02-10593.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:10", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">539</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">922</span></span></p>\n    <p class=\"parties\">Biggins<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 02-10593.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 11th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "4cad5b702ad4b1a180d668765b7ae3876554cb2c", 
+  "date_modified": "2014-12-21T02:18:54.508030", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/130438/biggins-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2471196/", 
+  "html": "<p class=\"case_cite\">539 U.S. 922</p>\n    <p class=\"parties\">Biggins<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 02-10593.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 11th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/130438/"
+}

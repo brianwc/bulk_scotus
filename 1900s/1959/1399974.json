@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1399974/jones-motor-co-inc-v-pennsylvania-public-utility-c/", "blocked": false, "citation": {"case_name": "Jones Motor Co., Inc. v. Pennsylvania Public Utility Commission", "docket_number": "120", "document_uris": ["/api/rest/v2/document/1399974/"], "federal_cite_one": "361 U.S. 11", "federal_cite_three": null, "federal_cite_two": null, "id": 1372745, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1372745/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1959-10-12", "date_modified": "2014-10-30T00:51:52.070668", "docket": "/api/rest/v2/docket/245889/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>361 U.S. 11 (1959)</b></center>\n<center><h1>JONES MOTOR CO., INC.,<br>\nv.<br>\nPENNSYLVANIA PUBLIC UTILITY COMMISSION ET AL.</h1></center>\n<center>No. 120.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 12, 1959.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPERIOR COURT OF PENNSYLVANIA.\n<p><i>Roland Rice, William J. Wilcox</i> and <i>Christian V. Graf</i> for petitioner.</p>\n<p><i>William A. Goichman, Louis J. Carter</i> and <i>Thomas M. Kerrigan</i> for the Pennsylvania Public Utility Commission, respondent.</p>\n<p><i>Harold S. Shertz</i> for Intervening Respondents.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is reversed. <i>Service Storage &amp; Transfer Co.</i> v. <i>Virginia,</i> 359 U. S. 171.</p>\n</div>", "html_with_citations": "", "id": 1399974, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1399974/", "sha1": "71f0fec75a45b861b691607a0813f14c17ec9ea4", "source": "L", "time_retrieved": "2013-10-29T22:57:56.121013"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "361 U.S. 11", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1399974/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jones Motor Co., Inc. v. Pennsylvania Public Utility Commission", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "120", 
+    "id": 1372745, 
+    "resource_uri": "/api/rest/v2/citation/1372745/"
+  }, 
+  "id": 1399974, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1959-10-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>361 U.S. 11 (1959)</b></center>\n<center><h1>JONES MOTOR CO., INC.,<br>\nv.<br>\nPENNSYLVANIA PUBLIC UTILITY COMMISSION ET AL.</h1></center>\n<center>No. 120.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 12, 1959.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPERIOR COURT OF PENNSYLVANIA.\n<p><i>Roland Rice, William J. Wilcox</i> and <i>Christian V. Graf</i> for petitioner.</p>\n<p><i>William A. Goichman, Louis J. Carter</i> and <i>Thomas M. Kerrigan</i> for the Pennsylvania Public Utility Commission, respondent.</p>\n<p><i>Harold S. Shertz</i> for Intervening Respondents.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is reversed. <i>Service Storage &amp; Transfer Co.</i> v. <i>Virginia,</i> 359 U. S. 171.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:57:56.121013", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "71f0fec75a45b861b691607a0813f14c17ec9ea4", 
+  "date_modified": "2014-10-30T00:51:52.070668", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1399974/jones-motor-co-inc-v-pennsylvania-public-utility-c/", 
+  "citation_count": 3, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/245889/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1399974/"
+}

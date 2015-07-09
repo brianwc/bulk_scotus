@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/113009/simmons-v-south-carolina/", "blocked": false, "citation": {"case_name": "Simmons v. South Carolina", "docket_number": "92-9059", "document_uris": ["/api/rest/v2/document/113009/"], "federal_cite_one": "510 U.S. 811", "federal_cite_three": null, "federal_cite_two": null, "id": 97368, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/97368/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 14, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-10-04", "date_modified": "2014-12-21T02:13:21.686046", "docket": "/api/rest/v2/docket/1892149/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.811.92-9059.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 811</p>\n    <p class=\"parties\">Simmons<br>v.<br>South Carolina.</p>\n    <p class=\"docket\">No. 92-9059.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. S. C.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted. Brief of petitioner is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Tuesday, November 16, 1993. Brief of respondent is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Tuesday, December 14, 1993. A reply brief, if any, is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Wednesday, January 5, 1994. This Court's Rule 29 does not apply. Reported below: 310 S. C. 439, 427 S. E. 2d 175.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">811</span></span></p>\n    <p class=\"parties\">Simmons<br>v.<br>South Carolina.</p>\n    <p class=\"docket\">No. 92-9059.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. S. C.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted. Brief of petitioner is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Tuesday, November 16, 1993. Brief of respondent is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Tuesday, December 14, 1993. A reply brief, if any, is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Wednesday, January 5, 1994. This Court's Rule 29 does not apply. Reported below: 310 S. C. 439, 427 S. E. 2d 175.</p>\n    </div>\n    ", "id": 113009, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/113009/", "sha1": "139f7af8740f7892146bc27e1d10ce7458e0ea63", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:03"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 811", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/113009/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Simmons v. South Carolina", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "92-9059", 
+    "id": 97368, 
+    "resource_uri": "/api/rest/v2/citation/97368/"
+  }, 
+  "id": 113009, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.811.92-9059.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:03", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">811</span></span></p>\n    <p class=\"parties\">Simmons<br>v.<br>South Carolina.</p>\n    <p class=\"docket\">No. 92-9059.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. S. C.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted. Brief of petitioner is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Tuesday, November 16, 1993. Brief of respondent is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Tuesday, December 14, 1993. A reply brief, if any, is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Wednesday, January 5, 1994. This Court's Rule 29 does not apply. Reported below: 310 S. C. 439, 427 S. E. 2d 175.</p>\n    </div>\n    ", 
+  "sha1": "139f7af8740f7892146bc27e1d10ce7458e0ea63", 
+  "date_modified": "2014-12-21T02:13:21.686046", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/113009/simmons-v-south-carolina/", 
+  "citation_count": 14, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1892149/", 
+  "html": "<p class=\"case_cite\">510 U.S. 811</p>\n    <p class=\"parties\">Simmons<br>v.<br>South Carolina.</p>\n    <p class=\"docket\">No. 92-9059.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. S. C.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted. Brief of petitioner is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Tuesday, November 16, 1993. Brief of respondent is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Tuesday, December 14, 1993. A reply brief, if any, is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Wednesday, January 5, 1994. This Court's Rule 29 does not apply. Reported below: 310 S. C. 439, 427 S. E. 2d 175.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/113009/"
+}

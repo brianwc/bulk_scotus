@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/133347/bishop-v-florida/", "blocked": false, "citation": {"case_name": "Bishop v. Florida", "docket_number": "03-5928", "document_uris": ["/api/rest/v2/document/133347/"], "federal_cite_one": "540 U.S. 969", "federal_cite_three": null, "federal_cite_two": null, "id": 117700, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/117700/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-10-20", "date_modified": "2014-12-21T02:19:34.859665", "docket": "/api/rest/v2/docket/1095263/", "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.969.03-5928.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">540 U.S. 969</p>\n    <p class=\"parties\">BISHOP<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 03-5928.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 20, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Fla.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 849 So. 2d 1088.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">969</span></span></p>\n    <p class=\"parties\">BISHOP<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 03-5928.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 20, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Fla.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 849 So. 2d 1088.</p>\n    </div>\n    ", "id": 133347, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/133347/", "sha1": "d95dd4c078153a2868d31d981a716868d42446a3", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:28:27"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "540 U.S. 969", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/133347/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bishop v. Florida", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-5928", 
+    "id": 117700, 
+    "resource_uri": "/api/rest/v2/citation/117700/"
+  }, 
+  "id": 133347, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-10-20", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.969.03-5928.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:28:27", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">969</span></span></p>\n    <p class=\"parties\">BISHOP<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 03-5928.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 20, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Fla.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 849 So. 2d 1088.</p>\n    </div>\n    ", 
+  "sha1": "d95dd4c078153a2868d31d981a716868d42446a3", 
+  "date_modified": "2014-12-21T02:19:34.859665", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/133347/bishop-v-florida/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1095263/", 
+  "html": "<p class=\"case_cite\">540 U.S. 969</p>\n    <p class=\"parties\">BISHOP<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 03-5928.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 20, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Sup. Ct. Fla.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 849 So. 2d 1088.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/133347/"
+}

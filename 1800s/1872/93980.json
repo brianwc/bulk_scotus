@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/93980/germain-v-mason-et-al/", "blocked": false, "citation": {"case_name": "Germain v. Mason", "docket_number": "290", "document_uris": ["/api/rest/v2/document/93980/"], "federal_cite_one": "154 U.S. 587", "federal_cite_three": null, "federal_cite_two": null, "id": 78361, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/78361/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1872-04-22", "date_modified": "2014-12-21T01:32:02.455236", "docket": "/api/rest/v2/docket/533270/", "download_url": "http://bulk.resource.org/courts.gov/c/US/154/154.US.587.290.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">154 U.S. 587</p>\n    <p class=\"case_cite\">14 S.Ct. 1170</p>\n    <p class=\"case_cite\">20 L.Ed. 689</p>\n    <p class=\"parties\">GERMAIN<br>v.<br>MASON et al.</p>\n    <p class=\"docket\">No. 290.</p>\n    <p class=\"date\">April 22, 1872.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">A. M. Woodfolk, F. A. Dick, and George G. Wright, for plaintiff in error.</p>\n      <p class=\"indent\">J. Hubley Ashton and Nathaniel Wilson, for defendants in error.</p>\n      <p class=\"indent\">Mr. Chief Justice CHASE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of error in this case, as in the case of Wells v. McGregor (decided at this term) 13 Wall. 188, bears the test of the clerk of the supreme court of the territory of Montana, and not the test of the chief justice of this court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">It must therefore be dismissed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">154</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">587</span></span></p>\n    <p class=\"case_cite\">14 S.Ct. 1170</p>\n    <p class=\"case_cite\">20 L.Ed. 689</p>\n    <p class=\"parties\">GERMAIN<br>v.<br>MASON et al.</p>\n    <p class=\"docket\">No. 290.</p>\n    <p class=\"date\">April 22, 1872.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">A. M. Woodfolk, F. A. Dick, and George G. Wright, for plaintiff in error.</p>\n      <p class=\"indent\">J. Hubley Ashton and Nathaniel Wilson, for defendants in error.</p>\n      <p class=\"indent\">Mr. Chief Justice CHASE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of error in this case, as in the case of Wells v. McGregor (decided at this term) <span class=\"citation\" data-id=\"88452\"><a href=\"/opinion/88452/wells-v-mcgregor/\"><span class=\"volume\">13</span> <span class=\"reporter\">Wall.</span> <span class=\"page\">188</span></a></span>, bears the test of the clerk of the supreme court of the territory of Montana, and not the test of the chief justice of this court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">It must therefore be dismissed.</p>\n    </div>\n    ", "id": 93980, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/93980/", "sha1": "ead59c14e7b31318db255b19690e69fb8ea4270f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:12:51"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "154 U.S. 587", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/93980/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Germain v. Mason", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "290", 
+    "id": 78361, 
+    "resource_uri": "/api/rest/v2/citation/78361/"
+  }, 
+  "id": 93980, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1872-04-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/154/154.US.587.290.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:12:51", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">154</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">587</span></span></p>\n    <p class=\"case_cite\">14 S.Ct. 1170</p>\n    <p class=\"case_cite\">20 L.Ed. 689</p>\n    <p class=\"parties\">GERMAIN<br>v.<br>MASON et al.</p>\n    <p class=\"docket\">No. 290.</p>\n    <p class=\"date\">April 22, 1872.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">A. M. Woodfolk, F. A. Dick, and George G. Wright, for plaintiff in error.</p>\n      <p class=\"indent\">J. Hubley Ashton and Nathaniel Wilson, for defendants in error.</p>\n      <p class=\"indent\">Mr. Chief Justice CHASE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of error in this case, as in the case of Wells v. McGregor (decided at this term) <span class=\"citation\" data-id=\"88452\"><a href=\"/opinion/88452/wells-v-mcgregor/\"><span class=\"volume\">13</span> <span class=\"reporter\">Wall.</span> <span class=\"page\">188</span></a></span>, bears the test of the clerk of the supreme court of the territory of Montana, and not the test of the chief justice of this court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">It must therefore be dismissed.</p>\n    </div>\n    ", 
+  "sha1": "ead59c14e7b31318db255b19690e69fb8ea4270f", 
+  "date_modified": "2014-12-21T01:32:02.455236", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/93980/germain-v-mason-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/533270/", 
+  "html": "<p class=\"case_cite\">154 U.S. 587</p>\n    <p class=\"case_cite\">14 S.Ct. 1170</p>\n    <p class=\"case_cite\">20 L.Ed. 689</p>\n    <p class=\"parties\">GERMAIN<br>v.<br>MASON et al.</p>\n    <p class=\"docket\">No. 290.</p>\n    <p class=\"date\">April 22, 1872.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">A. M. Woodfolk, F. A. Dick, and George G. Wright, for plaintiff in error.</p>\n      <p class=\"indent\">J. Hubley Ashton and Nathaniel Wilson, for defendants in error.</p>\n      <p class=\"indent\">Mr. Chief Justice CHASE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of error in this case, as in the case of Wells v. McGregor (decided at this term) 13 Wall. 188, bears the test of the clerk of the supreme court of the territory of Montana, and not the test of the chief justice of this court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">It must therefore be dismissed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/93980/"
+}

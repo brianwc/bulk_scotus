@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/89216/spencer-v-united-states/", "blocked": false, "citation": {"case_name": "Spencer v. United States", "docket_number": null, "document_uris": ["/api/rest/v2/document/89216/"], "federal_cite_one": "91 U.S. 577", "federal_cite_three": null, "federal_cite_two": null, "id": 59465, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/59465/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1876-05-18", "date_modified": "2014-12-21T01:28:47.238724", "docket": "/api/rest/v2/docket/1620106/", "download_url": "http://bulk.resource.org/courts.gov/c/US/91/91.US.577.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">91 U.S. 577</p>\n    <p class=\"case_cite\">23 L.Ed. 462</p>\n    <p class=\"parties\">SPENCER<br>v.<br>UNITED STATES.</p>\n    <p class=\"date\">October Term, 1875</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">APPEAL from the Court of Claims.</p>\n      <p class=\"indent\">This cause was argued by <i>Mr. Joseph Casey</i> for the appellant, and by <i>Mr. Assistant Attorney-General Edwin B. Smith</i> for the appellee.</p>\n      <p class=\"indent\">MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case, the Court of Claims has certified here, in answer to inquiries from us, (1) that the cotton in question did not come into the hands of any agent of the United States as abandoned or captured property, and was not sold as such; and (2) that the proceeds of the sale were not paid into the treasury of the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Upon this state of facts, the judgment of the court below was clearly right. It is certain that no suit can be maintained against the United States under the Abandoned and Captured Property Act, if the property has neither been captured, seized, nor sold pursuant to its provisions, and the proceeds are not in the treasury.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\"><i>Judgment affirmed</i>.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">91</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">577</span></span></p>\n    <p class=\"case_cite\">23 L.Ed. 462</p>\n    <p class=\"parties\">SPENCER<br>v.<br>UNITED STATES.</p>\n    <p class=\"date\">October Term, 1875</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">APPEAL from the Court of Claims.</p>\n      <p class=\"indent\">This cause was argued by <i>Mr. Joseph Casey</i> for the appellant, and by <i>Mr. Assistant Attorney-General Edwin B. Smith</i> for the appellee.</p>\n      <p class=\"indent\">MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case, the Court of Claims has certified here, in answer to inquiries from us, (1) that the cotton in question did not come into the hands of any agent of the United States as abandoned or captured property, and was not sold as such; and (2) that the proceeds of the sale were not paid into the treasury of the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Upon this state of facts, the judgment of the court below was clearly right. It is certain that no suit can be maintained against the United States under the Abandoned and Captured Property Act, if the property has neither been captured, seized, nor sold pursuant to its provisions, and the proceeds are not in the treasury.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\"><i>Judgment affirmed</i>.</p>\n    </div>\n    ", "id": 89216, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/89216/", "sha1": "7bb57741f77a405e7cc6eb8e6ac2b56f948a2320", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:01:59"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "91 U.S. 577", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/89216/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Spencer v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 59465, 
+    "resource_uri": "/api/rest/v2/citation/59465/"
+  }, 
+  "id": 89216, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1876-05-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/91/91.US.577.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:01:59", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">91</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">577</span></span></p>\n    <p class=\"case_cite\">23 L.Ed. 462</p>\n    <p class=\"parties\">SPENCER<br>v.<br>UNITED STATES.</p>\n    <p class=\"date\">October Term, 1875</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">APPEAL from the Court of Claims.</p>\n      <p class=\"indent\">This cause was argued by <i>Mr. Joseph Casey</i> for the appellant, and by <i>Mr. Assistant Attorney-General Edwin B. Smith</i> for the appellee.</p>\n      <p class=\"indent\">MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case, the Court of Claims has certified here, in answer to inquiries from us, (1) that the cotton in question did not come into the hands of any agent of the United States as abandoned or captured property, and was not sold as such; and (2) that the proceeds of the sale were not paid into the treasury of the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Upon this state of facts, the judgment of the court below was clearly right. It is certain that no suit can be maintained against the United States under the Abandoned and Captured Property Act, if the property has neither been captured, seized, nor sold pursuant to its provisions, and the proceeds are not in the treasury.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\"><i>Judgment affirmed</i>.</p>\n    </div>\n    ", 
+  "sha1": "7bb57741f77a405e7cc6eb8e6ac2b56f948a2320", 
+  "date_modified": "2014-12-21T01:28:47.238724", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/89216/spencer-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1620106/", 
+  "html": "<p class=\"case_cite\">91 U.S. 577</p>\n    <p class=\"case_cite\">23 L.Ed. 462</p>\n    <p class=\"parties\">SPENCER<br>v.<br>UNITED STATES.</p>\n    <p class=\"date\">October Term, 1875</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">APPEAL from the Court of Claims.</p>\n      <p class=\"indent\">This cause was argued by <i>Mr. Joseph Casey</i> for the appellant, and by <i>Mr. Assistant Attorney-General Edwin B. Smith</i> for the appellee.</p>\n      <p class=\"indent\">MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case, the Court of Claims has certified here, in answer to inquiries from us, (1) that the cotton in question did not come into the hands of any agent of the United States as abandoned or captured property, and was not sold as such; and (2) that the proceeds of the sale were not paid into the treasury of the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Upon this state of facts, the judgment of the court below was clearly right. It is certain that no suit can be maintained against the United States under the Abandoned and Captured Property Act, if the property has neither been captured, seized, nor sold pursuant to its provisions, and the proceeds are not in the treasury.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\"><i>Judgment affirmed</i>.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/89216/"
+}

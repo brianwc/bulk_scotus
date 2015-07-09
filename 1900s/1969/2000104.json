@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2000104/jordan-v-arizona-ex-rel-nelson/", "blocked": false, "citation": {"case_name": "Jordan v. Arizona Ex Rel. Nelson", "docket_number": "204", "document_uris": ["/api/rest/v2/document/2000104/"], "federal_cite_one": "396 U.S. 5", "federal_cite_three": null, "federal_cite_two": null, "id": 1972875, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1972875/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-10-13", "date_modified": "2014-10-30T12:47:26.250078", "docket": "/api/rest/v2/docket/1828024/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>396 U.S. 5 (1969)</b></center>\n<center><h1>JORDAN<br>\nv.<br>\nARIZONA EX REL. NELSON, ATTORNEY GENERAL.</h1></center>\n<center>No. 204.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1969.</center>\nAPPEAL FROM THE SUPREME COURT OF ARIZONA.\n<p><i>Stewart L. Udall</i> for appellant.</p>\n<p><i>Gary K. Nelson,</i> Attorney General of Arizona, appellee, <i>pro se.</i></p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">5</span></span> (1969)</b></center>\n<center><h1>JORDAN<br>\nv.<br>\nARIZONA EX REL. NELSON, ATTORNEY GENERAL.</h1></center>\n<center>No. 204.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1969.</center>\nAPPEAL FROM THE SUPREME COURT OF ARIZONA.\n<p><i>Stewart L. Udall</i> for appellant.</p>\n<p><i>Gary K. Nelson,</i> Attorney General of Arizona, appellee, <i>pro se.</i></p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "id": 2000104, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2000104/", "sha1": "f2f20950a9b2a64ea93e30500bfccd9d0430c763", "source": "L", "time_retrieved": "2013-10-30T01:00:50.669434"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "396 U.S. 5", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2000104/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jordan v. Arizona Ex Rel. Nelson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "204", 
+    "id": 1972875, 
+    "resource_uri": "/api/rest/v2/citation/1972875/"
+  }, 
+  "id": 2000104, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-10-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>396 U.S. 5 (1969)</b></center>\n<center><h1>JORDAN<br>\nv.<br>\nARIZONA EX REL. NELSON, ATTORNEY GENERAL.</h1></center>\n<center>No. 204.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1969.</center>\nAPPEAL FROM THE SUPREME COURT OF ARIZONA.\n<p><i>Stewart L. Udall</i> for appellant.</p>\n<p><i>Gary K. Nelson,</i> Attorney General of Arizona, appellee, <i>pro se.</i></p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T01:00:50.669434", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">5</span></span> (1969)</b></center>\n<center><h1>JORDAN<br>\nv.<br>\nARIZONA EX REL. NELSON, ATTORNEY GENERAL.</h1></center>\n<center>No. 204.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 13, 1969.</center>\nAPPEAL FROM THE SUPREME COURT OF ARIZONA.\n<p><i>Stewart L. Udall</i> for appellant.</p>\n<p><i>Gary K. Nelson,</i> Attorney General of Arizona, appellee, <i>pro se.</i></p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "sha1": "f2f20950a9b2a64ea93e30500bfccd9d0430c763", 
+  "date_modified": "2014-10-30T12:47:26.250078", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2000104/jordan-v-arizona-ex-rel-nelson/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1828024/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2000104/"
+}

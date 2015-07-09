@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/91386/united-states-v-petit/", "blocked": false, "citation": {"case_name": "United States v. Petit", "docket_number": null, "document_uris": ["/api/rest/v2/document/91386/"], "federal_cite_one": "114 U.S. 429", "federal_cite_three": null, "federal_cite_two": null, "id": 75766, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/75766/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1885-04-20", "date_modified": "2014-12-21T01:29:53.584665", "docket": "/api/rest/v2/docket/1742446/", "download_url": "http://bulk.resource.org/courts.gov/c/US/114/114.US.429.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">114 U.S. 429</p>\n    <p class=\"case_cite\">5 S.Ct. 1190</p>\n    <p class=\"case_cite\">29 L.Ed. 93</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>PETIT.</p>\n    <p class=\"date\">April 7, 1885.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The first question certified in this case is answered in the negative, and the second in the affirmative, on the authority of <i>Ex parte Wilson, ante</i>, 935, decided at the present term.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">114</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">429</span></span></p>\n    <p class=\"case_cite\">5 S.Ct. 1190</p>\n    <p class=\"case_cite\">29 L.Ed. 93</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>PETIT.</p>\n    <p class=\"date\">April 7, 1885.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The first question certified in this case is answered in the negative, and the second in the affirmative, on the authority of <i>Ex parte Wilson, ante</i>, 935, decided at the present term.</p>\n    </div>\n    ", "id": 91386, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/91386/", "sha1": "b472dbdb8a20b0eeb7ac43683331189dfd9f5e6b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:03:19"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "114 U.S. 429", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/91386/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Petit", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 75766, 
+    "resource_uri": "/api/rest/v2/citation/75766/"
+  }, 
+  "id": 91386, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1885-04-20", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/114/114.US.429.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:03:19", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">114</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">429</span></span></p>\n    <p class=\"case_cite\">5 S.Ct. 1190</p>\n    <p class=\"case_cite\">29 L.Ed. 93</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>PETIT.</p>\n    <p class=\"date\">April 7, 1885.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The first question certified in this case is answered in the negative, and the second in the affirmative, on the authority of <i>Ex parte Wilson, ante</i>, 935, decided at the present term.</p>\n    </div>\n    ", 
+  "sha1": "b472dbdb8a20b0eeb7ac43683331189dfd9f5e6b", 
+  "date_modified": "2014-12-21T01:29:53.584665", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/91386/united-states-v-petit/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1742446/", 
+  "html": "<p class=\"case_cite\">114 U.S. 429</p>\n    <p class=\"case_cite\">5 S.Ct. 1190</p>\n    <p class=\"case_cite\">29 L.Ed. 93</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>PETIT.</p>\n    <p class=\"date\">April 7, 1885.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The first question certified in this case is answered in the negative, and the second in the affirmative, on the authority of <i>Ex parte Wilson, ante</i>, 935, decided at the present term.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/91386/"
+}

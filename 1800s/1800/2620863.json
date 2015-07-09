@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620863/evans-v-bollen/", "blocked": false, "citation": {"case_name": "Evans v. Bollen", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620863/"], "federal_cite_one": "4 U.S. 342", "federal_cite_three": null, "federal_cite_two": null, "id": 2593635, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593635/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1800-04-01", "date_modified": "2014-10-30T09:32:06.158122", "docket": "/api/rest/v2/docket/1411892/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 342 (____)</b></center>\n<center><b>4 Dall. 342</b></center>\n<center><h1>Evans, qui tam, &amp;c.<br>\nversus<br>\nBollen.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*343</span> Joseph Thomas, attorney for plaintiff.</p>\n<p>THIS was a qui tam action, in which the following declara- was filed:</p>\n                                         \"October Session 1797.\n<p>\"In the Circuit Court of the United States for the Pennsylvania \"District of the Middle Circuit.</p>\n<p>\"District of Pennsylvania, ss.</p>\n<p>\"George Bollen, late of the district of Pennsylvania, yeoman, \"was summoned to answer to the United States and to John \"Evans, who sues in this behalf, as well for the said United \"States as for himself, of a plea that he render to the said \"United States, and to the said John who sues as aforesaid, the \"sum of two thousand dollars, which to them he owes, and from \"them unjustly detains: and whereupon the said John, who sues \"in this behalf, as well for the said United States, as for himself, \"by Joseph Thomas his attorney, saith that the said George, on \"the first day of April in the year of our Lord one thousand \"seven hundred and ninety-seven, at the port of New-York, to \"wit, at the district aforesaid, was aiding and abetting, in preparing \"and sending away from a port within the said United \"States, to wit, from the port of New-York, a certain vessel \"called the Betsey, intending that the same should be employed \"for the purpose of procuring from a foreign country, to wit, \"from the coast of Africa, the inhabitants of such foreign country, \"to be transported to a foreign country, to wit, to the island \"of Saint Croix, to be disposed of as slaves, against the form of \"the statute in such case made and provided; by means whereof, <span class=\"star-pagination\">*343</span> \"and by force of the statute in such case made and provided, \"an action hath accrued to the said John, who sues in this behalf, \"as well for the said United States, as for himself, to have \"and demand of and from the said George the said sum of two \"thousand dollars: yet the said George (although often requested) \"hath not paid the said two thousand dollars, or any part \"thereof, to the said John, who in this behalf sues for the United \"States as well as for himself, but the same to him to pay hath \"hitherto wholly refused, and still doth refuse, to the damage \"of the said John, who sues as aforesaid, five hundred dollars. \"And thereof he brings suit, &amp;c.</p>\n                                                 | JOHN DOE.\n                                  \"Pledges, &amp;c. </div>", "html_with_citations": "", "id": 2620863, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620863/", "sha1": "753865a6b13e9bbb478e17cb807507e004831829", "source": "L", "time_retrieved": "2013-11-01T12:36:10.662404"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 342", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620863/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Evans v. Bollen", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593635, 
+    "resource_uri": "/api/rest/v2/citation/2593635/"
+  }, 
+  "id": 2620863, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1800-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 342 (____)</b></center>\n<center><b>4 Dall. 342</b></center>\n<center><h1>Evans, qui tam, &amp;c.<br>\nversus<br>\nBollen.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*343</span> Joseph Thomas, attorney for plaintiff.</p>\n<p>THIS was a qui tam action, in which the following declara- was filed:</p>\n                                         \"October Session 1797.\n<p>\"In the Circuit Court of the United States for the Pennsylvania \"District of the Middle Circuit.</p>\n<p>\"District of Pennsylvania, ss.</p>\n<p>\"George Bollen, late of the district of Pennsylvania, yeoman, \"was summoned to answer to the United States and to John \"Evans, who sues in this behalf, as well for the said United \"States as for himself, of a plea that he render to the said \"United States, and to the said John who sues as aforesaid, the \"sum of two thousand dollars, which to them he owes, and from \"them unjustly detains: and whereupon the said John, who sues \"in this behalf, as well for the said United States, as for himself, \"by Joseph Thomas his attorney, saith that the said George, on \"the first day of April in the year of our Lord one thousand \"seven hundred and ninety-seven, at the port of New-York, to \"wit, at the district aforesaid, was aiding and abetting, in preparing \"and sending away from a port within the said United \"States, to wit, from the port of New-York, a certain vessel \"called the Betsey, intending that the same should be employed \"for the purpose of procuring from a foreign country, to wit, \"from the coast of Africa, the inhabitants of such foreign country, \"to be transported to a foreign country, to wit, to the island \"of Saint Croix, to be disposed of as slaves, against the form of \"the statute in such case made and provided; by means whereof, <span class=\"star-pagination\">*343</span> \"and by force of the statute in such case made and provided, \"an action hath accrued to the said John, who sues in this behalf, \"as well for the said United States, as for himself, to have \"and demand of and from the said George the said sum of two \"thousand dollars: yet the said George (although often requested) \"hath not paid the said two thousand dollars, or any part \"thereof, to the said John, who in this behalf sues for the United \"States as well as for himself, but the same to him to pay hath \"hitherto wholly refused, and still doth refuse, to the damage \"of the said John, who sues as aforesaid, five hundred dollars. \"And thereof he brings suit, &amp;c.</p>\n                                                 | JOHN DOE.\n                                  \"Pledges, &amp;c. </div>", 
+  "time_retrieved": "2013-11-01T12:36:10.662404", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "753865a6b13e9bbb478e17cb807507e004831829", 
+  "date_modified": "2014-10-30T09:32:06.158122", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620863/evans-v-bollen/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1411892/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620863/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/126342/courtemanche-v-mester-judge-circuit-court-of/", "blocked": false, "citation": {"case_name": "Courtemanche v. Mester, Judge, Circuit Court of Michigan, Sixth Circuit", "docket_number": "02-7195", "document_uris": ["/api/rest/v2/document/126342/"], "federal_cite_one": "537 U.S. 1122", "federal_cite_three": null, "federal_cite_two": null, "id": 110695, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/110695/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-01-13", "date_modified": "2014-12-21T02:18:08.735812", "docket": "/api/rest/v2/docket/2074753/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1122.02-7195.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1122</p>\n    <p class=\"parties\">COURTEMANCHE<br>v.<br>MESTER, JUDGE, CIRCUIT COURT OF MICHIGAN, SIXTH CIRCUIT.</p>\n    <p class=\"docket\">No. 02-7195.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF MICHIGAN.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Mich. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1122</span></span></p>\n    <p class=\"parties\">COURTEMANCHE<br>v.<br>MESTER, JUDGE, CIRCUIT COURT OF MICHIGAN, SIXTH CIRCUIT.</p>\n    <p class=\"docket\">No. 02-7195.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF MICHIGAN.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Mich. Certiorari denied.</p>\n    </div>\n    ", "id": 126342, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/126342/", "sha1": "097f929795b3c22d7ba54060447b6103fe31198c", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1122", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/126342/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Courtemanche v. Mester, Judge, Circuit Court of Michigan, Sixth Circuit", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-7195", 
+    "id": 110695, 
+    "resource_uri": "/api/rest/v2/citation/110695/"
+  }, 
+  "id": 126342, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-01-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1122.02-7195.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1122</span></span></p>\n    <p class=\"parties\">COURTEMANCHE<br>v.<br>MESTER, JUDGE, CIRCUIT COURT OF MICHIGAN, SIXTH CIRCUIT.</p>\n    <p class=\"docket\">No. 02-7195.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF MICHIGAN.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Mich. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "097f929795b3c22d7ba54060447b6103fe31198c", 
+  "date_modified": "2014-12-21T02:18:08.735812", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/126342/courtemanche-v-mester-judge-circuit-court-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2074753/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1122</p>\n    <p class=\"parties\">COURTEMANCHE<br>v.<br>MESTER, JUDGE, CIRCUIT COURT OF MICHIGAN, SIXTH CIRCUIT.</p>\n    <p class=\"docket\">No. 02-7195.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 13, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF MICHIGAN.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Mich. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/126342/"
+}

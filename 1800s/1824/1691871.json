@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1691871/united-states-v-hughes/", "blocked": false, "citation": {"case_name": "United States v. Hughes", "docket_number": null, "document_uris": ["/api/rest/v2/document/1691871/"], "federal_cite_one": "54 U.S. 7", "federal_cite_three": null, "federal_cite_two": null, "id": 1664642, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1664642/", "scotus_early_cite": "13 How. 7", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1824-02-24", "date_modified": "2014-12-21T01:31:03.248222", "docket": "/api/rest/v2/docket/1237233/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>54 U.S. 7 (____)</b></center>\n<center><b>13 How. 7</b></center>\n<center><h1>THE UNITED STATES, APPELLANTS,<br>\nv.<br>\nJOSEPH HUGHES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*8</span> It was argued by Mr. Crittenden, (Attorney-General,) for the United States, and by Messrs. Janin and Taylor for the appellee.</p>\n<p>Mr. Justice NELSON delivered the opinion of the court.</p>\n<p>This is an appeal from a decree of the District Court of the Eastern District of Louisiana.</p>\n<p>The plaintiff claimed three thousand arpents of land situate in Louisiana, and fronting on the back part of lands of Oliver Thibodeaux, Theodore Thibodeaux, and Claude Martin, under a concession to Andrè Martin from Governor Gayoso, 26 April, 1798. The proceedings were under the act of 17th June, 1844, reviving the act of 26th May, 1824.</p>\n<p>Evidence was given of the handwriting of Martin to the application for the land, and of Governor Gayoso to the concession.</p>\n<p>The plaintiff also produced evidence of a conveyance of the premises to himself by an instrument bearing date 14th July, 1848, purporting to have been executed by the heirs of Andrè Martin the original grantee. And, also, notice to the register and receiver of the land-office at Opelousas, Louisiana, of an application on behalf of the heirs, by their attorney, for confirmation of the grant under date of 23d December, 1836.</p>\n<p>The concession was an inchoate and incomplete grant; and there is no evidence that any possession was ever taken of the land, nor of any claim set up under the grant to the same, from its date down to 1836, when notice was given to the officers of the land-office; nor any evidence of the existence of the grant during the whole of this period. The case falls directly within the principles of the two previous cases just decided.</p>\n<p>There is, also, no proof of any title in the plaintiff derived from the original grantee. The conveyance purporting to be executed by the heirs notwithstanding the recitals to that effect, furnishes no evidence of the fact of heirship.</p>\n<p>We think the decree of the court below erroneous, and should be reversed; and that the proceedings be remitted to the court below, and the petition be dismissed.</p>\n<p></p>\n<h2>\n<span class=\"star-pagination\">*9</span> Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the District Court of the United States, for the Eastern District of Louisiana, and was argued by counsel. On consideration whereof, it is now here ordered, adjudged, and decreed by this court, that the decree of the said District Court in this cause, be, and the same is hereby reversed and annulled, and this cause be, and the same is hereby, remanded to the said District Court, with directions to dismiss the petition of the claimant.</p>\n</div>", "html_with_citations": "", "id": 1691871, "judges": "Nelson", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1691871/", "sha1": "bdd62d003b294fc10e26f2d27c5dbec9a61cfadf", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-30T00:07:58.607086"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "54 U.S. 7", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1691871/"
+    ], 
+    "scotus_early_cite": "13 How. 7", 
+    "case_name": "United States v. Hughes", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1664642, 
+    "resource_uri": "/api/rest/v2/citation/1664642/"
+  }, 
+  "id": 1691871, 
+  "blocked": false, 
+  "judges": "Nelson", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1824-02-24", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>54 U.S. 7 (____)</b></center>\n<center><b>13 How. 7</b></center>\n<center><h1>THE UNITED STATES, APPELLANTS,<br>\nv.<br>\nJOSEPH HUGHES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*8</span> It was argued by Mr. Crittenden, (Attorney-General,) for the United States, and by Messrs. Janin and Taylor for the appellee.</p>\n<p>Mr. Justice NELSON delivered the opinion of the court.</p>\n<p>This is an appeal from a decree of the District Court of the Eastern District of Louisiana.</p>\n<p>The plaintiff claimed three thousand arpents of land situate in Louisiana, and fronting on the back part of lands of Oliver Thibodeaux, Theodore Thibodeaux, and Claude Martin, under a concession to Andr\u00e8 Martin from Governor Gayoso, 26 April, 1798. The proceedings were under the act of 17th June, 1844, reviving the act of 26th May, 1824.</p>\n<p>Evidence was given of the handwriting of Martin to the application for the land, and of Governor Gayoso to the concession.</p>\n<p>The plaintiff also produced evidence of a conveyance of the premises to himself by an instrument bearing date 14th July, 1848, purporting to have been executed by the heirs of Andr\u00e8 Martin the original grantee. And, also, notice to the register and receiver of the land-office at Opelousas, Louisiana, of an application on behalf of the heirs, by their attorney, for confirmation of the grant under date of 23d December, 1836.</p>\n<p>The concession was an inchoate and incomplete grant; and there is no evidence that any possession was ever taken of the land, nor of any claim set up under the grant to the same, from its date down to 1836, when notice was given to the officers of the land-office; nor any evidence of the existence of the grant during the whole of this period. The case falls directly within the principles of the two previous cases just decided.</p>\n<p>There is, also, no proof of any title in the plaintiff derived from the original grantee. The conveyance purporting to be executed by the heirs notwithstanding the recitals to that effect, furnishes no evidence of the fact of heirship.</p>\n<p>We think the decree of the court below erroneous, and should be reversed; and that the proceedings be remitted to the court below, and the petition be dismissed.</p>\n<p></p>\n<h2>\n<span class=\"star-pagination\">*9</span> Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the District Court of the United States, for the Eastern District of Louisiana, and was argued by counsel. On consideration whereof, it is now here ordered, adjudged, and decreed by this court, that the decree of the said District Court in this cause, be, and the same is hereby reversed and annulled, and this cause be, and the same is hereby, remanded to the said District Court, with directions to dismiss the petition of the claimant.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:07:58.607086", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bdd62d003b294fc10e26f2d27c5dbec9a61cfadf", 
+  "date_modified": "2014-12-21T01:31:03.248222", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1691871/united-states-v-hughes/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1237233/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1691871/"
+}

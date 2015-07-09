@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/135291/dunleavy-v-maine-committee-on-judicial/", "blocked": false, "citation": {"case_name": "Dunleavy v. Maine Committee on Judicial Responsibility and Disability", "docket_number": "03-1132", "document_uris": ["/api/rest/v2/document/135291/"], "federal_cite_one": "541 U.S. 960", "federal_cite_three": null, "federal_cite_two": null, "id": 119644, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/119644/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-03-29", "date_modified": "2014-12-21T02:20:00.951414", "docket": "/api/rest/v2/docket/1584275/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.960.03-1132.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 960</p>\n    <p class=\"parties\">DUNLEAVY<br>v.<br>MAINE COMMITTEE ON JUDICIAL RESPONSIBILITY AND DISABILITY.</p>\n    <p class=\"docket\">No. 03-1132.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 29, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Me. Certiorari denied. Reported below: 838 A. 2d 338.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">960</span></span></p>\n    <p class=\"parties\">DUNLEAVY<br>v.<br>MAINE COMMITTEE ON JUDICIAL RESPONSIBILITY AND DISABILITY.</p>\n    <p class=\"docket\">No. 03-1132.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 29, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Me. Certiorari denied. Reported below: 838 A. 2d 338.</p>\n    </div>\n    ", "id": 135291, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/135291/", "sha1": "4f6ab8eccd6a6d075c659d1e54eb914d0a9131cf", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:20"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 960", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/135291/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dunleavy v. Maine Committee on Judicial Responsibility and Disability", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-1132", 
+    "id": 119644, 
+    "resource_uri": "/api/rest/v2/citation/119644/"
+  }, 
+  "id": 135291, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-03-29", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.960.03-1132.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:20", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">960</span></span></p>\n    <p class=\"parties\">DUNLEAVY<br>v.<br>MAINE COMMITTEE ON JUDICIAL RESPONSIBILITY AND DISABILITY.</p>\n    <p class=\"docket\">No. 03-1132.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 29, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Me. Certiorari denied. Reported below: 838 A. 2d 338.</p>\n    </div>\n    ", 
+  "sha1": "4f6ab8eccd6a6d075c659d1e54eb914d0a9131cf", 
+  "date_modified": "2014-12-21T02:20:00.951414", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/135291/dunleavy-v-maine-committee-on-judicial/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1584275/", 
+  "html": "<p class=\"case_cite\">541 U.S. 960</p>\n    <p class=\"parties\">DUNLEAVY<br>v.<br>MAINE COMMITTEE ON JUDICIAL RESPONSIBILITY AND DISABILITY.</p>\n    <p class=\"docket\">No. 03-1132.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 29, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Jud. Ct. Me. Certiorari denied. Reported below: 838 A. 2d 338.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/135291/"
+}

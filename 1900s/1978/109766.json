@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/109766/carter-v-miller/", "blocked": false, "citation": {"case_name": "Carter v. Miller", "docket_number": "76-1171", "document_uris": ["/api/rest/v2/document/109766/"], "federal_cite_one": "434 U.S. 356", "federal_cite_three": "54 L. Ed. 2d 603", "federal_cite_two": "98 S. Ct. 786", "id": 94125, "lexis_cite": "1978 U.S. LEXIS 55", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/94125/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1978-01-17", "date_modified": "2014-12-21T14:05:10.854536", "docket": "/api/rest/v2/docket/2573394/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">434 U.S. 356</p>\n    <p class=\"case_cite\">98 S.Ct. 786</p>\n    <p class=\"case_cite\">54 L.Ed.2d 603</p>\n    <p class=\"parties\">James Y. CARTER, etc., petitioner,<br>v.<br>Luther MILLER, etc</p>\n    <p class=\"docket\">No. 76-1171</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 17, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Writ of Certiorari to the United States Court of Appeals for the Seventh Circuit.</p>\n      <p class=\"indent\">Jan. 17, 1978.</p>\n      <p>PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACKMUN took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>434 U.S. 356 (1978)</b></center>\n<center><h1>CARTER, PUBLIC VEHICLE LICENSE COMMISSIONER OF CHICAGO<br>\nv.<br>\nMILLER.</h1></center>\n<center>No. 76-1171.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 29-30, 1977.</center>\n<center>Decided January 17, 1978.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>William R. Quinlan</i> argued the cause for petitioner. With him on the briefs were <i>Daniel Pascale</i> and <i>Robert Retke.</i></p>\n<p><i>Robert Masur</i> argued the cause for respondent. With him on the briefs were <i>Alan Freedman, Howard Eglit,</i> and <i>David Goldberger.</i><sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BLACKMUN took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging affirmance were filed by <i>William B. Spann, Jr.,</i> and <i>Robert B. McKay</i> for the American Bar Assn.; and by <i>James R. Madison</i> and <i>Norman C. Hile</i> for the San Francisco Lawyers' Committee for Urban Affairs.</p>\n\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">434</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">356</span></span> (1978)</b></center>\n<center><h1>CARTER, PUBLIC VEHICLE LICENSE COMMISSIONER OF CHICAGO<br>\nv.<br>\nMILLER.</h1></center>\n<center>No. 76-1171.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 29-30, 1977.</center>\n<center>Decided January 17, 1978.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>William R. Quinlan</i> argued the cause for petitioner. With him on the briefs were <i>Daniel Pascale</i> and <i>Robert Retke.</i></p>\n<p><i>Robert Masur</i> argued the cause for respondent. With him on the briefs were <i>Alan Freedman, Howard Eglit,</i> and <i>David Goldberger.</i><sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BLACKMUN took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging affirmance were filed by <i>William B. Spann, Jr.,</i> and <i>Robert B. McKay</i> for the American Bar Assn.; and by <i>James R. Madison</i> and <i>Norman C. Hile</i> for the San Francisco Lawyers' Committee for Urban Affairs.</p>\n\n</div>", "id": 109766, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/109766/", "sha1": "48563cb87154365ee494620cf442b5902f066366", "source": "LR", "supreme_court_db_id": "1977-027", "time_retrieved": "2010-04-28T10:12:16"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "434 U.S. 356", 
+    "federal_cite_two": "98 S. Ct. 786", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "54 L. Ed. 2d 603", 
+    "lexis_cite": "1978 U.S. LEXIS 55", 
+    "document_uris": [
+      "/api/rest/v2/document/109766/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Carter v. Miller", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "76-1171", 
+    "id": 94125, 
+    "resource_uri": "/api/rest/v2/citation/94125/"
+  }, 
+  "id": 109766, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1978-01-17", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>434 U.S. 356 (1978)</b></center>\n<center><h1>CARTER, PUBLIC VEHICLE LICENSE COMMISSIONER OF CHICAGO<br>\nv.<br>\nMILLER.</h1></center>\n<center>No. 76-1171.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 29-30, 1977.</center>\n<center>Decided January 17, 1978.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>William R. Quinlan</i> argued the cause for petitioner. With him on the briefs were <i>Daniel Pascale</i> and <i>Robert Retke.</i></p>\n<p><i>Robert Masur</i> argued the cause for respondent. With him on the briefs were <i>Alan Freedman, Howard Eglit,</i> and <i>David Goldberger.</i><sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BLACKMUN took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging affirmance were filed by <i>William B. Spann, Jr.,</i> and <i>Robert B. McKay</i> for the American Bar Assn.; and by <i>James R. Madison</i> and <i>Norman C. Hile</i> for the San Francisco Lawyers' Committee for Urban Affairs.</p>\n\n</div>", 
+  "time_retrieved": "2010-04-28T10:12:16", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">434</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">356</span></span> (1978)</b></center>\n<center><h1>CARTER, PUBLIC VEHICLE LICENSE COMMISSIONER OF CHICAGO<br>\nv.<br>\nMILLER.</h1></center>\n<center>No. 76-1171.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 29-30, 1977.</center>\n<center>Decided January 17, 1978.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>William R. Quinlan</i> argued the cause for petitioner. With him on the briefs were <i>Daniel Pascale</i> and <i>Robert Retke.</i></p>\n<p><i>Robert Masur</i> argued the cause for respondent. With him on the briefs were <i>Alan Freedman, Howard Eglit,</i> and <i>David Goldberger.</i><sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE BLACKMUN took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging affirmance were filed by <i>William B. Spann, Jr.,</i> and <i>Robert B. McKay</i> for the American Bar Assn.; and by <i>James R. Madison</i> and <i>Norman C. Hile</i> for the San Francisco Lawyers' Committee for Urban Affairs.</p>\n\n</div>", 
+  "sha1": "48563cb87154365ee494620cf442b5902f066366", 
+  "date_modified": "2014-12-21T14:05:10.854536", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/109766/carter-v-miller/", 
+  "citation_count": 6, 
+  "supreme_court_db_id": "1977-027", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2573394/", 
+  "html": "<p class=\"case_cite\">434 U.S. 356</p>\n    <p class=\"case_cite\">98 S.Ct. 786</p>\n    <p class=\"case_cite\">54 L.Ed.2d 603</p>\n    <p class=\"parties\">James Y. CARTER, etc., petitioner,<br>v.<br>Luther MILLER, etc</p>\n    <p class=\"docket\">No. 76-1171</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 17, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Writ of Certiorari to the United States Court of Appeals for the Seventh Circuit.</p>\n      <p class=\"indent\">Jan. 17, 1978.</p>\n      <p>PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACKMUN took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/109766/"
+}

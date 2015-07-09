@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/135950/young-v-thomas-sheriff-harris-county-texas/", "blocked": false, "citation": {"case_name": "Young v. Thomas, Sheriff, Harris County, Texas", "docket_number": "03-8980", "document_uris": ["/api/rest/v2/document/135950/"], "federal_cite_one": "541 U.S. 1011", "federal_cite_three": null, "federal_cite_two": null, "id": 120303, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120303/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-04-26", "date_modified": "2014-12-21T02:20:05.381337", "docket": "/api/rest/v2/docket/392209/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1011.03-8980.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1011</p>\n    <p class=\"parties\">YOUNG<br>v.<br>THOMAS, SHERIFF, HARRIS COUNTY, TEXAS, ET AL.</p>\n    <p class=\"docket\">No. 03-8980.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 26, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1011</span></span></p>\n    <p class=\"parties\">YOUNG<br>v.<br>THOMAS, SHERIFF, HARRIS COUNTY, TEXAS, ET AL.</p>\n    <p class=\"docket\">No. 03-8980.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 26, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 135950, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/135950/", "sha1": "d19a0b7684921fad02df2986faf5f4d607b430ca", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:39"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1011", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/135950/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Young v. Thomas, Sheriff, Harris County, Texas", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-8980", 
+    "id": 120303, 
+    "resource_uri": "/api/rest/v2/citation/120303/"
+  }, 
+  "id": 135950, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-04-26", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1011.03-8980.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:39", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1011</span></span></p>\n    <p class=\"parties\">YOUNG<br>v.<br>THOMAS, SHERIFF, HARRIS COUNTY, TEXAS, ET AL.</p>\n    <p class=\"docket\">No. 03-8980.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 26, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "d19a0b7684921fad02df2986faf5f4d607b430ca", 
+  "date_modified": "2014-12-21T02:20:05.381337", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/135950/young-v-thomas-sheriff-harris-county-texas/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/392209/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1011</p>\n    <p class=\"parties\">YOUNG<br>v.<br>THOMAS, SHERIFF, HARRIS COUNTY, TEXAS, ET AL.</p>\n    <p class=\"docket\">No. 03-8980.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 26, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/135950/"
+}

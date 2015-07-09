@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92536/city-of-new-orleans-v-united-states-ex-rel/", "blocked": false, "citation": {"case_name": "City of New Orleans v. United States Ex Rel. Christmas Same v. Same", "docket_number": null, "document_uris": ["/api/rest/v2/document/92536/"], "federal_cite_one": "131 U.S. 220", "federal_cite_three": null, "federal_cite_two": null, "id": 76916, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76916/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1889-05-13", "date_modified": "2014-12-21T01:30:53.109574", "docket": "/api/rest/v2/docket/2449519/", "download_url": "http://bulk.resource.org/courts.gov/c/US/131/131.US.220.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">131 U.S. 220</p>\n    <p class=\"case_cite\">9 S.Ct. 755</p>\n    <p class=\"case_cite\">33 L.Ed. 110</p>\n    <p class=\"parties\">CITY OF NEW ORLEANS<br>v.<br>UNITED STATES <i>ex rel.</i> CHRISTMAS <i>et al.</i><br>SAME<br>v.<br>SAME.</p>\n    <p class=\"date\">May 13, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">BRADLEY, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decision just made in the case of City of New Orleans v. Myra Clark Gaines, ante, 745, renders it necessary that the judgment or decree in this case should be reversed, and it is reversed accordingly, and the cause remanded, with instructions to dismiss the petition.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">131</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">220</span></span></p>\n    <p class=\"case_cite\">9 S.Ct. 755</p>\n    <p class=\"case_cite\">33 L.Ed. 110</p>\n    <p class=\"parties\">CITY OF NEW ORLEANS<br>v.<br>UNITED STATES <i>ex rel.</i> CHRISTMAS <i>et al.</i><br>SAME<br>v.<br>SAME.</p>\n    <p class=\"date\">May 13, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">BRADLEY, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decision just made in the case of City of New Orleans v. Myra Clark Gaines, ante, 745, renders it necessary that the judgment or decree in this case should be reversed, and it is reversed accordingly, and the cause remanded, with instructions to dismiss the petition.</p>\n    </div>\n    ", "id": 92536, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92536/", "sha1": "26f120c45e43f4da7ccda2ffa89f927f40472a5b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "131 U.S. 220", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/92536/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "City of New Orleans v. United States Ex Rel. Christmas Same v. Same", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76916, 
+    "resource_uri": "/api/rest/v2/citation/76916/"
+  }, 
+  "id": 92536, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1889-05-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/131/131.US.220.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:05:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">131</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">220</span></span></p>\n    <p class=\"case_cite\">9 S.Ct. 755</p>\n    <p class=\"case_cite\">33 L.Ed. 110</p>\n    <p class=\"parties\">CITY OF NEW ORLEANS<br>v.<br>UNITED STATES <i>ex rel.</i> CHRISTMAS <i>et al.</i><br>SAME<br>v.<br>SAME.</p>\n    <p class=\"date\">May 13, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">BRADLEY, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decision just made in the case of City of New Orleans v. Myra Clark Gaines, ante, 745, renders it necessary that the judgment or decree in this case should be reversed, and it is reversed accordingly, and the cause remanded, with instructions to dismiss the petition.</p>\n    </div>\n    ", 
+  "sha1": "26f120c45e43f4da7ccda2ffa89f927f40472a5b", 
+  "date_modified": "2014-12-21T01:30:53.109574", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92536/city-of-new-orleans-v-united-states-ex-rel/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2449519/", 
+  "html": "<p class=\"case_cite\">131 U.S. 220</p>\n    <p class=\"case_cite\">9 S.Ct. 755</p>\n    <p class=\"case_cite\">33 L.Ed. 110</p>\n    <p class=\"parties\">CITY OF NEW ORLEANS<br>v.<br>UNITED STATES <i>ex rel.</i> CHRISTMAS <i>et al.</i><br>SAME<br>v.<br>SAME.</p>\n    <p class=\"date\">May 13, 1889.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">BRADLEY, J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The decision just made in the case of City of New Orleans v. Myra Clark Gaines, ante, 745, renders it necessary that the judgment or decree in this case should be reversed, and it is reversed accordingly, and the cause remanded, with instructions to dismiss the petition.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92536/"
+}

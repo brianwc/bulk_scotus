@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/115112/owens-v-ashley-ante-p-853/", "blocked": false, "citation": {"case_name": "Owens v. Ashley, Ante, P. 853", "docket_number": "92-9145", "document_uris": ["/api/rest/v2/document/115112/"], "federal_cite_one": "510 U.S. 973", "federal_cite_three": null, "federal_cite_two": null, "id": 99471, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/99471/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-11-08", "date_modified": "2014-12-21T02:13:47.741183", "docket": "/api/rest/v2/docket/2055011/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.973.92-9145.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 973</p>\n    <p class=\"parties\">Owens<br>v.<br>Ashley, ante, p. 853.</p>\n    <p class=\"docket\">No. 92-9145.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">973</span></span></p>\n    <p class=\"parties\">Owens<br>v.<br>Ashley, ante, p. 853.</p>\n    <p class=\"docket\">No. 92-9145.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "id": 115112, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/115112/", "sha1": "23ae7effbbd6ee165cbdfce53ff3d5d7171e06bb", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:38"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 973", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/115112/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Owens v. Ashley, Ante, P. 853", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "92-9145", 
+    "id": 99471, 
+    "resource_uri": "/api/rest/v2/citation/99471/"
+  }, 
+  "id": 115112, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-11-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.973.92-9145.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:38", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">973</span></span></p>\n    <p class=\"parties\">Owens<br>v.<br>Ashley, ante, p. 853.</p>\n    <p class=\"docket\">No. 92-9145.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "23ae7effbbd6ee165cbdfce53ff3d5d7171e06bb", 
+  "date_modified": "2014-12-21T02:13:47.741183", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/115112/owens-v-ashley-ante-p-853/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2055011/", 
+  "html": "<p class=\"case_cite\">510 U.S. 973</p>\n    <p class=\"parties\">Owens<br>v.<br>Ashley, ante, p. 853.</p>\n    <p class=\"docket\">No. 92-9145.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/115112/"
+}

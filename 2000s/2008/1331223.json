@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1331223/murray-v-edwards-cty-sheriffs-dept/", "blocked": false, "citation": {"case_name": "Murray v. EDWARDS CTY. SHERIFF'S DEPT.", "docket_number": "07-9116", "document_uris": ["/api/rest/v2/document/1331223/"], "federal_cite_one": "553 U.S. 1035", "federal_cite_three": null, "federal_cite_two": null, "id": 1303994, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1303994/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 14, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2008-05-12", "date_modified": "2014-12-10T13:53:23.048346", "docket": "/api/rest/v2/docket/1361367/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>(2008)</b></center>\n<center><h1>RONALD MURRAY<br>\nv.<br>\nEDWARDS CTY. SHERIFF'S DEPT.</h1></center>\n<center>No. 07-9116</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 12, 2008.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1331223, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1331223/", "sha1": "366f6d4e330dc5491c56960434b74ce939b7502b", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T22:31:58.258927"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "553 U.S. 1035", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1331223/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Murray v. EDWARDS CTY. SHERIFF'S DEPT.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "07-9116", 
+    "id": 1303994, 
+    "resource_uri": "/api/rest/v2/citation/1303994/"
+  }, 
+  "id": 1331223, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2008-05-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>(2008)</b></center>\n<center><h1>RONALD MURRAY<br>\nv.<br>\nEDWARDS CTY. SHERIFF'S DEPT.</h1></center>\n<center>No. 07-9116</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 12, 2008.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:31:58.258927", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "366f6d4e330dc5491c56960434b74ce939b7502b", 
+  "date_modified": "2014-12-10T13:53:23.048346", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1331223/murray-v-edwards-cty-sheriffs-dept/", 
+  "citation_count": 14, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1361367/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1331223/"
+}

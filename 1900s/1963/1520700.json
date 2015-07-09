@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1520700/abernathy-v-eastern-air-lines-inc/", "blocked": false, "citation": {"case_name": "Abernathy v. Eastern Air Lines, Inc.", "docket_number": "450", "document_uris": ["/api/rest/v2/document/1520700/"], "federal_cite_one": "375 U.S. 161", "federal_cite_three": null, "federal_cite_two": null, "id": 1493471, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1493471/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-12-02", "date_modified": "2014-10-30T09:13:44.206172", "docket": "/api/rest/v2/docket/1372032/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>375 U.S. 161 (1963)</b></center>\n<center><h1>ABERNATHY ET AL.<br>\nv.<br>\nEASTERN AIR LINES, INC., ET AL.</h1></center>\n<center>No. 450.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 2, 1963.<sup>[*]</sup></center>\nAPPEAL FROM THE SUPREME COURT OF NORTH CAROLINA.\n<p><i>Whiteford S. Blakeney</i> for appellants in No. 450. <i>Wade W. Mitchem</i> for appellants in No. 451.</p>\n<p><i>William D. Holoman</i> for appellee Employment Security Commission of North Carolina.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeals are dismissed for want of jurisdiction. Treating the papers whereon the appeals were taken as petitions for writs of certiorari, certiorari is denied.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 451, <i>Charlotte Council, Air Line Pilots Association, et al.</i> v. <i>Eastern Air Lines, Inc., et al.,</i> also on appeal from the same Court.</p>\n\n</div>", "html_with_citations": "", "id": 1520700, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1520700/", "sha1": "37514d724ec4b67c2b3188bf4ce5b30512fed2c0", "source": "L", "time_retrieved": "2013-10-29T23:34:01.115506"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 161", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1520700/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Abernathy v. Eastern Air Lines, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "450", 
+    "id": 1493471, 
+    "resource_uri": "/api/rest/v2/citation/1493471/"
+  }, 
+  "id": 1520700, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-12-02", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 161 (1963)</b></center>\n<center><h1>ABERNATHY ET AL.<br>\nv.<br>\nEASTERN AIR LINES, INC., ET AL.</h1></center>\n<center>No. 450.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 2, 1963.<sup>[*]</sup></center>\nAPPEAL FROM THE SUPREME COURT OF NORTH CAROLINA.\n<p><i>Whiteford S. Blakeney</i> for appellants in No. 450. <i>Wade W. Mitchem</i> for appellants in No. 451.</p>\n<p><i>William D. Holoman</i> for appellee Employment Security Commission of North Carolina.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeals are dismissed for want of jurisdiction. Treating the papers whereon the appeals were taken as petitions for writs of certiorari, certiorari is denied.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 451, <i>Charlotte Council, Air Line Pilots Association, et al.</i> v. <i>Eastern Air Lines, Inc., et al.,</i> also on appeal from the same Court.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T23:34:01.115506", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "37514d724ec4b67c2b3188bf4ce5b30512fed2c0", 
+  "date_modified": "2014-10-30T09:13:44.206172", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1520700/abernathy-v-eastern-air-lines-inc/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1372032/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1520700/"
+}

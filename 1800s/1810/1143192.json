@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1143192/skillerns-exrs-v-mays-exrs/", "blocked": false, "citation": {"case_name": "Skillern's Ex'rs v. May's Ex'rs.", "docket_number": null, "document_uris": ["/api/rest/v2/document/1143192/"], "federal_cite_one": "10 U.S. 267", "federal_cite_three": null, "federal_cite_two": null, "id": 1115963, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1115963/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1810-03-18", "date_modified": "2014-10-30T17:28:33.696979", "docket": "/api/rest/v2/docket/2515818/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>10 U.S. 267 (1810)</b></center>\n<center><b>6 Cranch 267</b></center>\n<center><h1>SKILLERN'S EXECUTORS<br>\nv.<br>\nMAY'S EXECUTORS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>This court, after consideration, directed the following opinion to be certified to the court below, viz.</p>\n<p><span class=\"star-pagination\">*268</span> \"It appearing that the merits of this cause had been finally decided in this court, and that its mandate required only the execution of its decree, it is the opinion of this court that the circuit court is bound to carry that decree into execution, although the jurisdiction of that court be not alleged in the pleadings.\"</p>\n</div>", "html_with_citations": "", "id": 1143192, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1143192/", "sha1": "9921e7f5110158cbf75172418d1d97810c532450", "source": "L", "time_retrieved": "2013-10-29T21:20:58.608000"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "10 U.S. 267", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1143192/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Skillern's Ex'rs v. May's Ex'rs.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1115963, 
+    "resource_uri": "/api/rest/v2/citation/1115963/"
+  }, 
+  "id": 1143192, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1810-03-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>10 U.S. 267 (1810)</b></center>\n<center><b>6 Cranch 267</b></center>\n<center><h1>SKILLERN'S EXECUTORS<br>\nv.<br>\nMAY'S EXECUTORS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>This court, after consideration, directed the following opinion to be certified to the court below, viz.</p>\n<p><span class=\"star-pagination\">*268</span> \"It appearing that the merits of this cause had been finally decided in this court, and that its mandate required only the execution of its decree, it is the opinion of this court that the circuit court is bound to carry that decree into execution, although the jurisdiction of that court be not alleged in the pleadings.\"</p>\n</div>", 
+  "time_retrieved": "2013-10-29T21:20:58.608000", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "9921e7f5110158cbf75172418d1d97810c532450", 
+  "date_modified": "2014-10-30T17:28:33.696979", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1143192/skillerns-exrs-v-mays-exrs/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2515818/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1143192/"
+}

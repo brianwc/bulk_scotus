@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/626453/vasquez-v-united-states/", "blocked": false, "citation": {"case_name": "Vasquez v. United States", "docket_number": "11-199", "document_uris": ["/api/rest/v2/document/626453/"], "federal_cite_one": null, "federal_cite_three": null, "federal_cite_two": null, "id": 599208, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/599208/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2012-04-02", "date_modified": "2014-12-22T05:07:27.754019", "docket": "/api/rest/v2/docket/1305507/", "download_url": "http://www.supremecourt.gov/opinions/11pdf/11-199.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "", "id": 626453, "judges": "", "local_path": "pdf/2012/04/02/Vasquez_v._United_States.pdf", "nature_of_suit": "", "plain_text": "(Slip Opinion)            Cite as: 566 U. S. ____ (2012)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash-\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 11–199\n                                     _________________\n\n\n    ALEXANDER VASQUEZ, PETITIONER v. UNITED\n\n                   STATES \n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF\n\n           APPEALS FOR THE SEVENTH CIRCUIT\n\n                                   [April 2, 2012]\n\n\n  PER CURIAM. \n\n  The writ of certiorari is dismissed as improvidently \n\ngranted.\n                                        It is so ordered.\n", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/626453/", "sha1": "949ba4590fb40b8d3b788ceb7b7aed250dc939a8", "source": "C", "supreme_court_db_id": null, "time_retrieved": "2012-04-02T07:34:41"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": null, 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/626453/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Vasquez v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "11-199", 
+    "id": 599208, 
+    "resource_uri": "/api/rest/v2/citation/599208/"
+  }, 
+  "id": 626453, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2012-04-02", 
+  "download_url": "http://www.supremecourt.gov/opinions/11pdf/11-199.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2012/04/02/Vasquez_v._United_States.pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2012-04-02T07:34:41", 
+  "nature_of_suit": "", 
+  "plain_text": "(Slip Opinion)            Cite as: 566 U. S. ____ (2012)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash-\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 11\u2013199\n                                     _________________\n\n\n    ALEXANDER VASQUEZ, PETITIONER v. UNITED\n\n                   STATES \n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF\n\n           APPEALS FOR THE SEVENTH CIRCUIT\n\n                                   [April 2, 2012]\n\n\n  PER CURIAM. \n\n  The writ of certiorari is dismissed as improvidently \n\ngranted.\n                                        It is so ordered.\n", 
+  "html_with_citations": "", 
+  "sha1": "949ba4590fb40b8d3b788ceb7b7aed250dc939a8", 
+  "date_modified": "2014-12-22T05:07:27.754019", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/626453/vasquez-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1305507/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/626453/"
+}

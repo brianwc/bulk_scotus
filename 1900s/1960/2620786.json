@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2620786/securities-and-exchange-commission-v-lea-fabrics-i/", "blocked": false, "citation": {"case_name": "Securities and Exchange Commission v. Lea Fabrics, Inc.", "docket_number": "905", "document_uris": ["/api/rest/v2/document/2620786/"], "federal_cite_one": "363 U.S. 417", "federal_cite_three": null, "federal_cite_two": null, "id": 2593558, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593558/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-06-13", "date_modified": "2014-12-21T08:05:54.774610", "docket": "/api/rest/v2/docket/2582396/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>363 U.S. 417 (1960)</b></center>\n<center><h1>SECURITIES AND EXCHANGE COMMISSION<br>\nv.<br>\nLEA FABRICS, INC., ET AL.</h1></center>\n<center>No. 905.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 13, 1960.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.\n<p><i>Solicitor General Rankin, Thomas G. Meeker</i> and <i>David Ferber</i> for petitioner.</p>\n<p><i>Samuel M. Coombs, Jr., Nathan Ravin</i> and <i>George Furst</i> for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the Court of Appeals is vacated and the case is remanded to the District Court with instructions to dismiss the petition as moot.</p>\n</div>", "html_with_citations": "", "id": 2620786, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620786/", "sha1": "2be824665e002c81a97f1f8c1a9bfa64b4091998", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-11-01T11:56:26.390575"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "363 U.S. 417", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620786/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Securities and Exchange Commission v. Lea Fabrics, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "905", 
+    "id": 2593558, 
+    "resource_uri": "/api/rest/v2/citation/2593558/"
+  }, 
+  "id": 2620786, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-06-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>363 U.S. 417 (1960)</b></center>\n<center><h1>SECURITIES AND EXCHANGE COMMISSION<br>\nv.<br>\nLEA FABRICS, INC., ET AL.</h1></center>\n<center>No. 905.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 13, 1960.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT.\n<p><i>Solicitor General Rankin, Thomas G. Meeker</i> and <i>David Ferber</i> for petitioner.</p>\n<p><i>Samuel M. Coombs, Jr., Nathan Ravin</i> and <i>George Furst</i> for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the Court of Appeals is vacated and the case is remanded to the District Court with instructions to dismiss the petition as moot.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T11:56:26.390575", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "2be824665e002c81a97f1f8c1a9bfa64b4091998", 
+  "date_modified": "2014-12-21T08:05:54.774610", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620786/securities-and-exchange-commission-v-lea-fabrics-i/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2582396/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620786/"
+}

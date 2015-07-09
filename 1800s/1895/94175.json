@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/94175/hyde-v-continental-trust-co/", "blocked": false, "citation": {"case_name": "Hyde v. Continental Trust Co.", "docket_number": "894", "document_uris": ["/api/rest/v2/document/94175/"], "federal_cite_one": "157 U.S. 654", "federal_cite_three": null, "federal_cite_two": null, "id": 78556, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/78556/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1895-04-08", "date_modified": "2014-12-21T01:32:12.074742", "docket": "/api/rest/v2/docket/2519489/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">157 U.S. 654</p>\n    <p class=\"case_cite\">15 S.Ct. 717</p>\n    <p class=\"case_cite\">39 L.Ed. 845</p>\n    <p class=\"parties\">HYDE<br>v.<br>CONTINENTAL TRUST CO. OF CITY OF NEW YORK et al.</p>\n    <p class=\"docket\">No. 894.</p>\n    <p class=\"date\">April 8, 1895.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Jos. H. Choate, C. A. Seward, B. H. Bristow, Wm. D. Gurtrie, David Willcox, Charles Steele,</i> and <i>Charles F. Southmayd,</i> for appellant.</p>\n      <p class=\"indent\"><i>Hyde. Herbert B. Turner,</i> for appellee Farmers Loan &amp; Trust Co.</p>\n      <p class=\"indent\"><i>James C. Carter, Wm. C. Gulliner,</i> and <i>F. B. Candler,</i> for appellee Continental Trust Co.</p>\n      <p class=\"indent\"><i>Atty. Gen. Olney</i> and <i>Asst. Atty. Gen. Whitney,</i> for the United States.</p>\n      <p class=\"indent\">Mr. Chief Justice FULLER.</p>\n      <p class=\"indent\">This case differs in no assential respect from that just decided (Pollock v. Trust Co., 15 Sup. Ct. 673), and must be disposed of in the same way.</p>\n      <p class=\"indent\">Decree accordingly.</p>\n      <p class=\"indent\">Mr. Justice WHITE.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For the reasons given in case No. 893 (Pollock v. Trust Co., 15 Sup Ct. 673), I dissent from the decree in this cause.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Note. The opinion rendered by Mr. Justice Field in the case of Pollock v. Trust Co., 15 Sup. Ct. 673, was entitled also in the above case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>157 U.S. 654 (____)</b></center>\n<center><h1>HYDE<br>\nv.<br>\nCONTINENTAL TRUST COMPANY.</h1></center>\n<center>No. 894.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\nAppeal from the Circuit Court of the United States for the Southern District of New York.\n<p>THE CHIEF JUSTICE:</p>\n<p>This case differs in no essential respect from that just decided, and must be disposed of in the same way.</p>\n<p>Decree accordingly.</p>\n<p>The opinion of MR. JUSTICE FIELD was entitled in this case as well as in Pollock v. Farmers' Loan &amp; Trust Company.</p>\n<p>MR. JUSTICE WHITE and MR. JUSTICE HARLAN dissented from the decree in this case for the reasons given in their dissenting opinions in Pollock v. Farmers' Loan and Trust Company.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">157</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">654</span></span> (____)</b></center>\n<center><h1>HYDE<br>\nv.<br>\nCONTINENTAL TRUST COMPANY.</h1></center>\n<center>No. 894.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\nAppeal from the Circuit Court of the United States for the Southern District of New York.\n<p>THE CHIEF JUSTICE:</p>\n<p>This case differs in no essential respect from that just decided, and must be disposed of in the same way.</p>\n<p>Decree accordingly.</p>\n<p>The opinion of MR. JUSTICE FIELD was entitled in this case as well as in Pollock v. Farmers' Loan &amp; Trust Company.</p>\n<p>MR. JUSTICE WHITE and MR. JUSTICE HARLAN dissented from the decree in this case for the reasons given in their dissenting opinions in Pollock v. Farmers' Loan and Trust Company.</p>\n</div>", "id": 94175, "judges": "The Chief Justice:", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/94175/", "sha1": "e2b41739d1f1c9bd5eeaa508fe33069ba094510c", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:22:02"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "157 U.S. 654", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/94175/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hyde v. Continental Trust Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "894", 
+    "id": 78556, 
+    "resource_uri": "/api/rest/v2/citation/78556/"
+  }, 
+  "id": 94175, 
+  "blocked": false, 
+  "judges": "The Chief Justice:", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1895-04-08", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>157 U.S. 654 (____)</b></center>\n<center><h1>HYDE<br>\nv.<br>\nCONTINENTAL TRUST COMPANY.</h1></center>\n<center>No. 894.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\nAppeal from the Circuit Court of the United States for the Southern District of New York.\n<p>THE CHIEF JUSTICE:</p>\n<p>This case differs in no essential respect from that just decided, and must be disposed of in the same way.</p>\n<p>Decree accordingly.</p>\n<p>The opinion of MR. JUSTICE FIELD was entitled in this case as well as in Pollock v. Farmers' Loan &amp; Trust Company.</p>\n<p>MR. JUSTICE WHITE and MR. JUSTICE HARLAN dissented from the decree in this case for the reasons given in their dissenting opinions in Pollock v. Farmers' Loan and Trust Company.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:22:02", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">157</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">654</span></span> (____)</b></center>\n<center><h1>HYDE<br>\nv.<br>\nCONTINENTAL TRUST COMPANY.</h1></center>\n<center>No. 894.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\nAppeal from the Circuit Court of the United States for the Southern District of New York.\n<p>THE CHIEF JUSTICE:</p>\n<p>This case differs in no essential respect from that just decided, and must be disposed of in the same way.</p>\n<p>Decree accordingly.</p>\n<p>The opinion of MR. JUSTICE FIELD was entitled in this case as well as in Pollock v. Farmers' Loan &amp; Trust Company.</p>\n<p>MR. JUSTICE WHITE and MR. JUSTICE HARLAN dissented from the decree in this case for the reasons given in their dissenting opinions in Pollock v. Farmers' Loan and Trust Company.</p>\n</div>", 
+  "sha1": "e2b41739d1f1c9bd5eeaa508fe33069ba094510c", 
+  "date_modified": "2014-12-21T01:32:12.074742", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/94175/hyde-v-continental-trust-co/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2519489/", 
+  "html": "<p class=\"case_cite\">157 U.S. 654</p>\n    <p class=\"case_cite\">15 S.Ct. 717</p>\n    <p class=\"case_cite\">39 L.Ed. 845</p>\n    <p class=\"parties\">HYDE<br>v.<br>CONTINENTAL TRUST CO. OF CITY OF NEW YORK et al.</p>\n    <p class=\"docket\">No. 894.</p>\n    <p class=\"date\">April 8, 1895.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Jos. H. Choate, C. A. Seward, B. H. Bristow, Wm. D. Gurtrie, David Willcox, Charles Steele,</i> and <i>Charles F. Southmayd,</i> for appellant.</p>\n      <p class=\"indent\"><i>Hyde. Herbert B. Turner,</i> for appellee Farmers Loan &amp; Trust Co.</p>\n      <p class=\"indent\"><i>James C. Carter, Wm. C. Gulliner,</i> and <i>F. B. Candler,</i> for appellee Continental Trust Co.</p>\n      <p class=\"indent\"><i>Atty. Gen. Olney</i> and <i>Asst. Atty. Gen. Whitney,</i> for the United States.</p>\n      <p class=\"indent\">Mr. Chief Justice FULLER.</p>\n      <p class=\"indent\">This case differs in no assential respect from that just decided (Pollock v. Trust Co., 15 Sup. Ct. 673), and must be disposed of in the same way.</p>\n      <p class=\"indent\">Decree accordingly.</p>\n      <p class=\"indent\">Mr. Justice WHITE.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For the reasons given in case No. 893 (Pollock v. Trust Co., 15 Sup Ct. 673), I dissent from the decree in this cause.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Note. The opinion rendered by Mr. Justice Field in the case of Pollock v. Trust Co., 15 Sup. Ct. 673, was entitled also in the above case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/94175/"
+}

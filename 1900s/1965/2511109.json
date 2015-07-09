@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2511109/watson-v-missouri/", "blocked": false, "citation": {"case_name": "Watson v. Missouri", "docket_number": "1031, Misc", "document_uris": ["/api/rest/v2/document/2511109/"], "federal_cite_one": "381 U.S. 275", "federal_cite_three": null, "federal_cite_two": null, "id": 2483881, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2483881/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-05-17", "date_modified": "2014-10-30T16:44:10.467790", "docket": "/api/rest/v2/docket/2378118/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>381 U.S. 275 (1965)</b></center>\n<center><h1>WATSON<br>\nv.<br>\nMISSOURI.</h1></center>\n<center>No. 1031, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 17, 1965.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSOURI.\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 2511109, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2511109/", "sha1": "b614238e8cad463f9c82d601ed936a5ad6ad7a1c", "source": "L", "time_retrieved": "2013-10-30T03:03:01.768460"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "381 U.S. 275", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2511109/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Watson v. Missouri", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1031, Misc", 
+    "id": 2483881, 
+    "resource_uri": "/api/rest/v2/citation/2483881/"
+  }, 
+  "id": 2511109, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-05-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>381 U.S. 275 (1965)</b></center>\n<center><h1>WATSON<br>\nv.<br>\nMISSOURI.</h1></center>\n<center>No. 1031, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 17, 1965.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSOURI.\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:03:01.768460", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "b614238e8cad463f9c82d601ed936a5ad6ad7a1c", 
+  "date_modified": "2014-10-30T16:44:10.467790", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2511109/watson-v-missouri/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2378118/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2511109/"
+}

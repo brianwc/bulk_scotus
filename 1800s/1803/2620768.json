@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620768/abercrombie-v-dupuis/", "blocked": false, "citation": {"case_name": "Abercrombie v. Dupuis", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620768/"], "federal_cite_one": "5 U.S. 342", "federal_cite_three": null, "federal_cite_two": null, "id": 2593540, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593540/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1803-02-28", "date_modified": "2014-10-30T17:40:13.382054", "docket": "/api/rest/v2/docket/2549872/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>5 U.S. 342 (____)</b></center>\n<center><b>1 Cranch 342</b></center>\n<center><h1>ABERCROMBIE<br>\nv.<br>\nDUPUIS AND ANOTHER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*343</span> The Chief Justice said, he did not know how his opinion might be if the question were a new one.</p>\n</div>", "html_with_citations": "", "id": 2620768, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620768/", "sha1": "8dea0d16d1f1a1a0f011b714d1b106d202fd0291", "source": "L", "time_retrieved": "2013-11-01T11:53:05.648925"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "5 U.S. 342", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620768/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Abercrombie v. Dupuis", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593540, 
+    "resource_uri": "/api/rest/v2/citation/2593540/"
+  }, 
+  "id": 2620768, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1803-02-28", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>5 U.S. 342 (____)</b></center>\n<center><b>1 Cranch 342</b></center>\n<center><h1>ABERCROMBIE<br>\nv.<br>\nDUPUIS AND ANOTHER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*343</span> The Chief Justice said, he did not know how his opinion might be if the question were a new one.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T11:53:05.648925", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "8dea0d16d1f1a1a0f011b714d1b106d202fd0291", 
+  "date_modified": "2014-10-30T17:40:13.382054", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620768/abercrombie-v-dupuis/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2549872/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620768/"
+}

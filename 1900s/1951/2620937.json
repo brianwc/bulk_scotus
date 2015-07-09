@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620937/ex-parte-cogdell/", "blocked": false, "citation": {"case_name": "Ex Parte Cogdell.", "docket_number": "71, Misc", "document_uris": ["/api/rest/v2/document/2620937/"], "federal_cite_one": "342 U.S. 163", "federal_cite_three": null, "federal_cite_two": null, "id": 2593709, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593709/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1951-12-11", "date_modified": "2014-10-29T23:09:36.781368", "docket": "/api/rest/v2/docket/44476/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>342 U.S. 163 (1951)</b></center>\n<center><h1>EX PARTE COGDELL ET AL.</h1></center>\n<center>No. 71, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Continued December 11, 1951.</center>\nPETITION FOR WRIT OF MANDAMUS.\n<p><i>George E. C. Hayes, James M. Nabrit, Jr.</i> and <i>George M. Johnson</i> for petitioners.</p>\n<p><i>Vernon E. West, Chester H. Gray</i> and <i>Milton D. Korman</i> for McGuire et al., respondents.</p>\n<p>PER CURIAM.</p>\n<p>Petitioners brought suit in the District Court for the District of Columbia to restrain on constitutional grounds the enforcement of certain legislation passed by Congress for the administration of the District of Columbia school system. Petitioners' request that a court of three judges be convened under Section 2282 of the Judicial Code<sup>[1]</sup> was denied. Subsequently, the motion of defendant school <span class=\"star-pagination\">*164</span> officials to dismiss the suit for failure to state a cause of action was granted.</p>\n<p>Petitioners filed a motion in this Court for leave to file a petition for a writ of mandamus directing that a court of three judges be convened to hear and determine their constitutional claims. As substantial jurisdictional questions were raised, we granted the motion and issued a rule to show cause why mandamus should not be granted. 342 U. S. 805. In addition to this mandamus action, appeals were taken by petitioners to the Court of Appeals for the District of Columbia Circuit and are now pending in that court.</p>\n<p>One of the jurisdictional questions raised by this case is whether a court of three judges is required by Section 2282 in a suit to enjoin enforcement of congressional enactments affecting only the District of Columbia. The Section uses the words \"any Act of Congress.\" As against petitioners' contention that all legislation passed by Congress is embraced within that language, it is urged that a proper interpretation of Section 2282 confines the phrase \"Act of Congress\" to laws having general application throughout the United States. Resolution of this issue determines whether this Court has exclusive appellate jurisdiction in this class of case,<sup>[2]</sup> or whether the Court of Appeals has jurisdiction. As a result, the same question is necessarily before the Court of Appeals for the District of Columbia Circuit in its consideration of petitioners' appeals now pending in that court.<sup>[3]</sup> Because the question is one of general importance to judicial administration within the District of Columbia, we continue this case on our docket to await the views of the Court of Appeals.</p>\n<p><i>Cause continued.</i></p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n<h2>NOTES</h2>\n<p>[1]  28 U. S. C. (Supp. IV) § 2282:\n</p>\n<p>\"An interlocutory or permanent injunction restraining the enforcement, operation or execution of any Act of Congress for repugnance to the Constitution of the United States shall not be granted by any district court or judge thereof unless the application therefor is heard and determined by a district court of three judges under section 2284 of this title.\"</p>\n<p>[2]  28 U. S. C. (Supp. IV) § 1253.</p>\n<p>[3]  <i>Stratton</i> v. <i>St. Louis Southwestern R. Co.,</i> 282 U. S. 10 (1930).</p>\n\n</div>", "html_with_citations": "", "id": 2620937, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620937/", "sha1": "a6840704360e86e0310eb31937480c3559df0c00", "source": "L", "time_retrieved": "2013-11-01T13:05:32.847682"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "342 U.S. 163", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620937/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ex Parte Cogdell.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "71, Misc", 
+    "id": 2593709, 
+    "resource_uri": "/api/rest/v2/citation/2593709/"
+  }, 
+  "id": 2620937, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1951-12-11", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>342 U.S. 163 (1951)</b></center>\n<center><h1>EX PARTE COGDELL ET AL.</h1></center>\n<center>No. 71, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Continued December 11, 1951.</center>\nPETITION FOR WRIT OF MANDAMUS.\n<p><i>George E. C. Hayes, James M. Nabrit, Jr.</i> and <i>George M. Johnson</i> for petitioners.</p>\n<p><i>Vernon E. West, Chester H. Gray</i> and <i>Milton D. Korman</i> for McGuire et al., respondents.</p>\n<p>PER CURIAM.</p>\n<p>Petitioners brought suit in the District Court for the District of Columbia to restrain on constitutional grounds the enforcement of certain legislation passed by Congress for the administration of the District of Columbia school system. Petitioners' request that a court of three judges be convened under Section 2282 of the Judicial Code<sup>[1]</sup> was denied. Subsequently, the motion of defendant school <span class=\"star-pagination\">*164</span> officials to dismiss the suit for failure to state a cause of action was granted.</p>\n<p>Petitioners filed a motion in this Court for leave to file a petition for a writ of mandamus directing that a court of three judges be convened to hear and determine their constitutional claims. As substantial jurisdictional questions were raised, we granted the motion and issued a rule to show cause why mandamus should not be granted. 342 U. S. 805. In addition to this mandamus action, appeals were taken by petitioners to the Court of Appeals for the District of Columbia Circuit and are now pending in that court.</p>\n<p>One of the jurisdictional questions raised by this case is whether a court of three judges is required by Section 2282 in a suit to enjoin enforcement of congressional enactments affecting only the District of Columbia. The Section uses the words \"any Act of Congress.\" As against petitioners' contention that all legislation passed by Congress is embraced within that language, it is urged that a proper interpretation of Section 2282 confines the phrase \"Act of Congress\" to laws having general application throughout the United States. Resolution of this issue determines whether this Court has exclusive appellate jurisdiction in this class of case,<sup>[2]</sup> or whether the Court of Appeals has jurisdiction. As a result, the same question is necessarily before the Court of Appeals for the District of Columbia Circuit in its consideration of petitioners' appeals now pending in that court.<sup>[3]</sup> Because the question is one of general importance to judicial administration within the District of Columbia, we continue this case on our docket to await the views of the Court of Appeals.</p>\n<p><i>Cause continued.</i></p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n<h2>NOTES</h2>\n<p>[1]  28 U. S. C. (Supp. IV) \u00a7 2282:\n</p>\n<p>\"An interlocutory or permanent injunction restraining the enforcement, operation or execution of any Act of Congress for repugnance to the Constitution of the United States shall not be granted by any district court or judge thereof unless the application therefor is heard and determined by a district court of three judges under section 2284 of this title.\"</p>\n<p>[2]  28 U. S. C. (Supp. IV) \u00a7 1253.</p>\n<p>[3]  <i>Stratton</i> v. <i>St. Louis Southwestern R. Co.,</i> 282 U. S. 10 (1930).</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T13:05:32.847682", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a6840704360e86e0310eb31937480c3559df0c00", 
+  "date_modified": "2014-10-29T23:09:36.781368", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620937/ex-parte-cogdell/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/44476/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620937/"
+}

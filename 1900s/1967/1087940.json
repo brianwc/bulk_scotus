@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087940/patterson-v-city-of-newport-news/", "blocked": false, "citation": {"case_name": "Patterson v. City of Newport News", "docket_number": "820", "document_uris": ["/api/rest/v2/document/1087940/"], "federal_cite_one": "385 U.S. 650", "federal_cite_three": null, "federal_cite_two": null, "id": 1060711, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060711/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-01-23", "date_modified": "2014-10-30T02:31:49.114205", "docket": "/api/rest/v2/docket/443234/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>385 U.S. 650 (1967)</b></center>\n<center><h1>PATTERSON ET AL.<br>\nv.<br>\nCITY OF NEWPORT NEWS ET AL.</h1></center>\n<center>No. 820.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 23, 1967.</center>\nAPPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The motion to dispense with printing the statement as to jurisdiction is granted. The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1087940, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087940/", "sha1": "d1f1c9af30a7751377b3b89bb6b510bc21d06d77", "source": "L", "time_retrieved": "2013-10-29T20:04:10.661944"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "385 U.S. 650", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087940/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Patterson v. City of Newport News", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "820", 
+    "id": 1060711, 
+    "resource_uri": "/api/rest/v2/citation/1060711/"
+  }, 
+  "id": 1087940, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-01-23", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>385 U.S. 650 (1967)</b></center>\n<center><h1>PATTERSON ET AL.<br>\nv.<br>\nCITY OF NEWPORT NEWS ET AL.</h1></center>\n<center>No. 820.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 23, 1967.</center>\nAPPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The motion to dispense with printing the statement as to jurisdiction is granted. The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:04:10.661944", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d1f1c9af30a7751377b3b89bb6b510bc21d06d77", 
+  "date_modified": "2014-10-30T02:31:49.114205", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087940/patterson-v-city-of-newport-news/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/443234/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087940/"
+}

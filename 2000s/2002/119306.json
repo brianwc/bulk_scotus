@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/119306/ponzo-v-leftridge-byrd-superintendent-state/", "blocked": false, "citation": {"case_name": "Ponzo v. Leftridge Byrd, Superintendent, State Correctional Institution at Chester", "docket_number": "01-7973", "document_uris": ["/api/rest/v2/document/119306/"], "federal_cite_one": "535 U.S. 973", "federal_cite_three": null, "federal_cite_two": null, "id": 103659, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/103659/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-04-01", "date_modified": "2014-12-21T02:16:57.567093", "docket": "/api/rest/v2/docket/1450990/", "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.973.01-7973.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">535 U.S. 973</p>\n    <p class=\"parties\">PONZO<br><i>v.</i><br>LEFTRIDGE BYRD, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CHESTER.</p>\n    <p class=\"docket\">No. 01-7973.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 1, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">973</span></span></p>\n    <p class=\"parties\">PONZO<br><i>v.</i><br>LEFTRIDGE BYRD, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CHESTER.</p>\n    <p class=\"docket\">No. 01-7973.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 1, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 119306, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/119306/", "sha1": "5c6de35298e69e9fb7582a5e9c6fe85859b73ee2", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "535 U.S. 973", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/119306/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ponzo v. Leftridge Byrd, Superintendent, State Correctional Institution at Chester", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-7973", 
+    "id": 103659, 
+    "resource_uri": "/api/rest/v2/citation/103659/"
+  }, 
+  "id": 119306, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-04-01", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/535/535.US.973.01-7973.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">535</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">973</span></span></p>\n    <p class=\"parties\">PONZO<br><i>v.</i><br>LEFTRIDGE BYRD, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CHESTER.</p>\n    <p class=\"docket\">No. 01-7973.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 1, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "5c6de35298e69e9fb7582a5e9c6fe85859b73ee2", 
+  "date_modified": "2014-12-21T02:16:57.567093", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/119306/ponzo-v-leftridge-byrd-superintendent-state/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1450990/", 
+  "html": "<p class=\"case_cite\">535 U.S. 973</p>\n    <p class=\"parties\">PONZO<br><i>v.</i><br>LEFTRIDGE BYRD, SUPERINTENDENT, STATE CORRECTIONAL INSTITUTION AT CHESTER.</p>\n    <p class=\"docket\">No. 01-7973.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 1, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 3d Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/119306/"
+}

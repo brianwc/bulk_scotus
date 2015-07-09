@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1379962/robert-arthur-managment-corp-v-tennessee-ex-rel-ca/", "blocked": false, "citation": {"case_name": "Robert-Arthur Managment Corp. v. Tennessee Ex Rel. Canale", "docket_number": "679", "document_uris": ["/api/rest/v2/document/1379962/"], "federal_cite_one": "389 U.S. 578", "federal_cite_three": "19 L. Ed. 2d 777", "federal_cite_two": "88 S. Ct. 691", "id": 1352733, "lexis_cite": "1968 U.S. LEXIS 2732", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1352733/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-01-15", "date_modified": "2014-12-19T17:57:10.122731", "docket": "/api/rest/v2/docket/1598812/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>389 U.S. 578 (1968)</b></center>\n<center><h1>ROBERT-ARTHUR MANAGEMENT CORP.<br>\nv.<br>\nTENNESSEE EX REL. CANALE, DISTRICT ATTORNEY GENERAL.</h1></center>\n<center>No. 679.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE SUPREME COURT OF TENNESSEE.\n<p><i>Longstreet Heiskell</i> for appellant.</p>\n<p><i>George F. McCanless,</i> Attorney General of Tennessee, and <i>Thomas E. Fox,</i> Deputy Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Supreme Court of Tennessee is reversed. <i>Redrup</i> v. <i>New York,</i> 386 U. S. 767.</p>\n<p>THE CHIEF JUSTICE would affirm.</p>\n<p>MR. JUSTICE HARLAN would affirm for the reasons set forth in his separate opinion in <i>Roth</i> v. <i>United States,</i> 354 U. S. 476, 496, 500-503, and in his dissenting opinion in <i>Memoirs</i> v. <i>Massachusetts,</i> 383 U. S. 413, 455.</p>\n</div>", "html_with_citations": "", "id": 1379962, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1379962/", "sha1": "d25dd0394ee713511fad47593a9122f6a759d6dc", "source": "L", "supreme_court_db_id": "1967-057", "time_retrieved": "2013-10-29T22:52:31.311596"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 578", 
+    "federal_cite_two": "88 S. Ct. 691", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "19 L. Ed. 2d 777", 
+    "lexis_cite": "1968 U.S. LEXIS 2732", 
+    "document_uris": [
+      "/api/rest/v2/document/1379962/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Robert-Arthur Managment Corp. v. Tennessee Ex Rel. Canale", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "679", 
+    "id": 1352733, 
+    "resource_uri": "/api/rest/v2/citation/1352733/"
+  }, 
+  "id": 1379962, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-01-15", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 578 (1968)</b></center>\n<center><h1>ROBERT-ARTHUR MANAGEMENT CORP.<br>\nv.<br>\nTENNESSEE EX REL. CANALE, DISTRICT ATTORNEY GENERAL.</h1></center>\n<center>No. 679.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE SUPREME COURT OF TENNESSEE.\n<p><i>Longstreet Heiskell</i> for appellant.</p>\n<p><i>George F. McCanless,</i> Attorney General of Tennessee, and <i>Thomas E. Fox,</i> Deputy Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Supreme Court of Tennessee is reversed. <i>Redrup</i> v. <i>New York,</i> 386 U. S. 767.</p>\n<p>THE CHIEF JUSTICE would affirm.</p>\n<p>MR. JUSTICE HARLAN would affirm for the reasons set forth in his separate opinion in <i>Roth</i> v. <i>United States,</i> 354 U. S. 476, 496, 500-503, and in his dissenting opinion in <i>Memoirs</i> v. <i>Massachusetts,</i> 383 U. S. 413, 455.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:52:31.311596", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d25dd0394ee713511fad47593a9122f6a759d6dc", 
+  "date_modified": "2014-12-19T17:57:10.122731", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1379962/robert-arthur-managment-corp-v-tennessee-ex-rel-ca/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": "1967-057", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1598812/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1379962/"
+}

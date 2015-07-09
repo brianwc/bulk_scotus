@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/145945/joseph-v-united-states/", "blocked": false, "citation": {"case_name": "Joseph v. United States", "docket_number": "06-5590", "document_uris": ["/api/rest/v2/document/145945/"], "federal_cite_one": "", "federal_cite_three": null, "federal_cite_two": null, "id": 130268, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/130268/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-01-16", "date_modified": "2014-12-21T02:24:56.259418", "docket": "/api/rest/v2/docket/479881/", "download_url": "http://www.supremecourt.gov/opinions/06pdf/06-5590.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "<pre class=\"inline\">                  Cite as: 549 U. S. ____ (2007)            1\n\n                    Statement of STEVENS, J.\n\nSUPREME COURT OF THE UNITED STATES\n         RONNIE JOSEPH v. UNITED STATES\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n    STATES COURT OF APPEALS FOR THE THIRD CIRCUIT\n\n             No. 06–5590. Decided January 16, 2007\n\n\n  The petition for a writ of certiorari is denied.\n  Statement of JUSTICE STEVENS respecting the denial of\nthe petition for writ of certiorari.\n  In Dickerson v. United States, 530 U. S. 428 (2000), we\nheld that the first sentence of 18 U. S. C. §3501(a) is un\nconstitutional. In this case the Court of Appeals affirmed\nthe District Court’s rejection of the petitioner’s request for\nan instruction relating to the voluntariness of her confes\nsion—an instruction that the third sentence of §3501(a)\nrequires. The Court of Appeals reasoned that Dickerson\nhad invalidated all of §3501 and not just the first sen\ntence. As the Solicitor General concedes, that holding was\nerroneous. While I am persuaded that the arguably harm\nless character of the trial judge’s error provides a proper\nreason for denying the petition for certiorari, I think it\nimportant to note that our denial does not endorse the\nincorrect reasoning in the opinion of the Court of Appeals.\n</pre>", "id": 145945, "judges": "", "local_path": "pdf/2007/01/16/Joseph_v._United_States.pdf", "nature_of_suit": "", "plain_text": "                  Cite as: 549 U. S. ____ (2007)            1\n\n                    Statement of STEVENS, J.\n\nSUPREME COURT OF THE UNITED STATES\n         RONNIE JOSEPH v. UNITED STATES\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n    STATES COURT OF APPEALS FOR THE THIRD CIRCUIT\n\n             No. 06–5590. Decided January 16, 2007\n\n\n  The petition for a writ of certiorari is denied.\n  Statement of JUSTICE STEVENS respecting the denial of\nthe petition for writ of certiorari.\n  In Dickerson v. United States, 530 U. S. 428 (2000), we\nheld that the first sentence of 18 U. S. C. §3501(a) is un\nconstitutional. In this case the Court of Appeals affirmed\nthe District Court’s rejection of the petitioner’s request for\nan instruction relating to the voluntariness of her confes\nsion—an instruction that the third sentence of §3501(a)\nrequires. The Court of Appeals reasoned that Dickerson\nhad invalidated all of §3501 and not just the first sen\ntence. As the Solicitor General concedes, that holding was\nerroneous. While I am persuaded that the arguably harm\nless character of the trial judge’s error provides a proper\nreason for denying the petition for certiorari, I think it\nimportant to note that our denial does not endorse the\nincorrect reasoning in the opinion of the Court of Appeals.\n", "precedential_status": "Relating-to", "resource_uri": "/api/rest/v2/document/145945/", "sha1": "17eb8c0ebf6f9a61781a66527112f9255aa50eb1", "source": "C", "supreme_court_db_id": null, "time_retrieved": "2010-05-05T17:09:47"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/145945/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Joseph v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-5590", 
+    "id": 130268, 
+    "resource_uri": "/api/rest/v2/citation/130268/"
+  }, 
+  "id": 145945, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-01-16", 
+  "download_url": "http://www.supremecourt.gov/opinions/06pdf/06-5590.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2007/01/16/Joseph_v._United_States.pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-05-05T17:09:47", 
+  "nature_of_suit": "", 
+  "plain_text": "                  Cite as: 549 U. S. ____ (2007)            1\n\n                    Statement of STEVENS, J.\n\nSUPREME COURT OF THE UNITED STATES\n         RONNIE JOSEPH v. UNITED STATES\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n    STATES COURT OF APPEALS FOR THE THIRD CIRCUIT\n\n             No. 06\u20135590. Decided January 16, 2007\n\n\n  The petition for a writ of certiorari is denied.\n  Statement of JUSTICE STEVENS respecting the denial of\nthe petition for writ of certiorari.\n  In Dickerson v. United States, 530 U. S. 428 (2000), we\nheld that the first sentence of 18 U. S. C. \u00a73501(a) is un\nconstitutional. In this case the Court of Appeals affirmed\nthe District Court\u2019s rejection of the petitioner\u2019s request for\nan instruction relating to the voluntariness of her confes\nsion\u2014an instruction that the third sentence of \u00a73501(a)\nrequires. The Court of Appeals reasoned that Dickerson\nhad invalidated all of \u00a73501 and not just the first sen\ntence. As the Solicitor General concedes, that holding was\nerroneous. While I am persuaded that the arguably harm\nless character of the trial judge\u2019s error provides a proper\nreason for denying the petition for certiorari, I think it\nimportant to note that our denial does not endorse the\nincorrect reasoning in the opinion of the Court of Appeals.\n", 
+  "html_with_citations": "<pre class=\"inline\">                  Cite as: 549 U. S. ____ (2007)            1\n\n                    Statement of STEVENS, J.\n\nSUPREME COURT OF THE UNITED STATES\n         RONNIE JOSEPH v. UNITED STATES\n   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED \n\n    STATES COURT OF APPEALS FOR THE THIRD CIRCUIT\n\n             No. 06\u20135590. Decided January 16, 2007\n\n\n  The petition for a writ of certiorari is denied.\n  Statement of JUSTICE STEVENS respecting the denial of\nthe petition for writ of certiorari.\n  In Dickerson v. United States, 530 U. S. 428 (2000), we\nheld that the first sentence of 18 U. S. C. \u00a73501(a) is un\nconstitutional. In this case the Court of Appeals affirmed\nthe District Court\u2019s rejection of the petitioner\u2019s request for\nan instruction relating to the voluntariness of her confes\nsion\u2014an instruction that the third sentence of \u00a73501(a)\nrequires. The Court of Appeals reasoned that Dickerson\nhad invalidated all of \u00a73501 and not just the first sen\ntence. As the Solicitor General concedes, that holding was\nerroneous. While I am persuaded that the arguably harm\nless character of the trial judge\u2019s error provides a proper\nreason for denying the petition for certiorari, I think it\nimportant to note that our denial does not endorse the\nincorrect reasoning in the opinion of the Court of Appeals.\n</pre>", 
+  "sha1": "17eb8c0ebf6f9a61781a66527112f9255aa50eb1", 
+  "date_modified": "2014-12-21T02:24:56.259418", 
+  "precedential_status": "Relating-to", 
+  "absolute_url": "/opinion/145945/joseph-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/479881/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/145945/"
+}

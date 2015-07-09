@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1291395/catalona-v-washington-university/", "blocked": false, "citation": {"case_name": "Catalona v. Washington University", "docket_number": "07-525", "document_uris": ["/api/rest/v2/document/1291395/"], "federal_cite_one": "128 S. Ct. 1122", "federal_cite_three": null, "federal_cite_two": null, "id": 1264166, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1264166/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2008-01-22", "date_modified": "2014-10-30T05:07:27.026524", "docket": "/api/rest/v2/docket/764907/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>(2008)</b></center>\n<center><h1>WILLIAM J. CATALONA, ET AL.<br>\nv.<br>\nWASHINGTON UNIVERSITY</h1></center>\n<center>No. 07-525</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>January 22, 2008.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1291395, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1291395/", "sha1": "bef4046c85a45117767496cde6d3463648333102", "source": "L", "time_retrieved": "2013-10-29T22:22:15.968609"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "128 S. Ct. 1122", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1291395/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Catalona v. Washington University", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "07-525", 
+    "id": 1264166, 
+    "resource_uri": "/api/rest/v2/citation/1264166/"
+  }, 
+  "id": 1291395, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2008-01-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>(2008)</b></center>\n<center><h1>WILLIAM J. CATALONA, ET AL.<br>\nv.<br>\nWASHINGTON UNIVERSITY</h1></center>\n<center>No. 07-525</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>January 22, 2008.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:22:15.968609", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bef4046c85a45117767496cde6d3463648333102", 
+  "date_modified": "2014-10-30T05:07:27.026524", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1291395/catalona-v-washington-university/", 
+  "citation_count": 5, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/764907/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1291395/"
+}

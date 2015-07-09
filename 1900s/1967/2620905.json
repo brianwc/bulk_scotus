@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620905/laverne-v-laurel-hollow/", "blocked": false, "citation": {"case_name": "Laverne v. Laurel Hollow", "docket_number": "984", "document_uris": ["/api/rest/v2/document/2620905/"], "federal_cite_one": "386 U.S. 682", "federal_cite_three": null, "federal_cite_two": null, "id": 2593677, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593677/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-04-17", "date_modified": "2014-10-30T02:56:51.782104", "docket": "/api/rest/v2/docket/494229/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>386 U.S. 682 (1967)</b></center>\n<center><h1>LAVERNE ET AL.<br>\nv.<br>\nINCORPORATED VILLAGE OF LAUREL HOLLOW ET AL.</h1></center>\n<center>No. 984.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 17, 1967.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Monroe H. Freedman</i> for appellants.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for the reason that the judgment sought to be reviewed rests upon an adequate state ground.</p>\n</div>", "html_with_citations": "", "id": 2620905, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620905/", "sha1": "2f29eacfe6d0117f2012aefc06f354f45e7466e6", "source": "L", "time_retrieved": "2013-11-01T13:02:12.468933"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "386 U.S. 682", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620905/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Laverne v. Laurel Hollow", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "984", 
+    "id": 2593677, 
+    "resource_uri": "/api/rest/v2/citation/2593677/"
+  }, 
+  "id": 2620905, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-04-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>386 U.S. 682 (1967)</b></center>\n<center><h1>LAVERNE ET AL.<br>\nv.<br>\nINCORPORATED VILLAGE OF LAUREL HOLLOW ET AL.</h1></center>\n<center>No. 984.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 17, 1967.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Monroe H. Freedman</i> for appellants.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for the reason that the judgment sought to be reviewed rests upon an adequate state ground.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:02:12.468933", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "2f29eacfe6d0117f2012aefc06f354f45e7466e6", 
+  "date_modified": "2014-10-30T02:56:51.782104", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620905/laverne-v-laurel-hollow/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/494229/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620905/"
+}

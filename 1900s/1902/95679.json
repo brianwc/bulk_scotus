@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/95679/gallaway-v-fort-worth-bank/", "blocked": false, "citation": {"case_name": "Gallaway v. Fort Worth Bank", "docket_number": "3r", "document_uris": ["/api/rest/v2/document/95679/"], "federal_cite_one": "186 U.S. 177", "federal_cite_three": null, "federal_cite_two": null, "id": 80060, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/80060/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1902-06-02", "date_modified": "2014-12-21T01:33:47.303081", "docket": "/api/rest/v2/docket/1128523/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">186 U.S. 177</p>\n    <p class=\"case_cite\">22 S.Ct. 811</p>\n    <p class=\"case_cite\">46 L.Ed. 1111</p>\n    <p class=\"parties\">A. GALLAWAY <i>et al.</i><br>v.<br>STATE NATIONAL BANK OF FORT WORTH TEXAS.</p>\n    <p class=\"docket\">No. 3r.</p>\n    <p class=\"date\">Submitted May 19, 1902.</p>\n    <p class=\"date\">Decided June 2, 1902.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p><i>Mr. A. Gallaway</i> in <i>propria persona</i> for motion.</p>\n    </div>\n    <p class=\"indent\">THE CHIEF JUSTICE:</p>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">This is an application for leave to prosecute a writ of error to a state court, without giving security as required by &#167; 1000 of the Revised Statutes, under an act of Congress of July 20, 1892. 27 Stat. at L. 252, chap. 209.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion must be denied. Our ruling has uniformly been, and has been enforced in repeated instances, that that act has no application to proceedings in this court.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\"><i>Motion denied</i>.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>186 U.S. 177 (1902)</b></center>\n<center><h1>GALLAWAY<br>\nv.<br>\nFORT WORTH BANK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted May 19, 1902.</center>\n<center>Decided June 2, 1902.</center>\nMOTION TO SUE OUT WRIT OF ERROR, WITHOUT GIVING BOND REQUIRED BY LAW.\n<p><i>Mr. A. Gallaway</i> in <i>propria persona.</i></p>\n<p>No appearance opposing.</p>\n<p>THE CHIEF JUSTICE. This is an application for leave to prosecute a writ of error to a state court, without giving security <span class=\"star-pagination\">*178</span> as required by section 1000 of the Revised Statutes, under an act of Congress of July 20, 1892. 27 Stat. 252.</p>\n<p>The motion must be denied. Our ruling has uniformly been, and has been enforced in repeated instances that that act has no application to proceedings in this court.</p>\n<p><i>Motion denied.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">186</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">177</span></span> (1902)</b></center>\n<center><h1>GALLAWAY<br>\nv.<br>\nFORT WORTH BANK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted May 19, 1902.</center>\n<center>Decided June 2, 1902.</center>\nMOTION TO SUE OUT WRIT OF ERROR, WITHOUT GIVING BOND REQUIRED BY LAW.\n<p><i>Mr. A. Gallaway</i> in <i>propria persona.</i></p>\n<p>No appearance opposing.</p>\n<p>THE CHIEF JUSTICE. This is an application for leave to prosecute a writ of error to a state court, without giving security <span class=\"star-pagination\">*178</span> as required by section 1000 of the Revised Statutes, under an act of Congress of July 20, 1892. 27 Stat. 252.</p>\n<p>The motion must be denied. Our ruling has uniformly been, and has been enforced in repeated instances that that act has no application to proceedings in this court.</p>\n<p><i>Motion denied.</i></p>\n</div>", "id": 95679, "judges": "The Chief Justice. This is an Application for Leave to Prosecute a Writ of Error to a State Court", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/95679/", "sha1": "92559f7792509381d55eb4f1bf439c0760edd038", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:40:09"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "186 U.S. 177", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/95679/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gallaway v. Fort Worth Bank", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "3r", 
+    "id": 80060, 
+    "resource_uri": "/api/rest/v2/citation/80060/"
+  }, 
+  "id": 95679, 
+  "blocked": false, 
+  "judges": "The Chief Justice. This is an Application for Leave to Prosecute a Writ of Error to a State Court", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1902-06-02", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>186 U.S. 177 (1902)</b></center>\n<center><h1>GALLAWAY<br>\nv.<br>\nFORT WORTH BANK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted May 19, 1902.</center>\n<center>Decided June 2, 1902.</center>\nMOTION TO SUE OUT WRIT OF ERROR, WITHOUT GIVING BOND REQUIRED BY LAW.\n<p><i>Mr. A. Gallaway</i> in <i>propria persona.</i></p>\n<p>No appearance opposing.</p>\n<p>THE CHIEF JUSTICE. This is an application for leave to prosecute a writ of error to a state court, without giving security <span class=\"star-pagination\">*178</span> as required by section 1000 of the Revised Statutes, under an act of Congress of July 20, 1892. 27 Stat. 252.</p>\n<p>The motion must be denied. Our ruling has uniformly been, and has been enforced in repeated instances that that act has no application to proceedings in this court.</p>\n<p><i>Motion denied.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:40:09", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">186</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">177</span></span> (1902)</b></center>\n<center><h1>GALLAWAY<br>\nv.<br>\nFORT WORTH BANK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted May 19, 1902.</center>\n<center>Decided June 2, 1902.</center>\nMOTION TO SUE OUT WRIT OF ERROR, WITHOUT GIVING BOND REQUIRED BY LAW.\n<p><i>Mr. A. Gallaway</i> in <i>propria persona.</i></p>\n<p>No appearance opposing.</p>\n<p>THE CHIEF JUSTICE. This is an application for leave to prosecute a writ of error to a state court, without giving security <span class=\"star-pagination\">*178</span> as required by section 1000 of the Revised Statutes, under an act of Congress of July 20, 1892. 27 Stat. 252.</p>\n<p>The motion must be denied. Our ruling has uniformly been, and has been enforced in repeated instances that that act has no application to proceedings in this court.</p>\n<p><i>Motion denied.</i></p>\n</div>", 
+  "sha1": "92559f7792509381d55eb4f1bf439c0760edd038", 
+  "date_modified": "2014-12-21T01:33:47.303081", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/95679/gallaway-v-fort-worth-bank/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1128523/", 
+  "html": "<p class=\"case_cite\">186 U.S. 177</p>\n    <p class=\"case_cite\">22 S.Ct. 811</p>\n    <p class=\"case_cite\">46 L.Ed. 1111</p>\n    <p class=\"parties\">A. GALLAWAY <i>et al.</i><br>v.<br>STATE NATIONAL BANK OF FORT WORTH TEXAS.</p>\n    <p class=\"docket\">No. 3r.</p>\n    <p class=\"date\">Submitted May 19, 1902.</p>\n    <p class=\"date\">Decided June 2, 1902.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p><i>Mr. A. Gallaway</i> in <i>propria persona</i> for motion.</p>\n    </div>\n    <p class=\"indent\">THE CHIEF JUSTICE:</p>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">This is an application for leave to prosecute a writ of error to a state court, without giving security as required by &#167; 1000 of the Revised Statutes, under an act of Congress of July 20, 1892. 27 Stat. at L. 252, chap. 209.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion must be denied. Our ruling has uniformly been, and has been enforced in repeated instances, that that act has no application to proceedings in this court.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\"><i>Motion denied</i>.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/95679/"
+}

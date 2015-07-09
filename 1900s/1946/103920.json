@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/103920/alfred-testa-and-paul-a-porter-administrator/", "blocked": false, "citation": {"case_name": "Alfred Testa and Paul A. Porter, Administrator, Office of Price Administration v. Harry Katt", "docket_number": "431", "document_uris": ["/api/rest/v2/document/103920/"], "federal_cite_one": "320 U.S. 703", "federal_cite_three": null, "federal_cite_two": null, "id": 88303, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/88303/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1946-10-28", "date_modified": "2014-12-21T01:44:11.224925", "docket": "/api/rest/v2/docket/848999/", "download_url": "http://bulk.resource.org/courts.gov/c/US/320/320.US.703.431.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">320 U.S. 703</p>\r\n    <p class=\"case_cite\">67 S.Ct. 122</p>\r\n    <p class=\"case_cite\">91 L.Ed. 613</p>\r\n    <p class=\"parties\">Alfred TESTA and Paul A. Porter, Administrator,  Office of Price Administration, petitioners,<br>v.<br>Harry KATT.</p>\r\n    <p class=\"docket\">No. 431.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 28, 1946</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Sol. Gen. McGrath and J. Raymond Dubee, for petitioners.</p>\r\n      <p class=\"indent\">Messrs. Paul M. Segal, Harry P. Warner, Henry G. Fischer, George S. Smith, Philip J. Hennessey, Jr., and John W. Willis, for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court for Providence and Bristol Counties, State of Rhode Island.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Granted.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">320</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">703</span></span></p>\r\n    <p class=\"case_cite\">67 S.Ct. 122</p>\r\n    <p class=\"case_cite\">91 L.Ed. 613</p>\r\n    <p class=\"parties\">Alfred TESTA and Paul A. Porter, Administrator,  Office of Price Administration, petitioners,<br>v.<br>Harry KATT.</p>\r\n    <p class=\"docket\">No. 431.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 28, 1946</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Sol. Gen. McGrath and J. Raymond Dubee, for petitioners.</p>\r\n      <p class=\"indent\">Messrs. Paul M. Segal, Harry P. Warner, Henry G. Fischer, George S. Smith, Philip J. Hennessey, Jr., and John W. Willis, for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court for Providence and Bristol Counties, State of Rhode Island.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Granted.</p>\r\n    </div>\r\n    ", "id": 103920, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/103920/", "sha1": "4f513c4e40b8e21786876b9042deb89f5be23b50", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:41"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "320 U.S. 703", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/103920/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Alfred Testa and Paul A. Porter, Administrator, Office of Price Administration v. Harry Katt", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "431", 
+    "id": 88303, 
+    "resource_uri": "/api/rest/v2/citation/88303/"
+  }, 
+  "id": 103920, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1946-10-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/320/320.US.703.431.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:54:41", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">320</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">703</span></span></p>\r\n    <p class=\"case_cite\">67 S.Ct. 122</p>\r\n    <p class=\"case_cite\">91 L.Ed. 613</p>\r\n    <p class=\"parties\">Alfred TESTA and Paul A. Porter, Administrator,  Office of Price Administration, petitioners,<br>v.<br>Harry KATT.</p>\r\n    <p class=\"docket\">No. 431.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 28, 1946</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Sol. Gen. McGrath and J. Raymond Dubee, for petitioners.</p>\r\n      <p class=\"indent\">Messrs. Paul M. Segal, Harry P. Warner, Henry G. Fischer, George S. Smith, Philip J. Hennessey, Jr., and John W. Willis, for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court for Providence and Bristol Counties, State of Rhode Island.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Granted.</p>\r\n    </div>\r\n    ", 
+  "sha1": "4f513c4e40b8e21786876b9042deb89f5be23b50", 
+  "date_modified": "2014-12-21T01:44:11.224925", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/103920/alfred-testa-and-paul-a-porter-administrator/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/848999/", 
+  "html": "<p class=\"case_cite\">320 U.S. 703</p>\r\n    <p class=\"case_cite\">67 S.Ct. 122</p>\r\n    <p class=\"case_cite\">91 L.Ed. 613</p>\r\n    <p class=\"parties\">Alfred TESTA and Paul A. Porter, Administrator,  Office of Price Administration, petitioners,<br>v.<br>Harry KATT.</p>\r\n    <p class=\"docket\">No. 431.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 28, 1946</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Sol. Gen. McGrath and J. Raymond Dubee, for petitioners.</p>\r\n      <p class=\"indent\">Messrs. Paul M. Segal, Harry P. Warner, Henry G. Fischer, George S. Smith, Philip J. Hennessey, Jr., and John W. Willis, for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court for Providence and Bristol Counties, State of Rhode Island.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Granted.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/103920/"
+}

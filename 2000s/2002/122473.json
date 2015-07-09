@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/122473/battle-v-landmark-communications-inc-et-al/", "blocked": false, "citation": {"case_name": "Battle v. Landmark Communications, Inc.", "docket_number": "01-1743", "document_uris": ["/api/rest/v2/document/122473/"], "federal_cite_one": "537 U.S. 819", "federal_cite_three": null, "federal_cite_two": null, "id": 106826, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/106826/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-07", "date_modified": "2014-12-21T02:17:31.551030", "docket": "/api/rest/v2/docket/2068654/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.819.01-1743.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 819</p>\n    <p class=\"parties\">BATTLE<br>v.<br>LANDMARK COMMUNICATIONS, INC., ET AL.</p>\n    <p class=\"docket\">No. 01-1743.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF APPEALS OF WEST VIRGINIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">819</span></span></p>\n    <p class=\"parties\">BATTLE<br>v.<br>LANDMARK COMMUNICATIONS, INC., ET AL.</p>\n    <p class=\"docket\">No. 01-1743.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF APPEALS OF WEST VIRGINIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied.</p>\n    </div>\n    ", "id": 122473, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/122473/", "sha1": "96efbcc990ca0be761d40b14f7c6e9c3ae5a2e53", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 819", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/122473/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Battle v. Landmark Communications, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-1743", 
+    "id": 106826, 
+    "resource_uri": "/api/rest/v2/citation/106826/"
+  }, 
+  "id": 122473, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.819.01-1743.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">819</span></span></p>\n    <p class=\"parties\">BATTLE<br>v.<br>LANDMARK COMMUNICATIONS, INC., ET AL.</p>\n    <p class=\"docket\">No. 01-1743.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF APPEALS OF WEST VIRGINIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "96efbcc990ca0be761d40b14f7c6e9c3ae5a2e53", 
+  "date_modified": "2014-12-21T02:17:31.551030", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/122473/battle-v-landmark-communications-inc-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2068654/", 
+  "html": "<p class=\"case_cite\">537 U.S. 819</p>\n    <p class=\"parties\">BATTLE<br>v.<br>LANDMARK COMMUNICATIONS, INC., ET AL.</p>\n    <p class=\"docket\">No. 01-1743.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE SUPREME COURT OF APPEALS OF WEST VIRGINIA.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Sup. Ct. Va. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/122473/"
+}

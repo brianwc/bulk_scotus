@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106912/mayer-v-rusk/", "blocked": false, "citation": {"case_name": "Mayer v. Rusk", "docket_number": "746", "document_uris": ["/api/rest/v2/document/106912/"], "federal_cite_one": "378 U.S. 579", "federal_cite_three": null, "federal_cite_two": null, "id": 91295, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91295/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-06-22", "date_modified": "2014-12-21T01:53:58.139242", "docket": "/api/rest/v2/docket/1269127/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">378 U.S. 579</p>\n    <p class=\"case_cite\">84 S.Ct. 1909</p>\n    <p class=\"case_cite\">12 L.Ed.2d 1035</p>\n    <p class=\"parties\">Milton S. MAYER<br>v.<br>Dean RUSK, Secretary of State.</p>\n    <p class=\"docket\">No. 746.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 22, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">David Carliner, Frank Heisler, Oliver Stone and Jack Wasserman, for appellant.</p>\n      <p class=\"indent\">Solicitor General Cox, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is vacated and the case is remanded to the District Court for consideration in light of Aptheker v. Secretary of State, 378 U.S. 500, 84 S.Ct. 1659.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice CLARK, Mr., Justice HARLAN and Mr. Justice WHITE would affirm the judgment.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>378 U.S. 579 (1964)</b></center>\n<center><h1>MAYER<br>\nv.<br>\nRUSK, SECRETARY OF STATE.</h1></center>\n<center>No. 746.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>David Carliner, Francis Heisler, Oliver Stone</i> and <i>Jack Wasserman</i> for appellant.</p>\n<p><i>Solicitor General Cox</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is vacated and the case is remanded to the District Court for consideration in light of <i>Aptheker</i> v. <i>Secretary of State, ante,</i> p. 500.</p>\n<p>MR. JUSTICE CLARK, MR. JUSTICE HARLAN and MR. JUSTICE WHITE would affirm the judgment.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">378</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">579</span></span> (1964)</b></center>\n<center><h1>MAYER<br>\nv.<br>\nRUSK, SECRETARY OF STATE.</h1></center>\n<center>No. 746.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>David Carliner, Francis Heisler, Oliver Stone</i> and <i>Jack Wasserman</i> for appellant.</p>\n<p><i>Solicitor General Cox</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is vacated and the case is remanded to the District Court for consideration in light of <i>Aptheker</i> v. <i>Secretary of State, ante,</i> p. 500.</p>\n<p>MR. JUSTICE CLARK, MR. JUSTICE HARLAN and MR. JUSTICE WHITE would affirm the judgment.</p>\n</div>", "id": 106912, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106912/", "sha1": "589f8a3538023b9769472ed238ecdecb5c497b59", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:50"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "378 U.S. 579", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106912/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Mayer v. Rusk", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "746", 
+    "id": 91295, 
+    "resource_uri": "/api/rest/v2/citation/91295/"
+  }, 
+  "id": 106912, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-06-22", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>378 U.S. 579 (1964)</b></center>\n<center><h1>MAYER<br>\nv.<br>\nRUSK, SECRETARY OF STATE.</h1></center>\n<center>No. 746.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>David Carliner, Francis Heisler, Oliver Stone</i> and <i>Jack Wasserman</i> for appellant.</p>\n<p><i>Solicitor General Cox</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is vacated and the case is remanded to the District Court for consideration in light of <i>Aptheker</i> v. <i>Secretary of State, ante,</i> p. 500.</p>\n<p>MR. JUSTICE CLARK, MR. JUSTICE HARLAN and MR. JUSTICE WHITE would affirm the judgment.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:50", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">378</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">579</span></span> (1964)</b></center>\n<center><h1>MAYER<br>\nv.<br>\nRUSK, SECRETARY OF STATE.</h1></center>\n<center>No. 746.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>David Carliner, Francis Heisler, Oliver Stone</i> and <i>Jack Wasserman</i> for appellant.</p>\n<p><i>Solicitor General Cox</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is vacated and the case is remanded to the District Court for consideration in light of <i>Aptheker</i> v. <i>Secretary of State, ante,</i> p. 500.</p>\n<p>MR. JUSTICE CLARK, MR. JUSTICE HARLAN and MR. JUSTICE WHITE would affirm the judgment.</p>\n</div>", 
+  "sha1": "589f8a3538023b9769472ed238ecdecb5c497b59", 
+  "date_modified": "2014-12-21T01:53:58.139242", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106912/mayer-v-rusk/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1269127/", 
+  "html": "<p class=\"case_cite\">378 U.S. 579</p>\n    <p class=\"case_cite\">84 S.Ct. 1909</p>\n    <p class=\"case_cite\">12 L.Ed.2d 1035</p>\n    <p class=\"parties\">Milton S. MAYER<br>v.<br>Dean RUSK, Secretary of State.</p>\n    <p class=\"docket\">No. 746.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 22, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">David Carliner, Frank Heisler, Oliver Stone and Jack Wasserman, for appellant.</p>\n      <p class=\"indent\">Solicitor General Cox, for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is vacated and the case is remanded to the District Court for consideration in light of Aptheker v. Secretary of State, 378 U.S. 500, 84 S.Ct. 1659.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice CLARK, Mr., Justice HARLAN and Mr. Justice WHITE would affirm the judgment.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106912/"
+}

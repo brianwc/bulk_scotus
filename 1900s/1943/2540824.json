@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2540824/jones-v-opelika/", "blocked": false, "citation": {"case_name": "Jones v. Opelika", "docket_number": "280, October Term, 1941", "document_uris": ["/api/rest/v2/document/2540824/"], "federal_cite_one": "319 U.S. 103", "federal_cite_three": null, "federal_cite_two": null, "id": 2513596, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2513596/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 23, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1943-05-03", "date_modified": "2014-10-30T02:56:44.695241", "docket": "/api/rest/v2/docket/494007/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>319 U.S. 103 (1943)</b></center>\n<center><h1>JONES<br>\nv.<br>\nOPELIKA.<sup>[*]</sup></h1></center>\n<center>No. 280, October Term, 1941.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Reargued March 10, 11, 1943.</center>\n<center>Decided May 3, 1943.</center>\nCERTIORARI TO THE SUPREME COURT OF ALABAMA.\n<p><span class=\"star-pagination\">*104</span> <i>Mr. Hayden C. Covington</i> for petitioners.</p>\n<p>No appearance for respondents in Nos. 280 and 314, and appellee in No. 966.</p>\n<p>Briefs of <i>amici curiae</i> were filed by <i>Mr. Osmond K. Fraenkel,</i> on behalf of the American Civil Liberties Union, in support of the petition for rehearing; and by <i>Mr. Elisha Hanson,</i> on behalf of the American Newspaper Publishers Association, and <i>Messrs. Homer Cummings</i> and <i>Millward C. Taft,</i> on behalf of the General Conference of Seventh-Day Adventists, in support of the petition for rehearing and urging reversal.</p>\n<p>PER CURIAM (announced by MR. JUSTICE DOUGLAS):</p>\n<p>The judgments in these cases were affirmed at the October Term, 1941. 316 U.S. 584. Because the issues in all three cases were of the same character as those brought before us in other cases by applications for certiorari at the present term, we ordered a reargument and heard these cases together with <i>Murdock</i> v. <i>Pennsylvania, post,</i> p. 105. For the reasons stated in the opinion of the Court in the <i>Murdock</i> case, and in the dissenting opinions filed in the present cases after the argument last term, the Court is of opinion that the judgment in each case should be reversed. The judgments of this Court heretofore entered in these cases are therefore vacated, and the judgments of the state courts are reversed.</p>\n<p><i>So ordered.</i></p>\n<p>For dissenting opinions, see <i>post,</i> pp. 117-140.</p>\n<h2>NOTES</h2>\n<p>[*]   Together with No. 314, October Term, 1941, <i>Bowden et al.</i> v. <i>Fort Smith,</i> on writ of certiorari, 315 U.S. 793, to the Supreme Court of Arkansas, and No. 966, October Term, 1941, <i>Jobin</i> v. <i>Arizona,</i> on appeal from the Supreme Court of Arizona.</p>\n\n</div>", "html_with_citations": "", "id": 2540824, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2540824/", "sha1": "498fac10706942d21d97db5435dbf1833b1cf2b9", "source": "L", "time_retrieved": "2013-10-30T03:16:35.264526"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "319 U.S. 103", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2540824/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jones v. Opelika", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "280, October Term, 1941", 
+    "id": 2513596, 
+    "resource_uri": "/api/rest/v2/citation/2513596/"
+  }, 
+  "id": 2540824, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1943-05-03", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>319 U.S. 103 (1943)</b></center>\n<center><h1>JONES<br>\nv.<br>\nOPELIKA.<sup>[*]</sup></h1></center>\n<center>No. 280, October Term, 1941.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Reargued March 10, 11, 1943.</center>\n<center>Decided May 3, 1943.</center>\nCERTIORARI TO THE SUPREME COURT OF ALABAMA.\n<p><span class=\"star-pagination\">*104</span> <i>Mr. Hayden C. Covington</i> for petitioners.</p>\n<p>No appearance for respondents in Nos. 280 and 314, and appellee in No. 966.</p>\n<p>Briefs of <i>amici curiae</i> were filed by <i>Mr. Osmond K. Fraenkel,</i> on behalf of the American Civil Liberties Union, in support of the petition for rehearing; and by <i>Mr. Elisha Hanson,</i> on behalf of the American Newspaper Publishers Association, and <i>Messrs. Homer Cummings</i> and <i>Millward C. Taft,</i> on behalf of the General Conference of Seventh-Day Adventists, in support of the petition for rehearing and urging reversal.</p>\n<p>PER CURIAM (announced by MR. JUSTICE DOUGLAS):</p>\n<p>The judgments in these cases were affirmed at the October Term, 1941. 316 U.S. 584. Because the issues in all three cases were of the same character as those brought before us in other cases by applications for certiorari at the present term, we ordered a reargument and heard these cases together with <i>Murdock</i> v. <i>Pennsylvania, post,</i> p. 105. For the reasons stated in the opinion of the Court in the <i>Murdock</i> case, and in the dissenting opinions filed in the present cases after the argument last term, the Court is of opinion that the judgment in each case should be reversed. The judgments of this Court heretofore entered in these cases are therefore vacated, and the judgments of the state courts are reversed.</p>\n<p><i>So ordered.</i></p>\n<p>For dissenting opinions, see <i>post,</i> pp. 117-140.</p>\n<h2>NOTES</h2>\n<p>[*]   Together with No. 314, October Term, 1941, <i>Bowden et al.</i> v. <i>Fort Smith,</i> on writ of certiorari, 315 U.S. 793, to the Supreme Court of Arkansas, and No. 966, October Term, 1941, <i>Jobin</i> v. <i>Arizona,</i> on appeal from the Supreme Court of Arizona.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T03:16:35.264526", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "498fac10706942d21d97db5435dbf1833b1cf2b9", 
+  "date_modified": "2014-10-30T02:56:44.695241", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2540824/jones-v-opelika/", 
+  "citation_count": 23, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/494007/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2540824/"
+}

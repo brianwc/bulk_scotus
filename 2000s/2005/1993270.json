@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1993270/newton-v-united-states/", "blocked": false, "citation": {"case_name": "Newton v. United States", "docket_number": "05-7276", "document_uris": ["/api/rest/v2/document/1993270/"], "federal_cite_one": "546 U.S. 803", "federal_cite_three": null, "federal_cite_two": null, "id": 1966041, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1966041/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 14, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-11-28", "date_modified": "2014-10-30T12:53:03.888916", "docket": "/api/rest/v2/docket/1840131/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>(2005)</b></center>\n<center><h1>JESSIE W. NEWTON<br>\nv.<br>\nUNITED STATES</h1></center>\n<center>No. 05-7276</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>November 28, 2005.\n</center>\n<p>The petition for writ of certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1993270, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1993270/", "sha1": "2a9967e12becffd9199dd05c007d79cecbbb4123", "source": "L", "time_retrieved": "2013-10-30T00:59:50.540327"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "546 U.S. 803", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1993270/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Newton v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-7276", 
+    "id": 1966041, 
+    "resource_uri": "/api/rest/v2/citation/1966041/"
+  }, 
+  "id": 1993270, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-11-28", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>(2005)</b></center>\n<center><h1>JESSIE W. NEWTON<br>\nv.<br>\nUNITED STATES</h1></center>\n<center>No. 05-7276</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>November 28, 2005.\n</center>\n<p>The petition for writ of certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:59:50.540327", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "2a9967e12becffd9199dd05c007d79cecbbb4123", 
+  "date_modified": "2014-10-30T12:53:03.888916", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1993270/newton-v-united-states/", 
+  "citation_count": 14, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1840131/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1993270/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2490321/hawthorne-clamnt-of-brig-clarissa-claiborne-v-unit/", "blocked": false, "citation": {"case_name": "Hawthorne, Clamn't. of Brig Clarissa Claiborne v. United States", "docket_number": null, "document_uris": ["/api/rest/v2/document/2490321/"], "federal_cite_one": "11 U.S. 107", "federal_cite_three": null, "federal_cite_two": null, "id": 2463093, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2463093/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1812-02-20", "date_modified": "2014-10-30T06:11:52.090651", "docket": "/api/rest/v2/docket/926579/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>11 U.S. 107 (1812)</b></center>\n<center><b>7 Cranch 107</b></center>\n<center><h1>HAWTHORNE, CLAIMANT OF THE BRIG CLARISSA CLAIBORNE<br>\nv.<br>\nTHE UNITED STATES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>February 20, 1812.</center>\n<p><i>Present ... . . All the Judges.</i></p>\n<p><span class=\"star-pagination\">*108</span> <i>HARE,</i> Moved for a certiorari upon a suggestion of diminution of the record.</p>\n<p>MARSHALL, <i>Ch. J.</i></p>\n<p>What prevents you from producing the witnesses here, or taking their depositions <i>de novo.</i></p>\n<p>HARE, Suggested a doubt, whether cases for violation of the Embargo, are cases of <i>admiralty,</i> or of <i>prize</i> jurisdiction.</p>\n<p>However, on a subsequent day he moved for, and obtained a <i>commission</i> to take the depositions of witnesses at New Orleans, to be used on the trial in this Court, at the next term.</p>\n<p>A like commission was granted in the case of <i>Williams and Armroyd,</i> at this term.</p>\n</div>", "html_with_citations": "", "id": 2490321, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2490321/", "sha1": "8c2027f22fb39987926929af56262659c2cfd636", "source": "L", "time_retrieved": "2013-10-30T02:54:08.334414"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "11 U.S. 107", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2490321/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hawthorne, Clamn't. of Brig Clarissa Claiborne v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2463093, 
+    "resource_uri": "/api/rest/v2/citation/2463093/"
+  }, 
+  "id": 2490321, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1812-02-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>11 U.S. 107 (1812)</b></center>\n<center><b>7 Cranch 107</b></center>\n<center><h1>HAWTHORNE, CLAIMANT OF THE BRIG CLARISSA CLAIBORNE<br>\nv.<br>\nTHE UNITED STATES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>February 20, 1812.</center>\n<p><i>Present ... . . All the Judges.</i></p>\n<p><span class=\"star-pagination\">*108</span> <i>HARE,</i> Moved for a certiorari upon a suggestion of diminution of the record.</p>\n<p>MARSHALL, <i>Ch. J.</i></p>\n<p>What prevents you from producing the witnesses here, or taking their depositions <i>de novo.</i></p>\n<p>HARE, Suggested a doubt, whether cases for violation of the Embargo, are cases of <i>admiralty,</i> or of <i>prize</i> jurisdiction.</p>\n<p>However, on a subsequent day he moved for, and obtained a <i>commission</i> to take the depositions of witnesses at New Orleans, to be used on the trial in this Court, at the next term.</p>\n<p>A like commission was granted in the case of <i>Williams and Armroyd,</i> at this term.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:54:08.334414", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "8c2027f22fb39987926929af56262659c2cfd636", 
+  "date_modified": "2014-10-30T06:11:52.090651", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2490321/hawthorne-clamnt-of-brig-clarissa-claiborne-v-unit/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/926579/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2490321/"
+}

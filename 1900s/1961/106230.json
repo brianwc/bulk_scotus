@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106230/atchley-v-california/", "blocked": false, "citation": {"case_name": "Atchley v. California", "docket_number": "95", "document_uris": ["/api/rest/v2/document/106230/"], "federal_cite_one": "366 U.S. 207", "federal_cite_three": "6 L. Ed. 2d 233", "federal_cite_two": "81 S. Ct. 1051", "id": 90613, "lexis_cite": "1961 U.S. LEXIS 1233", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90613/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 12, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-05-01", "date_modified": "2014-12-21T15:02:08.903556", "docket": "/api/rest/v2/docket/622517/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">366 U.S. 207</p>\n    <p class=\"case_cite\">81 S.Ct. 1051</p>\n    <p class=\"case_cite\">6 L.Ed.2d 233</p>\n    <p class=\"parties\">Veron ATCHLEY, also known as Jack Atchley, petitioner,<br>v.<br>STATE OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 95.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 1, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Miss Rosalie S. Asher, Sacramento, Cal., for petitioner.</p>\n      <p class=\"indent\">Mrs. Doris H. Maier, Sacramento, Cal., for respondent.</p>\n      <p class=\"indent\">On Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">After hearing oral argument and fully examining the record, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>366 U.S. 207 (1961)</b></center>\n<center><h1>ATCHLEY<br>\nv.<br>\nCALIFORNIA.</h1></center>\n<center>No. 95.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 25, 1961.</center>\n<center>Decided May 1, 1961.</center>\nCERTIORARI TO THE SUPREME COURT OF CALIFORNIA.\n<p><i>Rosalie S. Asher</i> argued the cause and filed briefs for petitioner.</p>\n<p><i>Doris H. Maier,</i> Deputy Attorney General of California, argued the cause for respondent. With her on the briefs was <i>Stanley Mosk,</i> Attorney General of California.</p>\n<p>PER CURIAM.</p>\n<p>After hearing oral argument and fully examining the record, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">366</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">207</span></span> (1961)</b></center>\n<center><h1>ATCHLEY<br>\nv.<br>\nCALIFORNIA.</h1></center>\n<center>No. 95.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 25, 1961.</center>\n<center>Decided May 1, 1961.</center>\nCERTIORARI TO THE SUPREME COURT OF CALIFORNIA.\n<p><i>Rosalie S. Asher</i> argued the cause and filed briefs for petitioner.</p>\n<p><i>Doris H. Maier,</i> Deputy Attorney General of California, argued the cause for respondent. With her on the briefs was <i>Stanley Mosk,</i> Attorney General of California.</p>\n<p>PER CURIAM.</p>\n<p>After hearing oral argument and fully examining the record, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n</div>", "id": 106230, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106230/", "sha1": "4625623a08c3d1d051de2b320ca7edf4b4301218", "source": "LR", "supreme_court_db_id": "1960-087", "time_retrieved": "2010-04-28T09:55:54"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "366 U.S. 207", 
+    "federal_cite_two": "81 S. Ct. 1051", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "6 L. Ed. 2d 233", 
+    "lexis_cite": "1961 U.S. LEXIS 1233", 
+    "document_uris": [
+      "/api/rest/v2/document/106230/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Atchley v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "95", 
+    "id": 90613, 
+    "resource_uri": "/api/rest/v2/citation/90613/"
+  }, 
+  "id": 106230, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-05-01", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>366 U.S. 207 (1961)</b></center>\n<center><h1>ATCHLEY<br>\nv.<br>\nCALIFORNIA.</h1></center>\n<center>No. 95.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 25, 1961.</center>\n<center>Decided May 1, 1961.</center>\nCERTIORARI TO THE SUPREME COURT OF CALIFORNIA.\n<p><i>Rosalie S. Asher</i> argued the cause and filed briefs for petitioner.</p>\n<p><i>Doris H. Maier,</i> Deputy Attorney General of California, argued the cause for respondent. With her on the briefs was <i>Stanley Mosk,</i> Attorney General of California.</p>\n<p>PER CURIAM.</p>\n<p>After hearing oral argument and fully examining the record, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:54", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">366</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">207</span></span> (1961)</b></center>\n<center><h1>ATCHLEY<br>\nv.<br>\nCALIFORNIA.</h1></center>\n<center>No. 95.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 25, 1961.</center>\n<center>Decided May 1, 1961.</center>\nCERTIORARI TO THE SUPREME COURT OF CALIFORNIA.\n<p><i>Rosalie S. Asher</i> argued the cause and filed briefs for petitioner.</p>\n<p><i>Doris H. Maier,</i> Deputy Attorney General of California, argued the cause for respondent. With her on the briefs was <i>Stanley Mosk,</i> Attorney General of California.</p>\n<p>PER CURIAM.</p>\n<p>After hearing oral argument and fully examining the record, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n</div>", 
+  "sha1": "4625623a08c3d1d051de2b320ca7edf4b4301218", 
+  "date_modified": "2014-12-21T15:02:08.903556", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106230/atchley-v-california/", 
+  "citation_count": 12, 
+  "supreme_court_db_id": "1960-087", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/622517/", 
+  "html": "<p class=\"case_cite\">366 U.S. 207</p>\n    <p class=\"case_cite\">81 S.Ct. 1051</p>\n    <p class=\"case_cite\">6 L.Ed.2d 233</p>\n    <p class=\"parties\">Veron ATCHLEY, also known as Jack Atchley, petitioner,<br>v.<br>STATE OF CALIFORNIA.</p>\n    <p class=\"docket\">No. 95.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 1, 1961</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Miss Rosalie S. Asher, Sacramento, Cal., for petitioner.</p>\n      <p class=\"indent\">Mrs. Doris H. Maier, Sacramento, Cal., for respondent.</p>\n      <p class=\"indent\">On Writ of Certiorari to the Supreme Court of California.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">After hearing oral argument and fully examining the record, we conclude that the totality of circumstances as the record makes them manifest did not warrant bringing the case here. Accordingly, the writ is dismissed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106230/"
+}

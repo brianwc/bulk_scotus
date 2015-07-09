@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/115150/awofolu-v-public-storage-management-inc-et-al/", "blocked": false, "citation": {"case_name": "Awofolu v. Public Storage Management, Inc.", "docket_number": "93-487", "document_uris": ["/api/rest/v2/document/115150/"], "federal_cite_one": "510 U.S. 977", "federal_cite_three": null, "federal_cite_two": null, "id": 99509, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/99509/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-11-15", "date_modified": "2014-12-21T02:13:47.917937", "docket": "/api/rest/v2/docket/345760/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.977.93-487.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 977</p>\n    <p class=\"parties\">Awofolu<br>v.<br>Public Storage Management, Inc., et al.</p>\n    <p class=\"docket\">No. 93-487.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 15, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 993 F. 2d 881.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">977</span></span></p>\n    <p class=\"parties\">Awofolu<br>v.<br>Public Storage Management, Inc., et al.</p>\n    <p class=\"docket\">No. 93-487.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 15, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 993 F. 2d 881.</p>\n    </div>\n    ", "id": 115150, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/115150/", "sha1": "8f0057c35c33b7fb6f4c1e2f109545d0e561b173", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:38"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 977", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/115150/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Awofolu v. Public Storage Management, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-487", 
+    "id": 99509, 
+    "resource_uri": "/api/rest/v2/citation/99509/"
+  }, 
+  "id": 115150, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-11-15", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.977.93-487.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:38", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">977</span></span></p>\n    <p class=\"parties\">Awofolu<br>v.<br>Public Storage Management, Inc., et al.</p>\n    <p class=\"docket\">No. 93-487.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 15, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 993 F. 2d 881.</p>\n    </div>\n    ", 
+  "sha1": "8f0057c35c33b7fb6f4c1e2f109545d0e561b173", 
+  "date_modified": "2014-12-21T02:13:47.917937", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/115150/awofolu-v-public-storage-management-inc-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/345760/", 
+  "html": "<p class=\"case_cite\">510 U.S. 977</p>\n    <p class=\"parties\">Awofolu<br>v.<br>Public Storage Management, Inc., et al.</p>\n    <p class=\"docket\">No. 93-487.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 15, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 9th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 993 F. 2d 881.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/115150/"
+}

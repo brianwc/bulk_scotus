@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1291168/osborne-v-hartford-life-and-accident-insurance-com/", "blocked": false, "citation": {"case_name": "Osborne v. HARTFORD LIFE AND ACCIDENT INSURANCE COMPANY", "docket_number": "06-1350", "document_uris": ["/api/rest/v2/document/1291168/"], "federal_cite_one": "128 S. Ct. 46", "federal_cite_three": null, "federal_cite_two": null, "id": 1263939, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1263939/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-10-01", "date_modified": "2014-10-30T01:18:36.610931", "docket": "/api/rest/v2/docket/302084/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>128 S.Ct. 46 (2007)</b></center>\n<center><h1>Bruce OSBORNE, petitioner,<br>\nv.<br>\nHARTFORD LIFE AND ACCIDENT INSURANCE COMPANY.</h1></center>\n<center>No. 06-1350.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p>Motion to substitute the Estate of Bruce R. Osborne in place of Bruce Osborne, deceased, granted. Petition for writ of <span class=\"star-pagination\">*47</span> certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b>128 S.Ct. 46 (2007)</b></center>\n<center><h1>Bruce OSBORNE, petitioner,<br>\nv.<br>\nHARTFORD LIFE AND ACCIDENT INSURANCE COMPANY.</h1></center>\n<center>No. 06-1350.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p>Motion to substitute the Estate of Bruce R. Osborne in place of Bruce Osborne, deceased, granted. Petition for writ of <span class=\"star-pagination\">*47</span> certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</div>", "id": 1291168, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1291168/", "sha1": "a5327f6409c0e9628d6422cd38d7049ff12e7301", "source": "L", "time_retrieved": "2013-10-29T22:22:12.176295"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "128 S. Ct. 46", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1291168/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Osborne v. HARTFORD LIFE AND ACCIDENT INSURANCE COMPANY", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-1350", 
+    "id": 1263939, 
+    "resource_uri": "/api/rest/v2/citation/1263939/"
+  }, 
+  "id": 1291168, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-10-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>128 S.Ct. 46 (2007)</b></center>\n<center><h1>Bruce OSBORNE, petitioner,<br>\nv.<br>\nHARTFORD LIFE AND ACCIDENT INSURANCE COMPANY.</h1></center>\n<center>No. 06-1350.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p>Motion to substitute the Estate of Bruce R. Osborne in place of Bruce Osborne, deceased, granted. Petition for writ of <span class=\"star-pagination\">*47</span> certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:22:12.176295", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b>128 S.Ct. 46 (2007)</b></center>\n<center><h1>Bruce OSBORNE, petitioner,<br>\nv.<br>\nHARTFORD LIFE AND ACCIDENT INSURANCE COMPANY.</h1></center>\n<center>No. 06-1350.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 1, 2007.</center>\n<p>Motion to substitute the Estate of Bruce R. Osborne in place of Bruce Osborne, deceased, granted. Petition for writ of <span class=\"star-pagination\">*47</span> certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</div>", 
+  "sha1": "a5327f6409c0e9628d6422cd38d7049ff12e7301", 
+  "date_modified": "2014-10-30T01:18:36.610931", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1291168/osborne-v-hartford-life-and-accident-insurance-com/", 
+  "citation_count": 5, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/302084/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1291168/"
+}

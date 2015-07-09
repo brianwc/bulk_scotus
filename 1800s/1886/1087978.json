@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087978/ex-parte-phoenix-insurance-co/", "blocked": false, "citation": {"case_name": "Ex Parte Phoenix Insurance Co.", "docket_number": null, "document_uris": ["/api/rest/v2/document/1087978/"], "federal_cite_one": "117 U.S. 367", "federal_cite_three": null, "federal_cite_two": null, "id": 1060749, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060749/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1886-03-29", "date_modified": "2014-10-30T17:48:38.927833", "docket": "/api/rest/v2/docket/2578122/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>117 U.S. 367 (1886)</b></center>\n<center><h1>EX PARTE PHNIX INSURANCE COMPANY &amp; Others.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 22, 1886.</center>\n<center>Decided March 29, 1886.</center>\nORIGINAL.\n<p><span class=\"star-pagination\">*369</span> <i>Mr. W.S.B. Hopkins</i> for petitioners.</p>\n<p><i>Mr. Martin H. Goddard</i> for respondents. The court declined to hear argument on the part of respondents.</p>\n<p>Mr. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>The rule is well settled that distinct decrees against distinct parties on distinct causes of action, or on a single cause of action in which there are distinct liabilities, cannot be joined to give this court jurisdiction on appeal. <i>Seaver</i> v. <i>Bigelows,</i> 5 Wall. 208; <i>Ex parte Baltimore &amp; Ohio Railroad Co.,</i> 106 U.S. 5; <i>Schwed</i> v. <i>Smith,</i> 106 U.S. 188; <i>Farmers' Loan and Trust Co.</i> v. <i>Turner,</i> 106 U.S. 265, 270; <i>Adams</i> v. <i>Crittenden,</i> 106 U.S. 576; <i>Hawley</i> v. <i>Fairbanks,</i> 108 U.S. 543; <i>Fourth National Bank</i> v. <i>Stout,</i> 113 U.S. 684; <i>Stewart</i> v. <i>Dunham,</i> 115 U.S. 61, 64. This is such a case. The suit was brought on a single instrument, by which, as it was adjudged, an agent of the several insurance companies named bound them severally, each for its proportionate share of one-fourth, to insure the property of Mrs. Helen M. Fitton for $12,000, and the decree is against each company separately for its separate obligation under this instrument, to wit, $3433.50, and no more. The bill alleged the <span class=\"star-pagination\">*370</span> separate liability of each company, and prayed in substance, for decrees against them severally for the proportion assumed by each in the contract. Each company answered separately, all setting up the same defences.</p>\n<p>Under these circumstances it was right for the Circuit Court to refuse the allowance of an appeal, and</p>\n<p><i>The petition for a mandamus is consequently denied.</i></p>\n</div>", "html_with_citations": "", "id": 1087978, "judges": "Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087978/", "sha1": "2d399d34d1b662552f5b23d41898e7e89cda26ad", "source": "L", "time_retrieved": "2013-10-29T20:34:42.472293"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "117 U.S. 367", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087978/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ex Parte Phoenix Insurance Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1060749, 
+    "resource_uri": "/api/rest/v2/citation/1060749/"
+  }, 
+  "id": 1087978, 
+  "blocked": false, 
+  "judges": "Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1886-03-29", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>117 U.S. 367 (1886)</b></center>\n<center><h1>EX PARTE PH\u008cNIX INSURANCE COMPANY &amp; Others.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 22, 1886.</center>\n<center>Decided March 29, 1886.</center>\nORIGINAL.\n<p><span class=\"star-pagination\">*369</span> <i>Mr. W.S.B. Hopkins</i> for petitioners.</p>\n<p><i>Mr. Martin H. Goddard</i> for respondents. The court declined to hear argument on the part of respondents.</p>\n<p>Mr. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>The rule is well settled that distinct decrees against distinct parties on distinct causes of action, or on a single cause of action in which there are distinct liabilities, cannot be joined to give this court jurisdiction on appeal. <i>Seaver</i> v. <i>Bigelows,</i> 5 Wall. 208; <i>Ex parte Baltimore &amp; Ohio Railroad Co.,</i> 106 U.S. 5; <i>Schwed</i> v. <i>Smith,</i> 106 U.S. 188; <i>Farmers' Loan and Trust Co.</i> v. <i>Turner,</i> 106 U.S. 265, 270; <i>Adams</i> v. <i>Crittenden,</i> 106 U.S. 576; <i>Hawley</i> v. <i>Fairbanks,</i> 108 U.S. 543; <i>Fourth National Bank</i> v. <i>Stout,</i> 113 U.S. 684; <i>Stewart</i> v. <i>Dunham,</i> 115 U.S. 61, 64. This is such a case. The suit was brought on a single instrument, by which, as it was adjudged, an agent of the several insurance companies named bound them severally, each for its proportionate share of one-fourth, to insure the property of Mrs. Helen M. Fitton for $12,000, and the decree is against each company separately for its separate obligation under this instrument, to wit, $3433.50, and no more. The bill alleged the <span class=\"star-pagination\">*370</span> separate liability of each company, and prayed in substance, for decrees against them severally for the proportion assumed by each in the contract. Each company answered separately, all setting up the same defences.</p>\n<p>Under these circumstances it was right for the Circuit Court to refuse the allowance of an appeal, and</p>\n<p><i>The petition for a mandamus is consequently denied.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:34:42.472293", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "2d399d34d1b662552f5b23d41898e7e89cda26ad", 
+  "date_modified": "2014-10-30T17:48:38.927833", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087978/ex-parte-phoenix-insurance-co/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2578122/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087978/"
+}

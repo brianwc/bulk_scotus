@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620828/talbot-v-ship-amelia/", "blocked": false, "citation": {"case_name": "Talbot v. Ship Amelia", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620828/"], "federal_cite_one": "4 U.S. 34", "federal_cite_three": null, "federal_cite_two": null, "id": 2593600, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593600/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1800-08-01", "date_modified": "2014-10-30T17:48:05.005367", "docket": "/api/rest/v2/docket/2576182/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 34 (____)</b></center>\n<center><b>4 Dall. 34</b></center>\n<center><h1>Talbot<br>\nversus<br>\nThe Ship Amelia, Seeman, Claimant.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*36</span> \"Alexander Hamilton, of counsel for plaintiff in error.</p>\n<p>\"B. Livingston, of counsel for defendant in error.\"</p>\n<p>On the 18th of August, PATERSON, Justice, stated, that it was the wish of the COURT to postpone the cause for further argument, before a fuller bench. It was, accordingly, argued again at Washington, in August term 1801, by Ingersoll and Bayard (of Delaware) for the plaintiff in error; and by M. Levy, J.T. Mason (of Maryland) and Dallas for the defendant in error. And MARSHALL, Chief Justice, delivered the judgment of the Court; \"that the decree of the Circuit Court was correct, in reversing \"the decree of the District Court, but not correct in decreeing \"the restoration of the Amelia, without paying salvage. This \"Court, therefore, is of opinion, that the decree, so far as the \"restoration of the Amelia without salvage is ordered, ought to \"be reversed: and that the Amelia and her cargo ought to be \"restored to the claimant, on paying for salvage one-sixth part \"of the net value, after deducting therefrom the charges, which \"have been incurred.\"<sup>[(1)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  A full report of the arguments, on the first hearing of this cause, was prepared; but they are found so ably incorporated with the arguments on the second hearing, in Mr. Cranch's Reports, that it has been thought unnecessary to publish it in this volume: 1 Cranch. Rep. 1.</p>\n\n</div>", "html_with_citations": "", "id": 2620828, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620828/", "sha1": "a10cd2f3abc06ea79d23608091aac273c5764c60", "source": "L", "time_retrieved": "2013-11-01T12:17:16.119057"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 34", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620828/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Talbot v. Ship Amelia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593600, 
+    "resource_uri": "/api/rest/v2/citation/2593600/"
+  }, 
+  "id": 2620828, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1800-08-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 34 (____)</b></center>\n<center><b>4 Dall. 34</b></center>\n<center><h1>Talbot<br>\nversus<br>\nThe Ship Amelia, Seeman, Claimant.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*36</span> \"Alexander Hamilton, of counsel for plaintiff in error.</p>\n<p>\"B. Livingston, of counsel for defendant in error.\"</p>\n<p>On the 18th of August, PATERSON, Justice, stated, that it was the wish of the COURT to postpone the cause for further argument, before a fuller bench. It was, accordingly, argued again at Washington, in August term 1801, by Ingersoll and Bayard (of Delaware) for the plaintiff in error; and by M. Levy, J.T. Mason (of Maryland) and Dallas for the defendant in error. And MARSHALL, Chief Justice, delivered the judgment of the Court; \"that the decree of the Circuit Court was correct, in reversing \"the decree of the District Court, but not correct in decreeing \"the restoration of the Amelia, without paying salvage. This \"Court, therefore, is of opinion, that the decree, so far as the \"restoration of the Amelia without salvage is ordered, ought to \"be reversed: and that the Amelia and her cargo ought to be \"restored to the claimant, on paying for salvage one-sixth part \"of the net value, after deducting therefrom the charges, which \"have been incurred.\"<sup>[(1)]</sup></p>\n<h2>NOTES</h2>\n<p>[(1)]  A full report of the arguments, on the first hearing of this cause, was prepared; but they are found so ably incorporated with the arguments on the second hearing, in Mr. Cranch's Reports, that it has been thought unnecessary to publish it in this volume: 1 Cranch. Rep. 1.</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T12:17:16.119057", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a10cd2f3abc06ea79d23608091aac273c5764c60", 
+  "date_modified": "2014-10-30T17:48:05.005367", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620828/talbot-v-ship-amelia/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2576182/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620828/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/111387/fugate-v-new-mexico/", "blocked": false, "citation": {"case_name": "Fugate v. New Mexico", "docket_number": "83-6663", "document_uris": ["/api/rest/v2/document/111387/"], "federal_cite_one": "470 U.S. 904", "federal_cite_three": "84 L. Ed. 2d 777", "federal_cite_two": "105 S. Ct. 1858", "id": 95746, "lexis_cite": "1985 U.S. LEXIS 1525", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/95746/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1985-05-13", "date_modified": "2014-12-21T18:32:57.092983", "docket": "/api/rest/v2/docket/347811/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">470 U.S. 904</p>\n    <p class=\"case_cite\">105 S.Ct. 1858</p>\n    <p class=\"case_cite\">84 L.Ed.2d 777</p>\n    <p class=\"parties\">Charles FUGATE, petitioner,<br>v.<br>NEW MEXICO</p>\n    <p class=\"docket\">No. 83-6663</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 26, 1985</p>\n    <p class=\"date\">Rehearing Denied May 13, 1985.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 471 U.S. 1112, 105 S.Ct. 2349.</p>\n      <p class=\"indent\">On writ of certiorari to the Supreme Court of New Mexico.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Justice POWELL took no part in the decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>470 U.S. 904 (1985)</b></center>\n<center><h1>FUGATE<br>\nv.<br>\nNEW MEXICO</h1></center>\n<center>No. 83-6663.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued February 19, 1985</center>\n<center>Decided March 26, 1985</center>\nCERTIORARI TO THE SUPREME COURT OF NEW MEXICO\n<p><i>J. Thomas Sullivan</i> argued the cause for petitioner. With him on the briefs was <i>Henry R. Quintero.</i></p>\n<p><i>Paul Bardacke,</i> Attorney General of New Mexico, argued the cause for respondent. With him on the briefs was <i>Anthony Tupler,</i> Assistant Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>JUSTICE POWELL took no part in the decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">470</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">904</span></span> (1985)</b></center>\n<center><h1>FUGATE<br>\nv.<br>\nNEW MEXICO</h1></center>\n<center>No. 83-6663.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued February 19, 1985</center>\n<center>Decided March 26, 1985</center>\nCERTIORARI TO THE SUPREME COURT OF NEW MEXICO\n<p><i>J. Thomas Sullivan</i> argued the cause for petitioner. With him on the briefs was <i>Henry R. Quintero.</i></p>\n<p><i>Paul Bardacke,</i> Attorney General of New Mexico, argued the cause for respondent. With him on the briefs was <i>Anthony Tupler,</i> Assistant Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>JUSTICE POWELL took no part in the decision of this case.</p>\n</div>", "id": 111387, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/111387/", "sha1": "7f073ef6cd530e60f22a1cb49480db4316c6ac93", "source": "LR", "supreme_court_db_id": "1984-064", "time_retrieved": "2010-04-28T10:13:11"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "470 U.S. 904", 
+    "federal_cite_two": "105 S. Ct. 1858", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "84 L. Ed. 2d 777", 
+    "lexis_cite": "1985 U.S. LEXIS 1525", 
+    "document_uris": [
+      "/api/rest/v2/document/111387/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Fugate v. New Mexico", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "83-6663", 
+    "id": 95746, 
+    "resource_uri": "/api/rest/v2/citation/95746/"
+  }, 
+  "id": 111387, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1985-05-13", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>470 U.S. 904 (1985)</b></center>\n<center><h1>FUGATE<br>\nv.<br>\nNEW MEXICO</h1></center>\n<center>No. 83-6663.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued February 19, 1985</center>\n<center>Decided March 26, 1985</center>\nCERTIORARI TO THE SUPREME COURT OF NEW MEXICO\n<p><i>J. Thomas Sullivan</i> argued the cause for petitioner. With him on the briefs was <i>Henry R. Quintero.</i></p>\n<p><i>Paul Bardacke,</i> Attorney General of New Mexico, argued the cause for respondent. With him on the briefs was <i>Anthony Tupler,</i> Assistant Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>JUSTICE POWELL took no part in the decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:13:11", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">470</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">904</span></span> (1985)</b></center>\n<center><h1>FUGATE<br>\nv.<br>\nNEW MEXICO</h1></center>\n<center>No. 83-6663.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued February 19, 1985</center>\n<center>Decided March 26, 1985</center>\nCERTIORARI TO THE SUPREME COURT OF NEW MEXICO\n<p><i>J. Thomas Sullivan</i> argued the cause for petitioner. With him on the briefs was <i>Henry R. Quintero.</i></p>\n<p><i>Paul Bardacke,</i> Attorney General of New Mexico, argued the cause for respondent. With him on the briefs was <i>Anthony Tupler,</i> Assistant Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>JUSTICE POWELL took no part in the decision of this case.</p>\n</div>", 
+  "sha1": "7f073ef6cd530e60f22a1cb49480db4316c6ac93", 
+  "date_modified": "2014-12-21T18:32:57.092983", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/111387/fugate-v-new-mexico/", 
+  "citation_count": 6, 
+  "supreme_court_db_id": "1984-064", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/347811/", 
+  "html": "<p class=\"case_cite\">470 U.S. 904</p>\n    <p class=\"case_cite\">105 S.Ct. 1858</p>\n    <p class=\"case_cite\">84 L.Ed.2d 777</p>\n    <p class=\"parties\">Charles FUGATE, petitioner,<br>v.<br>NEW MEXICO</p>\n    <p class=\"docket\">No. 83-6663</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 26, 1985</p>\n    <p class=\"date\">Rehearing Denied May 13, 1985.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 471 U.S. 1112, 105 S.Ct. 2349.</p>\n      <p class=\"indent\">On writ of certiorari to the Supreme Court of New Mexico.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Justice POWELL took no part in the decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/111387/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107227/i-l-clayton-commissioner-of-revenue-of-north/", "blocked": false, "citation": {"case_name": "I. L. Clayton, Commissioner of Revenue of North Carolina v. United States", "docket_number": "893", "document_uris": ["/api/rest/v2/document/107227/"], "federal_cite_one": "384 U.S. 156", "federal_cite_three": null, "federal_cite_two": null, "id": 91586, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91586/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-05-02", "date_modified": "2014-12-21T01:55:08.322498", "docket": "/api/rest/v2/docket/941268/", "download_url": "http://bulk.resource.org/courts.gov/c/US/384/384.US.156.893.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">384 U.S. 156</p>\n    <p class=\"case_cite\">86 S.Ct. 1379</p>\n    <p class=\"case_cite\">16 L.Ed.2d 432</p>\n    <p class=\"parties\">I. L. CLAYTON, Commissioner of Revenue of North Carolina<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 893.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 2, 1966</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Thomas Wade Bruton, Atty. Gen. of North Carolina, Peyton B. Abbott, Deputy Atty. Gen., and Charles D. Barham, Jr., Asst. Atty. Gen., for appellant.</p>\n      <p class=\"indent\">Solicitor General Marshall, Acting Assistant Attorney General Roberts, I. Henry Kutz and Robert A. Bernstein, for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. American Insurance Co. v. Lucas, 314 U.S. 575, 62 S.Ct. 107, 86 L.Ed. 466; Public Service Commission of State of Mo. v. Brashear Lines, 306 U.S. 204, 59 S.Ct. 480, 83 L.Ed. 608.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">384</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">156</span></span></p>\n    <p class=\"case_cite\">86 S.Ct. 1379</p>\n    <p class=\"case_cite\">16 L.Ed.2d 432</p>\n    <p class=\"parties\">I. L. CLAYTON, Commissioner of Revenue of North Carolina<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 893.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 2, 1966</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Thomas Wade Bruton, Atty. Gen. of North Carolina, Peyton B. Abbott, Deputy Atty. Gen., and Charles D. Barham, Jr., Asst. Atty. Gen., for appellant.</p>\n      <p class=\"indent\">Solicitor General Marshall, Acting Assistant Attorney General Roberts, I. Henry Kutz and Robert A. Bernstein, for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. American Insurance Co. v. Lucas, <span class=\"citation no-link\"><span class=\"volume\">314</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">575</span></span>, 62 S.Ct. 107, 86 L.Ed. 466; Public Service Commission of State of Mo. v. Brashear Lines, <span class=\"citation\" data-id=\"103151\"><a href=\"/opinion/103151/public-serv-commn-v-brashear-freight-lines-inc/\"><span class=\"volume\">306</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">204</span></a></span>, 59 S.Ct. 480, 83 L.Ed. 608.</p>\n    </div>\n    ", "id": 107227, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107227/", "sha1": "6efa35a42a0729db8d046d148846217aa3855d97", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:57"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "384 U.S. 156", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107227/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "I. L. Clayton, Commissioner of Revenue of North Carolina v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "893", 
+    "id": 91586, 
+    "resource_uri": "/api/rest/v2/citation/91586/"
+  }, 
+  "id": 107227, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-05-02", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/384/384.US.156.893.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:57", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">384</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">156</span></span></p>\n    <p class=\"case_cite\">86 S.Ct. 1379</p>\n    <p class=\"case_cite\">16 L.Ed.2d 432</p>\n    <p class=\"parties\">I. L. CLAYTON, Commissioner of Revenue of North Carolina<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 893.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 2, 1966</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Thomas Wade Bruton, Atty. Gen. of North Carolina, Peyton B. Abbott, Deputy Atty. Gen., and Charles D. Barham, Jr., Asst. Atty. Gen., for appellant.</p>\n      <p class=\"indent\">Solicitor General Marshall, Acting Assistant Attorney General Roberts, I. Henry Kutz and Robert A. Bernstein, for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. American Insurance Co. v. Lucas, <span class=\"citation no-link\"><span class=\"volume\">314</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">575</span></span>, 62 S.Ct. 107, 86 L.Ed. 466; Public Service Commission of State of Mo. v. Brashear Lines, <span class=\"citation\" data-id=\"103151\"><a href=\"/opinion/103151/public-serv-commn-v-brashear-freight-lines-inc/\"><span class=\"volume\">306</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">204</span></a></span>, 59 S.Ct. 480, 83 L.Ed. 608.</p>\n    </div>\n    ", 
+  "sha1": "6efa35a42a0729db8d046d148846217aa3855d97", 
+  "date_modified": "2014-12-21T01:55:08.322498", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107227/i-l-clayton-commissioner-of-revenue-of-north/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/941268/", 
+  "html": "<p class=\"case_cite\">384 U.S. 156</p>\n    <p class=\"case_cite\">86 S.Ct. 1379</p>\n    <p class=\"case_cite\">16 L.Ed.2d 432</p>\n    <p class=\"parties\">I. L. CLAYTON, Commissioner of Revenue of North Carolina<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 893.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 2, 1966</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Thomas Wade Bruton, Atty. Gen. of North Carolina, Peyton B. Abbott, Deputy Atty. Gen., and Charles D. Barham, Jr., Asst. Atty. Gen., for appellant.</p>\n      <p class=\"indent\">Solicitor General Marshall, Acting Assistant Attorney General Roberts, I. Henry Kutz and Robert A. Bernstein, for the United States.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. American Insurance Co. v. Lucas, 314 U.S. 575, 62 S.Ct. 107, 86 L.Ed. 466; Public Service Commission of State of Mo. v. Brashear Lines, 306 U.S. 204, 59 S.Ct. 480, 83 L.Ed. 608.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107227/"
+}

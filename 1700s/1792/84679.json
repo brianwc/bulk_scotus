@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/84679/oswald-v-state-of-new-york/", "blocked": false, "citation": {"case_name": "Oswald v. State of New York", "docket_number": null, "document_uris": ["/api/rest/v2/document/84679/"], "federal_cite_one": "2 U.S. 401", "federal_cite_three": null, "federal_cite_two": null, "id": 51652, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/51652/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1792-02-14", "date_modified": "2014-12-21T01:23:40.519533", "docket": "/api/rest/v2/docket/165045/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">2 U.S. 401</p>\n    <p class=\"case_cite\">2 Dall. 401</p>\n    <p class=\"case_cite\">1 L.Ed. 433</p>\n    <p class=\"parties\">Oswald, Administrator<br>v.<br>the State of New York</p>\n    <p class=\"date\">February Term, 1792.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Summons. In this case the Marshall had returned the writ served; and now Sergeant moved for a distringas, to compel an appearance on the part of the State.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">While, however, the court held the motion under advisement, it was voluntarily withdrawn, and the suit discontinued.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> But see the same suit post, and Grayfen versus Virginia.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>2 U.S. 401 (____)</b></center>\n<center><b>2 Dall. 401</b></center>\n<center><h1>OSWALD, Administrator,<br>\nversus<br>\nthe STATE of NEW-YORK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>SUMMONS. In this case the Marshall had returned the writ served; and now Sergeant moved for a distringas, to compel an appearance on the part of the State.</p>\n<p><span class=\"star-pagination\">*402</span> While, however, the court held the motion under advisement, it was voluntarily withdrawn, and the suit discontinued.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  But see the same suit post, and Grayson versus Virginia.</p>\n\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">2</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">401</span></span> (____)</b></center>\n<center><b>2 Dall. 401</b></center>\n<center><h1>OSWALD, Administrator,<br>\nversus<br>\nthe STATE of NEW-YORK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>SUMMONS. In this case the Marshall had returned the writ served; and now Sergeant moved for a distringas, to compel an appearance on the part of the State.</p>\n<p><span class=\"star-pagination\">*402</span> While, however, the court held the motion under advisement, it was voluntarily withdrawn, and the suit discontinued.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  But see the same suit post, and Grayson versus Virginia.</p>\n\n</div>", "id": 84679, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/84679/", "sha1": "4c8ee44186db4313909b3abfb0dbddb1bc81a6bd", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T08:59:27"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 401", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/84679/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Oswald v. State of New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 51652, 
+    "resource_uri": "/api/rest/v2/citation/51652/"
+  }, 
+  "id": 84679, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1792-02-14", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 401 (____)</b></center>\n<center><b>2 Dall. 401</b></center>\n<center><h1>OSWALD, Administrator,<br>\nversus<br>\nthe STATE of NEW-YORK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>SUMMONS. In this case the Marshall had returned the writ served; and now Sergeant moved for a distringas, to compel an appearance on the part of the State.</p>\n<p><span class=\"star-pagination\">*402</span> While, however, the court held the motion under advisement, it was voluntarily withdrawn, and the suit discontinued.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  But see the same suit post, and Grayson versus Virginia.</p>\n\n</div>", 
+  "time_retrieved": "2010-04-28T08:59:27", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">2</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">401</span></span> (____)</b></center>\n<center><b>2 Dall. 401</b></center>\n<center><h1>OSWALD, Administrator,<br>\nversus<br>\nthe STATE of NEW-YORK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>SUMMONS. In this case the Marshall had returned the writ served; and now Sergeant moved for a distringas, to compel an appearance on the part of the State.</p>\n<p><span class=\"star-pagination\">*402</span> While, however, the court held the motion under advisement, it was voluntarily withdrawn, and the suit discontinued.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  But see the same suit post, and Grayson versus Virginia.</p>\n\n</div>", 
+  "sha1": "4c8ee44186db4313909b3abfb0dbddb1bc81a6bd", 
+  "date_modified": "2014-12-21T01:23:40.519533", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/84679/oswald-v-state-of-new-york/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/165045/", 
+  "html": "<p class=\"case_cite\">2 U.S. 401</p>\n    <p class=\"case_cite\">2 Dall. 401</p>\n    <p class=\"case_cite\">1 L.Ed. 433</p>\n    <p class=\"parties\">Oswald, Administrator<br>v.<br>the State of New York</p>\n    <p class=\"date\">February Term, 1792.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Summons. In this case the Marshall had returned the writ served; and now Sergeant moved for a distringas, to compel an appearance on the part of the State.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">While, however, the court held the motion under advisement, it was voluntarily withdrawn, and the suit discontinued.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> But see the same suit post, and Grayfen versus Virginia.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/84679/"
+}

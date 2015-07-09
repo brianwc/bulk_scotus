@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/122774/bracon-v-illinois/", "blocked": false, "citation": {"case_name": "Bracon v. Illinois", "docket_number": "01-10355", "document_uris": ["/api/rest/v2/document/122774/"], "federal_cite_one": "537 U.S. 842", "federal_cite_three": null, "federal_cite_two": null, "id": 107127, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/107127/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-07", "date_modified": "2014-12-21T02:17:39.586653", "docket": "/api/rest/v2/docket/1515150/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.842.01-10355.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 842</p>\n    <p class=\"parties\">BRACON<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 01-10355.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE APPELLATE COURT OF ILLINOIS FOR THE FOURTH DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">App. Ct. Ill., 4th Dist. Certiorari denied. Reported below: 315 Ill. App. 3d 1236, 777 N. E. 2d 1093.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">842</span></span></p>\n    <p class=\"parties\">BRACON<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 01-10355.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE APPELLATE COURT OF ILLINOIS FOR THE FOURTH DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">App. Ct. Ill., 4th Dist. Certiorari denied. Reported below: <span class=\"citation no-link\"><span class=\"volume\">315</span> <span class=\"reporter\">Ill. App. 3d</span> <span class=\"page\">1236</span></span>, 777 N. E. 2d 1093.</p>\n    </div>\n    ", "id": 122774, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/122774/", "sha1": "b57ba71b05232e176145ee3cada6fa86be529081", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:49"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 842", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/122774/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bracon v. Illinois", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-10355", 
+    "id": 107127, 
+    "resource_uri": "/api/rest/v2/citation/107127/"
+  }, 
+  "id": 122774, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.842.01-10355.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:49", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">842</span></span></p>\n    <p class=\"parties\">BRACON<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 01-10355.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE APPELLATE COURT OF ILLINOIS FOR THE FOURTH DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">App. Ct. Ill., 4th Dist. Certiorari denied. Reported below: <span class=\"citation no-link\"><span class=\"volume\">315</span> <span class=\"reporter\">Ill. App. 3d</span> <span class=\"page\">1236</span></span>, 777 N. E. 2d 1093.</p>\n    </div>\n    ", 
+  "sha1": "b57ba71b05232e176145ee3cada6fa86be529081", 
+  "date_modified": "2014-12-21T02:17:39.586653", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/122774/bracon-v-illinois/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1515150/", 
+  "html": "<p class=\"case_cite\">537 U.S. 842</p>\n    <p class=\"parties\">BRACON<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 01-10355.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE APPELLATE COURT OF ILLINOIS FOR THE FOURTH DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">App. Ct. Ill., 4th Dist. Certiorari denied. Reported below: 315 Ill. App. 3d 1236, 777 N. E. 2d 1093.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/122774/"
+}

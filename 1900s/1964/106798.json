@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106798/telephone-news-system-inc-v-illinois-bell-telephon/", "blocked": false, "citation": {"case_name": "Telephone News System, Inc. v. Illinois Bell Telephone Co.", "docket_number": "772", "document_uris": ["/api/rest/v2/document/106798/"], "federal_cite_one": "376 U.S. 782", "federal_cite_three": null, "federal_cite_two": null, "id": 91181, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91181/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 10, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-04-06", "date_modified": "2014-12-21T01:53:46.132492", "docket": "/api/rest/v2/docket/1228175/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">376 U.S. 782</p>\n    <p class=\"case_cite\">84 S.Ct. 1134</p>\n    <p class=\"case_cite\">12 L.Ed.2d 83</p>\n    <p class=\"parties\">TELEPHONE NEWS SYSTEM, INC.,<br>v.<br>ILLINOIS BELL TELEPHONE CO. et al.</p>\n    <p class=\"docket\">No. 772.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 6, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Thomas D. Nash, Jr., for appellant.</p>\n      <p class=\"indent\">Solicitor General Cox, for appellee the United States.</p>\n      <p class=\"indent\">Walter J. Cummings, Jr., for appellee Illinois Bell Telephone Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>376 U.S. 782 (1964)</b></center>\n<center><h1>TELEPHONE NEWS SYSTEM, INC.,<br>\nv.<br>\nILLINOIS BELL TELEPHONE CO. ET AL.</h1></center>\n<center>No. 772.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Thomas D. Nash, Jr.</i> for appellant.</p>\n<p><i>Solicitor General Cox</i> for the United States, and <i>Walter J. Cummings, Jr.</i> for Illinois Bell Telephone Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">376</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">782</span></span> (1964)</b></center>\n<center><h1>TELEPHONE NEWS SYSTEM, INC.,<br>\nv.<br>\nILLINOIS BELL TELEPHONE CO. ET AL.</h1></center>\n<center>No. 772.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Thomas D. Nash, Jr.</i> for appellant.</p>\n<p><i>Solicitor General Cox</i> for the United States, and <i>Walter J. Cummings, Jr.</i> for Illinois Bell Telephone Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", "id": 106798, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106798/", "sha1": "04e18d48719148e6d0b2ba5548e802196363af0c", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "376 U.S. 782", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106798/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Telephone News System, Inc. v. Illinois Bell Telephone Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "772", 
+    "id": 91181, 
+    "resource_uri": "/api/rest/v2/citation/91181/"
+  }, 
+  "id": 106798, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-04-06", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>376 U.S. 782 (1964)</b></center>\n<center><h1>TELEPHONE NEWS SYSTEM, INC.,<br>\nv.<br>\nILLINOIS BELL TELEPHONE CO. ET AL.</h1></center>\n<center>No. 772.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Thomas D. Nash, Jr.</i> for appellant.</p>\n<p><i>Solicitor General Cox</i> for the United States, and <i>Walter J. Cummings, Jr.</i> for Illinois Bell Telephone Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">376</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">782</span></span> (1964)</b></center>\n<center><h1>TELEPHONE NEWS SYSTEM, INC.,<br>\nv.<br>\nILLINOIS BELL TELEPHONE CO. ET AL.</h1></center>\n<center>No. 772.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 6, 1964.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS.\n<p><i>Thomas D. Nash, Jr.</i> for appellant.</p>\n<p><i>Solicitor General Cox</i> for the United States, and <i>Walter J. Cummings, Jr.</i> for Illinois Bell Telephone Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "sha1": "04e18d48719148e6d0b2ba5548e802196363af0c", 
+  "date_modified": "2014-12-21T01:53:46.132492", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106798/telephone-news-system-inc-v-illinois-bell-telephon/", 
+  "citation_count": 10, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1228175/", 
+  "html": "<p class=\"case_cite\">376 U.S. 782</p>\n    <p class=\"case_cite\">84 S.Ct. 1134</p>\n    <p class=\"case_cite\">12 L.Ed.2d 83</p>\n    <p class=\"parties\">TELEPHONE NEWS SYSTEM, INC.,<br>v.<br>ILLINOIS BELL TELEPHONE CO. et al.</p>\n    <p class=\"docket\">No. 772.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 6, 1964</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Thomas D. Nash, Jr., for appellant.</p>\n      <p class=\"indent\">Solicitor General Cox, for appellee the United States.</p>\n      <p class=\"indent\">Walter J. Cummings, Jr., for appellee Illinois Bell Telephone Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106798/"
+}

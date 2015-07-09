@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/116309/sloan-v-jones-et-al-ante-p-956/", "blocked": false, "citation": {"case_name": "Sloan v. Jones, Ante, P. 956", "docket_number": "93-6117", "document_uris": ["/api/rest/v2/document/116309/"], "federal_cite_one": "510 U.S. 1067", "federal_cite_three": null, "federal_cite_two": null, "id": 100668, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/100668/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-01-10", "date_modified": "2014-12-21T02:13:57.847689", "docket": "/api/rest/v2/docket/2132106/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1067.93-6117.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1067</p>\n    <p class=\"parties\">Sloan<br>v.<br>Jones et al., ante, p. 956.</p>\n    <p class=\"docket\">No. 93-6117.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1067</span></span></p>\n    <p class=\"parties\">Sloan<br>v.<br>Jones et al., ante, p. 956.</p>\n    <p class=\"docket\">No. 93-6117.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "id": 116309, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/116309/", "sha1": "9dccfddd318e82458944330860bc4cbf565115c3", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1067", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/116309/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Sloan v. Jones, Ante, P. 956", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-6117", 
+    "id": 100668, 
+    "resource_uri": "/api/rest/v2/citation/100668/"
+  }, 
+  "id": 116309, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-01-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1067.93-6117.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1067</span></span></p>\n    <p class=\"parties\">Sloan<br>v.<br>Jones et al., ante, p. 956.</p>\n    <p class=\"docket\">No. 93-6117.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "9dccfddd318e82458944330860bc4cbf565115c3", 
+  "date_modified": "2014-12-21T02:13:57.847689", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/116309/sloan-v-jones-et-al-ante-p-956/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2132106/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1067</p>\n    <p class=\"parties\">Sloan<br>v.<br>Jones et al., ante, p. 956.</p>\n    <p class=\"docket\">No. 93-6117.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/116309/"
+}

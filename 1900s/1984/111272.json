@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/111272/timothy-g-baldwin-petitioner-v-frank-c/", "blocked": false, "citation": {"case_name": "Timothy G. Baldwin v. Frank C. Blackburn, Warden", "docket_number": "84-5383", "document_uris": ["/api/rest/v2/document/111272/"], "federal_cite_one": "468 U.S. 1246", "federal_cite_three": null, "federal_cite_two": null, "id": 95631, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/95631/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1984-09-09", "date_modified": "2014-12-21T02:07:33.853314", "docket": "/api/rest/v2/docket/1281577/", "download_url": "http://bulk.resource.org/courts.gov/c/US/468/468.US.1246.84-5383.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">468 U.S. 1246</p>\n    <p class=\"case_cite\">105 S.Ct. 44</p>\n    <p class=\"case_cite\">82 L.Ed.2d 937</p>\n    <p class=\"parties\">Timothy G. BALDWIN, petitioner,<br>v.<br>Frank C. BLACKBURN, Warden</p>\n    <p class=\"docket\">No. 84-5383</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">September 9, 1984</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The application for stay of execution of the sentence of death presented to Justice WHITE and by him referred to the Court is denied.  The petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n      <p class=\"indent\">Justice BRENNAN and Justice MARSHALL dissenting:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> 428 U.S. 153, 227, 231, 96 S.Ct. 2909, 2950, 2973, 49 L.Ed.2d 859 (1976), we would grant the application for stay of execution, grant certiorari and vacate the death sentence in this case.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">468</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1246</span></span></p>\n    <p class=\"case_cite\">105 S.Ct. 44</p>\n    <p class=\"case_cite\">82 L.Ed.2d 937</p>\n    <p class=\"parties\">Timothy G. BALDWIN, petitioner,<br>v.<br>Frank C. BLACKBURN, Warden</p>\n    <p class=\"docket\">No. 84-5383</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">September 9, 1984</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The application for stay of execution of the sentence of death presented to Justice WHITE and by him referred to the Court is denied.  The petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n      <p class=\"indent\">Justice BRENNAN and Justice MARSHALL dissenting:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> <span class=\"citation\" data-id=\"109532\"><a href=\"/opinion/109532/gregg-v-georgia/\"><span class=\"volume\">428</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">153</span></a></span>, 227, 231, 96 S.Ct. 2909, 2950, 2973, 49 L.Ed.2d 859 (1976), we would grant the application for stay of execution, grant certiorari and vacate the death sentence in this case.</p>\n    </div>\n    ", "id": 111272, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/111272/", "sha1": "b6e2c4a167f500c5a17c94a3fec03bddad91754e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:13:07"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "468 U.S. 1246", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/111272/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Timothy G. Baldwin v. Frank C. Blackburn, Warden", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "84-5383", 
+    "id": 95631, 
+    "resource_uri": "/api/rest/v2/citation/95631/"
+  }, 
+  "id": 111272, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1984-09-09", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/468/468.US.1246.84-5383.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:13:07", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">468</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1246</span></span></p>\n    <p class=\"case_cite\">105 S.Ct. 44</p>\n    <p class=\"case_cite\">82 L.Ed.2d 937</p>\n    <p class=\"parties\">Timothy G. BALDWIN, petitioner,<br>v.<br>Frank C. BLACKBURN, Warden</p>\n    <p class=\"docket\">No. 84-5383</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">September 9, 1984</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The application for stay of execution of the sentence of death presented to Justice WHITE and by him referred to the Court is denied.  The petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n      <p class=\"indent\">Justice BRENNAN and Justice MARSHALL dissenting:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> <span class=\"citation\" data-id=\"109532\"><a href=\"/opinion/109532/gregg-v-georgia/\"><span class=\"volume\">428</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">153</span></a></span>, 227, 231, 96 S.Ct. 2909, 2950, 2973, 49 L.Ed.2d 859 (1976), we would grant the application for stay of execution, grant certiorari and vacate the death sentence in this case.</p>\n    </div>\n    ", 
+  "sha1": "b6e2c4a167f500c5a17c94a3fec03bddad91754e", 
+  "date_modified": "2014-12-21T02:07:33.853314", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/111272/timothy-g-baldwin-petitioner-v-frank-c/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1281577/", 
+  "html": "<p class=\"case_cite\">468 U.S. 1246</p>\n    <p class=\"case_cite\">105 S.Ct. 44</p>\n    <p class=\"case_cite\">82 L.Ed.2d 937</p>\n    <p class=\"parties\">Timothy G. BALDWIN, petitioner,<br>v.<br>Frank C. BLACKBURN, Warden</p>\n    <p class=\"docket\">No. 84-5383</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">September 9, 1984</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The application for stay of execution of the sentence of death presented to Justice WHITE and by him referred to the Court is denied.  The petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</p>\n      <p class=\"indent\">Justice BRENNAN and Justice MARSHALL dissenting:</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Adhering to our views that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, <i>Gregg v. Georgia,</i> 428 U.S. 153, 227, 231, 96 S.Ct. 2909, 2950, 2973, 49 L.Ed.2d 859 (1976), we would grant the application for stay of execution, grant certiorari and vacate the death sentence in this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/111272/"
+}

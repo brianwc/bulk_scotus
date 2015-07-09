@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107022/usac-transport-inc-v-united-states/", "blocked": false, "citation": {"case_name": "USAC Transport, Inc. v. United States", "docket_number": "856", "document_uris": ["/api/rest/v2/document/107022/"], "federal_cite_one": "380 U.S. 450", "federal_cite_three": null, "federal_cite_two": null, "id": 91381, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91381/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-04-05", "date_modified": "2014-12-21T01:54:08.070777", "docket": "/api/rest/v2/docket/1388432/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">380 U.S. 450</p>\n    <p class=\"case_cite\">85 S.Ct. 1103</p>\n    <p class=\"case_cite\">14 L.Ed.2d 151</p>\n    <p class=\"parties\">U. S. A. C. TRANSPORT, INC.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 856.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 5, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Paul F. Sullivan, for appellant.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Jerry Z. Pruzansky, Robert W. Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>380 U.S. 450 (1965)</b></center>\n<center><h1>U. S. A. C. TRANSPORT, INC.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 856.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 5, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE.\n<p><i>Paul F. Sullivan</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Jerry Z. Pruzansky, Robert W. Ginnane</i> and <i>Betty Jo Christian</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">450</span></span> (1965)</b></center>\n<center><h1>U. S. A. C. TRANSPORT, INC.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 856.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 5, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE.\n<p><i>Paul F. Sullivan</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Jerry Z. Pruzansky, Robert W. Ginnane</i> and <i>Betty Jo Christian</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "id": 107022, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107022/", "sha1": "10e2c4797faf70268858575b18a256eacd8edbba", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "380 U.S. 450", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107022/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "USAC Transport, Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "856", 
+    "id": 91381, 
+    "resource_uri": "/api/rest/v2/citation/91381/"
+  }, 
+  "id": 107022, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-04-05", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>380 U.S. 450 (1965)</b></center>\n<center><h1>U. S. A. C. TRANSPORT, INC.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 856.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 5, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE.\n<p><i>Paul F. Sullivan</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Jerry Z. Pruzansky, Robert W. Ginnane</i> and <i>Betty Jo Christian</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">450</span></span> (1965)</b></center>\n<center><h1>U. S. A. C. TRANSPORT, INC.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 856.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 5, 1965.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE.\n<p><i>Paul F. Sullivan</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Jerry Z. Pruzansky, Robert W. Ginnane</i> and <i>Betty Jo Christian</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "sha1": "10e2c4797faf70268858575b18a256eacd8edbba", 
+  "date_modified": "2014-12-21T01:54:08.070777", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107022/usac-transport-inc-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1388432/", 
+  "html": "<p class=\"case_cite\">380 U.S. 450</p>\n    <p class=\"case_cite\">85 S.Ct. 1103</p>\n    <p class=\"case_cite\">14 L.Ed.2d 151</p>\n    <p class=\"parties\">U. S. A. C. TRANSPORT, INC.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 856.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 5, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Paul F. Sullivan, for appellant.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Orrick, Robert B. Hummel, Jerry Z. Pruzansky, Robert W. Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107022/"
+}

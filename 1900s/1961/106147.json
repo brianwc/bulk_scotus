@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106147/allred-v-heaton/", "blocked": false, "citation": {"case_name": "Allred v. Heaton", "docket_number": "518", "document_uris": ["/api/rest/v2/document/106147/"], "federal_cite_one": "364 U.S. 517", "federal_cite_three": null, "federal_cite_two": null, "id": 90530, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90530/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-01-16", "date_modified": "2014-12-21T01:51:46.226368", "docket": "/api/rest/v2/docket/2523070/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">364 U.S. 517</p>\n    <p class=\"case_cite\">81 S.Ct. 293</p>\n    <p class=\"case_cite\">5 L.Ed.2d 265</p>\n    <p class=\"parties\">Margaret E. ALLRED et al.<br>v.<br>H. L. HEATON et al.</p>\n    <p class=\"docket\">No. 518.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 19, 1960</p>\n    <p class=\"date\">Rehearing Denied Jan. 16, 1961.</p>\n    <div class=\"prelims\">\n      <p>See 364 U.S. 944, 81 S.Ct. 459.</p>\n      <p class=\"indent\">John M. Barron, for appellants.</p>\n      <p class=\"indent\">Will Wilson, Atty. Gen. of Texas, Leonard Passmore, First Asst. Atty. Gen., and John Reeves, Asst. Atty. Gen., for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that further consideration of the question of jurisdiction should be postponed to the hearing of the case on the merits.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>364 U.S. 517 (1960)</b></center>\n<center><h1>ALLRED ET AL.<br>\nv.<br>\nHEATON ET AL.</h1></center>\n<center>No. 518.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 19, 1960.</center>\nAPPEAL FROM THE COURT OF CIVIL APPEALS OF TEXAS, TENTH SUPREME JUDICIAL DISTRICT.\n<p><i>John M. Barron</i> for appellants.</p>\n<p><i>Will Wilson,</i> Attorney General of Texas, <i>Leonard Passmore,</i> First Assistant Attorney General, and <i>John Reeves,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that further consideration of the question of jurisdiction should be postponed to the hearing of the case on the merits.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">364</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">517</span></span> (1960)</b></center>\n<center><h1>ALLRED ET AL.<br>\nv.<br>\nHEATON ET AL.</h1></center>\n<center>No. 518.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 19, 1960.</center>\nAPPEAL FROM THE COURT OF CIVIL APPEALS OF TEXAS, TENTH SUPREME JUDICIAL DISTRICT.\n<p><i>John M. Barron</i> for appellants.</p>\n<p><i>Will Wilson,</i> Attorney General of Texas, <i>Leonard Passmore,</i> First Assistant Attorney General, and <i>John Reeves,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that further consideration of the question of jurisdiction should be postponed to the hearing of the case on the merits.</p>\n</div>", "id": 106147, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106147/", "sha1": "ec16e78fa92d7fb184095e6fa05ba1294d33a46b", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "364 U.S. 517", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106147/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Allred v. Heaton", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "518", 
+    "id": 90530, 
+    "resource_uri": "/api/rest/v2/citation/90530/"
+  }, 
+  "id": 106147, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-01-16", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>364 U.S. 517 (1960)</b></center>\n<center><h1>ALLRED ET AL.<br>\nv.<br>\nHEATON ET AL.</h1></center>\n<center>No. 518.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 19, 1960.</center>\nAPPEAL FROM THE COURT OF CIVIL APPEALS OF TEXAS, TENTH SUPREME JUDICIAL DISTRICT.\n<p><i>John M. Barron</i> for appellants.</p>\n<p><i>Will Wilson,</i> Attorney General of Texas, <i>Leonard Passmore,</i> First Assistant Attorney General, and <i>John Reeves,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that further consideration of the question of jurisdiction should be postponed to the hearing of the case on the merits.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">364</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">517</span></span> (1960)</b></center>\n<center><h1>ALLRED ET AL.<br>\nv.<br>\nHEATON ET AL.</h1></center>\n<center>No. 518.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 19, 1960.</center>\nAPPEAL FROM THE COURT OF CIVIL APPEALS OF TEXAS, TENTH SUPREME JUDICIAL DISTRICT.\n<p><i>John M. Barron</i> for appellants.</p>\n<p><i>Will Wilson,</i> Attorney General of Texas, <i>Leonard Passmore,</i> First Assistant Attorney General, and <i>John Reeves,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that further consideration of the question of jurisdiction should be postponed to the hearing of the case on the merits.</p>\n</div>", 
+  "sha1": "ec16e78fa92d7fb184095e6fa05ba1294d33a46b", 
+  "date_modified": "2014-12-21T01:51:46.226368", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106147/allred-v-heaton/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2523070/", 
+  "html": "<p class=\"case_cite\">364 U.S. 517</p>\n    <p class=\"case_cite\">81 S.Ct. 293</p>\n    <p class=\"case_cite\">5 L.Ed.2d 265</p>\n    <p class=\"parties\">Margaret E. ALLRED et al.<br>v.<br>H. L. HEATON et al.</p>\n    <p class=\"docket\">No. 518.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 19, 1960</p>\n    <p class=\"date\">Rehearing Denied Jan. 16, 1961.</p>\n    <div class=\"prelims\">\n      <p>See 364 U.S. 944, 81 S.Ct. 459.</p>\n      <p class=\"indent\">John M. Barron, for appellants.</p>\n      <p class=\"indent\">Will Wilson, Atty. Gen. of Texas, Leonard Passmore, First Asst. Atty. Gen., and John Reeves, Asst. Atty. Gen., for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that further consideration of the question of jurisdiction should be postponed to the hearing of the case on the merits.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106147/"
+}

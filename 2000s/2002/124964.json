@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/124964/colburn-v-cockrell-director-texas-department/", "blocked": false, "citation": {"case_name": "Colburn v. Cockrell, Director, Texas Department of Criminal Justice, Institutional Division", "docket_number": "02-6250 (02A345)", "document_uris": ["/api/rest/v2/document/124964/"], "federal_cite_one": "537 U.S. 1015", "federal_cite_three": null, "federal_cite_two": null, "id": 109317, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/109317/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-11-05", "date_modified": "2014-12-21T02:17:57.321339", "docket": "/api/rest/v2/docket/2102808/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1015.02-6250.02.345.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1015</p>\n    <p class=\"parties\">COLBURN<br>v.<br>COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION.</p>\n    <p class=\"docket\">No. 02-6250 (02A345).</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 5, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Application for stay of execution of sentence of death, presented to JUSTICE SCALIA, and by him referred to the Court, denied. Certiorari denied. JUSTICE STEVENS and JUSTICE GINSBURG would grant the application for stay of execution. Reported below: 37 Fed. Appx. 90.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1015</span></span></p>\n    <p class=\"parties\">COLBURN<br>v.<br>COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION.</p>\n    <p class=\"docket\">No. 02-6250 (02A345).</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 5, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Application for stay of execution of sentence of death, presented to JUSTICE SCALIA, and by him referred to the Court, denied. Certiorari denied. JUSTICE STEVENS and JUSTICE GINSBURG would grant the application for stay of execution. Reported below: 37 Fed. Appx. 90.</p>\n    </div>\n    ", "id": 124964, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/124964/", "sha1": "16a2af58869f792cd2dd3696de943827692fb2e7", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:25"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1015", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/124964/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Colburn v. Cockrell, Director, Texas Department of Criminal Justice, Institutional Division", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-6250 (02A345)", 
+    "id": 109317, 
+    "resource_uri": "/api/rest/v2/citation/109317/"
+  }, 
+  "id": 124964, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-11-05", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1015.02-6250.02.345.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:25", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1015</span></span></p>\n    <p class=\"parties\">COLBURN<br>v.<br>COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION.</p>\n    <p class=\"docket\">No. 02-6250 (02A345).</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 5, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Application for stay of execution of sentence of death, presented to JUSTICE SCALIA, and by him referred to the Court, denied. Certiorari denied. JUSTICE STEVENS and JUSTICE GINSBURG would grant the application for stay of execution. Reported below: 37 Fed. Appx. 90.</p>\n    </div>\n    ", 
+  "sha1": "16a2af58869f792cd2dd3696de943827692fb2e7", 
+  "date_modified": "2014-12-21T02:17:57.321339", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/124964/colburn-v-cockrell-director-texas-department/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2102808/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1015</p>\n    <p class=\"parties\">COLBURN<br>v.<br>COCKRELL, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, INSTITUTIONAL DIVISION.</p>\n    <p class=\"docket\">No. 02-6250 (02A345).</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 5, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Application for stay of execution of sentence of death, presented to JUSTICE SCALIA, and by him referred to the Court, denied. Certiorari denied. JUSTICE STEVENS and JUSTICE GINSBURG would grant the application for stay of execution. Reported below: 37 Fed. Appx. 90.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/124964/"
+}

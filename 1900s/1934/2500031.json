@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2500031/helvering-v-northern-coal-co/", "blocked": false, "citation": {"case_name": "Helvering v. Northern Coal Co.", "docket_number": "18 (October Term, 1933)", "document_uris": ["/api/rest/v2/document/2500031/"], "federal_cite_one": "293 U.S. 191", "federal_cite_three": null, "federal_cite_two": null, "id": 2472803, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2472803/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1934-10-22", "date_modified": "2014-10-30T04:07:23.740322", "docket": "/api/rest/v2/docket/639398/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>293 U.S. 191 (1934)</b></center>\n<center><h1>HELVERING, COMMISSIONER OF INTERNAL REVENUE,<br>\nv.<br>\nNORTHERN COAL CO.<sup>[*]</sup></h1></center>\n<center>No. 18 (October Term, 1933).</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Petition for Rehearing Argued October 8, 1934.</center>\n<center>Decided October 22, 1934.</center>\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIRST CIRCUIT.\n<p><span class=\"star-pagination\">*192</span> <i>Mr. Justin Miller,</i> with whom <i>Solicitor General Biggs</i> and <i>Mr. Erwin N. Griswold</i> were on the brief, for petitioner.</p>\n<p><i>Mr. Paul F. Myers,</i> with whom <i>Mr. Edmund B. Quiggle</i> was on the brief, for respondents in Nos. 18 and 19.</p>\n<p><i>Mr. W.W. Montgomery,</i> with whom <i>Mr. Robert P. Smith</i> was on the brief, for respondent in No. 20.</p>\n<p><i>Mr. Douglas Swift</i> for respondent in No. 21.</p>\n<p><span class=\"star-pagination\">*193</span> PER CURIAM.</p>\n<p>In these cases, the judgments were severally affirmed on October 23, 1933, by an equally divided Court. 290 U.S. 591. Petitions for rehearing in Nos. 18, 19, and 21 were denied on November 20, 1933. The mandates of the Court were severally issued in the four cases on November 29, 1933. The present petitions for rehearing were filed on May 21, 1934.</p>\n<p>Section 1005 (a) (4) of the Revenue Act of 1926, c. 27, 44 Stat. 9, 110, 111, U.S.C., Tit. 26, § 640, with respect to decisions of the Board of Tax Appeals, provides:</p>\n<p>\"Sec. 1005 (a). The decision of the Board shall become final . . .</p>\n<p>(4) Upon the expiration of 30 days from the date of issuance of the mandate of the Supreme Court, if such Court directs that the decision of the Board be affirmed or the petition for review dismissed.\"</p>\n<p>In view of the authoritative and explicit requirement of the statute and of its application to these cases, the petitions for rehearing are severally denied.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 19 (October Term, 1933), <i>Helvering</i> v. <i>C.H. Sprague &amp; Son Co.,</i> certiorari to the Circuit Court of Appeals for the First Circuit; No. 20 (October Term, 1933), <i>Helvering</i> v. <i>U.S. Refractories Corp.,</i> certiorari to the Circuit Court of Appeals for the Third Circuit; and No. 21 (October Term, 1933), <i>Helvering</i> v. <i>Oswego &amp; Syracuse R. Co.,</i> certiorari to the Circuit Court of Appeals for the Second Circuit.</p>\n\n</div>", "html_with_citations": "", "id": 2500031, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2500031/", "sha1": "ee80fe665a467234dd86d1cd991a29e128dd83c1", "source": "L", "time_retrieved": "2013-10-30T02:57:59.234670"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "293 U.S. 191", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2500031/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Helvering v. Northern Coal Co.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "18 (October Term, 1933)", 
+    "id": 2472803, 
+    "resource_uri": "/api/rest/v2/citation/2472803/"
+  }, 
+  "id": 2500031, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1934-10-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>293 U.S. 191 (1934)</b></center>\n<center><h1>HELVERING, COMMISSIONER OF INTERNAL REVENUE,<br>\nv.<br>\nNORTHERN COAL CO.<sup>[*]</sup></h1></center>\n<center>No. 18 (October Term, 1933).</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Petition for Rehearing Argued October 8, 1934.</center>\n<center>Decided October 22, 1934.</center>\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FIRST CIRCUIT.\n<p><span class=\"star-pagination\">*192</span> <i>Mr. Justin Miller,</i> with whom <i>Solicitor General Biggs</i> and <i>Mr. Erwin N. Griswold</i> were on the brief, for petitioner.</p>\n<p><i>Mr. Paul F. Myers,</i> with whom <i>Mr. Edmund B. Quiggle</i> was on the brief, for respondents in Nos. 18 and 19.</p>\n<p><i>Mr. W.W. Montgomery,</i> with whom <i>Mr. Robert P. Smith</i> was on the brief, for respondent in No. 20.</p>\n<p><i>Mr. Douglas Swift</i> for respondent in No. 21.</p>\n<p><span class=\"star-pagination\">*193</span> PER CURIAM.</p>\n<p>In these cases, the judgments were severally affirmed on October 23, 1933, by an equally divided Court. 290 U.S. 591. Petitions for rehearing in Nos. 18, 19, and 21 were denied on November 20, 1933. The mandates of the Court were severally issued in the four cases on November 29, 1933. The present petitions for rehearing were filed on May 21, 1934.</p>\n<p>Section 1005 (a) (4) of the Revenue Act of 1926, c. 27, 44 Stat. 9, 110, 111, U.S.C., Tit. 26, \u00a7 640, with respect to decisions of the Board of Tax Appeals, provides:</p>\n<p>\"Sec. 1005 (a). The decision of the Board shall become final \u0097. . .</p>\n<p>(4) Upon the expiration of 30 days from the date of issuance of the mandate of the Supreme Court, if such Court directs that the decision of the Board be affirmed or the petition for review dismissed.\"</p>\n<p>In view of the authoritative and explicit requirement of the statute and of its application to these cases, the petitions for rehearing are severally denied.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 19 (October Term, 1933), <i>Helvering</i> v. <i>C.H. Sprague &amp; Son Co.,</i> certiorari to the Circuit Court of Appeals for the First Circuit; No. 20 (October Term, 1933), <i>Helvering</i> v. <i>U.S. Refractories Corp.,</i> certiorari to the Circuit Court of Appeals for the Third Circuit; and No. 21 (October Term, 1933), <i>Helvering</i> v. <i>Oswego &amp; Syracuse R. Co.,</i> certiorari to the Circuit Court of Appeals for the Second Circuit.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T02:57:59.234670", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ee80fe665a467234dd86d1cd991a29e128dd83c1", 
+  "date_modified": "2014-10-30T04:07:23.740322", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2500031/helvering-v-northern-coal-co/", 
+  "citation_count": 6, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/639398/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2500031/"
+}

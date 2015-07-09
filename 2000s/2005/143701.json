@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/143701/morales-v-crosby-secretary-florida-department/", "blocked": false, "citation": {"case_name": "Morales v. Crosby, Secretary, Florida Department of Corrections", "docket_number": "04-8477", "document_uris": ["/api/rest/v2/document/143701/"], "federal_cite_one": "544 U.S. 965", "federal_cite_three": null, "federal_cite_two": null, "id": 128053, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/128053/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-04-04", "date_modified": "2014-12-21T02:21:54.156425", "docket": "/api/rest/v2/docket/416635/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.965.04-8477.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 965</p>\n    <p class=\"parties\">MORALES<br><i>v.</i><br>CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-8477.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">965</span></span></p>\n    <p class=\"parties\">MORALES<br><i>v.</i><br>CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-8477.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 143701, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/143701/", "sha1": "749285635250369a2ce6484c67c83c1271b31fe3", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:59:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 965", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/143701/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Morales v. Crosby, Secretary, Florida Department of Corrections", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-8477", 
+    "id": 128053, 
+    "resource_uri": "/api/rest/v2/citation/128053/"
+  }, 
+  "id": 143701, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-04-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.965.04-8477.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:59:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">965</span></span></p>\n    <p class=\"parties\">MORALES<br><i>v.</i><br>CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-8477.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "749285635250369a2ce6484c67c83c1271b31fe3", 
+  "date_modified": "2014-12-21T02:21:54.156425", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/143701/morales-v-crosby-secretary-florida-department/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/416635/", 
+  "html": "<p class=\"case_cite\">544 U.S. 965</p>\n    <p class=\"parties\">MORALES<br><i>v.</i><br>CROSBY, SECRETARY, FLORIDA DEPARTMENT OF CORRECTIONS.</p>\n    <p class=\"docket\">No. 04-8477.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 4, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 11th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/143701/"
+}

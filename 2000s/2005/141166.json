@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/141166/burke-v-north-carolina/", "blocked": false, "citation": {"case_name": "Burke v. North Carolina", "docket_number": "04-7104", "document_uris": ["/api/rest/v2/document/141166/"], "federal_cite_one": "543 U.S. 1067", "federal_cite_three": null, "federal_cite_two": null, "id": 125519, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/125519/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-01-10", "date_modified": "2014-12-21T02:21:00.717643", "docket": "/api/rest/v2/docket/453274/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1067.04-7104.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1067</p>\n    <p class=\"parties\">BURKE<br>v.<br>NORTH CAROLINA.</p>\n    <p class=\"docket\">No. 04-7104.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Gen. Ct. Justice, Super. Ct. Div., Iredell County, N. C. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1067</span></span></p>\n    <p class=\"parties\">BURKE<br>v.<br>NORTH CAROLINA.</p>\n    <p class=\"docket\">No. 04-7104.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Gen. Ct. Justice, Super. Ct. Div., Iredell County, N. C. Certiorari denied.</p>\n    </div>\n    ", "id": 141166, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/141166/", "sha1": "67d0da2418e5bf9d5d4b9a42a48992e5b3be1257", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:33:23"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1067", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/141166/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Burke v. North Carolina", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-7104", 
+    "id": 125519, 
+    "resource_uri": "/api/rest/v2/citation/125519/"
+  }, 
+  "id": 141166, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-01-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1067.04-7104.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:33:23", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1067</span></span></p>\n    <p class=\"parties\">BURKE<br>v.<br>NORTH CAROLINA.</p>\n    <p class=\"docket\">No. 04-7104.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Gen. Ct. Justice, Super. Ct. Div., Iredell County, N. C. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "67d0da2418e5bf9d5d4b9a42a48992e5b3be1257", 
+  "date_modified": "2014-12-21T02:21:00.717643", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/141166/burke-v-north-carolina/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/453274/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1067</p>\n    <p class=\"parties\">BURKE<br>v.<br>NORTH CAROLINA.</p>\n    <p class=\"docket\">No. 04-7104.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 10, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Gen. Ct. Justice, Super. Ct. Div., Iredell County, N. C. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/141166/"
+}

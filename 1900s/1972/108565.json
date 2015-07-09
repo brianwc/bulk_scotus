@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108565/wayman-patterson-petitioner-v-russell-lash/", "blocked": false, "citation": {"case_name": "Wayman Patterson v. Russell Lash, Warden", "docket_number": "71-6104", "document_uris": ["/api/rest/v2/document/108565/"], "federal_cite_one": "406 U.S. 978", "federal_cite_three": null, "federal_cite_two": null, "id": 92924, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92924/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1972-06-07", "date_modified": "2014-12-21T01:58:19.687729", "docket": "/api/rest/v2/docket/2244302/", "download_url": "http://bulk.resource.org/courts.gov/c/US/406/406.US.978.71-6104.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">406 U.S. 978</p>\n    <p class=\"case_cite\">92 S.Ct. 2422</p>\n    <p class=\"case_cite\">32 L.Ed.2d 678</p>\n    <p class=\"parties\">Wayman PATTERSON, petitioner,<br>v.<br>Russell LASH, Warden.</p>\n    <p class=\"docket\">No. 71-6104.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 7, 1972</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">406</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">978</span></span></p>\n    <p class=\"case_cite\">92 S.Ct. 2422</p>\n    <p class=\"case_cite\">32 L.Ed.2d 678</p>\n    <p class=\"parties\">Wayman PATTERSON, petitioner,<br>v.<br>Russell LASH, Warden.</p>\n    <p class=\"docket\">No. 71-6104.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 7, 1972</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", "id": 108565, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108565/", "sha1": "69e955eedbf36361fe1a134c784cb134266eb522", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:36"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "406 U.S. 978", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/108565/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Wayman Patterson v. Russell Lash, Warden", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "71-6104", 
+    "id": 92924, 
+    "resource_uri": "/api/rest/v2/citation/92924/"
+  }, 
+  "id": 108565, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1972-06-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/406/406.US.978.71-6104.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:36", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">406</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">978</span></span></p>\n    <p class=\"case_cite\">92 S.Ct. 2422</p>\n    <p class=\"case_cite\">32 L.Ed.2d 678</p>\n    <p class=\"parties\">Wayman PATTERSON, petitioner,<br>v.<br>Russell LASH, Warden.</p>\n    <p class=\"docket\">No. 71-6104.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 7, 1972</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "69e955eedbf36361fe1a134c784cb134266eb522", 
+  "date_modified": "2014-12-21T01:58:19.687729", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108565/wayman-patterson-petitioner-v-russell-lash/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2244302/", 
+  "html": "<p class=\"case_cite\">406 U.S. 978</p>\n    <p class=\"case_cite\">92 S.Ct. 2422</p>\n    <p class=\"case_cite\">32 L.Ed.2d 678</p>\n    <p class=\"parties\">Wayman PATTERSON, petitioner,<br>v.<br>Russell LASH, Warden.</p>\n    <p class=\"docket\">No. 71-6104.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 7, 1972</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petition for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108565/"
+}

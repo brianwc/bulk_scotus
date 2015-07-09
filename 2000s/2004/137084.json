@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/137084/gordon-et-al-v-alabama-et-al/", "blocked": false, "citation": {"case_name": "Gordon v. Alabama", "docket_number": "03-9848", "document_uris": ["/api/rest/v2/document/137084/"], "federal_cite_one": "542 U.S. 908", "federal_cite_three": null, "federal_cite_two": null, "id": 121437, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121437/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-14", "date_modified": "2014-12-21T02:20:25.357853", "docket": "/api/rest/v2/docket/359859/", "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.908.03-9848.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">542 U.S. 908</p>\n    <p class=\"parties\">GORDON ET AL.<br>v.<br>ALABAMA ET AL.</p>\n    <p class=\"docket\">No. 03-9848.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ala. Certiorari denied. Reported below: ___ So. 2d ___.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">908</span></span></p>\n    <p class=\"parties\">GORDON ET AL.<br>v.<br>ALABAMA ET AL.</p>\n    <p class=\"docket\">No. 03-9848.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ala. Certiorari denied. Reported below: ___ So. 2d ___.</p>\n    </div>\n    ", "id": 137084, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/137084/", "sha1": "47bc5f0210590ed5f7acbf6417a06bb89d69dc09", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:30:39"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "542 U.S. 908", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/137084/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Gordon v. Alabama", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9848", 
+    "id": 121437, 
+    "resource_uri": "/api/rest/v2/citation/121437/"
+  }, 
+  "id": 137084, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.908.03-9848.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:30:39", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">908</span></span></p>\n    <p class=\"parties\">GORDON ET AL.<br>v.<br>ALABAMA ET AL.</p>\n    <p class=\"docket\">No. 03-9848.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ala. Certiorari denied. Reported below: ___ So. 2d ___.</p>\n    </div>\n    ", 
+  "sha1": "47bc5f0210590ed5f7acbf6417a06bb89d69dc09", 
+  "date_modified": "2014-12-21T02:20:25.357853", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/137084/gordon-et-al-v-alabama-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/359859/", 
+  "html": "<p class=\"case_cite\">542 U.S. 908</p>\n    <p class=\"parties\">GORDON ET AL.<br>v.<br>ALABAMA ET AL.</p>\n    <p class=\"docket\">No. 03-9848.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 14, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ala. Certiorari denied. Reported below: ___ So. 2d ___.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/137084/"
+}

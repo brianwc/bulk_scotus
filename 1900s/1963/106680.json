@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106680/shockey-v-illinois/", "blocked": false, "citation": {"case_name": "Shockey v. Illinois", "docket_number": "20 M", "document_uris": ["/api/rest/v2/document/106680/"], "federal_cite_one": "375 U.S. 22", "federal_cite_three": "11 L. Ed. 2d 43", "federal_cite_two": "84 S. Ct. 83", "id": 91063, "lexis_cite": "1963 U.S. LEXIS 531", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91063/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-10-14", "date_modified": "2014-12-21T01:53:38.510789", "docket": "/api/rest/v2/docket/2533215/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">375 U.S. 22</p>\n    <p class=\"case_cite\">84 S.Ct. 83</p>\n    <p class=\"case_cite\">11 L.Ed.2d 43</p>\n    <p class=\"parties\">Eugene F. SHOCKEY<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 20, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">John R. Snively, for petitioner.</p>\n      <p class=\"indent\">William G. Clark, Atty. Gen. of Illinois, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Illinois.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Illinois for further consideration in light of Douglas v. California, 372 U.S. 353, 83 S.Ct. 814, 9 L.Ed.2d 811.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN, for the reasons stated in Daegele v. Kansas, 375 U.S. 1, 84 S.Ct. 89, would have withheld disposition of this petition for certiorari until the disposition, after argument, of that case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>375 U.S. 22 (1963)</b></center>\n<center><h1>SHOCKEY<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 20, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ILLINOIS.\n<p><i>John R. Snively</i> for petitioner.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Illinois for further consideration in light of <i>Douglas</i> v. <i>California,</i> 372 U. S. 353.</p>\n<p>MR. JUSTICE HARLAN, for the reasons stated in <i>Daegele</i> v. <i>Kansas, ante,</i> p. 1, would have withheld disposition of this petition for certiorari until the disposition, after argument, of that case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">22</span></span> (1963)</b></center>\n<center><h1>SHOCKEY<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 20, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ILLINOIS.\n<p><i>John R. Snively</i> for petitioner.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Illinois for further consideration in light of <i>Douglas</i> v. <i>California,</i> 372 U. S. 353.</p>\n<p>MR. JUSTICE HARLAN, for the reasons stated in <i>Daegele</i> v. <i>Kansas, ante,</i> p. 1, would have withheld disposition of this petition for certiorari until the disposition, after argument, of that case.</p>\n</div>", "id": 106680, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106680/", "sha1": "a2c84976625b4371ac8230f230927c63ae7c4056", "source": "LR", "supreme_court_db_id": "1963-007", "time_retrieved": "2010-04-28T10:10:46"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 22", 
+    "federal_cite_two": "84 S. Ct. 83", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "11 L. Ed. 2d 43", 
+    "lexis_cite": "1963 U.S. LEXIS 531", 
+    "document_uris": [
+      "/api/rest/v2/document/106680/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Shockey v. Illinois", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "20 M", 
+    "id": 91063, 
+    "resource_uri": "/api/rest/v2/citation/91063/"
+  }, 
+  "id": 106680, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-10-14", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 22 (1963)</b></center>\n<center><h1>SHOCKEY<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 20, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ILLINOIS.\n<p><i>John R. Snively</i> for petitioner.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Illinois for further consideration in light of <i>Douglas</i> v. <i>California,</i> 372 U. S. 353.</p>\n<p>MR. JUSTICE HARLAN, for the reasons stated in <i>Daegele</i> v. <i>Kansas, ante,</i> p. 1, would have withheld disposition of this petition for certiorari until the disposition, after argument, of that case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:46", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">22</span></span> (1963)</b></center>\n<center><h1>SHOCKEY<br>\nv.<br>\nILLINOIS.</h1></center>\n<center>No. 20, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ILLINOIS.\n<p><i>John R. Snively</i> for petitioner.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Illinois for further consideration in light of <i>Douglas</i> v. <i>California,</i> 372 U. S. 353.</p>\n<p>MR. JUSTICE HARLAN, for the reasons stated in <i>Daegele</i> v. <i>Kansas, ante,</i> p. 1, would have withheld disposition of this petition for certiorari until the disposition, after argument, of that case.</p>\n</div>", 
+  "sha1": "a2c84976625b4371ac8230f230927c63ae7c4056", 
+  "date_modified": "2014-12-21T01:53:38.510789", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106680/shockey-v-illinois/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": "1963-007", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2533215/", 
+  "html": "<p class=\"case_cite\">375 U.S. 22</p>\n    <p class=\"case_cite\">84 S.Ct. 83</p>\n    <p class=\"case_cite\">11 L.Ed.2d 43</p>\n    <p class=\"parties\">Eugene F. SHOCKEY<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 20, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">John R. Snively, for petitioner.</p>\n      <p class=\"indent\">William G. Clark, Atty. Gen. of Illinois, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Illinois.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Illinois for further consideration in light of Douglas v. California, 372 U.S. 353, 83 S.Ct. 814, 9 L.Ed.2d 811.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN, for the reasons stated in Daegele v. Kansas, 375 U.S. 1, 84 S.Ct. 89, would have withheld disposition of this petition for certiorari until the disposition, after argument, of that case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106680/"
+}

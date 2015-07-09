@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107812/wilson-v-kelley/", "blocked": false, "citation": {"case_name": "Wilson v. Kelley", "docket_number": "561", "document_uris": ["/api/rest/v2/document/107812/"], "federal_cite_one": "393 U.S. 266", "federal_cite_three": null, "federal_cite_two": null, "id": 92171, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92171/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-01-13", "date_modified": "2014-12-21T01:56:06.384594", "docket": "/api/rest/v2/docket/274808/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">393 U.S. 266</p>\n    <p class=\"case_cite\">89 S.Ct. 477</p>\n    <p class=\"case_cite\">21 L.Ed.2d 425</p>\n    <p class=\"parties\">Johnny C. WILSON et al.<br>v.<br>Asa D. KELLEY et al.</p>\n    <p class=\"docket\">No. 561.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 16, 1968</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Charles Morgan, Jr., Reber F. Boult, Jr., Howard Moore, Jr., P. Walter Jones, Arthur Kinoy, Melvin L. Wulf and Martin Garbus, for appellants.</p>\n      <p class=\"indent\">Arthur K. Bolton, Atty. Gen. of Georgia, Harold N. Hill, Jr., Executive Asst. Atty. Gen., Marion O. Gordon, Mathew Robins and W. Wheeler Bryan, Asst. Attys. Gen., and Don L. Hartman, Deputy Asst. Atty. Gen., for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS and Mr. Justice WHITE are of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>393 U.S. 266 (1968)</b></center>\n<center><h1>WILSON ET AL.<br>\nv.<br>\nKELLEY, CORRECTIONS DIRECTOR, ET AL.</h1></center>\n<center>No. 561.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 16, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF GEORGIA.\n<p><i>Charles Morgan, Jr., Reber F. Boult, Jr., Howard Moore, Jr., P. Walter Jones, Arthur Kinoy, Melvin L. Wulf,</i> and <i>Martin Garbus</i> for appellants.</p>\n<p><i>Arthur K. Bolton,</i> Attorney General of Georgia, <i>Harold N. Hill, Jr.,</i> Executive Assistant Attorney General, <i>Marion O. Gordon, Mathew Robins,</i> and <i>W. Wheeler Bryan,</i> Assistant Attorneys General, and <i>Don L. Hartman,</i> Deputy Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE WHITE are of the opinion that probable jurisdiction should be noted.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">393</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">266</span></span> (1968)</b></center>\n<center><h1>WILSON ET AL.<br>\nv.<br>\nKELLEY, CORRECTIONS DIRECTOR, ET AL.</h1></center>\n<center>No. 561.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 16, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF GEORGIA.\n<p><i>Charles Morgan, Jr., Reber F. Boult, Jr., Howard Moore, Jr., P. Walter Jones, Arthur Kinoy, Melvin L. Wulf,</i> and <i>Martin Garbus</i> for appellants.</p>\n<p><i>Arthur K. Bolton,</i> Attorney General of Georgia, <i>Harold N. Hill, Jr.,</i> Executive Assistant Attorney General, <i>Marion O. Gordon, Mathew Robins,</i> and <i>W. Wheeler Bryan,</i> Assistant Attorneys General, and <i>Don L. Hartman,</i> Deputy Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE WHITE are of the opinion that probable jurisdiction should be noted.</p>\n</div>", "id": 107812, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107812/", "sha1": "ee1c6c9e55b520d1574a79defb053208cd9679e2", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:16"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 266", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107812/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Wilson v. Kelley", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "561", 
+    "id": 92171, 
+    "resource_uri": "/api/rest/v2/citation/92171/"
+  }, 
+  "id": 107812, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-01-13", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 266 (1968)</b></center>\n<center><h1>WILSON ET AL.<br>\nv.<br>\nKELLEY, CORRECTIONS DIRECTOR, ET AL.</h1></center>\n<center>No. 561.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 16, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF GEORGIA.\n<p><i>Charles Morgan, Jr., Reber F. Boult, Jr., Howard Moore, Jr., P. Walter Jones, Arthur Kinoy, Melvin L. Wulf,</i> and <i>Martin Garbus</i> for appellants.</p>\n<p><i>Arthur K. Bolton,</i> Attorney General of Georgia, <i>Harold N. Hill, Jr.,</i> Executive Assistant Attorney General, <i>Marion O. Gordon, Mathew Robins,</i> and <i>W. Wheeler Bryan,</i> Assistant Attorneys General, and <i>Don L. Hartman,</i> Deputy Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE WHITE are of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:16", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">393</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">266</span></span> (1968)</b></center>\n<center><h1>WILSON ET AL.<br>\nv.<br>\nKELLEY, CORRECTIONS DIRECTOR, ET AL.</h1></center>\n<center>No. 561.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 16, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF GEORGIA.\n<p><i>Charles Morgan, Jr., Reber F. Boult, Jr., Howard Moore, Jr., P. Walter Jones, Arthur Kinoy, Melvin L. Wulf,</i> and <i>Martin Garbus</i> for appellants.</p>\n<p><i>Arthur K. Bolton,</i> Attorney General of Georgia, <i>Harold N. Hill, Jr.,</i> Executive Assistant Attorney General, <i>Marion O. Gordon, Mathew Robins,</i> and <i>W. Wheeler Bryan,</i> Assistant Attorneys General, and <i>Don L. Hartman,</i> Deputy Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE DOUGLAS and MR. JUSTICE WHITE are of the opinion that probable jurisdiction should be noted.</p>\n</div>", 
+  "sha1": "ee1c6c9e55b520d1574a79defb053208cd9679e2", 
+  "date_modified": "2014-12-21T01:56:06.384594", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107812/wilson-v-kelley/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/274808/", 
+  "html": "<p class=\"case_cite\">393 U.S. 266</p>\n    <p class=\"case_cite\">89 S.Ct. 477</p>\n    <p class=\"case_cite\">21 L.Ed.2d 425</p>\n    <p class=\"parties\">Johnny C. WILSON et al.<br>v.<br>Asa D. KELLEY et al.</p>\n    <p class=\"docket\">No. 561.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 16, 1968</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Charles Morgan, Jr., Reber F. Boult, Jr., Howard Moore, Jr., P. Walter Jones, Arthur Kinoy, Melvin L. Wulf and Martin Garbus, for appellants.</p>\n      <p class=\"indent\">Arthur K. Bolton, Atty. Gen. of Georgia, Harold N. Hill, Jr., Executive Asst. Atty. Gen., Marion O. Gordon, Mathew Robins and W. Wheeler Bryan, Asst. Attys. Gen., and Don L. Hartman, Deputy Asst. Atty. Gen., for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS and Mr. Justice WHITE are of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107812/"
+}

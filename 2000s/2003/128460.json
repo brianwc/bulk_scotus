@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/128460/nova-chemicals-inc-v-adams-et-al/", "blocked": false, "citation": {"case_name": "Nova Chemicals Inc. v. Adams", "docket_number": "02-1067", "document_uris": ["/api/rest/v2/document/128460/"], "federal_cite_one": "538 U.S. 944", "federal_cite_three": null, "federal_cite_two": null, "id": 112813, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/112813/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-03-31", "date_modified": "2014-12-21T02:18:35.444338", "docket": "/api/rest/v2/docket/2077782/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.944.02-1067.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 944</p>\n    <p class=\"parties\">NOVA CHEMICALS INC.<br>v.<br>ADAMS ET AL.</p>\n    <p class=\"docket\">No. 02-1067.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF LOUISIANA FOR THE FOURTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. La., 4th Cir. Certiorari denied. Reported below: 795 So.2d 364.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"parties\">NOVA CHEMICALS INC.<br>v.<br>ADAMS ET AL.</p>\n    <p class=\"docket\">No. 02-1067.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF LOUISIANA FOR THE FOURTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. La., 4th Cir. Certiorari denied. Reported below: 795 So.2d 364.</p>\n    </div>\n    ", "id": 128460, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/128460/", "sha1": "f32b5e48c2ef28b092e63ca6cad48020d6de3c81", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:26:27"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 944", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/128460/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Nova Chemicals Inc. v. Adams", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-1067", 
+    "id": 112813, 
+    "resource_uri": "/api/rest/v2/citation/112813/"
+  }, 
+  "id": 128460, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-03-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.944.02-1067.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:26:27", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"parties\">NOVA CHEMICALS INC.<br>v.<br>ADAMS ET AL.</p>\n    <p class=\"docket\">No. 02-1067.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF LOUISIANA FOR THE FOURTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. La., 4th Cir. Certiorari denied. Reported below: 795 So.2d 364.</p>\n    </div>\n    ", 
+  "sha1": "f32b5e48c2ef28b092e63ca6cad48020d6de3c81", 
+  "date_modified": "2014-12-21T02:18:35.444338", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/128460/nova-chemicals-inc-v-adams-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2077782/", 
+  "html": "<p class=\"case_cite\">538 U.S. 944</p>\n    <p class=\"parties\">NOVA CHEMICALS INC.<br>v.<br>ADAMS ET AL.</p>\n    <p class=\"docket\">No. 02-1067.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 31, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF LOUISIANA FOR THE FOURTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. La., 4th Cir. Certiorari denied. Reported below: 795 So.2d 364.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/128460/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106698/certified-credit-corporation-v-bowers-tax/", "blocked": false, "citation": {"case_name": "Certified Credit Corporation v. Bowers, Tax, Commissioner of Ohio", "docket_number": "430", "document_uris": ["/api/rest/v2/document/106698/"], "federal_cite_one": "375 U.S. 84", "federal_cite_three": null, "federal_cite_two": null, "id": 91081, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91081/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-11-18", "date_modified": "2014-12-21T01:53:38.951549", "docket": "/api/rest/v2/docket/1464995/", "download_url": "http://bulk.resource.org/courts.gov/c/US/375/375.US.84.430.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">375 U.S. 84</p>\n    <p class=\"case_cite\">84 S.Ct. 217</p>\n    <p class=\"case_cite\">11 L.Ed.2d 163</p>\n    <p class=\"parties\">CERTIFIED CREDIT CORPORATION<br>v.<br>BOWERS, Tax, Commissioner of Ohio.</p>\n    <p class=\"docket\">No. 430.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 18, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert L. Barton, Joseph B. DeVennish and Joseph R. Hague, for appellant.</p>\n      <p class=\"indent\">William B. Saxbe, Atty. Gen. of Ohio, and Daronne R. Tate, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">84</span></span></p>\n    <p class=\"case_cite\">84 S.Ct. 217</p>\n    <p class=\"case_cite\">11 L.Ed.2d 163</p>\n    <p class=\"parties\">CERTIFIED CREDIT CORPORATION<br>v.<br>BOWERS, Tax, Commissioner of Ohio.</p>\n    <p class=\"docket\">No. 430.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 18, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert L. Barton, Joseph B. DeVennish and Joseph R. Hague, for appellant.</p>\n      <p class=\"indent\">William B. Saxbe, Atty. Gen. of Ohio, and Daronne R. Tate, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "id": 106698, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106698/", "sha1": "ed3a21a20b8c30248305380ba72cd283ad9ae271", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:46"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 84", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/106698/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Certified Credit Corporation v. Bowers, Tax, Commissioner of Ohio", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "430", 
+    "id": 91081, 
+    "resource_uri": "/api/rest/v2/citation/91081/"
+  }, 
+  "id": 106698, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-11-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/375/375.US.84.430.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:46", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">84</span></span></p>\n    <p class=\"case_cite\">84 S.Ct. 217</p>\n    <p class=\"case_cite\">11 L.Ed.2d 163</p>\n    <p class=\"parties\">CERTIFIED CREDIT CORPORATION<br>v.<br>BOWERS, Tax, Commissioner of Ohio.</p>\n    <p class=\"docket\">No. 430.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 18, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert L. Barton, Joseph B. DeVennish and Joseph R. Hague, for appellant.</p>\n      <p class=\"indent\">William B. Saxbe, Atty. Gen. of Ohio, and Daronne R. Tate, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "sha1": "ed3a21a20b8c30248305380ba72cd283ad9ae271", 
+  "date_modified": "2014-12-21T01:53:38.951549", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106698/certified-credit-corporation-v-bowers-tax/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1464995/", 
+  "html": "<p class=\"case_cite\">375 U.S. 84</p>\n    <p class=\"case_cite\">84 S.Ct. 217</p>\n    <p class=\"case_cite\">11 L.Ed.2d 163</p>\n    <p class=\"parties\">CERTIFIED CREDIT CORPORATION<br>v.<br>BOWERS, Tax, Commissioner of Ohio.</p>\n    <p class=\"docket\">No. 430.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 18, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Robert L. Barton, Joseph B. DeVennish and Joseph R. Hague, for appellant.</p>\n      <p class=\"indent\">William B. Saxbe, Atty. Gen. of Ohio, and Daronne R. Tate, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106698/"
+}

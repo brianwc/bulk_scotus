@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2273280/cotton-v-wallace/", "blocked": false, "citation": {"case_name": "Cotton v. Wallace", "docket_number": null, "document_uris": ["/api/rest/v2/document/2273280/"], "federal_cite_one": "3 U.S. 302", "federal_cite_three": null, "federal_cite_two": null, "id": 2246051, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2246051/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1796-08-09", "date_modified": "2014-10-30T12:16:15.018469", "docket": "/api/rest/v2/docket/1761194/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>3 U.S. 302 (____)</b></center>\n<center><b>3 Dall. 302</b></center>\n<center><h1>COTTON Plaintiff in Error,<br>\nversus<br>\nWALLACE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*303</span> Du Ponceau, for the Defendant in error.</p>\n<p><span class=\"star-pagination\">*304</span> After advisement, THE CHIEF JUSTICE delivered the opinion of THE COURT, that where a judgment, or decree, was affirmed, on a writ of error, there could be no allowance of damages, but for the delay; and, thereupon, the following order was made in this cause:</p>\n<p>BY THE COURT. It is ordered, that the Defendant in error recover as damages against the Plaintiff in error the sum of 3,515 dollars and 11 cents, being the interest on 34,841 dollars and 55 cents, the amount of the sales of the brig Everton and her cargo, from the 5th of May, 1795, the date of the decree of the Circuit Court in the said cause, being 1 year, 3 months and 4 days, at the rate of 8 per cent per annum: And, also, that the said Plaintiff in error, do pay the costs accrued in this cause since the last term. And a special mandate is awarded to carry this order into execution.</p>\n</div>", "html_with_citations": "", "id": 2273280, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2273280/", "sha1": "986501e9f42ddcc9420966ac773015f3425effb9", "source": "L", "time_retrieved": "2013-10-30T01:57:02.440321"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "3 U.S. 302", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2273280/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Cotton v. Wallace", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2246051, 
+    "resource_uri": "/api/rest/v2/citation/2246051/"
+  }, 
+  "id": 2273280, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1796-08-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>3 U.S. 302 (____)</b></center>\n<center><b>3 Dall. 302</b></center>\n<center><h1>COTTON Plaintiff in Error,<br>\nversus<br>\nWALLACE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*303</span> Du Ponceau, for the Defendant in error.</p>\n<p><span class=\"star-pagination\">*304</span> After advisement, THE CHIEF JUSTICE delivered the opinion of THE COURT, that where a judgment, or decree, was affirmed, on a writ of error, there could be no allowance of damages, but for the delay; and, thereupon, the following order was made in this cause:</p>\n<p>BY THE COURT. It is ordered, that the Defendant in error recover as damages against the Plaintiff in error the sum of 3,515 dollars and 11 cents, being the interest on 34,841 dollars and 55 cents, the amount of the sales of the brig Everton and her cargo, from the 5th of May, 1795, the date of the decree of the Circuit Court in the said cause, being 1 year, 3 months and 4 days, at the rate of 8 per cent per annum: And, also, that the said Plaintiff in error, do pay the costs accrued in this cause since the last term. And a special mandate is awarded to carry this order into execution.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T01:57:02.440321", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "986501e9f42ddcc9420966ac773015f3425effb9", 
+  "date_modified": "2014-10-30T12:16:15.018469", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2273280/cotton-v-wallace/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1761194/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2273280/"
+}

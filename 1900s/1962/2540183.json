@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2540183/pensick-gordon-inc-v-california-motor-express/", "blocked": false, "citation": {"case_name": "PENSICK & GORDON, INC. v. California Motor Express", "docket_number": "222", "document_uris": ["/api/rest/v2/document/2540183/"], "federal_cite_one": "371 U.S. 184", "federal_cite_three": "9 L. Ed. 2d 227", "federal_cite_two": "83 S. Ct. 264", "id": 2512955, "lexis_cite": "1962 U.S. LEXIS 66", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2512955/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-12-03", "date_modified": "2014-12-21T19:54:08.646402", "docket": "/api/rest/v2/docket/2533155/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>371 U.S. 184 (1962)</b></center>\n<center><h1>PENSICK &amp; GORDON, INC.,<br>\nv.<br>\nCALIFORNIA MOTOR EXPRESS ET AL.</h1></center>\n<center>No. 222.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 3, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Carl M. Gould</i> for petitioner.</p>\n<p><i>Theodore W. Russell, George L. Catlin</i> and <i>Joseph P. Loeb</i> for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the Court of Appeals for further consideration in light of <i>Hewitt-Robins Inc.</i> v. <i>Eastern Freight-Ways, Inc., ante,</i> p. 84.</p>\n<p>MR. JUSTICE HARLAN, MR. JUSTICE STEWART, and MR. JUSTICE WHITE would affirm the judgment below for the reasons given in the dissenting opinion in <i>Hewitt-Robins.</i></p>\n</div>", "html_with_citations": "", "id": 2540183, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2540183/", "sha1": "ab25f41d52b9192c2b41a864f0d0fb63200cfd32", "source": "L", "supreme_court_db_id": "1962-017", "time_retrieved": "2013-10-30T03:16:10.849283"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "371 U.S. 184", 
+    "federal_cite_two": "83 S. Ct. 264", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "9 L. Ed. 2d 227", 
+    "lexis_cite": "1962 U.S. LEXIS 66", 
+    "document_uris": [
+      "/api/rest/v2/document/2540183/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "PENSICK & GORDON, INC. v. California Motor Express", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "222", 
+    "id": 2512955, 
+    "resource_uri": "/api/rest/v2/citation/2512955/"
+  }, 
+  "id": 2540183, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-12-03", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>371 U.S. 184 (1962)</b></center>\n<center><h1>PENSICK &amp; GORDON, INC.,<br>\nv.<br>\nCALIFORNIA MOTOR EXPRESS ET AL.</h1></center>\n<center>No. 222.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided December 3, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Carl M. Gould</i> for petitioner.</p>\n<p><i>Theodore W. Russell, George L. Catlin</i> and <i>Joseph P. Loeb</i> for respondents.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the Court of Appeals for further consideration in light of <i>Hewitt-Robins Inc.</i> v. <i>Eastern Freight-Ways, Inc., ante,</i> p. 84.</p>\n<p>MR. JUSTICE HARLAN, MR. JUSTICE STEWART, and MR. JUSTICE WHITE would affirm the judgment below for the reasons given in the dissenting opinion in <i>Hewitt-Robins.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:16:10.849283", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ab25f41d52b9192c2b41a864f0d0fb63200cfd32", 
+  "date_modified": "2014-12-21T19:54:08.646402", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2540183/pensick-gordon-inc-v-california-motor-express/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": "1962-017", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2533155/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2540183/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136245/rosario-v-united-states/", "blocked": false, "citation": {"case_name": "Rosario v. United States", "docket_number": "03-525", "document_uris": ["/api/rest/v2/document/136245/"], "federal_cite_one": "541 U.S. 1040", "federal_cite_three": null, "federal_cite_two": null, "id": 120598, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120598/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-05-17", "date_modified": "2014-12-21T02:20:08.455688", "docket": "/api/rest/v2/docket/149940/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1040.03-525.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1040</p>\n    <p class=\"parties\">ROSARIO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-525.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 330 F. 3d 964.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1040</span></span></p>\n    <p class=\"parties\">ROSARIO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-525.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 330 F. 3d 964.</p>\n    </div>\n    ", "id": 136245, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136245/", "sha1": "326853eac121a5c0f263a0be37fa99a9564ee2a0", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1040", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136245/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Rosario v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-525", 
+    "id": 120598, 
+    "resource_uri": "/api/rest/v2/citation/120598/"
+  }, 
+  "id": 136245, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-05-17", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1040.03-525.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1040</span></span></p>\n    <p class=\"parties\">ROSARIO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-525.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 330 F. 3d 964.</p>\n    </div>\n    ", 
+  "sha1": "326853eac121a5c0f263a0be37fa99a9564ee2a0", 
+  "date_modified": "2014-12-21T02:20:08.455688", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136245/rosario-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/149940/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1040</p>\n    <p class=\"parties\">ROSARIO<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 03-525.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 330 F. 3d 964.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136245/"
+}

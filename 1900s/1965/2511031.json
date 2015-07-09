@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2511031/mckinley-v-reilly/", "blocked": false, "citation": {"case_name": "McKinley v. Reilly", "docket_number": "1000", "document_uris": ["/api/rest/v2/document/2511031/"], "federal_cite_one": "381 U.S. 276", "federal_cite_three": null, "federal_cite_two": null, "id": 2483803, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2483803/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-05-17", "date_modified": "2014-10-30T09:07:59.785120", "docket": "/api/rest/v2/docket/1359515/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>381 U.S. 276 (1965)</b></center>\n<center><h1>McKINLEY<br>\nv.<br>\nREILLY ET AL.</h1></center>\n<center>No. 1000.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 17, 1965.</center>\nAPPEAL FROM THE SUPREME COURT OF ARIZONA.\n<p><i>Mark Wilmer</i> for appellant.</p>\n<p><i>Darrell F. Smith,</i> Attorney General of Arizona, <i>Phillip M. Haggerty</i> and <i>Jerry W. Lawson,</i> Assistant Attorneys General, and <i>John E. Madden,</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 2511031, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2511031/", "sha1": "0b212f29845a64f37c0a93d776efe483fb7fb72f", "source": "L", "time_retrieved": "2013-10-30T03:02:56.285652"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "381 U.S. 276", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2511031/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "McKinley v. Reilly", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1000", 
+    "id": 2483803, 
+    "resource_uri": "/api/rest/v2/citation/2483803/"
+  }, 
+  "id": 2511031, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-05-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>381 U.S. 276 (1965)</b></center>\n<center><h1>McKINLEY<br>\nv.<br>\nREILLY ET AL.</h1></center>\n<center>No. 1000.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 17, 1965.</center>\nAPPEAL FROM THE SUPREME COURT OF ARIZONA.\n<p><i>Mark Wilmer</i> for appellant.</p>\n<p><i>Darrell F. Smith,</i> Attorney General of Arizona, <i>Phillip M. Haggerty</i> and <i>Jerry W. Lawson,</i> Assistant Attorneys General, and <i>John E. Madden,</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:02:56.285652", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0b212f29845a64f37c0a93d776efe483fb7fb72f", 
+  "date_modified": "2014-10-30T09:07:59.785120", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2511031/mckinley-v-reilly/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1359515/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2511031/"
+}

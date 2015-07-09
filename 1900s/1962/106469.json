@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106469/georgia-v-united-states/", "blocked": false, "citation": {"case_name": "Georgia v. United States", "docket_number": "114", "document_uris": ["/api/rest/v2/document/106469/"], "federal_cite_one": "371 U.S. 9", "federal_cite_three": null, "federal_cite_two": null, "id": 90852, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90852/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-10-08", "date_modified": "2014-12-21T01:52:25.178244", "docket": "/api/rest/v2/docket/2582060/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">371 U.S. 9</p>\n    <p class=\"case_cite\">83 S.Ct. 21</p>\n    <p class=\"case_cite\">9 L.Ed.2d 47</p>\n    <p class=\"parties\">GEORGIA et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 114.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 8, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Eugene Cook, Atty. Gen. of Georgia, and Paul Rodgers, Asst. Atty. Gen., for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene and Robert W. Ginnane, for the United States and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice WHITE and Mr. Justice GOLDBERG took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>371 U.S. 9 (1962)</b></center>\n<center><h1>GEORGIA ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 114.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF GEORGIA.\n<p><i>Eugene Cook,</i> Attorney General of Georgia, and <i>Paul Rodgers,</i> Assistant Attorney General, for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene</i> and <i>Robert W. Ginnane</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE WHITE and MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">9</span></span> (1962)</b></center>\n<center><h1>GEORGIA ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 114.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF GEORGIA.\n<p><i>Eugene Cook,</i> Attorney General of Georgia, and <i>Paul Rodgers,</i> Assistant Attorney General, for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene</i> and <i>Robert W. Ginnane</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE WHITE and MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", "id": 106469, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106469/", "sha1": "43388b3ed06f72bef77b41f433ff33e6b4cf13fe", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:41"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "371 U.S. 9", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106469/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Georgia v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "114", 
+    "id": 90852, 
+    "resource_uri": "/api/rest/v2/citation/90852/"
+  }, 
+  "id": 106469, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-10-08", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>371 U.S. 9 (1962)</b></center>\n<center><h1>GEORGIA ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 114.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF GEORGIA.\n<p><i>Eugene Cook,</i> Attorney General of Georgia, and <i>Paul Rodgers,</i> Assistant Attorney General, for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene</i> and <i>Robert W. Ginnane</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE WHITE and MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:41", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">9</span></span> (1962)</b></center>\n<center><h1>GEORGIA ET AL.<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 114.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 8, 1962.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF GEORGIA.\n<p><i>Eugene Cook,</i> Attorney General of Georgia, and <i>Paul Rodgers,</i> Assistant Attorney General, for appellants.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene</i> and <i>Robert W. Ginnane</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n<p>MR. JUSTICE WHITE and MR. JUSTICE GOLDBERG took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "43388b3ed06f72bef77b41f433ff33e6b4cf13fe", 
+  "date_modified": "2014-12-21T01:52:25.178244", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106469/georgia-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2582060/", 
+  "html": "<p class=\"case_cite\">371 U.S. 9</p>\n    <p class=\"case_cite\">83 S.Ct. 21</p>\n    <p class=\"case_cite\">9 L.Ed.2d 47</p>\n    <p class=\"parties\">GEORGIA et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 114.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 8, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Eugene Cook, Atty. Gen. of Georgia, and Paul Rodgers, Asst. Atty. Gen., for appellants.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene and Robert W. Ginnane, for the United States and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice WHITE and Mr. Justice GOLDBERG took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106469/"
+}

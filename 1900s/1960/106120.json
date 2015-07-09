@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106120/all-american-airways-inc-v-united-air-lines-inc/", "blocked": false, "citation": {"case_name": "All American Airways, Inc. v. United Air Lines, Inc.", "docket_number": "129", "document_uris": ["/api/rest/v2/document/106120/"], "federal_cite_one": "364 U.S. 297", "federal_cite_three": null, "federal_cite_two": null, "id": 90503, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90503/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-10-24", "date_modified": "2014-12-21T01:51:44.817644", "docket": "/api/rest/v2/docket/2520414/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">364 U.S. 297</p>\n    <p class=\"case_cite\">81 S.Ct. 267</p>\n    <p class=\"case_cite\">5 L.Ed.2d 89</p>\n    <p class=\"parties\">ALL AMERICAN AIRWAYS, INC., et al., petitioners,<br>v.<br>UNITED AIR LINES, INC., et al.</p>\n    <p class=\"docket\">No. 129.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 24, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Albert F. Beitel and John H. Pratt, for petitioners.</p>\n      <p class=\"indent\">Robert L. Stern, Howard C. Westwood and William H. Allen, for respondents.</p>\n      <p class=\"indent\">Solicitor General Rankin, Franklin M. Stone and O. D. Ozment, for the Civil Aeronautics Board.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit. Petition for writ of certiorari granted. On writ of certiorari, judgment vacated and case remanded to the Court of Appeals with instructions to retain jurisdiction until such time as further legislation has been enacted or Public Law 86-661, 74 Stat. 527, has expired.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>364 U.S. 297 (1960)</b></center>\n<center><h1>ALL AMERICAN AIRWAYS, INC., ET AL.<br>\nv.<br>\nUNITED AIR LINES, INC., ET AL.</h1></center>\n<center>No. 129.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 24, 1960.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.\n<p><i>Albert F. Beitel</i> and <i>John H. Pratt</i> for petitioners.</p>\n<p><i>Robert L. Stern, Howard C. Westwood</i> and <i>William H. Allen</i> for respondents.</p>\n<p><i>Solicitor General Rankin, Franklin M. Stone</i> and <i>O. D. Ozment</i> for the Civil Aeronautics Board.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the Court of Appeals with instructions to retain jurisdiction until such time as further legislation has been enacted or Public Law 86-661 [Act of July 14, 1960, 74 Stat. 527] has expired.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">364</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">297</span></span> (1960)</b></center>\n<center><h1>ALL AMERICAN AIRWAYS, INC., ET AL.<br>\nv.<br>\nUNITED AIR LINES, INC., ET AL.</h1></center>\n<center>No. 129.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 24, 1960.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.\n<p><i>Albert F. Beitel</i> and <i>John H. Pratt</i> for petitioners.</p>\n<p><i>Robert L. Stern, Howard C. Westwood</i> and <i>William H. Allen</i> for respondents.</p>\n<p><i>Solicitor General Rankin, Franklin M. Stone</i> and <i>O. D. Ozment</i> for the Civil Aeronautics Board.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the Court of Appeals with instructions to retain jurisdiction until such time as further legislation has been enacted or Public Law 86-661 [Act of July 14, 1960, 74 Stat. 527] has expired.</p>\n</div>", "id": 106120, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106120/", "sha1": "0c20cceb6b1d45d4c99affb398c73ad107931b67", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:51"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "364 U.S. 297", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106120/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "All American Airways, Inc. v. United Air Lines, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "129", 
+    "id": 90503, 
+    "resource_uri": "/api/rest/v2/citation/90503/"
+  }, 
+  "id": 106120, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-10-24", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>364 U.S. 297 (1960)</b></center>\n<center><h1>ALL AMERICAN AIRWAYS, INC., ET AL.<br>\nv.<br>\nUNITED AIR LINES, INC., ET AL.</h1></center>\n<center>No. 129.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 24, 1960.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.\n<p><i>Albert F. Beitel</i> and <i>John H. Pratt</i> for petitioners.</p>\n<p><i>Robert L. Stern, Howard C. Westwood</i> and <i>William H. Allen</i> for respondents.</p>\n<p><i>Solicitor General Rankin, Franklin M. Stone</i> and <i>O. D. Ozment</i> for the Civil Aeronautics Board.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the Court of Appeals with instructions to retain jurisdiction until such time as further legislation has been enacted or Public Law 86-661 [Act of July 14, 1960, 74 Stat. 527] has expired.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:51", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">364</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">297</span></span> (1960)</b></center>\n<center><h1>ALL AMERICAN AIRWAYS, INC., ET AL.<br>\nv.<br>\nUNITED AIR LINES, INC., ET AL.</h1></center>\n<center>No. 129.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 24, 1960.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.\n<p><i>Albert F. Beitel</i> and <i>John H. Pratt</i> for petitioners.</p>\n<p><i>Robert L. Stern, Howard C. Westwood</i> and <i>William H. Allen</i> for respondents.</p>\n<p><i>Solicitor General Rankin, Franklin M. Stone</i> and <i>O. D. Ozment</i> for the Civil Aeronautics Board.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the Court of Appeals with instructions to retain jurisdiction until such time as further legislation has been enacted or Public Law 86-661 [Act of July 14, 1960, 74 Stat. 527] has expired.</p>\n</div>", 
+  "sha1": "0c20cceb6b1d45d4c99affb398c73ad107931b67", 
+  "date_modified": "2014-12-21T01:51:44.817644", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106120/all-american-airways-inc-v-united-air-lines-inc/", 
+  "citation_count": 5, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2520414/", 
+  "html": "<p class=\"case_cite\">364 U.S. 297</p>\n    <p class=\"case_cite\">81 S.Ct. 267</p>\n    <p class=\"case_cite\">5 L.Ed.2d 89</p>\n    <p class=\"parties\">ALL AMERICAN AIRWAYS, INC., et al., petitioners,<br>v.<br>UNITED AIR LINES, INC., et al.</p>\n    <p class=\"docket\">No. 129.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 24, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Albert F. Beitel and John H. Pratt, for petitioners.</p>\n      <p class=\"indent\">Robert L. Stern, Howard C. Westwood and William H. Allen, for respondents.</p>\n      <p class=\"indent\">Solicitor General Rankin, Franklin M. Stone and O. D. Ozment, for the Civil Aeronautics Board.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit. Petition for writ of certiorari granted. On writ of certiorari, judgment vacated and case remanded to the Court of Appeals with instructions to retain jurisdiction until such time as further legislation has been enacted or Public Law 86-661, 74 Stat. 527, has expired.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106120/"
+}

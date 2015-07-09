@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107078/walter-r-hearne-v-robert-e-smylie-governor-of-idah/", "blocked": false, "citation": {"case_name": "Walter R. Hearne v. Robert E. Smylie Governor of Idaho", "docket_number": "617", "document_uris": ["/api/rest/v2/document/107078/"], "federal_cite_one": "381 U.S. 420", "federal_cite_three": "14 L. Ed. 2d 476", "federal_cite_two": "85 S. Ct. 1571", "id": 91437, "lexis_cite": "1965 U.S. LEXIS 1035", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91437/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-06-01", "date_modified": "2014-12-21T01:54:56.714794", "docket": "/api/rest/v2/docket/2490905/", "download_url": "http://bulk.resource.org/courts.gov/c/US/381/381.US.420.617.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">381 U.S. 420</p>\n    <p class=\"case_cite\">85 S.Ct. 1571</p>\n    <p class=\"case_cite\">14 L.Ed.2d 476</p>\n    <p class=\"parties\">Walter R. HEARNE et al.<br>v.<br>Robert E. SMYLIE Governor of Idaho, et al.</p>\n    <p class=\"docket\">No. 617.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 1, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Herman J. McDevitt, for appellants.</p>\n      <p class=\"indent\">Allan G. Shepard, Atty. Gen. of Idaho, and M. Allyn Dingel, Jr., Asst. Atty. Gen., for Williams and others, appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal in this case concerns an order of the United States District Court for the District of Idaho staying this reapportionment suit until 30 days after the adjournment of the 1965 Session of the Idaho Legislature. The Idaho Legislature, after adopting a new reapportionment plan, adjourned on March 25, 1965. The stay order now having expired by its own terms and the District Court and the parties now being in a position to proceed promptly with this litigation, the motions to dismiss are granted and the appeal is dismissed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">381</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">420</span></span></p>\n    <p class=\"case_cite\">85 S.Ct. 1571</p>\n    <p class=\"case_cite\">14 L.Ed.2d 476</p>\n    <p class=\"parties\">Walter R. HEARNE et al.<br>v.<br>Robert E. SMYLIE Governor of Idaho, et al.</p>\n    <p class=\"docket\">No. 617.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 1, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Herman J. McDevitt, for appellants.</p>\n      <p class=\"indent\">Allan G. Shepard, Atty. Gen. of Idaho, and M. Allyn Dingel, Jr., Asst. Atty. Gen., for Williams and others, appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal in this case concerns an order of the United States District Court for the District of Idaho staying this reapportionment suit until 30 days after the adjournment of the 1965 Session of the Idaho Legislature. The Idaho Legislature, after adopting a new reapportionment plan, adjourned on March 25, 1965. The stay order now having expired by its own terms and the District Court and the parties now being in a position to proceed promptly with this litigation, the motions to dismiss are granted and the appeal is dismissed.</p>\n    </div>\n    ", "id": 107078, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107078/", "sha1": "f758e46df909655156219cb395a929e0bf20e47b", "source": "R", "supreme_court_db_id": "1964-117", "time_retrieved": "2010-04-28T10:10:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "381 U.S. 420", 
+    "federal_cite_two": "85 S. Ct. 1571", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "14 L. Ed. 2d 476", 
+    "lexis_cite": "1965 U.S. LEXIS 1035", 
+    "document_uris": [
+      "/api/rest/v2/document/107078/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Walter R. Hearne v. Robert E. Smylie Governor of Idaho", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "617", 
+    "id": 91437, 
+    "resource_uri": "/api/rest/v2/citation/91437/"
+  }, 
+  "id": 107078, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-06-01", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/381/381.US.420.617.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">381</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">420</span></span></p>\n    <p class=\"case_cite\">85 S.Ct. 1571</p>\n    <p class=\"case_cite\">14 L.Ed.2d 476</p>\n    <p class=\"parties\">Walter R. HEARNE et al.<br>v.<br>Robert E. SMYLIE Governor of Idaho, et al.</p>\n    <p class=\"docket\">No. 617.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 1, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Herman J. McDevitt, for appellants.</p>\n      <p class=\"indent\">Allan G. Shepard, Atty. Gen. of Idaho, and M. Allyn Dingel, Jr., Asst. Atty. Gen., for Williams and others, appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal in this case concerns an order of the United States District Court for the District of Idaho staying this reapportionment suit until 30 days after the adjournment of the 1965 Session of the Idaho Legislature. The Idaho Legislature, after adopting a new reapportionment plan, adjourned on March 25, 1965. The stay order now having expired by its own terms and the District Court and the parties now being in a position to proceed promptly with this litigation, the motions to dismiss are granted and the appeal is dismissed.</p>\n    </div>\n    ", 
+  "sha1": "f758e46df909655156219cb395a929e0bf20e47b", 
+  "date_modified": "2014-12-21T01:54:56.714794", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107078/walter-r-hearne-v-robert-e-smylie-governor-of-idah/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": "1964-117", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2490905/", 
+  "html": "<p class=\"case_cite\">381 U.S. 420</p>\n    <p class=\"case_cite\">85 S.Ct. 1571</p>\n    <p class=\"case_cite\">14 L.Ed.2d 476</p>\n    <p class=\"parties\">Walter R. HEARNE et al.<br>v.<br>Robert E. SMYLIE Governor of Idaho, et al.</p>\n    <p class=\"docket\">No. 617.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 1, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Herman J. McDevitt, for appellants.</p>\n      <p class=\"indent\">Allan G. Shepard, Atty. Gen. of Idaho, and M. Allyn Dingel, Jr., Asst. Atty. Gen., for Williams and others, appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal in this case concerns an order of the United States District Court for the District of Idaho staying this reapportionment suit until 30 days after the adjournment of the 1965 Session of the Idaho Legislature. The Idaho Legislature, after adopting a new reapportionment plan, adjourned on March 25, 1965. The stay order now having expired by its own terms and the District Court and the parties now being in a position to proceed promptly with this litigation, the motions to dismiss are granted and the appeal is dismissed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107078/"
+}

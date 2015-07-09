@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/131170/grant-v-oklahoma/", "blocked": false, "citation": {"case_name": "Grant v. Oklahoma", "docket_number": "02-11173", "document_uris": ["/api/rest/v2/document/131170/"], "federal_cite_one": "540 U.S. 801", "federal_cite_three": null, "federal_cite_two": null, "id": 115523, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/115523/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-10-06", "date_modified": "2014-12-21T02:19:07.147830", "docket": "/api/rest/v2/docket/159752/", "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.801.02-11173.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">540 U.S. 801</p>\n    <p class=\"parties\">GRANT<br>v.<br>OKLAHOMA.</p>\n    <p class=\"docket\">No. 02-11173.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. Crim. App. Okla.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Wiggins</i> v. <i>Smith,</i> 539 U. S. 510 (2003). Reported below: 58 P. 3d 783.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">801</span></span></p>\n    <p class=\"parties\">GRANT<br>v.<br>OKLAHOMA.</p>\n    <p class=\"docket\">No. 02-11173.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. Crim. App. Okla.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Wiggins</i> v. <i>Smith,</i> 539 U. S. 510 (2003). Reported below: 58 P. 3d 783.</p>\n    </div>\n    ", "id": 131170, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/131170/", "sha1": "5689c4ef3218ce4ea827df94b46d2f51825fe9a4", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:28"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "540 U.S. 801", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/131170/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Grant v. Oklahoma", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-11173", 
+    "id": 115523, 
+    "resource_uri": "/api/rest/v2/citation/115523/"
+  }, 
+  "id": 131170, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-10-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.801.02-11173.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:28", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">801</span></span></p>\n    <p class=\"parties\">GRANT<br>v.<br>OKLAHOMA.</p>\n    <p class=\"docket\">No. 02-11173.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. Crim. App. Okla.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Wiggins</i> v. <i>Smith,</i> 539 U. S. 510 (2003). Reported below: 58 P. 3d 783.</p>\n    </div>\n    ", 
+  "sha1": "5689c4ef3218ce4ea827df94b46d2f51825fe9a4", 
+  "date_modified": "2014-12-21T02:19:07.147830", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/131170/grant-v-oklahoma/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/159752/", 
+  "html": "<p class=\"case_cite\">540 U.S. 801</p>\n    <p class=\"parties\">GRANT<br>v.<br>OKLAHOMA.</p>\n    <p class=\"docket\">No. 02-11173.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. Crim. App. Okla.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgment vacated, and case remanded for further consideration in light of <i>Wiggins</i> v. <i>Smith,</i> 539 U. S. 510 (2003). Reported below: 58 P. 3d 783.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/131170/"
+}

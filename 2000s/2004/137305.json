@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/137305/libecki-v-klauser-warden/", "blocked": false, "citation": {"case_name": "Libecki v. Klauser, Warden", "docket_number": "03-10110", "document_uris": ["/api/rest/v2/document/137305/"], "federal_cite_one": "542 U.S. 925", "federal_cite_three": null, "federal_cite_two": null, "id": 121658, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121658/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-21", "date_modified": "2014-12-21T02:20:25.889892", "docket": "/api/rest/v2/docket/1654779/", "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.925.03-10110.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">542 U.S. 925</p>\n    <p class=\"parties\">LIBECKI<br>v.<br>KLAUSER, WARDEN.</p>\n    <p class=\"docket\">No. 03-10110.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 21, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">925</span></span></p>\n    <p class=\"parties\">LIBECKI<br>v.<br>KLAUSER, WARDEN.</p>\n    <p class=\"docket\">No. 03-10110.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 21, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 137305, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/137305/", "sha1": "a283d76e154fb51f584fc82ce932891e4aad8298", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:31:34"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "542 U.S. 925", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/137305/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Libecki v. Klauser, Warden", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-10110", 
+    "id": 121658, 
+    "resource_uri": "/api/rest/v2/citation/121658/"
+  }, 
+  "id": 137305, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/542/542.US.925.03-10110.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:31:34", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">542</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">925</span></span></p>\n    <p class=\"parties\">LIBECKI<br>v.<br>KLAUSER, WARDEN.</p>\n    <p class=\"docket\">No. 03-10110.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 21, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "a283d76e154fb51f584fc82ce932891e4aad8298", 
+  "date_modified": "2014-12-21T02:20:25.889892", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/137305/libecki-v-klauser-warden/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1654779/", 
+  "html": "<p class=\"case_cite\">542 U.S. 925</p>\n    <p class=\"parties\">LIBECKI<br>v.<br>KLAUSER, WARDEN.</p>\n    <p class=\"docket\">No. 03-10110.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 21, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/137305/"
+}

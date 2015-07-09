@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/109208/united-states-v-guana-sanchez/", "blocked": false, "citation": {"case_name": "United States v. Guana-Sanchez", "docket_number": "73-820", "document_uris": ["/api/rest/v2/document/109208/"], "federal_cite_one": "420 U.S. 513", "federal_cite_three": "43 L. Ed. 2d 361", "federal_cite_two": "95 S. Ct. 1344", "id": 93567, "lexis_cite": "1975 U.S. LEXIS 706", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/93567/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1975-03-03", "date_modified": "2014-12-21T02:00:30.408666", "docket": "/api/rest/v2/docket/2589254/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">420 U.S. 513</p>\n    <p class=\"case_cite\">95 S.Ct. 1344</p>\n    <p class=\"case_cite\">43 L.Ed.2d 361</p>\n    <p class=\"parties\">UNITED STATES, petitioner,<br>v.<br>Pascual GUANA-SANCHEZ.</p>\n    <p class=\"docket\">No. 73-820.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 3, 1975</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Paul L. Friedman, Washington, D. C., for petitioner.</p>\n      <p class=\"indent\">Joseph Beeler, Miami Beach, Fla., for respondent.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of certiorari is dismissed as improvidently granted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>420 U.S. 513 (1975)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nGUANA-SANCHEZ.</h1></center>\n<center>No. 73-820.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 14, 1975.</center>\n<center>Decided March 3, 1975.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Paul L. Friedman</i> argued the cause for the United States. On the brief were <i>Solicitor General Bork, Assistant Attorney General Petersen,</i> and <i>Gerald P. Norton.</i></p>\n<p><i>Joseph Beeler,</i> by appointment of the Court, 419 U. S. 961, argued the cause for respondent. With him on the brief was <i>Donald J. Martin.</i><sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p>MR. JUSTICE DOUGLAS took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Sanford Jay Rosen</i> and <i>Melvin L. Wulf</i> filed a brief for the Mexican American Legal Defense and Educational Fund et al. as <i>amici curiae</i> urging affirmance.</p>\n\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">420</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">513</span></span> (1975)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nGUANA-SANCHEZ.</h1></center>\n<center>No. 73-820.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 14, 1975.</center>\n<center>Decided March 3, 1975.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Paul L. Friedman</i> argued the cause for the United States. On the brief were <i>Solicitor General Bork, Assistant Attorney General Petersen,</i> and <i>Gerald P. Norton.</i></p>\n<p><i>Joseph Beeler,</i> by appointment of the Court, 419 U. S. 961, argued the cause for respondent. With him on the brief was <i>Donald J. Martin.</i><sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p>MR. JUSTICE DOUGLAS took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Sanford Jay Rosen</i> and <i>Melvin L. Wulf</i> filed a brief for the Mexican American Legal Defense and Educational Fund et al. as <i>amici curiae</i> urging affirmance.</p>\n\n</div>", "id": 109208, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/109208/", "sha1": "3af3d7c3d3e47021e8ff1544d081a019f7cfb255", "source": "LR", "supreme_court_db_id": "1974-060", "time_retrieved": "2010-04-28T10:11:57"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "420 U.S. 513", 
+    "federal_cite_two": "95 S. Ct. 1344", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "43 L. Ed. 2d 361", 
+    "lexis_cite": "1975 U.S. LEXIS 706", 
+    "document_uris": [
+      "/api/rest/v2/document/109208/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Guana-Sanchez", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "73-820", 
+    "id": 93567, 
+    "resource_uri": "/api/rest/v2/citation/93567/"
+  }, 
+  "id": 109208, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1975-03-03", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>420 U.S. 513 (1975)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nGUANA-SANCHEZ.</h1></center>\n<center>No. 73-820.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 14, 1975.</center>\n<center>Decided March 3, 1975.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Paul L. Friedman</i> argued the cause for the United States. On the brief were <i>Solicitor General Bork, Assistant Attorney General Petersen,</i> and <i>Gerald P. Norton.</i></p>\n<p><i>Joseph Beeler,</i> by appointment of the Court, 419 U. S. 961, argued the cause for respondent. With him on the brief was <i>Donald J. Martin.</i><sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p>MR. JUSTICE DOUGLAS took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Sanford Jay Rosen</i> and <i>Melvin L. Wulf</i> filed a brief for the Mexican American Legal Defense and Educational Fund et al. as <i>amici curiae</i> urging affirmance.</p>\n\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:57", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">420</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">513</span></span> (1975)</b></center>\n<center><h1>UNITED STATES<br>\nv.<br>\nGUANA-SANCHEZ.</h1></center>\n<center>No. 73-820.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 14, 1975.</center>\n<center>Decided March 3, 1975.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Paul L. Friedman</i> argued the cause for the United States. On the brief were <i>Solicitor General Bork, Assistant Attorney General Petersen,</i> and <i>Gerald P. Norton.</i></p>\n<p><i>Joseph Beeler,</i> by appointment of the Court, 419 U. S. 961, argued the cause for respondent. With him on the brief was <i>Donald J. Martin.</i><sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p>MR. JUSTICE DOUGLAS took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Sanford Jay Rosen</i> and <i>Melvin L. Wulf</i> filed a brief for the Mexican American Legal Defense and Educational Fund et al. as <i>amici curiae</i> urging affirmance.</p>\n\n</div>", 
+  "sha1": "3af3d7c3d3e47021e8ff1544d081a019f7cfb255", 
+  "date_modified": "2014-12-21T02:00:30.408666", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/109208/united-states-v-guana-sanchez/", 
+  "citation_count": 5, 
+  "supreme_court_db_id": "1974-060", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2589254/", 
+  "html": "<p class=\"case_cite\">420 U.S. 513</p>\n    <p class=\"case_cite\">95 S.Ct. 1344</p>\n    <p class=\"case_cite\">43 L.Ed.2d 361</p>\n    <p class=\"parties\">UNITED STATES, petitioner,<br>v.<br>Pascual GUANA-SANCHEZ.</p>\n    <p class=\"docket\">No. 73-820.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 3, 1975</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Paul L. Friedman, Washington, D. C., for petitioner.</p>\n      <p class=\"indent\">Joseph Beeler, Miami Beach, Fla., for respondent.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of certiorari is dismissed as improvidently granted.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/109208/"
+}

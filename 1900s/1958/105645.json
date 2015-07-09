@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105645/commonwealth-of-virginia-plaintiff-v-state-of/", "blocked": false, "citation": {"case_name": "Commonwealth of Virginia v. State of Maryland", "docket_number": "12, Original", "document_uris": ["/api/rest/v2/document/105645/"], "federal_cite_one": "355 U.S. 946", "federal_cite_three": null, "federal_cite_two": null, "id": 90028, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90028/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-03-03", "date_modified": "2014-12-21T01:50:58.188362", "docket": "/api/rest/v2/docket/2354291/", "download_url": "http://bulk.resource.org/courts.gov/c/US/355/355.US.946.12.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">355 U.S. 946</p>\r\n    <p class=\"case_cite\">78 S.Ct. 529</p>\r\n    <p class=\"case_cite\">2 L.Ed.2d 526</p>\r\n    <p class=\"parties\">COMMONWEALTH OF VIRGINIA, plaintiff,<br>v.<br>STATE OF MARYLAND.</p>\r\n    <p class=\"docket\">No. 12, Original.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 3, 1958</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Messrs. C. Ferdinand Sybert, Atty. Gen., Joseph S. Kaufman, Asst. Atty. Gen., and Edward S. Digges, Special Asst. Atty. Gen. for State of Maryland.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">It is ordered that Mr. Justice Reed (Retired) be, and he is hereby, appointed special master in this cause, with authority to summon witnesses, issue subpoenas, and take such evidence as may be introduced and such as he may deem it necessary to call for. The master is directed to hold hearings with all convenient speed, and to submit a report with recommendations relative to the disposition of the question raised by the pleadings.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">The master shall be allowed his actual expenses. The allowances to him, the compensation paid to his stenographic and clerical assistants, and the cost of printing his report shall be charged against and be borne by the parties in such proportion as the Court hereafter may direct.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">946</span></span></p>\r\n    <p class=\"case_cite\">78 S.Ct. 529</p>\r\n    <p class=\"case_cite\">2 L.Ed.2d 526</p>\r\n    <p class=\"parties\">COMMONWEALTH OF VIRGINIA, plaintiff,<br>v.<br>STATE OF MARYLAND.</p>\r\n    <p class=\"docket\">No. 12, Original.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 3, 1958</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Messrs. C. Ferdinand Sybert, Atty. Gen., Joseph S. Kaufman, Asst. Atty. Gen., and Edward S. Digges, Special Asst. Atty. Gen. for State of Maryland.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">It is ordered that Mr. Justice Reed (Retired) be, and he is hereby, appointed special master in this cause, with authority to summon witnesses, issue subpoenas, and take such evidence as may be introduced and such as he may deem it necessary to call for. The master is directed to hold hearings with all convenient speed, and to submit a report with recommendations relative to the disposition of the question raised by the pleadings.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">The master shall be allowed his actual expenses. The allowances to him, the compensation paid to his stenographic and clerical assistants, and the cost of printing his report shall be charged against and be borne by the parties in such proportion as the Court hereafter may direct.</p>\r\n    </div>\r\n    ", "id": 105645, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105645/", "sha1": "9fbee286b52eb8d5287acb1790002fe38c83875b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:37"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "355 U.S. 946", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/105645/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Commonwealth of Virginia v. State of Maryland", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "12, Original", 
+    "id": 90028, 
+    "resource_uri": "/api/rest/v2/citation/90028/"
+  }, 
+  "id": 105645, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-03-03", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/355/355.US.946.12.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:37", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">946</span></span></p>\r\n    <p class=\"case_cite\">78 S.Ct. 529</p>\r\n    <p class=\"case_cite\">2 L.Ed.2d 526</p>\r\n    <p class=\"parties\">COMMONWEALTH OF VIRGINIA, plaintiff,<br>v.<br>STATE OF MARYLAND.</p>\r\n    <p class=\"docket\">No. 12, Original.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 3, 1958</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Messrs. C. Ferdinand Sybert, Atty. Gen., Joseph S. Kaufman, Asst. Atty. Gen., and Edward S. Digges, Special Asst. Atty. Gen. for State of Maryland.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">It is ordered that Mr. Justice Reed (Retired) be, and he is hereby, appointed special master in this cause, with authority to summon witnesses, issue subpoenas, and take such evidence as may be introduced and such as he may deem it necessary to call for. The master is directed to hold hearings with all convenient speed, and to submit a report with recommendations relative to the disposition of the question raised by the pleadings.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">The master shall be allowed his actual expenses. The allowances to him, the compensation paid to his stenographic and clerical assistants, and the cost of printing his report shall be charged against and be borne by the parties in such proportion as the Court hereafter may direct.</p>\r\n    </div>\r\n    ", 
+  "sha1": "9fbee286b52eb8d5287acb1790002fe38c83875b", 
+  "date_modified": "2014-12-21T01:50:58.188362", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105645/commonwealth-of-virginia-plaintiff-v-state-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2354291/", 
+  "html": "<p class=\"case_cite\">355 U.S. 946</p>\r\n    <p class=\"case_cite\">78 S.Ct. 529</p>\r\n    <p class=\"case_cite\">2 L.Ed.2d 526</p>\r\n    <p class=\"parties\">COMMONWEALTH OF VIRGINIA, plaintiff,<br>v.<br>STATE OF MARYLAND.</p>\r\n    <p class=\"docket\">No. 12, Original.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 3, 1958</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Messrs. C. Ferdinand Sybert, Atty. Gen., Joseph S. Kaufman, Asst. Atty. Gen., and Edward S. Digges, Special Asst. Atty. Gen. for State of Maryland.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">It is ordered that Mr. Justice Reed (Retired) be, and he is hereby, appointed special master in this cause, with authority to summon witnesses, issue subpoenas, and take such evidence as may be introduced and such as he may deem it necessary to call for. The master is directed to hold hearings with all convenient speed, and to submit a report with recommendations relative to the disposition of the question raised by the pleadings.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">The master shall be allowed his actual expenses. The allowances to him, the compensation paid to his stenographic and clerical assistants, and the cost of printing his report shall be charged against and be borne by the parties in such proportion as the Court hereafter may direct.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/105645/"
+}

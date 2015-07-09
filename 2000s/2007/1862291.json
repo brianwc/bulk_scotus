@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1862291/barber-v-alabama/", "blocked": false, "citation": {"case_name": "Barber v. Alabama", "docket_number": "06-8514", "document_uris": ["/api/rest/v2/document/1862291/"], "federal_cite_one": "127 S. Ct. 1875", "federal_cite_three": null, "federal_cite_two": null, "id": 1835062, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1835062/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-03-26", "date_modified": "2014-10-30T12:05:53.089944", "docket": "/api/rest/v2/docket/1738979/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 1875 (2007)</b></center>\n<center><h1>James BARBER, petitioner,<br>\nv.<br>\nALABAMA.</h1></center>\n<center>No. 06-8514.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>March 26, 2007.</center>\n<p>Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied.</p>\n</div>", "html_with_citations": "", "id": 1862291, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1862291/", "sha1": "0a016afaa88f29fe54757198c409ddfcb09de331", "source": "L", "time_retrieved": "2013-10-30T00:39:16.311657"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 1875", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1862291/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Barber v. Alabama", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-8514", 
+    "id": 1835062, 
+    "resource_uri": "/api/rest/v2/citation/1835062/"
+  }, 
+  "id": 1862291, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-03-26", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 1875 (2007)</b></center>\n<center><h1>James BARBER, petitioner,<br>\nv.<br>\nALABAMA.</h1></center>\n<center>No. 06-8514.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>March 26, 2007.</center>\n<p>Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:39:16.311657", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0a016afaa88f29fe54757198c409ddfcb09de331", 
+  "date_modified": "2014-10-30T12:05:53.089944", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1862291/barber-v-alabama/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1738979/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1862291/"
+}

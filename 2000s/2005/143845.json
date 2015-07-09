@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/143845/abrams-et-al-v-societe-nationale-des-chemins-de/", "blocked": false, "citation": {"case_name": "Abrams v. Societe Nationale Des Chemins De Fer Francais", "docket_number": "04-1072", "document_uris": ["/api/rest/v2/document/143845/"], "federal_cite_one": "544 U.S. 975", "federal_cite_three": null, "federal_cite_two": null, "id": 128197, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/128197/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-04-18", "date_modified": "2014-12-21T02:21:56.726803", "docket": "/api/rest/v2/docket/1315393/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.975.04-1072.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 975</p>\n    <p class=\"parties\">ABRAMS ET AL.<br><i>v.</i><br>SOCIETE NATIONALE DES CHEMINS DE FER FRANCAIS.</p>\n    <p class=\"docket\">No. 04-1072.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied. Reported below: 389 F. 3d 61.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">975</span></span></p>\n    <p class=\"parties\">ABRAMS ET AL.<br><i>v.</i><br>SOCIETE NATIONALE DES CHEMINS DE FER FRANCAIS.</p>\n    <p class=\"docket\">No. 04-1072.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied. Reported below: 389 F. 3d 61.</p>\n    </div>\n    ", "id": 143845, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/143845/", "sha1": "ec547f02ed3a78166bc6c4e90d56f0779b95422f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T11:03:58"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 975", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/143845/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Abrams v. Societe Nationale Des Chemins De Fer Francais", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-1072", 
+    "id": 128197, 
+    "resource_uri": "/api/rest/v2/citation/128197/"
+  }, 
+  "id": 143845, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-04-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.975.04-1072.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T11:03:58", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">975</span></span></p>\n    <p class=\"parties\">ABRAMS ET AL.<br><i>v.</i><br>SOCIETE NATIONALE DES CHEMINS DE FER FRANCAIS.</p>\n    <p class=\"docket\">No. 04-1072.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied. Reported below: 389 F. 3d 61.</p>\n    </div>\n    ", 
+  "sha1": "ec547f02ed3a78166bc6c4e90d56f0779b95422f", 
+  "date_modified": "2014-12-21T02:21:56.726803", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/143845/abrams-et-al-v-societe-nationale-des-chemins-de/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1315393/", 
+  "html": "<p class=\"case_cite\">544 U.S. 975</p>\n    <p class=\"parties\">ABRAMS ET AL.<br><i>v.</i><br>SOCIETE NATIONALE DES CHEMINS DE FER FRANCAIS.</p>\n    <p class=\"docket\">No. 04-1072.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied. Reported below: 389 F. 3d 61.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/143845/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2542185/illinois-central-r-co-v-brown/", "blocked": false, "citation": {"case_name": "Illinois Central R. Co. v. Brown", "docket_number": "682", "document_uris": ["/api/rest/v2/document/2542185/"], "federal_cite_one": "156 U.S. 386", "federal_cite_three": null, "federal_cite_two": null, "id": 2514957, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2514957/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1895-03-04", "date_modified": "2014-10-30T16:53:32.255938", "docket": "/api/rest/v2/docket/2405452/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>156 U.S. 386 (1895)</b></center>\n<center><h1>ILLINOIS CENTRAL RAILROAD COMPANY<br>\nv.<br>\nBROWN.</h1></center>\n<center>No. 682.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted February 4, 1895.</center>\n<center>Decided March 4, 1895.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF TENNESSEE.\n<p><span class=\"star-pagination\">*387</span> <i>Mr. Josiah Patterson</i> for the motion.</p>\n<p><i>Mr. H.W. McCorry</i> opposing.</p>\n<p>THE CHIEF JUSTICE: The writ of error is dismissed upon the authority of <i>Railway Company</i> v. <i>Roberts,</i> 141 U.S. 690, and <i>McLish</i> v. <i>Roff,</i> 141 U.S. 661.</p>\n<p><i>Dismissed.</i></p>\n</div>", "html_with_citations": "", "id": 2542185, "judges": "The Chief Justice:", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2542185/", "sha1": "82ff1fb05f623b08143d127ba86750ab260af708", "source": "L", "time_retrieved": "2013-10-30T03:17:33.428032"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "156 U.S. 386", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2542185/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Illinois Central R. Co. v. Brown", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "682", 
+    "id": 2514957, 
+    "resource_uri": "/api/rest/v2/citation/2514957/"
+  }, 
+  "id": 2542185, 
+  "blocked": false, 
+  "judges": "The Chief Justice:", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1895-03-04", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>156 U.S. 386 (1895)</b></center>\n<center><h1>ILLINOIS CENTRAL RAILROAD COMPANY<br>\nv.<br>\nBROWN.</h1></center>\n<center>No. 682.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted February 4, 1895.</center>\n<center>Decided March 4, 1895.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF TENNESSEE.\n<p><span class=\"star-pagination\">*387</span> <i>Mr. Josiah Patterson</i> for the motion.</p>\n<p><i>Mr. H.W. McCorry</i> opposing.</p>\n<p>THE CHIEF JUSTICE: The writ of error is dismissed upon the authority of <i>Railway Company</i> v. <i>Roberts,</i> 141 U.S. 690, and <i>McLish</i> v. <i>Roff,</i> 141 U.S. 661.</p>\n<p><i>Dismissed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:17:33.428032", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "82ff1fb05f623b08143d127ba86750ab260af708", 
+  "date_modified": "2014-10-30T16:53:32.255938", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2542185/illinois-central-r-co-v-brown/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2405452/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2542185/"
+}

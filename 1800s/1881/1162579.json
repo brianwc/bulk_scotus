@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1162579/louisiana-v-new-orleans/", "blocked": false, "citation": {"case_name": "Louisiana v. New Orleans", "docket_number": null, "document_uris": ["/api/rest/v2/document/1162579/"], "federal_cite_one": "103 U.S. 521", "federal_cite_three": null, "federal_cite_two": null, "id": 1135350, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1135350/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1881-03-14", "date_modified": "2014-10-30T00:50:43.710251", "docket": "/api/rest/v2/docket/243623/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>103 U.S. 521 (____)</b></center>\n<center><h1>LOUISIANA<br>\nv.<br>\nNEW ORLEANS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. John A. Campbell and Mr. Edward Bermudez in support of the motion.</p>\n<p>Mr. Benjamin F. Jonas and Mr. Henry C. Miller, contra.</p>\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>We decided at the last term that this case did not present questions which entitled it to a hearing in advance of others standing before it on the docket. It is now suggested that United States v. New Orleans involves the consideration of the same questions and the construction of the same statute, and we are asked to advance this case to be heard with that. To this the defendant in error objects. When a case is advanced to be heard with another which has precedence on the docket, the rule is to require the two to be argued as one. This rule is never departed from except under very peculiar circumstances. As we cannot compel a party against his will to argue his case with another, we have always heretofore denied motions of that kind when they are resisted. There are no such special circumstances in this case as to make it proper that it be advanced and heard separately from the other. The motion to advance will, therefore, be overruled, but counsel may submit printed arguments in the other case on the questions presented in that which are common to the two, provided twenty copies of such arguments are filed with the clerk at least six days before that case comes up for hearing.</p>\n<p>Motion overruled.</p>\n</div>", "html_with_citations": "", "id": 1162579, "judges": "Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1162579/", "sha1": "262075e6734e467de7bf8f8ea6ae91933666c72e", "source": "L", "time_retrieved": "2013-10-29T21:31:03.228341"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "103 U.S. 521", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1162579/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Louisiana v. New Orleans", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1135350, 
+    "resource_uri": "/api/rest/v2/citation/1135350/"
+  }, 
+  "id": 1162579, 
+  "blocked": false, 
+  "judges": "Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1881-03-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>103 U.S. 521 (____)</b></center>\n<center><h1>LOUISIANA<br>\nv.<br>\nNEW ORLEANS.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr. John A. Campbell and Mr. Edward Bermudez in support of the motion.</p>\n<p>Mr. Benjamin F. Jonas and Mr. Henry C. Miller, contra.</p>\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>We decided at the last term that this case did not present questions which entitled it to a hearing in advance of others standing before it on the docket. It is now suggested that United States v. New Orleans involves the consideration of the same questions and the construction of the same statute, and we are asked to advance this case to be heard with that. To this the defendant in error objects. When a case is advanced to be heard with another which has precedence on the docket, the rule is to require the two to be argued as one. This rule is never departed from except under very peculiar circumstances. As we cannot compel a party against his will to argue his case with another, we have always heretofore denied motions of that kind when they are resisted. There are no such special circumstances in this case as to make it proper that it be advanced and heard separately from the other. The motion to advance will, therefore, be overruled, but counsel may submit printed arguments in the other case on the questions presented in that which are common to the two, provided twenty copies of such arguments are filed with the clerk at least six days before that case comes up for hearing.</p>\n<p>Motion overruled.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T21:31:03.228341", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "262075e6734e467de7bf8f8ea6ae91933666c72e", 
+  "date_modified": "2014-10-30T00:50:43.710251", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1162579/louisiana-v-new-orleans/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/243623/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1162579/"
+}

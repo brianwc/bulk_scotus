@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1880474/coates-v-walters/", "blocked": false, "citation": {"case_name": "Coates v. Walters", "docket_number": "339, Misc", "document_uris": ["/api/rest/v2/document/1880474/"], "federal_cite_one": "368 U.S. 34", "federal_cite_three": null, "federal_cite_two": null, "id": 1853245, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1853245/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-11-06", "date_modified": "2014-10-30T07:03:22.181109", "docket": "/api/rest/v2/docket/1060024/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>368 U.S. 34 (1961)</b></center>\n<center><h1>COATES<br>\nv.<br>\nWALTERS.</h1></center>\n<center>No. 339, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 6, 1961.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Vito J. Cassan</i> for appellant.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, <i>Paxton Blair,</i> Solicitor General, and <i>Jean M. Coon,</i> Assistant Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 1880474, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1880474/", "sha1": "ef01dd597c7a6e9a0bf5f42ca9d22329c06b97fe", "source": "L", "time_retrieved": "2013-10-30T00:42:26.609169"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "368 U.S. 34", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1880474/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Coates v. Walters", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "339, Misc", 
+    "id": 1853245, 
+    "resource_uri": "/api/rest/v2/citation/1853245/"
+  }, 
+  "id": 1880474, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-11-06", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>368 U.S. 34 (1961)</b></center>\n<center><h1>COATES<br>\nv.<br>\nWALTERS.</h1></center>\n<center>No. 339, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 6, 1961.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Vito J. Cassan</i> for appellant.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, <i>Paxton Blair,</i> Solicitor General, and <i>Jean M. Coon,</i> Assistant Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:42:26.609169", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ef01dd597c7a6e9a0bf5f42ca9d22329c06b97fe", 
+  "date_modified": "2014-10-30T07:03:22.181109", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1880474/coates-v-walters/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1060024/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1880474/"
+}

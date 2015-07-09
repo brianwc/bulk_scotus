@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087714/safeway-trails-v-furman/", "blocked": false, "citation": {"case_name": "Safeway Trails v. Furman", "docket_number": "228", "document_uris": ["/api/rest/v2/document/1087714/"], "federal_cite_one": "379 U.S. 14", "federal_cite_three": null, "federal_cite_two": null, "id": 1060485, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060485/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-10-19", "date_modified": "2014-10-30T10:15:21.844920", "docket": "/api/rest/v2/docket/1507174/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>379 U.S. 14 (1964)</b></center>\n<center><h1>SAFEWAY TRAILS, INC.<br>\nv.<br>\nFURMAN ET AL.</h1></center>\n<center>No. 228.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 19, 1964.</center>\nAPPEAL FROM THE SUPREME COURT OF NEW JERSEY.\n<p><i>William A. Roberts</i> and <i>Morris J. Levin</i> for appellant.</p>\n<p><i>Arthur J. Sills,</i> Attorney General of New Jersey, and <i>Alan B. Handler,</i> First Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1087714, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087714/", "sha1": "4a017db621389629880781bf2116940209d3c439", "source": "L", "time_retrieved": "2013-10-29T19:17:21.952668"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "379 U.S. 14", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087714/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Safeway Trails v. Furman", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "228", 
+    "id": 1060485, 
+    "resource_uri": "/api/rest/v2/citation/1060485/"
+  }, 
+  "id": 1087714, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-10-19", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>379 U.S. 14 (1964)</b></center>\n<center><h1>SAFEWAY TRAILS, INC.<br>\nv.<br>\nFURMAN ET AL.</h1></center>\n<center>No. 228.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 19, 1964.</center>\nAPPEAL FROM THE SUPREME COURT OF NEW JERSEY.\n<p><i>William A. Roberts</i> and <i>Morris J. Levin</i> for appellant.</p>\n<p><i>Arthur J. Sills,</i> Attorney General of New Jersey, and <i>Alan B. Handler,</i> First Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:17:21.952668", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "4a017db621389629880781bf2116940209d3c439", 
+  "date_modified": "2014-10-30T10:15:21.844920", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087714/safeway-trails-v-furman/", 
+  "citation_count": 5, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1507174/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087714/"
+}

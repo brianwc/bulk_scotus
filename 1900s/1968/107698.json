@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107698/roger-d-branigin-v-dorothy-s-duddleston/", "blocked": false, "citation": {"case_name": "Roger D. Branigin v. Dorothy S. Duddleston", "docket_number": "1252", "document_uris": ["/api/rest/v2/document/107698/"], "federal_cite_one": "391 U.S. 364", "federal_cite_three": "20 L. Ed. 2d 641", "federal_cite_two": "88 S. Ct. 1666", "id": 92057, "lexis_cite": "1968 U.S. LEXIS 1646", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92057/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-10-14", "date_modified": "2014-12-21T01:55:57.791101", "docket": "/api/rest/v2/docket/1893532/", "download_url": "http://bulk.resource.org/courts.gov/c/US/391/391.US.364.1252.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">391 U.S. 364</p>\n    <p class=\"case_cite\">88 S.Ct. 1666</p>\n    <p class=\"case_cite\">20 L.Ed.2d 641</p>\n    <p class=\"parties\">Roger D. BRANIGIN et al.<br>v.<br>Dorothy S. DUDDLESTON et al.</p>\n    <p class=\"docket\">No. 1252.</p>\n    <div class=\"prelims\">\n      <p>Joseph W. SUMMERS</p>\n      <p>v.</p>\n      <p>Dorothy S. DUDDLESTON et al.</p>\n      <p>No. 1263.</p>\n      <p class=\"center\">Supreme Court of the United States</p>\n      <p>October Term, 1967.</p>\n      <p>October Term, 1967.</p>\n      <p>May 20, 1968</p>\n      <p class=\"indent\">John J. Dillon, Atty. Gen. of Indiana, and Charles S. White, for appellants Roger D. Branigin and others.</p>\n      <p class=\"indent\">Marshall F. Kizer, for appellant Joseph W. Summers.</p>\n      <p class=\"indent\">Leslie Duvall and William H. Sparrenberger, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN, for reasons contained in his memorandum of March 4, 1968 (390 U.S. 932, 88 S.Ct. 1016, 19 L.Ed.2d 1124, sub nom. Branigin v. Grills), in which he acquiesced in the denial of stays of enforcement of the District Court's judgment, also acquiesces in the Court's affirmance of that judgment.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">391</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">364</span></span></p>\n    <p class=\"case_cite\">88 S.Ct. 1666</p>\n    <p class=\"case_cite\">20 L.Ed.2d 641</p>\n    <p class=\"parties\">Roger D. BRANIGIN et al.<br>v.<br>Dorothy S. DUDDLESTON et al.</p>\n    <p class=\"docket\">No. 1252.</p>\n    <div class=\"prelims\">\n      <p>Joseph W. SUMMERS</p>\n      <p>v.</p>\n      <p>Dorothy S. DUDDLESTON et al.</p>\n      <p>No. 1263.</p>\n      <p class=\"center\">Supreme Court of the United States</p>\n      <p>October Term, 1967.</p>\n      <p>October Term, 1967.</p>\n      <p>May 20, 1968</p>\n      <p class=\"indent\">John J. Dillon, Atty. Gen. of Indiana, and Charles S. White, for appellants Roger D. Branigin and others.</p>\n      <p class=\"indent\">Marshall F. Kizer, for appellant Joseph W. Summers.</p>\n      <p class=\"indent\">Leslie Duvall and William H. Sparrenberger, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN, for reasons contained in his memorandum of March 4, 1968 (390 U.S. 932, 88 S.Ct. 1016, 19 L.Ed.2d 1124, sub nom. Branigin v. Grills), in which he acquiesced in the denial of stays of enforcement of the District Court's judgment, also acquiesces in the Court's affirmance of that judgment.</p>\n    </div>\n    ", "id": 107698, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107698/", "sha1": "73e8c4502e4ccd5a3673ab299f0000950260d36e", "source": "R", "supreme_court_db_id": "1967-133", "time_retrieved": "2010-04-28T10:11:14"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "391 U.S. 364", 
+    "federal_cite_two": "88 S. Ct. 1666", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "20 L. Ed. 2d 641", 
+    "lexis_cite": "1968 U.S. LEXIS 1646", 
+    "document_uris": [
+      "/api/rest/v2/document/107698/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Roger D. Branigin v. Dorothy S. Duddleston", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1252", 
+    "id": 92057, 
+    "resource_uri": "/api/rest/v2/citation/92057/"
+  }, 
+  "id": 107698, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-10-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/391/391.US.364.1252.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:14", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">391</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">364</span></span></p>\n    <p class=\"case_cite\">88 S.Ct. 1666</p>\n    <p class=\"case_cite\">20 L.Ed.2d 641</p>\n    <p class=\"parties\">Roger D. BRANIGIN et al.<br>v.<br>Dorothy S. DUDDLESTON et al.</p>\n    <p class=\"docket\">No. 1252.</p>\n    <div class=\"prelims\">\n      <p>Joseph W. SUMMERS</p>\n      <p>v.</p>\n      <p>Dorothy S. DUDDLESTON et al.</p>\n      <p>No. 1263.</p>\n      <p class=\"center\">Supreme Court of the United States</p>\n      <p>October Term, 1967.</p>\n      <p>October Term, 1967.</p>\n      <p>May 20, 1968</p>\n      <p class=\"indent\">John J. Dillon, Atty. Gen. of Indiana, and Charles S. White, for appellants Roger D. Branigin and others.</p>\n      <p class=\"indent\">Marshall F. Kizer, for appellant Joseph W. Summers.</p>\n      <p class=\"indent\">Leslie Duvall and William H. Sparrenberger, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN, for reasons contained in his memorandum of March 4, 1968 (390 U.S. 932, 88 S.Ct. 1016, 19 L.Ed.2d 1124, sub nom. Branigin v. Grills), in which he acquiesced in the denial of stays of enforcement of the District Court's judgment, also acquiesces in the Court's affirmance of that judgment.</p>\n    </div>\n    ", 
+  "sha1": "73e8c4502e4ccd5a3673ab299f0000950260d36e", 
+  "date_modified": "2014-12-21T01:55:57.791101", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107698/roger-d-branigin-v-dorothy-s-duddleston/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": "1967-133", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1893532/", 
+  "html": "<p class=\"case_cite\">391 U.S. 364</p>\n    <p class=\"case_cite\">88 S.Ct. 1666</p>\n    <p class=\"case_cite\">20 L.Ed.2d 641</p>\n    <p class=\"parties\">Roger D. BRANIGIN et al.<br>v.<br>Dorothy S. DUDDLESTON et al.</p>\n    <p class=\"docket\">No. 1252.</p>\n    <div class=\"prelims\">\n      <p>Joseph W. SUMMERS</p>\n      <p>v.</p>\n      <p>Dorothy S. DUDDLESTON et al.</p>\n      <p>No. 1263.</p>\n      <p class=\"center\">Supreme Court of the United States</p>\n      <p>October Term, 1967.</p>\n      <p>October Term, 1967.</p>\n      <p>May 20, 1968</p>\n      <p class=\"indent\">John J. Dillon, Atty. Gen. of Indiana, and Charles S. White, for appellants Roger D. Branigin and others.</p>\n      <p class=\"indent\">Marshall F. Kizer, for appellant Joseph W. Summers.</p>\n      <p class=\"indent\">Leslie Duvall and William H. Sparrenberger, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN, for reasons contained in his memorandum of March 4, 1968 (390 U.S. 932, 88 S.Ct. 1016, 19 L.Ed.2d 1124, sub nom. Branigin v. Grills), in which he acquiesced in the denial of stays of enforcement of the District Court's judgment, also acquiesces in the Court's affirmance of that judgment.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107698/"
+}

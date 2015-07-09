@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2521883/williams-v-moss/", "blocked": false, "citation": {"case_name": "Williams v. Moss", "docket_number": "476", "document_uris": ["/api/rest/v2/document/2521883/"], "federal_cite_one": "378 U.S. 558", "federal_cite_three": "12 L. Ed. 2d 1026", "federal_cite_two": "84 S. Ct. 1907", "id": 2494655, "lexis_cite": "1964 U.S. LEXIS 845", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2494655/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-06-22", "date_modified": "2014-12-21T01:53:57.814416", "docket": "/api/rest/v2/docket/505257/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>378 U.S. 558 (1964)</b></center>\n<center><h1>WILLIAMS, TREASURER OF OKLAHOMA, ET AL.<br>\nv.<br>\nMOSS ET AL.</h1></center>\n<center>No. 476.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.<sup>[*]</sup></center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF OKLAHOMA.\n<p><i>Charles Nesbitt,</i> Attorney General of Oklahoma, for appellants in No. 476.</p>\n<p><i>Frank Carter</i> for appellants in No. 534.</p>\n<p><i>Jim A. Rinehart</i> for appellants in No. 546.</p>\n<p><span class=\"star-pagination\">*559</span> <i>Sid White</i> for appellee Moss in No. 476.</p>\n<p><i>Norman E. Reynolds, Jr., pro se,</i> appellee in Nos. 476 and 534.</p>\n<p><i>Delmer L. Stagner</i> and <i>LeRoy Powers</i> for Council of Democratic Neighborhood Clubs in Nos. 476 and 534.</p>\n<p>PER CURIAM.</p>\n<p>The judgment below is affirmed on the merits. <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533. The cases are remanded for further proceedings, with respect to relief, consistent with the views stated in our opinions in <i>Reynolds</i> v. <i>Sims</i> and in the other cases relating to state legislative apportionment decided along with <i>Reynolds,</i> should that become necessary.</p>\n<p>MR. JUSTICE CLARK would affirm on the merits on the grounds stated in his opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 587.</p>\n<p>MR. JUSTICE STEWART would affirm the judgment insofar as it holds that Oklahoma's system of legislative apportionment violates the Equal Protection Clause.</p>\n<p>MR. JUSTICE HARLAN dissents for the reasons stated in his dissenting opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 589.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 534, <i>Oklahoma Farm Bureau et al.</i> v. <i>Moss et al.,</i> and No. 546, <i>Baldwin et al.</i> v. <i>Moss,</i> both also on appeal from the same court.</p>\n\n</div>", "html_with_citations": "", "id": 2521883, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2521883/", "sha1": "92dacef1cf25737a7a7321b0ff932bc0655e2b1b", "source": "L", "supreme_court_db_id": "1963-170", "time_retrieved": "2013-10-30T03:09:33.686159"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "378 U.S. 558", 
+    "federal_cite_two": "84 S. Ct. 1907", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "12 L. Ed. 2d 1026", 
+    "lexis_cite": "1964 U.S. LEXIS 845", 
+    "document_uris": [
+      "/api/rest/v2/document/2521883/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Williams v. Moss", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "476", 
+    "id": 2494655, 
+    "resource_uri": "/api/rest/v2/citation/2494655/"
+  }, 
+  "id": 2521883, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-06-22", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>378 U.S. 558 (1964)</b></center>\n<center><h1>WILLIAMS, TREASURER OF OKLAHOMA, ET AL.<br>\nv.<br>\nMOSS ET AL.</h1></center>\n<center>No. 476.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 22, 1964.<sup>[*]</sup></center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF OKLAHOMA.\n<p><i>Charles Nesbitt,</i> Attorney General of Oklahoma, for appellants in No. 476.</p>\n<p><i>Frank Carter</i> for appellants in No. 534.</p>\n<p><i>Jim A. Rinehart</i> for appellants in No. 546.</p>\n<p><span class=\"star-pagination\">*559</span> <i>Sid White</i> for appellee Moss in No. 476.</p>\n<p><i>Norman E. Reynolds, Jr., pro se,</i> appellee in Nos. 476 and 534.</p>\n<p><i>Delmer L. Stagner</i> and <i>LeRoy Powers</i> for Council of Democratic Neighborhood Clubs in Nos. 476 and 534.</p>\n<p>PER CURIAM.</p>\n<p>The judgment below is affirmed on the merits. <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533. The cases are remanded for further proceedings, with respect to relief, consistent with the views stated in our opinions in <i>Reynolds</i> v. <i>Sims</i> and in the other cases relating to state legislative apportionment decided along with <i>Reynolds,</i> should that become necessary.</p>\n<p>MR. JUSTICE CLARK would affirm on the merits on the grounds stated in his opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 587.</p>\n<p>MR. JUSTICE STEWART would affirm the judgment insofar as it holds that Oklahoma's system of legislative apportionment violates the Equal Protection Clause.</p>\n<p>MR. JUSTICE HARLAN dissents for the reasons stated in his dissenting opinion in <i>Reynolds</i> v. <i>Sims,</i> 377 U. S. 533, 589.</p>\n<h2>NOTES</h2>\n<p>[*]  Together with No. 534, <i>Oklahoma Farm Bureau et al.</i> v. <i>Moss et al.,</i> and No. 546, <i>Baldwin et al.</i> v. <i>Moss,</i> both also on appeal from the same court.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T03:09:33.686159", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "92dacef1cf25737a7a7321b0ff932bc0655e2b1b", 
+  "date_modified": "2014-12-21T01:53:57.814416", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2521883/williams-v-moss/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": "1963-170", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/505257/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2521883/"
+}

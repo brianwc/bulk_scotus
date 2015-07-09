@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108039/state-of-florida-plaintiff-v-state-of-alabama/", "blocked": false, "citation": {"case_name": "State of Florida v. State of Alabama", "docket_number": "37, Original", "document_uris": ["/api/rest/v2/document/108039/"], "federal_cite_one": "396 U.S. 490", "federal_cite_three": null, "federal_cite_two": null, "id": 92398, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92398/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-02-02", "date_modified": "2014-12-21T01:56:30.154044", "docket": "/api/rest/v2/docket/2484138/", "download_url": "http://bulk.resource.org/courts.gov/c/US/396/396.US.490.37.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">396 U.S. 490</p>\n    <p class=\"case_cite\">90 S.Ct. 707</p>\n    <p class=\"case_cite\">24 L.Ed.2d 699</p>\n    <p class=\"parties\">State of FLORIDA, plaintiff,<br>v.<br>State of ALABAMA et al.</p>\n    <p class=\"docket\">No. 37, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 28, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Claude R. Kirk, Jr., Governor of Florida, and Gerald Mager, on the motion.</p>\n      <p class=\"indent\">On motion for leave to file bill of complaint.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The alleged emergent nature of the claims for relief led the Court to give expedited consideration to the motion and proffered complaint and, having examined the complaint, we conclude it fails to state a claim against any of the defendants warranting the exercise of the original jurisdiction of this Court.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Accordingly, the motion to accelerate the time for responses to the proffered complaint and the motion for leave to file the proffered complaint are denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">490</span></span></p>\n    <p class=\"case_cite\">90 S.Ct. 707</p>\n    <p class=\"case_cite\">24 L.Ed.2d 699</p>\n    <p class=\"parties\">State of FLORIDA, plaintiff,<br>v.<br>State of ALABAMA et al.</p>\n    <p class=\"docket\">No. 37, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 28, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Claude R. Kirk, Jr., Governor of Florida, and Gerald Mager, on the motion.</p>\n      <p class=\"indent\">On motion for leave to file bill of complaint.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The alleged emergent nature of the claims for relief led the Court to give expedited consideration to the motion and proffered complaint and, having examined the complaint, we conclude it fails to state a claim against any of the defendants warranting the exercise of the original jurisdiction of this Court.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Accordingly, the motion to accelerate the time for responses to the proffered complaint and the motion for leave to file the proffered complaint are denied.</p>\n    </div>\n    ", "id": 108039, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108039/", "sha1": "621d4c8af66188404cabbf702c724c3d3f9b0566", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:21"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "396 U.S. 490", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/108039/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "State of Florida v. State of Alabama", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "37, Original", 
+    "id": 92398, 
+    "resource_uri": "/api/rest/v2/citation/92398/"
+  }, 
+  "id": 108039, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-02-02", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/396/396.US.490.37.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:21", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">490</span></span></p>\n    <p class=\"case_cite\">90 S.Ct. 707</p>\n    <p class=\"case_cite\">24 L.Ed.2d 699</p>\n    <p class=\"parties\">State of FLORIDA, plaintiff,<br>v.<br>State of ALABAMA et al.</p>\n    <p class=\"docket\">No. 37, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 28, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Claude R. Kirk, Jr., Governor of Florida, and Gerald Mager, on the motion.</p>\n      <p class=\"indent\">On motion for leave to file bill of complaint.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The alleged emergent nature of the claims for relief led the Court to give expedited consideration to the motion and proffered complaint and, having examined the complaint, we conclude it fails to state a claim against any of the defendants warranting the exercise of the original jurisdiction of this Court.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Accordingly, the motion to accelerate the time for responses to the proffered complaint and the motion for leave to file the proffered complaint are denied.</p>\n    </div>\n    ", 
+  "sha1": "621d4c8af66188404cabbf702c724c3d3f9b0566", 
+  "date_modified": "2014-12-21T01:56:30.154044", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108039/state-of-florida-plaintiff-v-state-of-alabama/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2484138/", 
+  "html": "<p class=\"case_cite\">396 U.S. 490</p>\n    <p class=\"case_cite\">90 S.Ct. 707</p>\n    <p class=\"case_cite\">24 L.Ed.2d 699</p>\n    <p class=\"parties\">State of FLORIDA, plaintiff,<br>v.<br>State of ALABAMA et al.</p>\n    <p class=\"docket\">No. 37, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 28, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Claude R. Kirk, Jr., Governor of Florida, and Gerald Mager, on the motion.</p>\n      <p class=\"indent\">On motion for leave to file bill of complaint.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The alleged emergent nature of the claims for relief led the Court to give expedited consideration to the motion and proffered complaint and, having examined the complaint, we conclude it fails to state a claim against any of the defendants warranting the exercise of the original jurisdiction of this Court.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Accordingly, the motion to accelerate the time for responses to the proffered complaint and the motion for leave to file the proffered complaint are denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108039/"
+}

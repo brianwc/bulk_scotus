@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/134758/intel-corp-v-advanced-micro-devices-inc/", "blocked": false, "citation": {"case_name": "Intel Corp. v. Advanced Micro Devices, Inc", "docket_number": "02-572", "document_uris": ["/api/rest/v2/document/134758/"], "federal_cite_one": "541 U.S. 901", "federal_cite_three": null, "federal_cite_two": null, "id": 119111, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/119111/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-03-08", "date_modified": "2014-12-21T02:19:48.355309", "docket": "/api/rest/v2/docket/2287288/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.901.02-572.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 901</p>\n    <p class=\"parties\">INTEL CORP.<br>v.<br>ADVANCED MICRO DEVICES, INC.</p>\n    <p class=\"docket\">No. 02-572.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. [Certiorari granted, 540 U. S. 1003.] Motion of the Commission of the European Communities for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. Motion of the Solicitor General for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. JUSTICE O'CONNOR took no part in the consideration or decision of this petition.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span></p>\n    <p class=\"parties\">INTEL CORP.<br>v.<br>ADVANCED MICRO DEVICES, INC.</p>\n    <p class=\"docket\">No. 02-572.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. [Certiorari granted, 540 U. S. 1003.] Motion of the Commission of the European Communities for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. Motion of the Solicitor General for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. JUSTICE O'CONNOR took no part in the consideration or decision of this petition.</p>\n    </div>\n    ", "id": 134758, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/134758/", "sha1": "0358de5da29acd7509035cec0de2b5c04f24e2cd", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:08"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 901", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/134758/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Intel Corp. v. Advanced Micro Devices, Inc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-572", 
+    "id": 119111, 
+    "resource_uri": "/api/rest/v2/citation/119111/"
+  }, 
+  "id": 134758, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-03-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.901.02-572.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:08", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span></p>\n    <p class=\"parties\">INTEL CORP.<br>v.<br>ADVANCED MICRO DEVICES, INC.</p>\n    <p class=\"docket\">No. 02-572.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. [Certiorari granted, 540 U. S. 1003.] Motion of the Commission of the European Communities for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. Motion of the Solicitor General for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. JUSTICE O'CONNOR took no part in the consideration or decision of this petition.</p>\n    </div>\n    ", 
+  "sha1": "0358de5da29acd7509035cec0de2b5c04f24e2cd", 
+  "date_modified": "2014-12-21T02:19:48.355309", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/134758/intel-corp-v-advanced-micro-devices-inc/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2287288/", 
+  "html": "<p class=\"case_cite\">541 U.S. 901</p>\n    <p class=\"parties\">INTEL CORP.<br>v.<br>ADVANCED MICRO DEVICES, INC.</p>\n    <p class=\"docket\">No. 02-572.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 9th Cir. [Certiorari granted, 540 U. S. 1003.] Motion of the Commission of the European Communities for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. Motion of the Solicitor General for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. JUSTICE O'CONNOR took no part in the consideration or decision of this petition.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/134758/"
+}

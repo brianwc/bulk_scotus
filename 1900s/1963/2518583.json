@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2518583/atwoods-transport-lines-inc-v-united-states/", "blocked": false, "citation": {"case_name": "Atwood's Transport Lines, Inc. v. United States", "docket_number": "935", "document_uris": ["/api/rest/v2/document/2518583/"], "federal_cite_one": "373 U.S. 377", "federal_cite_three": null, "federal_cite_two": null, "id": 2491355, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2491355/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-05-20", "date_modified": "2014-10-30T17:39:37.425683", "docket": "/api/rest/v2/docket/2547787/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>373 U.S. 377 (1963)</b></center>\n<center><h1>ATWOOD'S TRANSPORT LINES, INC.,<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 935.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 20, 1963.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>James E. Wilson</i> and <i>Edward G. Villalon</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Lionel Kestenbaum</i> and <i>Robert W. Ginnane</i> for the United States and the Interstate Commerce Commission; and <i>S. Harrison Kahn</i> for Alexandria, Barcroft &amp; Washington Transit Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 2518583, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2518583/", "sha1": "4eb52c77dc5819265b27f6a44d0923a65efd7dd9", "source": "L", "time_retrieved": "2013-10-30T03:07:54.324882"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "373 U.S. 377", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2518583/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Atwood's Transport Lines, Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "935", 
+    "id": 2491355, 
+    "resource_uri": "/api/rest/v2/citation/2491355/"
+  }, 
+  "id": 2518583, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-05-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>373 U.S. 377 (1963)</b></center>\n<center><h1>ATWOOD'S TRANSPORT LINES, INC.,<br>\nv.<br>\nUNITED STATES ET AL.</h1></center>\n<center>No. 935.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 20, 1963.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA.\n<p><i>James E. Wilson</i> and <i>Edward G. Villalon</i> for appellant.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Loevinger, Lionel Kestenbaum</i> and <i>Robert W. Ginnane</i> for the United States and the Interstate Commerce Commission; and <i>S. Harrison Kahn</i> for Alexandria, Barcroft &amp; Washington Transit Co., appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T03:07:54.324882", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "4eb52c77dc5819265b27f6a44d0923a65efd7dd9", 
+  "date_modified": "2014-10-30T17:39:37.425683", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2518583/atwoods-transport-lines-inc-v-united-states/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2547787/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2518583/"
+}

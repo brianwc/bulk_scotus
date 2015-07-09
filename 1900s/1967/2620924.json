@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2620924/ratner-v-california/", "blocked": false, "citation": {"case_name": "Ratner v. California", "docket_number": "10", "document_uris": ["/api/rest/v2/document/2620924/"], "federal_cite_one": "388 U.S. 442", "federal_cite_three": "18 L. Ed. 2d 1304", "federal_cite_two": "87 S. Ct. 2092", "id": 2593696, "lexis_cite": "1967 U.S. LEXIS 1092", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593696/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-06-12", "date_modified": "2014-12-21T10:12:45.065014", "docket": "/api/rest/v2/docket/2518222/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>388 U.S. 442 (1967)</b></center>\n<center><h1>RATNER ET AL.<br>\nv.<br>\nCALIFORNIA.</h1></center>\n<center>No. 10.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE APPELLATE DEPARTMENT OF THE SUPERIOR COURT OF CALIFORNIA, COUNTY OF SAN MATEO.\n<p><i>Richard A. Lavine</i> for petitioners.</p>\n<p><i>Thomas C. Lynch,</i> Attorney General of California, and <i>Robert R. Granucci</i> and <i>Charles W. Rumph,</i> Deputy Attorneys General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment of the Appellate Department of the Superior Court of California, County of San Mateo, is reversed. <i>Redrup</i> v. <i>New York,</i> 386 U. S. 767.</p>\n<p>THE CHIEF JUSTICE, MR. JUSTICE CLARK, and MR. JUSTICE BRENNAN would affirm.</p>\n<p>MR. JUSTICE HARLAN adheres to the views expressed in his separate opinions in <i>Roth</i> v. <i>United States,</i> 354 U. S. 476, 496, and <i>Memoirs</i> v. <i>Massachusetts,</i> 383 U. S. 413, 455, and on the basis of the reasoning set forth therein would affirm.</p>\n</div>", "html_with_citations": "", "id": 2620924, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620924/", "sha1": "43e23bd8115348ffc55702989b22dbafec707e76", "source": "L", "supreme_court_db_id": "1966-136", "time_retrieved": "2013-11-01T13:05:02.400689"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "388 U.S. 442", 
+    "federal_cite_two": "87 S. Ct. 2092", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "18 L. Ed. 2d 1304", 
+    "lexis_cite": "1967 U.S. LEXIS 1092", 
+    "document_uris": [
+      "/api/rest/v2/document/2620924/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ratner v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "10", 
+    "id": 2593696, 
+    "resource_uri": "/api/rest/v2/citation/2593696/"
+  }, 
+  "id": 2620924, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-06-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>388 U.S. 442 (1967)</b></center>\n<center><h1>RATNER ET AL.<br>\nv.<br>\nCALIFORNIA.</h1></center>\n<center>No. 10.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE APPELLATE DEPARTMENT OF THE SUPERIOR COURT OF CALIFORNIA, COUNTY OF SAN MATEO.\n<p><i>Richard A. Lavine</i> for petitioners.</p>\n<p><i>Thomas C. Lynch,</i> Attorney General of California, and <i>Robert R. Granucci</i> and <i>Charles W. Rumph,</i> Deputy Attorneys General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment of the Appellate Department of the Superior Court of California, County of San Mateo, is reversed. <i>Redrup</i> v. <i>New York,</i> 386 U. S. 767.</p>\n<p>THE CHIEF JUSTICE, MR. JUSTICE CLARK, and MR. JUSTICE BRENNAN would affirm.</p>\n<p>MR. JUSTICE HARLAN adheres to the views expressed in his separate opinions in <i>Roth</i> v. <i>United States,</i> 354 U. S. 476, 496, and <i>Memoirs</i> v. <i>Massachusetts,</i> 383 U. S. 413, 455, and on the basis of the reasoning set forth therein would affirm.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:05:02.400689", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "43e23bd8115348ffc55702989b22dbafec707e76", 
+  "date_modified": "2014-12-21T10:12:45.065014", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620924/ratner-v-california/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": "1966-136", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2518222/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620924/"
+}

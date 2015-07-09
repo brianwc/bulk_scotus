@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/140032/joyce-et-al-v-east-tennessee-natural-gas-co/", "blocked": false, "citation": {"case_name": "Joyce v. East Tennessee Natural Gas Co. And", "docket_number": "04-174", "document_uris": ["/api/rest/v2/document/140032/"], "federal_cite_one": "543 U.S. 978", "federal_cite_three": null, "federal_cite_two": null, "id": 124385, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/124385/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-11-08", "date_modified": "2014-12-21T02:20:51.151186", "docket": "/api/rest/v2/docket/243775/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.978.04-174.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 978</p>\n    <p class=\"parties\">JOYCE ET AL.<br>v.<br>EAST TENNESSEE NATURAL GAS CO.; and</p>\n    <p class=\"docket\">No. 04-174.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 361 F. 3d 808.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">978</span></span></p>\n    <p class=\"parties\">JOYCE ET AL.<br>v.<br>EAST TENNESSEE NATURAL GAS CO.; and</p>\n    <p class=\"docket\">No. 04-174.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 361 F. 3d 808.</p>\n    </div>\n    ", "id": 140032, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/140032/", "sha1": "3db78111165df64df7e6026ec3b6103e2b70f65b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:33:07"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 978", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/140032/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Joyce v. East Tennessee Natural Gas Co. And", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-174", 
+    "id": 124385, 
+    "resource_uri": "/api/rest/v2/citation/124385/"
+  }, 
+  "id": 140032, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-11-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.978.04-174.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:33:07", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">978</span></span></p>\n    <p class=\"parties\">JOYCE ET AL.<br>v.<br>EAST TENNESSEE NATURAL GAS CO.; and</p>\n    <p class=\"docket\">No. 04-174.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 361 F. 3d 808.</p>\n    </div>\n    ", 
+  "sha1": "3db78111165df64df7e6026ec3b6103e2b70f65b", 
+  "date_modified": "2014-12-21T02:20:51.151186", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/140032/joyce-et-al-v-east-tennessee-natural-gas-co/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/243775/", 
+  "html": "<p class=\"case_cite\">543 U.S. 978</p>\n    <p class=\"parties\">JOYCE ET AL.<br>v.<br>EAST TENNESSEE NATURAL GAS CO.; and</p>\n    <p class=\"docket\">No. 04-174.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">November 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 4th Cir. Certiorari denied. Reported below: 361 F. 3d 808.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/140032/"
+}

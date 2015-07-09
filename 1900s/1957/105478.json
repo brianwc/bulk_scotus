@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105478/central-of-georgia-railway-company-petitioner/", "blocked": false, "citation": {"case_name": "Central of Georgia Railway Company v. Brotherhood of Railroad Trainmen, Local Lodge No. 721", "docket_number": "84", "document_uris": ["/api/rest/v2/document/105478/"], "federal_cite_one": "352 U.S. 995", "federal_cite_three": null, "federal_cite_two": null, "id": 89861, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/89861/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1957-02-25", "date_modified": "2014-12-21T01:50:22.306397", "docket": "/api/rest/v2/docket/2440265/", "download_url": "http://bulk.resource.org/courts.gov/c/US/352/352.US.995.84.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">352 U.S. 995</p>\r\n    <p class=\"case_cite\">77 S.Ct. 554</p>\r\n    <p class=\"case_cite\">1 L.Ed.2d 540</p>\r\n    <p class=\"parties\">CENTRAL OF GEORGIA RAILWAY COMPANY, petitioner,<br>v.<br>BROTHERHOOD OF RAILROAD TRAINMEN, LOCAL LODGE  NO. 721, et al.</p>\r\n    <p class=\"docket\">No. 84.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 25, 1957</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John B. Miller, for petitioner.</p>\r\n      <p class=\"indent\">Messrs. Benning M. Grice and Wayland K. Sullivan, for respondents.</p>\r\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Upon the suggestion of mootness the writ is dismissed on the ground that the cause is moot.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">352</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">995</span></span></p>\r\n    <p class=\"case_cite\">77 S.Ct. 554</p>\r\n    <p class=\"case_cite\">1 L.Ed.2d 540</p>\r\n    <p class=\"parties\">CENTRAL OF GEORGIA RAILWAY COMPANY, petitioner,<br>v.<br>BROTHERHOOD OF RAILROAD TRAINMEN, LOCAL LODGE  NO. 721, et al.</p>\r\n    <p class=\"docket\">No. 84.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 25, 1957</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John B. Miller, for petitioner.</p>\r\n      <p class=\"indent\">Messrs. Benning M. Grice and Wayland K. Sullivan, for respondents.</p>\r\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Upon the suggestion of mootness the writ is dismissed on the ground that the cause is moot.</p>\r\n    </div>\r\n    ", "id": 105478, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105478/", "sha1": "33bc0c2aa7f567850c8b09fd5b01ffad5a8a404a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:32"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "352 U.S. 995", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/105478/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Central of Georgia Railway Company v. Brotherhood of Railroad Trainmen, Local Lodge No. 721", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "84", 
+    "id": 89861, 
+    "resource_uri": "/api/rest/v2/citation/89861/"
+  }, 
+  "id": 105478, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1957-02-25", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/352/352.US.995.84.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:32", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">352</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">995</span></span></p>\r\n    <p class=\"case_cite\">77 S.Ct. 554</p>\r\n    <p class=\"case_cite\">1 L.Ed.2d 540</p>\r\n    <p class=\"parties\">CENTRAL OF GEORGIA RAILWAY COMPANY, petitioner,<br>v.<br>BROTHERHOOD OF RAILROAD TRAINMEN, LOCAL LODGE  NO. 721, et al.</p>\r\n    <p class=\"docket\">No. 84.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 25, 1957</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John B. Miller, for petitioner.</p>\r\n      <p class=\"indent\">Messrs. Benning M. Grice and Wayland K. Sullivan, for respondents.</p>\r\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Upon the suggestion of mootness the writ is dismissed on the ground that the cause is moot.</p>\r\n    </div>\r\n    ", 
+  "sha1": "33bc0c2aa7f567850c8b09fd5b01ffad5a8a404a", 
+  "date_modified": "2014-12-21T01:50:22.306397", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105478/central-of-georgia-railway-company-petitioner/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2440265/", 
+  "html": "<p class=\"case_cite\">352 U.S. 995</p>\r\n    <p class=\"case_cite\">77 S.Ct. 554</p>\r\n    <p class=\"case_cite\">1 L.Ed.2d 540</p>\r\n    <p class=\"parties\">CENTRAL OF GEORGIA RAILWAY COMPANY, petitioner,<br>v.<br>BROTHERHOOD OF RAILROAD TRAINMEN, LOCAL LODGE  NO. 721, et al.</p>\r\n    <p class=\"docket\">No. 84.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 25, 1957</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John B. Miller, for petitioner.</p>\r\n      <p class=\"indent\">Messrs. Benning M. Grice and Wayland K. Sullivan, for respondents.</p>\r\n      <p class=\"indent\">On writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Upon the suggestion of mootness the writ is dismissed on the ground that the cause is moot.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/105478/"
+}

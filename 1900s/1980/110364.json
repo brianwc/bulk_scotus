@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/110364/danny-vincent-v-state-of-texas/", "blocked": false, "citation": {"case_name": "Danny Vincent v. State of Texas", "docket_number": "79-5962", "document_uris": ["/api/rest/v2/document/110364/"], "federal_cite_one": "449 U.S. 199", "federal_cite_three": "66 L. Ed. 2d 391", "federal_cite_two": "101 S. Ct. 632", "id": 94723, "lexis_cite": "1980 U.S. LEXIS 159", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/94723/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1980-12-09", "date_modified": "2014-12-21T02:04:05.850512", "docket": "/api/rest/v2/docket/354694/", "download_url": "http://bulk.resource.org/courts.gov/c/US/449/449.US.199.79-5962.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">449 U.S. 199</p>\n    <p class=\"case_cite\">101 S.Ct. 632</p>\n    <p class=\"case_cite\">66 L.Ed.2d 391</p>\n    <p class=\"parties\">Danny VINCENT, appellant,<br>v.<br>State of TEXAS</p>\n    <p class=\"docket\">No. 79-5962</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1980</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a properly presented federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">THE CHIEF JUSTICE and Justice POWELL would dismiss for want of jurisdiction.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">449</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">199</span></span></p>\n    <p class=\"case_cite\">101 S.Ct. 632</p>\n    <p class=\"case_cite\">66 L.Ed.2d 391</p>\n    <p class=\"parties\">Danny VINCENT, appellant,<br>v.<br>State of TEXAS</p>\n    <p class=\"docket\">No. 79-5962</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1980</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a properly presented federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">THE CHIEF JUSTICE and Justice POWELL would dismiss for want of jurisdiction.</p>\n    </div>\n    ", "id": 110364, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/110364/", "sha1": "bc990ffb4cbdfdc34349df1fe34c85bdfb3755ed", "source": "R", "supreme_court_db_id": "1980-014", "time_retrieved": "2010-04-28T10:12:33"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "449 U.S. 199", 
+    "federal_cite_two": "101 S. Ct. 632", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "66 L. Ed. 2d 391", 
+    "lexis_cite": "1980 U.S. LEXIS 159", 
+    "document_uris": [
+      "/api/rest/v2/document/110364/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Danny Vincent v. State of Texas", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "79-5962", 
+    "id": 94723, 
+    "resource_uri": "/api/rest/v2/citation/94723/"
+  }, 
+  "id": 110364, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1980-12-09", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/449/449.US.199.79-5962.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:12:33", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">449</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">199</span></span></p>\n    <p class=\"case_cite\">101 S.Ct. 632</p>\n    <p class=\"case_cite\">66 L.Ed.2d 391</p>\n    <p class=\"parties\">Danny VINCENT, appellant,<br>v.<br>State of TEXAS</p>\n    <p class=\"docket\">No. 79-5962</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1980</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a properly presented federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">THE CHIEF JUSTICE and Justice POWELL would dismiss for want of jurisdiction.</p>\n    </div>\n    ", 
+  "sha1": "bc990ffb4cbdfdc34349df1fe34c85bdfb3755ed", 
+  "date_modified": "2014-12-21T02:04:05.850512", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/110364/danny-vincent-v-state-of-texas/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": "1980-014", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/354694/", 
+  "html": "<p class=\"case_cite\">449 U.S. 199</p>\n    <p class=\"case_cite\">101 S.Ct. 632</p>\n    <p class=\"case_cite\">66 L.Ed.2d 391</p>\n    <p class=\"parties\">Danny VINCENT, appellant,<br>v.<br>State of TEXAS</p>\n    <p class=\"docket\">No. 79-5962</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1980</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a properly presented federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">THE CHIEF JUSTICE and Justice POWELL would dismiss for want of jurisdiction.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/110364/"
+}

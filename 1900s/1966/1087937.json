@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087937/annbar-associates-v-west-side-redevelopment-corp/", "blocked": false, "citation": {"case_name": "Annbar Associates v. West Side Redevelopment Corp.", "docket_number": "152", "document_uris": ["/api/rest/v2/document/1087937/"], "federal_cite_one": "385 U.S. 5", "federal_cite_three": null, "federal_cite_two": null, "id": 1060708, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060708/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-10-10", "date_modified": "2014-10-30T17:34:03.371310", "docket": "/api/rest/v2/docket/2530653/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>385 U.S. 5 (1966)</b></center>\n<center><h1>ANNBAR ASSOCIATES ET AL.<br>\nv.<br>\nWEST SIDE REDEVELOPMENT CORP. ET AL.</h1></center>\n<center>No. 152.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 10, 1966.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSOURI.\n<p><i>William M. Kufeld</i> for appellants.</p>\n<p><i>Guy W. Rice</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 1087937, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087937/", "sha1": "3ca4243592177171f85d4ace58adb785af625b41", "source": "L", "time_retrieved": "2013-10-29T20:04:09.006098"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "385 U.S. 5", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087937/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Annbar Associates v. West Side Redevelopment Corp.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "152", 
+    "id": 1060708, 
+    "resource_uri": "/api/rest/v2/citation/1060708/"
+  }, 
+  "id": 1087937, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-10-10", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>385 U.S. 5 (1966)</b></center>\n<center><h1>ANNBAR ASSOCIATES ET AL.<br>\nv.<br>\nWEST SIDE REDEVELOPMENT CORP. ET AL.</h1></center>\n<center>No. 152.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 10, 1966.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSOURI.\n<p><i>William M. Kufeld</i> for appellants.</p>\n<p><i>Guy W. Rice</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:04:09.006098", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "3ca4243592177171f85d4ace58adb785af625b41", 
+  "date_modified": "2014-10-30T17:34:03.371310", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087937/annbar-associates-v-west-side-redevelopment-corp/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2530653/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087937/"
+}

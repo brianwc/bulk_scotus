@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2429567/field-v-milton/", "blocked": false, "citation": {"case_name": "Field v. Milton", "docket_number": null, "document_uris": ["/api/rest/v2/document/2429567/"], "federal_cite_one": "7 U.S. 514", "federal_cite_three": null, "federal_cite_two": null, "id": 2402339, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2402339/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1806-02-17", "date_modified": "2014-10-30T16:14:48.826393", "docket": "/api/rest/v2/docket/2300601/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>7 U.S. 514 (____)</b></center>\n<center><b>3 Cranch 514</b></center>\n<center><h1>FIELD<br>\nv.<br>\nMILTON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>W. PINCKNEY, for plaintiff in error.</p>\n<p>Certiorari granted.</p>\n</div>", "html_with_citations": "", "id": 2429567, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2429567/", "sha1": "7180e17a62b4b43de17c8c948da3a0a50d1970b2", "source": "L", "time_retrieved": "2013-10-30T02:33:21.062743"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "7 U.S. 514", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2429567/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Field v. Milton", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2402339, 
+    "resource_uri": "/api/rest/v2/citation/2402339/"
+  }, 
+  "id": 2429567, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1806-02-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>7 U.S. 514 (____)</b></center>\n<center><b>3 Cranch 514</b></center>\n<center><h1>FIELD<br>\nv.<br>\nMILTON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>W. PINCKNEY, for plaintiff in error.</p>\n<p>Certiorari granted.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:33:21.062743", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "7180e17a62b4b43de17c8c948da3a0a50d1970b2", 
+  "date_modified": "2014-10-30T16:14:48.826393", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2429567/field-v-milton/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2300601/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2429567/"
+}

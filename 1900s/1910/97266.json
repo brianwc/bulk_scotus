@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/97266/schultz-v-diehl/", "blocked": false, "citation": {"case_name": "Schultz v. Diehl", "docket_number": "166", "document_uris": ["/api/rest/v2/document/97266/"], "federal_cite_one": "217 U.S. 594", "federal_cite_three": null, "federal_cite_two": null, "id": 81649, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/81649/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1910-04-25", "date_modified": "2014-12-21T01:35:05.672139", "docket": "/api/rest/v2/docket/1568076/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">217 U.S. 594</p>\n    <p class=\"case_cite\">30 S.Ct. 694</p>\n    <p class=\"case_cite\">54 L.Ed. 896</p>\n    <p class=\"parties\">H. J. SCHULTZ et al., Appellants,<br>v.<br>EDGAR B. DIEHL and Daniel Grabill.</p>\n    <p class=\"docket\">No. 166.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 25, 1910</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Mr. Charles W. Fulton</i> for appellants.</p>\n      <p class=\"indent\">No appearance for appellees.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Decree reversed, with costs, and cause remanded, to be proceeded in according to law. Jellenik v. Huron Copper Min. Co. 177 U. S. 1, 44 L. ed. 647, 20 Sup. Ct. Rep. 559; 18 Stat. at L. 470, chap. 137, &#167; 8, U. S. Comp. Stat. 1901, p. 513; Oregon Code, &#167;&#167; 5064, 300, 301.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>217 U.S. 594 (1910)</b></center>\n<center><h1>SCHULTZ<br>\nv.<br>\nDIEHL.</h1></center>\n<center>No. 166.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 22, 1910.</center>\n<center>Decided April 25, 1910.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF OREGON.\n<p><span class=\"star-pagination\">*595</span> <i>Mr. Charles W. Fulton</i> and <i>Mr. Douglas W. Bailey</i> for appellants.</p>\n<p>No appearance for appellees.</p>\n<p>Submitted by appellants April 22, 1910.</p>\n<p><i>Per Curiam.</i></p>\n<p>Decree reversed with costs and cause remanded to be proceeded in according to law. <i>Jellenik</i> v. <i>Huron Copper Mining Company,</i> 177 U.S. 1; 18 Stat. 470, c. 137, § 8; Code of Oregon, §§ 5064, 300, 301.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">217</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">594</span></span> (1910)</b></center>\n<center><h1>SCHULTZ<br>\nv.<br>\nDIEHL.</h1></center>\n<center>No. 166.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 22, 1910.</center>\n<center>Decided April 25, 1910.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF OREGON.\n<p><span class=\"star-pagination\">*595</span> <i>Mr. Charles W. Fulton</i> and <i>Mr. Douglas W. Bailey</i> for appellants.</p>\n<p>No appearance for appellees.</p>\n<p>Submitted by appellants April 22, 1910.</p>\n<p><i>Per Curiam.</i></p>\n<p>Decree reversed with costs and cause remanded to be proceeded in according to law. <i>Jellenik</i> v. <i>Huron Copper Mining Company,</i> 177 U.S. 1; 18 Stat. 470, c. 137, § 8; Code of Oregon, §§ 5064, 300, 301.</p>\n</div>", "id": 97266, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/97266/", "sha1": "a87797d4466176e8c4716d8fc9917a7a69462fdf", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:42:29"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "217 U.S. 594", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/97266/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Schultz v. Diehl", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "166", 
+    "id": 81649, 
+    "resource_uri": "/api/rest/v2/citation/81649/"
+  }, 
+  "id": 97266, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1910-04-25", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>217 U.S. 594 (1910)</b></center>\n<center><h1>SCHULTZ<br>\nv.<br>\nDIEHL.</h1></center>\n<center>No. 166.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 22, 1910.</center>\n<center>Decided April 25, 1910.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF OREGON.\n<p><span class=\"star-pagination\">*595</span> <i>Mr. Charles W. Fulton</i> and <i>Mr. Douglas W. Bailey</i> for appellants.</p>\n<p>No appearance for appellees.</p>\n<p>Submitted by appellants April 22, 1910.</p>\n<p><i>Per Curiam.</i></p>\n<p>Decree reversed with costs and cause remanded to be proceeded in according to law. <i>Jellenik</i> v. <i>Huron Copper Mining Company,</i> 177 U.S. 1; 18 Stat. 470, c. 137, \u00a7 8; Code of Oregon, \u00a7\u00a7 5064, 300, 301.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:42:29", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">217</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">594</span></span> (1910)</b></center>\n<center><h1>SCHULTZ<br>\nv.<br>\nDIEHL.</h1></center>\n<center>No. 166.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted April 22, 1910.</center>\n<center>Decided April 25, 1910.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF OREGON.\n<p><span class=\"star-pagination\">*595</span> <i>Mr. Charles W. Fulton</i> and <i>Mr. Douglas W. Bailey</i> for appellants.</p>\n<p>No appearance for appellees.</p>\n<p>Submitted by appellants April 22, 1910.</p>\n<p><i>Per Curiam.</i></p>\n<p>Decree reversed with costs and cause remanded to be proceeded in according to law. <i>Jellenik</i> v. <i>Huron Copper Mining Company,</i> 177 U.S. 1; 18 Stat. 470, c. 137, \u00a7 8; Code of Oregon, \u00a7\u00a7 5064, 300, 301.</p>\n</div>", 
+  "sha1": "a87797d4466176e8c4716d8fc9917a7a69462fdf", 
+  "date_modified": "2014-12-21T01:35:05.672139", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/97266/schultz-v-diehl/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1568076/", 
+  "html": "<p class=\"case_cite\">217 U.S. 594</p>\n    <p class=\"case_cite\">30 S.Ct. 694</p>\n    <p class=\"case_cite\">54 L.Ed. 896</p>\n    <p class=\"parties\">H. J. SCHULTZ et al., Appellants,<br>v.<br>EDGAR B. DIEHL and Daniel Grabill.</p>\n    <p class=\"docket\">No. 166.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 25, 1910</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Mr. Charles W. Fulton</i> for appellants.</p>\n      <p class=\"indent\">No appearance for appellees.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Decree reversed, with costs, and cause remanded, to be proceeded in according to law. Jellenik v. Huron Copper Min. Co. 177 U. S. 1, 44 L. ed. 647, 20 Sup. Ct. Rep. 559; 18 Stat. at L. 470, chap. 137, &#167; 8, U. S. Comp. Stat. 1901, p. 513; Oregon Code, &#167;&#167; 5064, 300, 301.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/97266/"
+}

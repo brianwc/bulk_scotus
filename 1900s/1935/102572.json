@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/102572/a-j-richardson-petitioner-v-chicago-rock/", "blocked": false, "citation": {"case_name": "A. J. Richardson v. Chicago, Rock Island & Gulf Railway Company.", "docket_number": "606", "document_uris": ["/api/rest/v2/document/102572/"], "federal_cite_one": "296 U.S. 646", "federal_cite_three": null, "federal_cite_two": null, "id": 86955, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/86955/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1935-12-09", "date_modified": "2014-12-21T01:41:29.815619", "docket": "/api/rest/v2/docket/2476986/", "download_url": "http://bulk.resource.org/courts.gov/c/US/296/296.US.646.606.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">296 U.S. 646</p>\n    <p class=\"case_cite\">56 S.Ct. 311</p>\n    <p class=\"case_cite\">80 L.Ed. 460</p>\n    <p class=\"parties\">A. J. RICHARDSON, petitioner,<br>v.<br>CHICAGO, ROCK ISLAND &amp; GULF RAILWAY COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 606.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No opinion filed in court below.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied, for the reason that the Court, upon examination of the papers herein submitted finds no ground upon which writ of certiorari should be granted. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 297 U. S. 727, 56 S. Ct. 496, 80 L. Ed. 1010.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">646</span></span></p>\n    <p class=\"case_cite\">56 S.Ct. 311</p>\n    <p class=\"case_cite\">80 L.Ed. 460</p>\n    <p class=\"parties\">A. J. RICHARDSON, petitioner,<br>v.<br>CHICAGO, ROCK ISLAND &amp; GULF RAILWAY COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 606.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No opinion filed in court below.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied, for the reason that the Court, upon examination of the papers herein submitted finds no ground upon which writ of certiorari should be granted. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 297 U. S. 727, <span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">496</span></span>, 80 L. Ed. 1010.</p>\n      </div>\n    </div>\n    ", "id": 102572, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/102572/", "sha1": "1ec578278101a7b9cccad5d87fd4a76354361b4f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:53:23"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "296 U.S. 646", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/102572/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "A. J. Richardson v. Chicago, Rock Island & Gulf Railway Company.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "606", 
+    "id": 86955, 
+    "resource_uri": "/api/rest/v2/citation/86955/"
+  }, 
+  "id": 102572, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1935-12-09", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/296/296.US.646.606.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:53:23", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">646</span></span></p>\n    <p class=\"case_cite\">56 S.Ct. 311</p>\n    <p class=\"case_cite\">80 L.Ed. 460</p>\n    <p class=\"parties\">A. J. RICHARDSON, petitioner,<br>v.<br>CHICAGO, ROCK ISLAND &amp; GULF RAILWAY COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 606.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No opinion filed in court below.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied, for the reason that the Court, upon examination of the papers herein submitted finds no ground upon which writ of certiorari should be granted. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 297 U. S. 727, <span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">496</span></span>, 80 L. Ed. 1010.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "1ec578278101a7b9cccad5d87fd4a76354361b4f", 
+  "date_modified": "2014-12-21T01:41:29.815619", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/102572/a-j-richardson-petitioner-v-chicago-rock/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2476986/", 
+  "html": "<p class=\"case_cite\">296 U.S. 646</p>\n    <p class=\"case_cite\">56 S.Ct. 311</p>\n    <p class=\"case_cite\">80 L.Ed. 460</p>\n    <p class=\"parties\">A. J. RICHARDSON, petitioner,<br>v.<br>CHICAGO, ROCK ISLAND &amp; GULF RAILWAY COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 606.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No opinion filed in court below.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied, for the reason that the Court, upon examination of the papers herein submitted finds no ground upon which writ of certiorari should be granted. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 297 U. S. 727, 56 S. Ct. 496, 80 L. Ed. 1010.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/102572/"
+}

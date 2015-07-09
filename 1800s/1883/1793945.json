@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1793945/poindexter-v-greenhow/", "blocked": false, "citation": {"case_name": "Poindexter v. Greenhow", "docket_number": null, "document_uris": ["/api/rest/v2/document/1793945/"], "federal_cite_one": "109 U.S. 63", "federal_cite_three": null, "federal_cite_two": null, "id": 1766716, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1766716/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1883-10-09", "date_modified": "2014-12-21T09:12:26.642039", "docket": "/api/rest/v2/docket/1717534/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>109 U.S. 63 (1883)</b></center>\n<center><h1>POINDEXTER<br>\nv.<br>\nGREENHOW, Treasurer.<br>\nWHITE<br>\nv.<br>\nGREENHOW.<br>\nCARTER<br>\nv.<br>\nGREENHOW.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Motion to advance, made October 9th, 1883.</center>\n<center>Denied October 15th, 1883.</center>\nIN ERROR TO THE HUSTINGS COURT OF THE CITY OF RICHMOND, VIRGINIA.\nIN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF VIRGINIA.\nIN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF VIRGINIA.\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>These motions are denied. Rule 32 applies only to writs of error and appeals brought to this court under the provisions of section five of the act of March 3, 1875; that is to say, to writs of error and appeals from orders of the circuit courts remanding causes which have been removed from a State court, and from orders dismissing suits because they do not really and substantially involve disputes or controversies properly within the jurisdiction of the circuit courts, or because the parties to the suits have been improperly made or joined for the purpose of creating a case cognizable under that act. These are not such cases. That of Poindexter is a writ of error to a State court. In those of White and Carter, begun in the circuit court, the declarations were demurred to because not sufficient in law, and the judgments were in favor of the defendants on the demurrers. The cases as made by the declarations were disposed of on the merits, and the writs of error are for the review of such judgments.</p>\n<p>Neither are the parties entitled to a hearing in preference to others under the provisions of section 949 of the Revised Statutes. The State of Virginia is not a party to either of the suits, and the execution of the revenue laws has not been enjoined or stayed. A tax collector has been sued for alleged wrongs done the several plaintiffs while he was engaged in the collection of taxes due the State, but he is not restrained from discharging any of his official duties.</p>\n<p>Par. 4 of Rule 26 relates only to revenue cases and cases in <span class=\"star-pagination\">*65</span> which the United States are concerned, which also involve or affect some matter of general public interest. Even these can not be advanced except in the discretion of the court and on the motion of the attorney-general.</p>\n<p>The questions involved may be of public importance, but that does not necessarily entitle the parties to a hearing in preference to others. Practically, every case advanced postpones another that has been on the docket three years awaiting its turn in the regular call. Under these circumstances we deem it our duty not to take up a case out of its order except for imperative reasons.</p>\n<p><i>Motion denied.</i></p>\n</div>", "html_with_citations": "", "id": 1793945, "judges": "Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1793945/", "sha1": "a6352c600c856867c7e9fb83543b1624f73e43cb", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-30T00:27:41.092470"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "109 U.S. 63", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1793945/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Poindexter v. Greenhow", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1766716, 
+    "resource_uri": "/api/rest/v2/citation/1766716/"
+  }, 
+  "id": 1793945, 
+  "blocked": false, 
+  "judges": "Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1883-10-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>109 U.S. 63 (1883)</b></center>\n<center><h1>POINDEXTER<br>\nv.<br>\nGREENHOW, Treasurer.<br>\nWHITE<br>\nv.<br>\nGREENHOW.<br>\nCARTER<br>\nv.<br>\nGREENHOW.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Motion to advance, made October 9th, 1883.</center>\n<center>Denied October 15th, 1883.</center>\nIN ERROR TO THE HUSTINGS COURT OF THE CITY OF RICHMOND, VIRGINIA.\nIN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF VIRGINIA.\nIN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF VIRGINIA.\n<p>MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>These motions are denied. Rule 32 applies only to writs of error and appeals brought to this court under the provisions of section five of the act of March 3, 1875; that is to say, to writs of error and appeals from orders of the circuit courts remanding causes which have been removed from a State court, and from orders dismissing suits because they do not really and substantially involve disputes or controversies properly within the jurisdiction of the circuit courts, or because the parties to the suits have been improperly made or joined for the purpose of creating a case cognizable under that act. These are not such cases. That of Poindexter is a writ of error to a State court. In those of White and Carter, begun in the circuit court, the declarations were demurred to because not sufficient in law, and the judgments were in favor of the defendants on the demurrers. The cases as made by the declarations were disposed of on the merits, and the writs of error are for the review of such judgments.</p>\n<p>Neither are the parties entitled to a hearing in preference to others under the provisions of section 949 of the Revised Statutes. The State of Virginia is not a party to either of the suits, and the execution of the revenue laws has not been enjoined or stayed. A tax collector has been sued for alleged wrongs done the several plaintiffs while he was engaged in the collection of taxes due the State, but he is not restrained from discharging any of his official duties.</p>\n<p>Par. 4 of Rule 26 relates only to revenue cases and cases in <span class=\"star-pagination\">*65</span> which the United States are concerned, which also involve or affect some matter of general public interest. Even these can not be advanced except in the discretion of the court and on the motion of the attorney-general.</p>\n<p>The questions involved may be of public importance, but that does not necessarily entitle the parties to a hearing in preference to others. Practically, every case advanced postpones another that has been on the docket three years awaiting its turn in the regular call. Under these circumstances we deem it our duty not to take up a case out of its order except for imperative reasons.</p>\n<p><i>Motion denied.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:27:41.092470", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a6352c600c856867c7e9fb83543b1624f73e43cb", 
+  "date_modified": "2014-12-21T09:12:26.642039", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1793945/poindexter-v-greenhow/", 
+  "citation_count": 6, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1717534/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1793945/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1882096/venus-v-united-states/", "blocked": false, "citation": {"case_name": "Venus v. United States", "docket_number": "75", "document_uris": ["/api/rest/v2/document/1882096/"], "federal_cite_one": "368 U.S. 345", "federal_cite_three": "7 L. Ed. 2d 341", "federal_cite_two": "82 S. Ct. 384", "id": 1854867, "lexis_cite": "1961 U.S. LEXIS 2", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1854867/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 29, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-12-18", "date_modified": "2014-12-21T21:52:07.134729", "docket": "/api/rest/v2/docket/2549375/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>368 U.S. 345 (1961)</b></center>\n<center><h1>VENUS<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 75.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued December 14, 1961.</center>\n<center>Decided December 18, 1961.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Hayden C. Covington</i> argued the cause and filed briefs for petitioner.</p>\n<p><i>Jerome M. Feit</i> argued the cause for the United States. With him on the briefs were <i>Solicitor General Cox, Assistant Attorney General Miller</i> and <i>Beatrice Rosenberg.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is reversed with instructions to dismiss the indictment. <i>Ward</i> v. <i>United States,</i> 344 U. S. 924, reversing 195 F. 2d 441 (C. A. 5th Cir.).</p>\n</div>", "html_with_citations": "", "id": 1882096, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1882096/", "sha1": "42ca3abe883322339a97bb1e3448931f320e7f58", "source": "L", "supreme_court_db_id": "1961-020", "time_retrieved": "2013-10-30T00:42:43.591312"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "368 U.S. 345", 
+    "federal_cite_two": "82 S. Ct. 384", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "7 L. Ed. 2d 341", 
+    "lexis_cite": "1961 U.S. LEXIS 2", 
+    "document_uris": [
+      "/api/rest/v2/document/1882096/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Venus v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "75", 
+    "id": 1854867, 
+    "resource_uri": "/api/rest/v2/citation/1854867/"
+  }, 
+  "id": 1882096, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-12-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>368 U.S. 345 (1961)</b></center>\n<center><h1>VENUS<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 75.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued December 14, 1961.</center>\n<center>Decided December 18, 1961.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Hayden C. Covington</i> argued the cause and filed briefs for petitioner.</p>\n<p><i>Jerome M. Feit</i> argued the cause for the United States. With him on the briefs were <i>Solicitor General Cox, Assistant Attorney General Miller</i> and <i>Beatrice Rosenberg.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is reversed with instructions to dismiss the indictment. <i>Ward</i> v. <i>United States,</i> 344 U. S. 924, reversing 195 F. 2d 441 (C. A. 5th Cir.).</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:42:43.591312", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "42ca3abe883322339a97bb1e3448931f320e7f58", 
+  "date_modified": "2014-12-21T21:52:07.134729", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1882096/venus-v-united-states/", 
+  "citation_count": 29, 
+  "supreme_court_db_id": "1961-020", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2549375/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1882096/"
+}

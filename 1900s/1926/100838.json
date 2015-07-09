@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/100838/new-york-central-railroad-company-petitioner-v/", "blocked": false, "citation": {"case_name": "New York Central Railroad Company v. Wheeling Can Company. 1", "docket_number": "887", "document_uris": ["/api/rest/v2/document/100838/"], "federal_cite_one": "270 U.S. 645", "federal_cite_three": null, "federal_cite_two": null, "id": 85221, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/85221/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1926-03-01", "date_modified": "2014-12-21T01:37:59.836087", "docket": "/api/rest/v2/docket/2472517/", "download_url": "http://bulk.resource.org/courts.gov/c/US/270/270.US.645.887.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">270 U.S. 645</p>\r\n    <p class=\"case_cite\">46 S.Ct. 336</p>\r\n    <p class=\"case_cite\">70 L.Ed. 778</p>\r\n    <p class=\"parties\">NEW YORK CENTRAL RAILROAD COMPANY, petitioner,<br>v.<br>WHEELING CAN COMPANY.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <p class=\"docket\">No. 887.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 1, 1926</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John C. Palmer, Jr., of New York City, for petitioner.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Appeals of the State of West Virginia denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> Order vacated 46 S. Ct. &#8212;, 70 L. Ed. &#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">270</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">645</span></span></p>\r\n    <p class=\"case_cite\">46 S.Ct. 336</p>\r\n    <p class=\"case_cite\">70 L.Ed. 778</p>\r\n    <p class=\"parties\">NEW YORK CENTRAL RAILROAD COMPANY, petitioner,<br>v.<br>WHEELING CAN COMPANY.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <p class=\"docket\">No. 887.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 1, 1926</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John C. Palmer, Jr., of New York City, for petitioner.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Appeals of the State of West Virginia denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> Order vacated 46 S. Ct. &#8212;, 70 L. Ed. &#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ", "id": 100838, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/100838/", "sha1": "64af8fbe328e7ebfbc0ec9b342525be04df7cc8f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:48:35"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "270 U.S. 645", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/100838/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "New York Central Railroad Company v. Wheeling Can Company. 1", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "887", 
+    "id": 85221, 
+    "resource_uri": "/api/rest/v2/citation/85221/"
+  }, 
+  "id": 100838, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1926-03-01", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/270/270.US.645.887.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:48:35", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">270</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">645</span></span></p>\r\n    <p class=\"case_cite\">46 S.Ct. 336</p>\r\n    <p class=\"case_cite\">70 L.Ed. 778</p>\r\n    <p class=\"parties\">NEW YORK CENTRAL RAILROAD COMPANY, petitioner,<br>v.<br>WHEELING CAN COMPANY.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <p class=\"docket\">No. 887.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 1, 1926</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John C. Palmer, Jr., of New York City, for petitioner.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Appeals of the State of West Virginia denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> Order vacated 46 S. Ct. &#8212;, 70 L. Ed. &#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "sha1": "64af8fbe328e7ebfbc0ec9b342525be04df7cc8f", 
+  "date_modified": "2014-12-21T01:37:59.836087", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/100838/new-york-central-railroad-company-petitioner-v/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2472517/", 
+  "html": "<p class=\"case_cite\">270 U.S. 645</p>\r\n    <p class=\"case_cite\">46 S.Ct. 336</p>\r\n    <p class=\"case_cite\">70 L.Ed. 778</p>\r\n    <p class=\"parties\">NEW YORK CENTRAL RAILROAD COMPANY, petitioner,<br>v.<br>WHEELING CAN COMPANY.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\r\n    <p class=\"docket\">No. 887.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 1, 1926</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John C. Palmer, Jr., of New York City, for petitioner.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of Appeals of the State of West Virginia denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn1\">\r\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\r\n        <p> Order vacated 46 S. Ct. &#8212;, 70 L. Ed. &#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/100838/"
+}

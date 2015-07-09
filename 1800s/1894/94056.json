@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/94056/east-lake-land-co-v-brown/", "blocked": false, "citation": {"case_name": "East Lake Land Co. v. Brown", "docket_number": "121", "document_uris": ["/api/rest/v2/document/94056/"], "federal_cite_one": "155 U.S. 488", "federal_cite_three": null, "federal_cite_two": null, "id": 78437, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/78437/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1894-12-10", "date_modified": "2014-12-21T01:32:07.607553", "docket": "/api/rest/v2/docket/28931/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">155 U.S. 488</p>\n    <p class=\"case_cite\">15 S.Ct. 357</p>\n    <p class=\"case_cite\">39 L.Ed. 233</p>\n    <p class=\"parties\">EAST LAKE LAND CO.<br>v.<br>BROWN.</p>\n    <p class=\"docket\">No. 121.</p>\n    <p class=\"date\">December 17, 1894.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">John T. Morgan, for plaintiff in error.</p>\n      <p class=\"indent\">D. P. Bestor, for defendant in error.</p>\n      <p class=\"indent\">Mr. Chief Justice FULLER.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is reversed, with costs, and the case remanded, with a direction to remand it to the city court of Birmingham, county of Jefferson, Ala., on the authority of Chappell v. Waterworth, 155 U. S. 102, 15 Sup. Ct. 34.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Reversed and remanded.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>155 U.S. 488 (1894)</b></center>\n<center><h1>EAST LAKE LAND COMPANY<br>\nv.<br>\nBROWN.</h1></center>\n<center>No. 121.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted December 14, 1894.</center>\n<center>Decided December 17, 1894.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ALABAMA.\n<p><span class=\"star-pagination\">*489</span> <i>Mr. John T. Morgan</i> for plaintiff in error.</p>\n<p><i>Mr. D.P. Bestor</i> for defendant in error.</p>\n<p>THE CHIEF JUSTICE.</p>\n<p>The judgment is reversed with costs, and the case remanded with a direction to remand it to the City Court of Birmingham, county of Jefferson, Alabama, on the authority of <i>Chappell</i> v. <i>Waterworth,</i> 155 U.S. 102.</p>\n<p><i>Reversed and remanded.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">155</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">488</span></span> (1894)</b></center>\n<center><h1>EAST LAKE LAND COMPANY<br>\nv.<br>\nBROWN.</h1></center>\n<center>No. 121.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted December 14, 1894.</center>\n<center>Decided December 17, 1894.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ALABAMA.\n<p><span class=\"star-pagination\">*489</span> <i>Mr. John T. Morgan</i> for plaintiff in error.</p>\n<p><i>Mr. D.P. Bestor</i> for defendant in error.</p>\n<p>THE CHIEF JUSTICE.</p>\n<p>The judgment is reversed with costs, and the case remanded with a direction to remand it to the City Court of Birmingham, county of Jefferson, Alabama, on the authority of <i>Chappell</i> v. <i>Waterworth,</i> 155 U.S. 102.</p>\n<p><i>Reversed and remanded.</i></p>\n</div>", "id": 94056, "judges": "The Chief Justice", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/94056/", "sha1": "efdb526df60eef20021d5d222ebb8ead8dc56234", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:12:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "155 U.S. 488", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/94056/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "East Lake Land Co. v. Brown", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "121", 
+    "id": 78437, 
+    "resource_uri": "/api/rest/v2/citation/78437/"
+  }, 
+  "id": 94056, 
+  "blocked": false, 
+  "judges": "The Chief Justice", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1894-12-10", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>155 U.S. 488 (1894)</b></center>\n<center><h1>EAST LAKE LAND COMPANY<br>\nv.<br>\nBROWN.</h1></center>\n<center>No. 121.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted December 14, 1894.</center>\n<center>Decided December 17, 1894.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ALABAMA.\n<p><span class=\"star-pagination\">*489</span> <i>Mr. John T. Morgan</i> for plaintiff in error.</p>\n<p><i>Mr. D.P. Bestor</i> for defendant in error.</p>\n<p>THE CHIEF JUSTICE.</p>\n<p>The judgment is reversed with costs, and the case remanded with a direction to remand it to the City Court of Birmingham, county of Jefferson, Alabama, on the authority of <i>Chappell</i> v. <i>Waterworth,</i> 155 U.S. 102.</p>\n<p><i>Reversed and remanded.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:12:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">155</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">488</span></span> (1894)</b></center>\n<center><h1>EAST LAKE LAND COMPANY<br>\nv.<br>\nBROWN.</h1></center>\n<center>No. 121.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted December 14, 1894.</center>\n<center>Decided December 17, 1894.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ALABAMA.\n<p><span class=\"star-pagination\">*489</span> <i>Mr. John T. Morgan</i> for plaintiff in error.</p>\n<p><i>Mr. D.P. Bestor</i> for defendant in error.</p>\n<p>THE CHIEF JUSTICE.</p>\n<p>The judgment is reversed with costs, and the case remanded with a direction to remand it to the City Court of Birmingham, county of Jefferson, Alabama, on the authority of <i>Chappell</i> v. <i>Waterworth,</i> 155 U.S. 102.</p>\n<p><i>Reversed and remanded.</i></p>\n</div>", 
+  "sha1": "efdb526df60eef20021d5d222ebb8ead8dc56234", 
+  "date_modified": "2014-12-21T01:32:07.607553", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/94056/east-lake-land-co-v-brown/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/28931/", 
+  "html": "<p class=\"case_cite\">155 U.S. 488</p>\n    <p class=\"case_cite\">15 S.Ct. 357</p>\n    <p class=\"case_cite\">39 L.Ed. 233</p>\n    <p class=\"parties\">EAST LAKE LAND CO.<br>v.<br>BROWN.</p>\n    <p class=\"docket\">No. 121.</p>\n    <p class=\"date\">December 17, 1894.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">John T. Morgan, for plaintiff in error.</p>\n      <p class=\"indent\">D. P. Bestor, for defendant in error.</p>\n      <p class=\"indent\">Mr. Chief Justice FULLER.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is reversed, with costs, and the case remanded, with a direction to remand it to the city court of Birmingham, county of Jefferson, Ala., on the authority of Chappell v. Waterworth, 155 U. S. 102, 15 Sup. Ct. 34.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Reversed and remanded.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/94056/"
+}

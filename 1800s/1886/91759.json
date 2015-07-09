@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/91759/donnelly-v-district-of-columbia/", "blocked": false, "citation": {"case_name": "Donnelly v. District of Columbia", "docket_number": null, "document_uris": ["/api/rest/v2/document/91759/"], "federal_cite_one": "119 U.S. 339", "federal_cite_three": null, "federal_cite_two": null, "id": 76139, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76139/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1886-12-13", "date_modified": "2014-12-21T01:30:12.651627", "docket": "/api/rest/v2/docket/2541169/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">119 U.S. 339</p>\n    <p class=\"case_cite\">7 S.Ct. 276</p>\n    <p class=\"case_cite\">30 L.Ed. 465</p>\n    <p class=\"parties\">DONNELLY and another, Ex'rs, etc.,<br>v.<br>DISTRICT OF COLUMBIA.</p>\n    <p class=\"date\">December 13, 1886.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Statement of Case from 339-340 intentionally omitted]</p>\n      <p class=\"indent\"><i>V. B. Edwards</i>, for appellants, Donnelly and another, Ex'rs, etc. <i>Asst. Atty. Gen. Maury</i>, for appellee, District of Columbia.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment in this case is affirmed, on the authority of <i>Looney</i> v. <i>District of Columbia</i>, 113 U. S. 258; S. C. 5 Sup. Ct. Rep. 463. It having been found as a fact by the court below that no mistake had been made in reducing the contract to writing, no questions are presented in this court on that branch of the case. Affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>119 U.S. 339 (1886)</b></center>\n<center><h1>DONNELLY<br>\nv.<br>\nDISTRICT OF COLUMBIA.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 19, 1886.</center>\n<center>Decided December 13, 1886.</center>\nAPPEAL FROM THE COURT OF CLAIMS.\n<p><span class=\"star-pagination\">*340</span> <i>Mr. V.B. Edwards</i> for appellant.</p>\n<p><i>Mr. Assistant Attorney General Maury</i> for appellee.</p>\n<p><span class=\"star-pagination\">*341</span> MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>The judgment in this case is affirmed on the authority of <i>Looney</i> v. <i>The District of Columbia,</i> 113 U.S. 258. It having been found as a fact by the court below that no mistake had been made in reducing the contract to writing, no questions are presented in this court on that branch of the case.</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">119</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">339</span></span> (1886)</b></center>\n<center><h1>DONNELLY<br>\nv.<br>\nDISTRICT OF COLUMBIA.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 19, 1886.</center>\n<center>Decided December 13, 1886.</center>\nAPPEAL FROM THE COURT OF CLAIMS.\n<p><span class=\"star-pagination\">*340</span> <i>Mr. V.B. Edwards</i> for appellant.</p>\n<p><i>Mr. Assistant Attorney General Maury</i> for appellee.</p>\n<p><span class=\"star-pagination\">*341</span> MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>The judgment in this case is affirmed on the authority of <i>Looney</i> v. <i>The District of Columbia,</i> 113 U.S. 258. It having been found as a fact by the court below that no mistake had been made in reducing the contract to writing, no questions are presented in this court on that branch of the case.</p>\n<p><i>Affirmed.</i></p>\n</div>", "id": 91759, "judges": "Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/91759/", "sha1": "baac19a994deda1f91da5012c36ff5640370ef08", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:04:30"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "119 U.S. 339", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/91759/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Donnelly v. District of Columbia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76139, 
+    "resource_uri": "/api/rest/v2/citation/76139/"
+  }, 
+  "id": 91759, 
+  "blocked": false, 
+  "judges": "Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1886-12-13", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>119 U.S. 339 (1886)</b></center>\n<center><h1>DONNELLY<br>\nv.<br>\nDISTRICT OF COLUMBIA.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 19, 1886.</center>\n<center>Decided December 13, 1886.</center>\nAPPEAL FROM THE COURT OF CLAIMS.\n<p><span class=\"star-pagination\">*340</span> <i>Mr. V.B. Edwards</i> for appellant.</p>\n<p><i>Mr. Assistant Attorney General Maury</i> for appellee.</p>\n<p><span class=\"star-pagination\">*341</span> MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>The judgment in this case is affirmed on the authority of <i>Looney</i> v. <i>The District of Columbia,</i> 113 U.S. 258. It having been found as a fact by the court below that no mistake had been made in reducing the contract to writing, no questions are presented in this court on that branch of the case.</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:04:30", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">119</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">339</span></span> (1886)</b></center>\n<center><h1>DONNELLY<br>\nv.<br>\nDISTRICT OF COLUMBIA.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 19, 1886.</center>\n<center>Decided December 13, 1886.</center>\nAPPEAL FROM THE COURT OF CLAIMS.\n<p><span class=\"star-pagination\">*340</span> <i>Mr. V.B. Edwards</i> for appellant.</p>\n<p><i>Mr. Assistant Attorney General Maury</i> for appellee.</p>\n<p><span class=\"star-pagination\">*341</span> MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>The judgment in this case is affirmed on the authority of <i>Looney</i> v. <i>The District of Columbia,</i> 113 U.S. 258. It having been found as a fact by the court below that no mistake had been made in reducing the contract to writing, no questions are presented in this court on that branch of the case.</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "sha1": "baac19a994deda1f91da5012c36ff5640370ef08", 
+  "date_modified": "2014-12-21T01:30:12.651627", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/91759/donnelly-v-district-of-columbia/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2541169/", 
+  "html": "<p class=\"case_cite\">119 U.S. 339</p>\n    <p class=\"case_cite\">7 S.Ct. 276</p>\n    <p class=\"case_cite\">30 L.Ed. 465</p>\n    <p class=\"parties\">DONNELLY and another, Ex'rs, etc.,<br>v.<br>DISTRICT OF COLUMBIA.</p>\n    <p class=\"date\">December 13, 1886.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">[Statement of Case from 339-340 intentionally omitted]</p>\n      <p class=\"indent\"><i>V. B. Edwards</i>, for appellants, Donnelly and another, Ex'rs, etc. <i>Asst. Atty. Gen. Maury</i>, for appellee, District of Columbia.</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment in this case is affirmed, on the authority of <i>Looney</i> v. <i>District of Columbia</i>, 113 U. S. 258; S. C. 5 Sup. Ct. Rep. 463. It having been found as a fact by the court below that no mistake had been made in reducing the contract to writing, no questions are presented in this court on that branch of the case. Affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/91759/"
+}

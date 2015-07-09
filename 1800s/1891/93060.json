@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/93060/stevenson-v-barbour/", "blocked": false, "citation": {"case_name": "Stevenson v. Barbour", "docket_number": "304", "document_uris": ["/api/rest/v2/document/93060/"], "federal_cite_one": "140 U.S. 48", "federal_cite_three": null, "federal_cite_two": null, "id": 77440, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/77440/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1891-04-20", "date_modified": "2014-12-21T01:31:18.292424", "docket": "/api/rest/v2/docket/414393/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">140 U.S. 48</p>\n    <p class=\"case_cite\">11 S.Ct. 690</p>\n    <p class=\"case_cite\">35 L.Ed. 338</p>\n    <p class=\"parties\">STEVENSON<br>v.<br>BARBOUR.</p>\n    <p class=\"date\">April 20, 1891.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>J. G. Carlisle</i>, for plaintiff in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\"><i>O. B. Hallam</i>, for defendantin  error.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">FULLER, C. M.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">No assignment of errors accompanies the transcript of record in this case, nor is there any specification of the errors relied on in the brief of counsel for plaintiff in error. Moreover, the record presents no question of law calling for the exercise of our right of review. Fishburn v. Railway Co., 137 U. S. 60, ante, 8; Express Co. v. Malin, 132 U. S. 531, 538, 10 Sup. Ct. Rep. 166. The judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>140 U.S. 48 (1891)</b></center>\n<center><h1>STEVENSON<br>\nv.<br>\nBARBOUR.</h1></center>\n<center>No. 304.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and submitted April 14, 1891.</center>\n<center>Decided April 20, 1891.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF KENTUCKY.\n<p><i>Mr. J.G. Carlisle</i> for plaintiff in error submitted on his brief.</p>\n<p><i>Mr. Orrin B. Hallam</i> for defendant in error.</p>\n<p>PER CURIAM.</p>\n<p>No assignment of errors accompanies the transcript of record in this case, nor is there any specification of the errors relied on in the brief of counsel for plaintiff in error. Moreover, the record presents no question of law calling for the exercise of our right of review. <i>Fishburn</i> v. <i>Railway Co.,</i> 137 U.S. 60; <i>Pacific Express Co.</i> v. <i>Malin,</i> 132 U.S. 531, 538.</p>\n<p>The judgment is</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">140</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">48</span></span> (1891)</b></center>\n<center><h1>STEVENSON<br>\nv.<br>\nBARBOUR.</h1></center>\n<center>No. 304.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and submitted April 14, 1891.</center>\n<center>Decided April 20, 1891.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF KENTUCKY.\n<p><i>Mr. J.G. Carlisle</i> for plaintiff in error submitted on his brief.</p>\n<p><i>Mr. Orrin B. Hallam</i> for defendant in error.</p>\n<p>PER CURIAM.</p>\n<p>No assignment of errors accompanies the transcript of record in this case, nor is there any specification of the errors relied on in the brief of counsel for plaintiff in error. Moreover, the record presents no question of law calling for the exercise of our right of review. <i>Fishburn</i> v. <i>Railway Co.,</i> 137 U.S. 60; <i>Pacific Express Co.</i> v. <i>Malin,</i> <span class=\"citation\" data-id=\"92628\"><a href=\"/opinion/92628/pacific-express-co-v-malin/\"><span class=\"volume\">132</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">531</span></a></span>, 538.</p>\n<p>The judgment is</p>\n<p><i>Affirmed.</i></p>\n</div>", "id": 93060, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/93060/", "sha1": "6f8b4075cb7a867f5f48679d90bdea9b62aaf739", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:06:49"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "140 U.S. 48", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/93060/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Stevenson v. Barbour", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "304", 
+    "id": 77440, 
+    "resource_uri": "/api/rest/v2/citation/77440/"
+  }, 
+  "id": 93060, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1891-04-20", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>140 U.S. 48 (1891)</b></center>\n<center><h1>STEVENSON<br>\nv.<br>\nBARBOUR.</h1></center>\n<center>No. 304.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and submitted April 14, 1891.</center>\n<center>Decided April 20, 1891.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF KENTUCKY.\n<p><i>Mr. J.G. Carlisle</i> for plaintiff in error submitted on his brief.</p>\n<p><i>Mr. Orrin B. Hallam</i> for defendant in error.</p>\n<p>PER CURIAM.</p>\n<p>No assignment of errors accompanies the transcript of record in this case, nor is there any specification of the errors relied on in the brief of counsel for plaintiff in error. Moreover, the record presents no question of law calling for the exercise of our right of review. <i>Fishburn</i> v. <i>Railway Co.,</i> 137 U.S. 60; <i>Pacific Express Co.</i> v. <i>Malin,</i> 132 U.S. 531, 538.</p>\n<p>The judgment is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:06:49", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">140</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">48</span></span> (1891)</b></center>\n<center><h1>STEVENSON<br>\nv.<br>\nBARBOUR.</h1></center>\n<center>No. 304.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued and submitted April 14, 1891.</center>\n<center>Decided April 20, 1891.</center>\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF KENTUCKY.\n<p><i>Mr. J.G. Carlisle</i> for plaintiff in error submitted on his brief.</p>\n<p><i>Mr. Orrin B. Hallam</i> for defendant in error.</p>\n<p>PER CURIAM.</p>\n<p>No assignment of errors accompanies the transcript of record in this case, nor is there any specification of the errors relied on in the brief of counsel for plaintiff in error. Moreover, the record presents no question of law calling for the exercise of our right of review. <i>Fishburn</i> v. <i>Railway Co.,</i> 137 U.S. 60; <i>Pacific Express Co.</i> v. <i>Malin,</i> <span class=\"citation\" data-id=\"92628\"><a href=\"/opinion/92628/pacific-express-co-v-malin/\"><span class=\"volume\">132</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">531</span></a></span>, 538.</p>\n<p>The judgment is</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "sha1": "6f8b4075cb7a867f5f48679d90bdea9b62aaf739", 
+  "date_modified": "2014-12-21T01:31:18.292424", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/93060/stevenson-v-barbour/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/414393/", 
+  "html": "<p class=\"case_cite\">140 U.S. 48</p>\n    <p class=\"case_cite\">11 S.Ct. 690</p>\n    <p class=\"case_cite\">35 L.Ed. 338</p>\n    <p class=\"parties\">STEVENSON<br>v.<br>BARBOUR.</p>\n    <p class=\"date\">April 20, 1891.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>J. G. Carlisle</i>, for plaintiff in error.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\"><i>O. B. Hallam</i>, for defendantin  error.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">FULLER, C. M.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">No assignment of errors accompanies the transcript of record in this case, nor is there any specification of the errors relied on in the brief of counsel for plaintiff in error. Moreover, the record presents no question of law calling for the exercise of our right of review. Fishburn v. Railway Co., 137 U. S. 60, ante, 8; Express Co. v. Malin, 132 U. S. 531, 538, 10 Sup. Ct. Rep. 166. The judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/93060/"
+}

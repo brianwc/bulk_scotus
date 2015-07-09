@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/145956/velazquez-v-arizona/", "blocked": false, "citation": {"case_name": "Velazquez v. Arizona", "docket_number": "07-8946", "document_uris": ["/api/rest/v2/document/145956/"], "federal_cite_one": "", "federal_cite_three": null, "federal_cite_two": null, "id": 130277, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/130277/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2008-04-21", "date_modified": "2014-12-21T02:24:56.870229", "docket": "/api/rest/v2/docket/472006/", "download_url": "http://www.supremecourt.gov/opinions/07pdf/07-8946.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "<pre class=\"inline\">                 Cite as: 553 U. S. ____ (2008)            1\n\n                    Statement of STEVENS, J.\n\nSUPREME COURT OF THE UNITED STATES\n            JUAN VELAZQUEZ v. ARIZONA\n  ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME\n\n                  COURT OF ARIZONA\n\n              No. 07–8946. Decided April 21, 2008 \n\n\n   The petition for a writ of certiorari is denied.\n   Statement of JUSTICE STEVENS respecting the denial of\nthe petition for certiorari.\n   While I agree with the Court’s decision to deny certio-\nrari in this case, it is appropriate to emphasize, as I have\nin the past, see, e.g., Knight v. Florida, 528 U. S. 990\n(1999) (opinion respecting denial of certiorari); Singleton\nv. Commissioner, 439 U. S. 940, 942 (1978) (same), that\nthe denial of certiorari expresses no opinion on the merits\nof the underlying claim.\n</pre>", "id": 145956, "judges": "", "local_path": "pdf/2008/04/21/Velazquez_v._Arizona.pdf", "nature_of_suit": "", "plain_text": "                 Cite as: 553 U. S. ____ (2008)            1\n\n                    Statement of STEVENS, J.\n\nSUPREME COURT OF THE UNITED STATES\n            JUAN VELAZQUEZ v. ARIZONA\n  ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME\n\n                  COURT OF ARIZONA\n\n              No. 07–8946. Decided April 21, 2008 \n\n\n   The petition for a writ of certiorari is denied.\n   Statement of JUSTICE STEVENS respecting the denial of\nthe petition for certiorari.\n   While I agree with the Court’s decision to deny certio-\nrari in this case, it is appropriate to emphasize, as I have\nin the past, see, e.g., Knight v. Florida, 528 U. S. 990\n(1999) (opinion respecting denial of certiorari); Singleton\nv. Commissioner, 439 U. S. 940, 942 (1978) (same), that\nthe denial of certiorari expresses no opinion on the merits\nof the underlying claim.\n", "precedential_status": "Relating-to", "resource_uri": "/api/rest/v2/document/145956/", "sha1": "a5ad37808c23de2205b20ffb127a9a757c546c58", "source": "C", "supreme_court_db_id": null, "time_retrieved": "2010-05-05T17:09:50"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/145956/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Velazquez v. Arizona", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "07-8946", 
+    "id": 130277, 
+    "resource_uri": "/api/rest/v2/citation/130277/"
+  }, 
+  "id": 145956, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2008-04-21", 
+  "download_url": "http://www.supremecourt.gov/opinions/07pdf/07-8946.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2008/04/21/Velazquez_v._Arizona.pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-05-05T17:09:50", 
+  "nature_of_suit": "", 
+  "plain_text": "                 Cite as: 553 U. S. ____ (2008)            1\n\n                    Statement of STEVENS, J.\n\nSUPREME COURT OF THE UNITED STATES\n            JUAN VELAZQUEZ v. ARIZONA\n  ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME\n\n                  COURT OF ARIZONA\n\n              No. 07\u20138946. Decided April 21, 2008 \n\n\n   The petition for a writ of certiorari is denied.\n   Statement of JUSTICE STEVENS respecting the denial of\nthe petition for certiorari.\n   While I agree with the Court\u2019s decision to deny certio-\nrari in this case, it is appropriate to emphasize, as I have\nin the past, see, e.g., Knight v. Florida, 528 U. S. 990\n(1999) (opinion respecting denial of certiorari); Singleton\nv. Commissioner, 439 U. S. 940, 942 (1978) (same), that\nthe denial of certiorari expresses no opinion on the merits\nof the underlying claim.\n", 
+  "html_with_citations": "<pre class=\"inline\">                 Cite as: 553 U. S. ____ (2008)            1\n\n                    Statement of STEVENS, J.\n\nSUPREME COURT OF THE UNITED STATES\n            JUAN VELAZQUEZ v. ARIZONA\n  ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME\n\n                  COURT OF ARIZONA\n\n              No. 07\u20138946. Decided April 21, 2008 \n\n\n   The petition for a writ of certiorari is denied.\n   Statement of JUSTICE STEVENS respecting the denial of\nthe petition for certiorari.\n   While I agree with the Court\u2019s decision to deny certio-\nrari in this case, it is appropriate to emphasize, as I have\nin the past, see, e.g., Knight v. Florida, 528 U. S. 990\n(1999) (opinion respecting denial of certiorari); Singleton\nv. Commissioner, 439 U. S. 940, 942 (1978) (same), that\nthe denial of certiorari expresses no opinion on the merits\nof the underlying claim.\n</pre>", 
+  "sha1": "a5ad37808c23de2205b20ffb127a9a757c546c58", 
+  "date_modified": "2014-12-21T02:24:56.870229", 
+  "precedential_status": "Relating-to", 
+  "absolute_url": "/opinion/145956/velazquez-v-arizona/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/472006/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/145956/"
+}

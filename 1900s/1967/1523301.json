@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1523301/sweet-briar-institute-v-button/", "blocked": false, "citation": {"case_name": "Sweet Briar Institute v. Button", "docket_number": "1106", "document_uris": ["/api/rest/v2/document/1523301/"], "federal_cite_one": "387 U.S. 423", "federal_cite_three": null, "federal_cite_two": null, "id": 1496072, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1496072/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-05-29", "date_modified": "2014-10-30T11:15:49.529659", "docket": "/api/rest/v2/docket/1632429/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>387 U.S. 423 (1967)</b></center>\n<center><h1>SWEET BRIAR INSTITUTE<br>\nv.<br>\nBUTTON ET AL.</h1></center>\n<center>No. 1106.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 29, 1967.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF VIRGINIA.\n<p><i>Frank G. Davidson, Jr.,</i> and <i>Thomas S. Currier</i> for appellant.</p>\n<p><i>Robert Y. Button,</i> Attorney General of Virginia, <i>pro se,</i> and <i>R. D. McIlwaine III,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment of the United States District Court for the Western District of Virginia is reversed. <i>England</i> v. <i>Louisiana State Board of Medical Examiners,</i> 375 U. S. 411 (1964). The case is remanded for consideration on the merits. Section 202 of the Civil Rights Act of 1964, 78 Stat. 244, 42 U. S. C. § 2000a-1. <i>Kline</i> v. <i>Burke Construction Co.,</i> 260 U. S. 226.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART would affirm the judgment.</p>\n</div>", "html_with_citations": "", "id": 1523301, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1523301/", "sha1": "8ba62ecbea2b4e81cf896d571e3869bf80da1f4b", "source": "L", "time_retrieved": "2013-10-29T23:34:30.872297"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "387 U.S. 423", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1523301/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Sweet Briar Institute v. Button", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1106", 
+    "id": 1496072, 
+    "resource_uri": "/api/rest/v2/citation/1496072/"
+  }, 
+  "id": 1523301, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-05-29", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>387 U.S. 423 (1967)</b></center>\n<center><h1>SWEET BRIAR INSTITUTE<br>\nv.<br>\nBUTTON ET AL.</h1></center>\n<center>No. 1106.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 29, 1967.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF VIRGINIA.\n<p><i>Frank G. Davidson, Jr.,</i> and <i>Thomas S. Currier</i> for appellant.</p>\n<p><i>Robert Y. Button,</i> Attorney General of Virginia, <i>pro se,</i> and <i>R. D. McIlwaine III,</i> Assistant Attorney General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment of the United States District Court for the Western District of Virginia is reversed. <i>England</i> v. <i>Louisiana State Board of Medical Examiners,</i> 375 U. S. 411 (1964). The case is remanded for consideration on the merits. Section 202 of the Civil Rights Act of 1964, 78 Stat. 244, 42 U. S. C. \u00a7 2000a-1. <i>Kline</i> v. <i>Burke Construction Co.,</i> 260 U. S. 226.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART would affirm the judgment.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:34:30.872297", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "8ba62ecbea2b4e81cf896d571e3869bf80da1f4b", 
+  "date_modified": "2014-10-30T11:15:49.529659", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1523301/sweet-briar-institute-v-button/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1632429/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1523301/"
+}

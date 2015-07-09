@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/97947/journal-of-commerce-commercial-bulletin/", "blocked": false, "citation": {"case_name": "Journal of Commerce & Commercial Bulletin v. Albert S. Burleson, Postmaster General, Etc.", "docket_number": "818", "document_uris": ["/api/rest/v2/document/97947/"], "federal_cite_one": "229 U.S. 600", "federal_cite_three": null, "federal_cite_two": null, "id": 82330, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/82330/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1913-03-17", "date_modified": "2014-12-21T01:35:32.694459", "docket": "/api/rest/v2/docket/67529/", "download_url": "http://bulk.resource.org/courts.gov/c/US/229/229.US.600.818.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">229 U.S. 600</p>\r\n    <p class=\"case_cite\">33 S.Ct. 464</p>\r\n    <p class=\"case_cite\">57 L.Ed. 1347</p>\r\n    <p class=\"parties\">JOURNAL OF COMMERCE &amp; COMMERCIAL BULLETIN, Appellant,<br>v.<br>ALBERT S. BURLESON, Postmaster General, etc., et al.</p>\r\n    <p class=\"docket\">No. 818.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 17, 1913</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Mr. Robert C. Morris for appellant.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Solicitor General Bullitt for appellees.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Granted.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">229</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">600</span></span></p>\r\n    <p class=\"case_cite\">33 S.Ct. 464</p>\r\n    <p class=\"case_cite\">57 L.Ed. 1347</p>\r\n    <p class=\"parties\">JOURNAL OF COMMERCE &amp; COMMERCIAL BULLETIN, Appellant,<br>v.<br>ALBERT S. BURLESON, Postmaster General, etc., et al.</p>\r\n    <p class=\"docket\">No. 818.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 17, 1913</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Mr. Robert C. Morris for appellant.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Solicitor General Bullitt for appellees.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Granted.</p>\r\n    </div>\r\n    ", "id": 97947, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/97947/", "sha1": "60ab85684fa2a00b26006541ee82e35e2af83fbf", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:42:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "229 U.S. 600", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/97947/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Journal of Commerce & Commercial Bulletin v. Albert S. Burleson, Postmaster General, Etc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "818", 
+    "id": 82330, 
+    "resource_uri": "/api/rest/v2/citation/82330/"
+  }, 
+  "id": 97947, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1913-03-17", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/229/229.US.600.818.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:42:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">229</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">600</span></span></p>\r\n    <p class=\"case_cite\">33 S.Ct. 464</p>\r\n    <p class=\"case_cite\">57 L.Ed. 1347</p>\r\n    <p class=\"parties\">JOURNAL OF COMMERCE &amp; COMMERCIAL BULLETIN, Appellant,<br>v.<br>ALBERT S. BURLESON, Postmaster General, etc., et al.</p>\r\n    <p class=\"docket\">No. 818.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 17, 1913</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Mr. Robert C. Morris for appellant.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Solicitor General Bullitt for appellees.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Granted.</p>\r\n    </div>\r\n    ", 
+  "sha1": "60ab85684fa2a00b26006541ee82e35e2af83fbf", 
+  "date_modified": "2014-12-21T01:35:32.694459", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/97947/journal-of-commerce-commercial-bulletin/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/67529/", 
+  "html": "<p class=\"case_cite\">229 U.S. 600</p>\r\n    <p class=\"case_cite\">33 S.Ct. 464</p>\r\n    <p class=\"case_cite\">57 L.Ed. 1347</p>\r\n    <p class=\"parties\">JOURNAL OF COMMERCE &amp; COMMERCIAL BULLETIN, Appellant,<br>v.<br>ALBERT S. BURLESON, Postmaster General, etc., et al.</p>\r\n    <p class=\"docket\">No. 818.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">March 17, 1913</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Mr. Robert C. Morris for appellant.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Solicitor General Bullitt for appellees.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Granted.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/97947/"
+}

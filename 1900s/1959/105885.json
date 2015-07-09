@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105885/st-peters-parish-v-urban-authority/", "blocked": false, "citation": {"case_name": "St. Peter's Parish v. Urban Authority", "docket_number": "749", "document_uris": ["/api/rest/v2/document/105885/"], "federal_cite_one": "359 U.S. 435", "federal_cite_three": null, "federal_cite_two": null, "id": 90268, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90268/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1959-05-04", "date_modified": "2014-12-21T01:51:16.467874", "docket": "/api/rest/v2/docket/448384/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">359 U.S. 435</p>\n    <p class=\"case_cite\">79 S.Ct. 940</p>\n    <p class=\"case_cite\">3 L.Ed.2d 931</p>\n    <p class=\"parties\">ST. PETER'S ROMAN CATHOLIC PARISH<br>v.<br>URBAN REDEVELOPMENT AUTHORITY OF PITTSBURGH et al.</p>\n    <p class=\"docket\">No. 749.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 4, 1959</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Louis C. Glasso, for appellant.</p>\n      <p class=\"indent\">Messrs. Theodore L. Hazlett, Jr. and R. J. Hopkins, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>359 U.S. 435 (1959)</b></center>\n<center><h1>ST. PETER'S ROMAN CATHOLIC PARISH<br>\nv.<br>\nURBAN REDEVELOPMENT AUTHORITY OF PITTSBURGH ET AL.</h1></center>\n<center>No. 749.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 4, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF PENNSYLVANIA, WESTERN DISTRICT.\n<p><i>Louis C. Glasso</i> for appellant.</p>\n<p><i>Theodore L. Hazlett, Jr.</i> and <i>R. J. Hopkins</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">359</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">435</span></span> (1959)</b></center>\n<center><h1>ST. PETER'S ROMAN CATHOLIC PARISH<br>\nv.<br>\nURBAN REDEVELOPMENT AUTHORITY OF PITTSBURGH ET AL.</h1></center>\n<center>No. 749.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 4, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF PENNSYLVANIA, WESTERN DISTRICT.\n<p><i>Louis C. Glasso</i> for appellant.</p>\n<p><i>Theodore L. Hazlett, Jr.</i> and <i>R. J. Hopkins</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "id": 105885, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105885/", "sha1": "a7ae35004dc0c65a643cba2843032c3191689fbb", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:44"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "359 U.S. 435", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/105885/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "St. Peter's Parish v. Urban Authority", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "749", 
+    "id": 90268, 
+    "resource_uri": "/api/rest/v2/citation/90268/"
+  }, 
+  "id": 105885, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1959-05-04", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>359 U.S. 435 (1959)</b></center>\n<center><h1>ST. PETER'S ROMAN CATHOLIC PARISH<br>\nv.<br>\nURBAN REDEVELOPMENT AUTHORITY OF PITTSBURGH ET AL.</h1></center>\n<center>No. 749.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 4, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF PENNSYLVANIA, WESTERN DISTRICT.\n<p><i>Louis C. Glasso</i> for appellant.</p>\n<p><i>Theodore L. Hazlett, Jr.</i> and <i>R. J. Hopkins</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:44", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">359</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">435</span></span> (1959)</b></center>\n<center><h1>ST. PETER'S ROMAN CATHOLIC PARISH<br>\nv.<br>\nURBAN REDEVELOPMENT AUTHORITY OF PITTSBURGH ET AL.</h1></center>\n<center>No. 749.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 4, 1959.</center>\nAPPEAL FROM THE SUPREME COURT OF PENNSYLVANIA, WESTERN DISTRICT.\n<p><i>Louis C. Glasso</i> for appellant.</p>\n<p><i>Theodore L. Hazlett, Jr.</i> and <i>R. J. Hopkins</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "sha1": "a7ae35004dc0c65a643cba2843032c3191689fbb", 
+  "date_modified": "2014-12-21T01:51:16.467874", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105885/st-peters-parish-v-urban-authority/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/448384/", 
+  "html": "<p class=\"case_cite\">359 U.S. 435</p>\n    <p class=\"case_cite\">79 S.Ct. 940</p>\n    <p class=\"case_cite\">3 L.Ed.2d 931</p>\n    <p class=\"parties\">ST. PETER'S ROMAN CATHOLIC PARISH<br>v.<br>URBAN REDEVELOPMENT AUTHORITY OF PITTSBURGH et al.</p>\n    <p class=\"docket\">No. 749.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 4, 1959</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Louis C. Glasso, for appellant.</p>\n      <p class=\"indent\">Messrs. Theodore L. Hazlett, Jr. and R. J. Hopkins, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105885/"
+}

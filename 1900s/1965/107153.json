@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107153/alice-e-bradford-petitioner-v-commissioner-of/", "blocked": false, "citation": {"case_name": "Alice E. Bradford v. Commissioner of Internal Revenue", "docket_number": "340, Misc", "document_uris": ["/api/rest/v2/document/107153/"], "federal_cite_one": "382 U.S. 868", "federal_cite_three": null, "federal_cite_two": null, "id": 91512, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91512/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-10-11", "date_modified": "2014-12-21T01:55:00.441723", "docket": "/api/rest/v2/docket/2137573/", "download_url": "http://bulk.resource.org/courts.gov/c/US/382/382.US.868.340.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">382 U.S. 868</p>\r\n    <p class=\"case_cite\">86 S.Ct. 139</p>\r\n    <p class=\"case_cite\">15 L.Ed.2d 106</p>\r\n    <p class=\"parties\">Alice E. BRADFORD, petitioner,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE.</p>\r\n    <p class=\"docket\">No. 340, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 11, 1965</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Alice E. Bradford, pro se.</p>\r\n      <p class=\"indent\">Solicitor General Cox, for respondent.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">382</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">868</span></span></p>\r\n    <p class=\"case_cite\">86 S.Ct. 139</p>\r\n    <p class=\"case_cite\">15 L.Ed.2d 106</p>\r\n    <p class=\"parties\">Alice E. BRADFORD, petitioner,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE.</p>\r\n    <p class=\"docket\">No. 340, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 11, 1965</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Alice E. Bradford, pro se.</p>\r\n      <p class=\"indent\">Solicitor General Cox, for respondent.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", "id": 107153, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107153/", "sha1": "12f787c2c5932004d8304c2c680433d77d70875d", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "382 U.S. 868", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107153/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Alice E. Bradford v. Commissioner of Internal Revenue", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "340, Misc", 
+    "id": 91512, 
+    "resource_uri": "/api/rest/v2/citation/91512/"
+  }, 
+  "id": 107153, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-10-11", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/382/382.US.868.340.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">382</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">868</span></span></p>\r\n    <p class=\"case_cite\">86 S.Ct. 139</p>\r\n    <p class=\"case_cite\">15 L.Ed.2d 106</p>\r\n    <p class=\"parties\">Alice E. BRADFORD, petitioner,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE.</p>\r\n    <p class=\"docket\">No. 340, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 11, 1965</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Alice E. Bradford, pro se.</p>\r\n      <p class=\"indent\">Solicitor General Cox, for respondent.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", 
+  "sha1": "12f787c2c5932004d8304c2c680433d77d70875d", 
+  "date_modified": "2014-12-21T01:55:00.441723", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107153/alice-e-bradford-petitioner-v-commissioner-of/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2137573/", 
+  "html": "<p class=\"case_cite\">382 U.S. 868</p>\r\n    <p class=\"case_cite\">86 S.Ct. 139</p>\r\n    <p class=\"case_cite\">15 L.Ed.2d 106</p>\r\n    <p class=\"parties\">Alice E. BRADFORD, petitioner,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE.</p>\r\n    <p class=\"docket\">No. 340, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">October 11, 1965</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Alice E. Bradford, pro se.</p>\r\n      <p class=\"indent\">Solicitor General Cox, for respondent.</p>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/107153/"
+}

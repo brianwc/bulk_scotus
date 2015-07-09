@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/104879/ruth-boyce-petitioner-v-people-of-the-state-of/", "blocked": false, "citation": {"case_name": "Ruth Boyce v. People of the State of California", "docket_number": "227, Misc", "document_uris": ["/api/rest/v2/document/104879/"], "federal_cite_one": "340 U.S. 901", "federal_cite_three": null, "federal_cite_two": null, "id": 89262, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/89262/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1950-12-11", "date_modified": "2014-12-21T01:49:21.328814", "docket": "/api/rest/v2/docket/1849712/", "download_url": "http://bulk.resource.org/courts.gov/c/US/340/340.US.901.227.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">340 U.S. 901</p>\r\n    <p class=\"case_cite\">71 S.Ct. 274</p>\r\n    <p class=\"case_cite\">95 L.Ed. 652</p>\r\n    <p class=\"parties\">Ruth BOYCE, petitioner,<br>v.<br>PEOPLE OF THE STATE OF CALIFORNIA.</p>\r\n    <p class=\"docket\">No. 227, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">December 11, 1950</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Application denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">340</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span></p>\r\n    <p class=\"case_cite\">71 S.Ct. 274</p>\r\n    <p class=\"case_cite\">95 L.Ed. 652</p>\r\n    <p class=\"parties\">Ruth BOYCE, petitioner,<br>v.<br>PEOPLE OF THE STATE OF CALIFORNIA.</p>\r\n    <p class=\"docket\">No. 227, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">December 11, 1950</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Application denied.</p>\r\n    </div>\r\n    ", "id": 104879, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/104879/", "sha1": "704cbc615e11ffdf7a3a61143684a4e0b1ace051", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:13"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "340 U.S. 901", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/104879/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ruth Boyce v. People of the State of California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "227, Misc", 
+    "id": 89262, 
+    "resource_uri": "/api/rest/v2/citation/89262/"
+  }, 
+  "id": 104879, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1950-12-11", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/340/340.US.901.227.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:13", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">340</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span></p>\r\n    <p class=\"case_cite\">71 S.Ct. 274</p>\r\n    <p class=\"case_cite\">95 L.Ed. 652</p>\r\n    <p class=\"parties\">Ruth BOYCE, petitioner,<br>v.<br>PEOPLE OF THE STATE OF CALIFORNIA.</p>\r\n    <p class=\"docket\">No. 227, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">December 11, 1950</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Application denied.</p>\r\n    </div>\r\n    ", 
+  "sha1": "704cbc615e11ffdf7a3a61143684a4e0b1ace051", 
+  "date_modified": "2014-12-21T01:49:21.328814", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/104879/ruth-boyce-petitioner-v-people-of-the-state-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1849712/", 
+  "html": "<p class=\"case_cite\">340 U.S. 901</p>\r\n    <p class=\"case_cite\">71 S.Ct. 274</p>\r\n    <p class=\"case_cite\">95 L.Ed. 652</p>\r\n    <p class=\"parties\">Ruth BOYCE, petitioner,<br>v.<br>PEOPLE OF THE STATE OF CALIFORNIA.</p>\r\n    <p class=\"docket\">No. 227, Misc.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">December 11, 1950</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Application denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/104879/"
+}

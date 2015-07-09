@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/99382/webb-c-hayes-plintiff-in-error-v-the-hocking/", "blocked": false, "citation": {"case_name": "Webb C. Hayes, Plintiff in Error v. The Hocking Valley Railway Company", "docket_number": "388", "document_uris": ["/api/rest/v2/document/99382/"], "federal_cite_one": "249 U.S. 591", "federal_cite_three": null, "federal_cite_two": null, "id": 83765, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/83765/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1919-04-28", "date_modified": "2014-12-21T01:36:42.522984", "docket": "/api/rest/v2/docket/2004223/", "download_url": "http://bulk.resource.org/courts.gov/c/US/249/249.US.591.388.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">249 U.S. 591</p>\r\n    <p class=\"case_cite\">39 S.Ct. 389</p>\r\n    <p class=\"case_cite\">63 L.Ed. 792</p>\r\n    <p class=\"parties\">Webb C. HAYES, plintiff in error,<br>v.<br>The HOCKING VALLEY RAILWAY COMPANY.</p>\r\n    <p class=\"docket\">No. 388.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">April 28, 1919</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\"><i>Mr. Chas. A. Seiders,</i> of Toledo, Ohio, for plaintiff in error.</p>\r\n      <p class=\"indent\"><i>Messrs. John F. Wilson,</i> of Columbus, Ohio, and <i>Lloyd T. Williams,</i> of Toledo, Ohio (<i>Messrs. Wilson &amp; Rector,</i> of Columbus, Ohio, and <i>Brown, Geddes, Schmettau &amp; Williams,</i> of Toledo, Ohio, of counsel), for defendant in error.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Dismissed for want of jurisdiction upon the authority of Farrell v. O'Brien, 199 U. S. 89, 100, 25 Sup. Ct. 727, 50 L. Ed. 101; Empire State-Idaho Mining Co. v. Hanley, 205 U. S. 225, 232, 27 Sup. Ct. 476, 51 L. Ed. 779; Goodrich v. Ferris, 214 U. S. 71, 79, 29 Sup. Ct. 580, 53 L. Ed. 914; Brolan v. United States, 236 U. S. 216, 218, 35 Sup. Ct. 285, 59 L. Ed. 544.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">249</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">591</span></span></p>\r\n    <p class=\"case_cite\">39 S.Ct. 389</p>\r\n    <p class=\"case_cite\">63 L.Ed. 792</p>\r\n    <p class=\"parties\">Webb C. HAYES, plintiff in error,<br>v.<br>The HOCKING VALLEY RAILWAY COMPANY.</p>\r\n    <p class=\"docket\">No. 388.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">April 28, 1919</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\"><i>Mr. Chas. A. Seiders,</i> of Toledo, Ohio, for plaintiff in error.</p>\r\n      <p class=\"indent\"><i>Messrs. John F. Wilson,</i> of Columbus, Ohio, and <i>Lloyd T. Williams,</i> of Toledo, Ohio (<i>Messrs. Wilson &amp; Rector,</i> of Columbus, Ohio, and <i>Brown, Geddes, Schmettau &amp; Williams,</i> of Toledo, Ohio, of counsel), for defendant in error.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Dismissed for want of jurisdiction upon the authority of Farrell v. O'Brien, 199 U. S. 89, 100, 25 Sup. Ct. 727, 50 L. Ed. 101; Empire State-Idaho Mining Co. v. Hanley, 205 U. S. 225, 232, 27 Sup. Ct. 476, 51 L. Ed. 779; Goodrich v. Ferris, 214 U. S. 71, 79, 29 Sup. Ct. 580, 53 L. Ed. 914; Brolan v. United States, 236 U. S. 216, 218, 35 Sup. Ct. 285, 59 L. Ed. 544.</p>\r\n    </div>\r\n    ", "id": 99382, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/99382/", "sha1": "39f0b9233dcb8e0240d273abc2515395513ccccd", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:46:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "249 U.S. 591", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/99382/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Webb C. Hayes, Plintiff in Error v. The Hocking Valley Railway Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "388", 
+    "id": 83765, 
+    "resource_uri": "/api/rest/v2/citation/83765/"
+  }, 
+  "id": 99382, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1919-04-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/249/249.US.591.388.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:46:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">249</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">591</span></span></p>\r\n    <p class=\"case_cite\">39 S.Ct. 389</p>\r\n    <p class=\"case_cite\">63 L.Ed. 792</p>\r\n    <p class=\"parties\">Webb C. HAYES, plintiff in error,<br>v.<br>The HOCKING VALLEY RAILWAY COMPANY.</p>\r\n    <p class=\"docket\">No. 388.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">April 28, 1919</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\"><i>Mr. Chas. A. Seiders,</i> of Toledo, Ohio, for plaintiff in error.</p>\r\n      <p class=\"indent\"><i>Messrs. John F. Wilson,</i> of Columbus, Ohio, and <i>Lloyd T. Williams,</i> of Toledo, Ohio (<i>Messrs. Wilson &amp; Rector,</i> of Columbus, Ohio, and <i>Brown, Geddes, Schmettau &amp; Williams,</i> of Toledo, Ohio, of counsel), for defendant in error.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Dismissed for want of jurisdiction upon the authority of Farrell v. O'Brien, 199 U. S. 89, 100, 25 Sup. Ct. 727, 50 L. Ed. 101; Empire State-Idaho Mining Co. v. Hanley, 205 U. S. 225, 232, 27 Sup. Ct. 476, 51 L. Ed. 779; Goodrich v. Ferris, 214 U. S. 71, 79, 29 Sup. Ct. 580, 53 L. Ed. 914; Brolan v. United States, 236 U. S. 216, 218, 35 Sup. Ct. 285, 59 L. Ed. 544.</p>\r\n    </div>\r\n    ", 
+  "sha1": "39f0b9233dcb8e0240d273abc2515395513ccccd", 
+  "date_modified": "2014-12-21T01:36:42.522984", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/99382/webb-c-hayes-plintiff-in-error-v-the-hocking/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2004223/", 
+  "html": "<p class=\"case_cite\">249 U.S. 591</p>\r\n    <p class=\"case_cite\">39 S.Ct. 389</p>\r\n    <p class=\"case_cite\">63 L.Ed. 792</p>\r\n    <p class=\"parties\">Webb C. HAYES, plintiff in error,<br>v.<br>The HOCKING VALLEY RAILWAY COMPANY.</p>\r\n    <p class=\"docket\">No. 388.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">April 28, 1919</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\"><i>Mr. Chas. A. Seiders,</i> of Toledo, Ohio, for plaintiff in error.</p>\r\n      <p class=\"indent\"><i>Messrs. John F. Wilson,</i> of Columbus, Ohio, and <i>Lloyd T. Williams,</i> of Toledo, Ohio (<i>Messrs. Wilson &amp; Rector,</i> of Columbus, Ohio, and <i>Brown, Geddes, Schmettau &amp; Williams,</i> of Toledo, Ohio, of counsel), for defendant in error.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Dismissed for want of jurisdiction upon the authority of Farrell v. O'Brien, 199 U. S. 89, 100, 25 Sup. Ct. 727, 50 L. Ed. 101; Empire State-Idaho Mining Co. v. Hanley, 205 U. S. 225, 232, 27 Sup. Ct. 476, 51 L. Ed. 779; Goodrich v. Ferris, 214 U. S. 71, 79, 29 Sup. Ct. 580, 53 L. Ed. 914; Brolan v. United States, 236 U. S. 216, 218, 35 Sup. Ct. 285, 59 L. Ed. 544.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/99382/"
+}

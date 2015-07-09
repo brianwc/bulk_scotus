@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106668/daniels-v-virginia/", "blocked": false, "citation": {"case_name": "Daniels v. Virginia", "docket_number": "485 M", "document_uris": ["/api/rest/v2/document/106668/"], "federal_cite_one": "374 U.S. 500", "federal_cite_three": "10 L. Ed. 2d 1045", "federal_cite_two": "83 S. Ct. 1877", "id": 91051, "lexis_cite": "1963 U.S. LEXIS 1000", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91051/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-06-17", "date_modified": "2014-12-21T01:53:38.193690", "docket": "/api/rest/v2/docket/1153250/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">374 U.S. 500</p>\n    <p class=\"case_cite\">83 S.Ct. 1877</p>\n    <p class=\"case_cite\">10 L.Ed.2d 1045</p>\n    <p class=\"parties\">Betty Jean DANIELS<br>v.<br>VIRGINIA.</p>\n    <p class=\"docket\">No. 485, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 17, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Theodore J. St. Antoine, for petitioners.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Appeals of Virginia.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of Peterson v. City of Greenville, 373 U.S. 244, 83 S.Ct. 1119, 1133.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN concurs in the result on the premises stated in his separate opinion in Peterson v. City of Greenville, supra, and Avent v. North Carolina, 373 U.S. 248, 83 S.Ct. 1133.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>374 U.S. 500 (1963)</b></center>\n<center><h1>DANIELS ET AL.<br>\nv.<br>\nVIRGINIA.</h1></center>\n<center>No. 485, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF APPEALS OF VIRGINIA.\n<p><i>Theodore J. St. Antoine</i> for petitioners.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of <i>Peterson</i> v. <i>City of Greenville,</i> 373 U. S. 244.</p>\n<p>MR. JUSTICE HARLAN concurs in the result on the premises stated in his separate opinion in <i>Peterson</i> v. <i>City of Greenville</i> and <i>Avent</i> v. <i>North Carolina,</i> 373 U. S., at 248.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">374</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">500</span></span> (1963)</b></center>\n<center><h1>DANIELS ET AL.<br>\nv.<br>\nVIRGINIA.</h1></center>\n<center>No. 485, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF APPEALS OF VIRGINIA.\n<p><i>Theodore J. St. Antoine</i> for petitioners.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of <i>Peterson</i> v. <i>City of Greenville,</i> 373 U. S. 244.</p>\n<p>MR. JUSTICE HARLAN concurs in the result on the premises stated in his separate opinion in <i>Peterson</i> v. <i>City of Greenville</i> and <i>Avent</i> v. <i>North Carolina,</i> 373 U. S., at 248.</p>\n</div>", "id": 106668, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106668/", "sha1": "98a60f950845712bf8c35c94f226c991816b45c3", "source": "LR", "supreme_court_db_id": "1962-157", "time_retrieved": "2010-04-28T10:10:45"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "374 U.S. 500", 
+    "federal_cite_two": "83 S. Ct. 1877", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "10 L. Ed. 2d 1045", 
+    "lexis_cite": "1963 U.S. LEXIS 1000", 
+    "document_uris": [
+      "/api/rest/v2/document/106668/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Daniels v. Virginia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "485 M", 
+    "id": 91051, 
+    "resource_uri": "/api/rest/v2/citation/91051/"
+  }, 
+  "id": 106668, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-06-17", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>374 U.S. 500 (1963)</b></center>\n<center><h1>DANIELS ET AL.<br>\nv.<br>\nVIRGINIA.</h1></center>\n<center>No. 485, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF APPEALS OF VIRGINIA.\n<p><i>Theodore J. St. Antoine</i> for petitioners.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of <i>Peterson</i> v. <i>City of Greenville,</i> 373 U. S. 244.</p>\n<p>MR. JUSTICE HARLAN concurs in the result on the premises stated in his separate opinion in <i>Peterson</i> v. <i>City of Greenville</i> and <i>Avent</i> v. <i>North Carolina,</i> 373 U. S., at 248.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:45", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">374</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">500</span></span> (1963)</b></center>\n<center><h1>DANIELS ET AL.<br>\nv.<br>\nVIRGINIA.</h1></center>\n<center>No. 485, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1963.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF APPEALS OF VIRGINIA.\n<p><i>Theodore J. St. Antoine</i> for petitioners.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of <i>Peterson</i> v. <i>City of Greenville,</i> 373 U. S. 244.</p>\n<p>MR. JUSTICE HARLAN concurs in the result on the premises stated in his separate opinion in <i>Peterson</i> v. <i>City of Greenville</i> and <i>Avent</i> v. <i>North Carolina,</i> 373 U. S., at 248.</p>\n</div>", 
+  "sha1": "98a60f950845712bf8c35c94f226c991816b45c3", 
+  "date_modified": "2014-12-21T01:53:38.193690", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106668/daniels-v-virginia/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": "1962-157", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1153250/", 
+  "html": "<p class=\"case_cite\">374 U.S. 500</p>\n    <p class=\"case_cite\">83 S.Ct. 1877</p>\n    <p class=\"case_cite\">10 L.Ed.2d 1045</p>\n    <p class=\"parties\">Betty Jean DANIELS<br>v.<br>VIRGINIA.</p>\n    <p class=\"docket\">No. 485, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 17, 1963</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Theodore J. St. Antoine, for petitioners.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Appeals of Virginia.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for further consideration in light of Peterson v. City of Greenville, 373 U.S. 244, 83 S.Ct. 1119, 1133.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN concurs in the result on the premises stated in his separate opinion in Peterson v. City of Greenville, supra, and Avent v. North Carolina, 373 U.S. 248, 83 S.Ct. 1133.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106668/"
+}

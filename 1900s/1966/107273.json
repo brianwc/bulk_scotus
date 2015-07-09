@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107273/robert-p-griffin-v-maryland/", "blocked": false, "citation": {"case_name": "Robert P. Griffin v. Maryland", "docket_number": "289, Misc", "document_uris": ["/api/rest/v2/document/107273/"], "federal_cite_one": "384 U.S. 893", "federal_cite_three": null, "federal_cite_two": null, "id": 91632, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91632/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-06-13", "date_modified": "2014-12-21T01:55:11.817186", "docket": "/api/rest/v2/docket/2470726/", "download_url": "http://bulk.resource.org/courts.gov/c/US/384/384.US.893.289.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">384 U.S. 893</p>\n    <p class=\"case_cite\">86 S.Ct. 1931</p>\n    <p class=\"case_cite\">16 L.Ed.2d 999</p>\n    <p class=\"parties\">Robert P. GRIFFIN<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 289, Misc.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Appeals of Maryland.</p>\n      <p class=\"indent\">Robert P. Griffin, pro se.</p>\n      <p class=\"indent\">Thomas B. Finan, Atty. Gen. of Maryland, for respondent.</p>\n      <p>June 20, 1966.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of the entire record and the consent of the Attorney General of Maryland, the motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The motion to remand is also granted, the judgment of the Court of Appeals of Maryland is vacated and the case is remanded to that court for further consideration in light of its decisions in Schowgurow v. Maryland, 240 Md. 121, 213 A.2d 475, and Smith v. State of Maryland 240 Md. 464, 214 A.2d 563. This disposition of the case is without prejudice to any other questions presented by the petition for a writ of certiorari.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">384</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">893</span></span></p>\n    <p class=\"case_cite\">86 S.Ct. 1931</p>\n    <p class=\"case_cite\">16 L.Ed.2d 999</p>\n    <p class=\"parties\">Robert P. GRIFFIN<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 289, Misc.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Appeals of Maryland.</p>\n      <p class=\"indent\">Robert P. Griffin, pro se.</p>\n      <p class=\"indent\">Thomas B. Finan, Atty. Gen. of Maryland, for respondent.</p>\n      <p>June 20, 1966.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of the entire record and the consent of the Attorney General of Maryland, the motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The motion to remand is also granted, the judgment of the Court of Appeals of Maryland is vacated and the case is remanded to that court for further consideration in light of its decisions in Schowgurow v. Maryland, <span class=\"citation\" data-id=\"1923184\"><a href=\"/opinion/1923184/schowgurow-v-state/\"><span class=\"volume\">240</span> <span class=\"reporter\">Md.</span> <span class=\"page\">121</span></a></span>, <span class=\"citation\" data-id=\"1923184\"><a href=\"/opinion/1923184/schowgurow-v-state/\"><span class=\"volume\">213</span> <span class=\"reporter\">A.2d</span> <span class=\"page\">475</span></a></span>, and Smith v. State of Maryland <span class=\"citation\" data-id=\"1518598\"><a href=\"/opinion/1518598/smith-v-state/\"><span class=\"volume\">240</span> <span class=\"reporter\">Md.</span> <span class=\"page\">464</span></a></span>, 214 A.2d 563. This disposition of the case is without prejudice to any other questions presented by the petition for a writ of certiorari.</p>\n    </div>\n    ", "id": 107273, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107273/", "sha1": "605231ca95902096b3ef29608b0cdcafeb8f5848", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:57"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "384 U.S. 893", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107273/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Robert P. Griffin v. Maryland", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "289, Misc", 
+    "id": 91632, 
+    "resource_uri": "/api/rest/v2/citation/91632/"
+  }, 
+  "id": 107273, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-06-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/384/384.US.893.289.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:57", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">384</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">893</span></span></p>\n    <p class=\"case_cite\">86 S.Ct. 1931</p>\n    <p class=\"case_cite\">16 L.Ed.2d 999</p>\n    <p class=\"parties\">Robert P. GRIFFIN<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 289, Misc.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Appeals of Maryland.</p>\n      <p class=\"indent\">Robert P. Griffin, pro se.</p>\n      <p class=\"indent\">Thomas B. Finan, Atty. Gen. of Maryland, for respondent.</p>\n      <p>June 20, 1966.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of the entire record and the consent of the Attorney General of Maryland, the motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The motion to remand is also granted, the judgment of the Court of Appeals of Maryland is vacated and the case is remanded to that court for further consideration in light of its decisions in Schowgurow v. Maryland, <span class=\"citation\" data-id=\"1923184\"><a href=\"/opinion/1923184/schowgurow-v-state/\"><span class=\"volume\">240</span> <span class=\"reporter\">Md.</span> <span class=\"page\">121</span></a></span>, <span class=\"citation\" data-id=\"1923184\"><a href=\"/opinion/1923184/schowgurow-v-state/\"><span class=\"volume\">213</span> <span class=\"reporter\">A.2d</span> <span class=\"page\">475</span></a></span>, and Smith v. State of Maryland <span class=\"citation\" data-id=\"1518598\"><a href=\"/opinion/1518598/smith-v-state/\"><span class=\"volume\">240</span> <span class=\"reporter\">Md.</span> <span class=\"page\">464</span></a></span>, 214 A.2d 563. This disposition of the case is without prejudice to any other questions presented by the petition for a writ of certiorari.</p>\n    </div>\n    ", 
+  "sha1": "605231ca95902096b3ef29608b0cdcafeb8f5848", 
+  "date_modified": "2014-12-21T01:55:11.817186", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107273/robert-p-griffin-v-maryland/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2470726/", 
+  "html": "<p class=\"case_cite\">384 U.S. 893</p>\n    <p class=\"case_cite\">86 S.Ct. 1931</p>\n    <p class=\"case_cite\">16 L.Ed.2d 999</p>\n    <p class=\"parties\">Robert P. GRIFFIN<br>v.<br>MARYLAND.</p>\n    <p class=\"docket\">No. 289, Misc.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Court of Appeals of Maryland.</p>\n      <p class=\"indent\">Robert P. Griffin, pro se.</p>\n      <p class=\"indent\">Thomas B. Finan, Atty. Gen. of Maryland, for respondent.</p>\n      <p>June 20, 1966.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Upon consideration of the entire record and the consent of the Attorney General of Maryland, the motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The motion to remand is also granted, the judgment of the Court of Appeals of Maryland is vacated and the case is remanded to that court for further consideration in light of its decisions in Schowgurow v. Maryland, 240 Md. 121, 213 A.2d 475, and Smith v. State of Maryland 240 Md. 464, 214 A.2d 563. This disposition of the case is without prejudice to any other questions presented by the petition for a writ of certiorari.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107273/"
+}

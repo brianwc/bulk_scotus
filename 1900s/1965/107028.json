@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107028/callender-v-florida/", "blocked": false, "citation": {"case_name": "Callender v. Florida", "docket_number": "58", "document_uris": ["/api/rest/v2/document/107028/"], "federal_cite_one": "380 U.S. 519", "federal_cite_three": null, "federal_cite_two": null, "id": 91387, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91387/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1965-04-26", "date_modified": "2014-12-21T01:54:09.083663", "docket": "/api/rest/v2/docket/316205/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">380 U.S. 519</p>\n    <p class=\"case_cite\">85 S.Ct. 1325</p>\n    <p class=\"parties\">Herbert E. CALLENDER et al.<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 58.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 26, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Carl Rachlin and Floyd McKissick, for petitioners.</p>\n      <p class=\"indent\">James W. Kynes, Atty. Gen. of Florida, and George R. Georgieff, Asst. Atty. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Florida.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted and the judgments are reversed. Boynton v. Com. of Virginia, 364 U.S. 454, 81 S.Ct. 182, 5 L.Ed.2d 206, Abernathy v. State of Alabama, 380 U.S. 447, 85 S.Ct. 1101.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>380 U.S. 519 (1965)</b></center>\n<center><h1>CALLENDER ET AL.<br>\nv.<br>\nFLORIDA.</h1></center>\n<center>No. 58.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 26, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF FLORIDA.\n<p><i>Carl Rachlin</i> and <i>Floyd McKissick</i> for petitioners.</p>\n<p><i>James W. Kynes,</i> Attorney General of Florida, and <i>George R. Georgieff,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgments are reversed. <i>Boynton</i> v. <i>Virginia,</i> 364 U. S. 454, <i>Abernathy</i> v. <i>Alabama, ante,</i> p. 447.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">519</span></span> (1965)</b></center>\n<center><h1>CALLENDER ET AL.<br>\nv.<br>\nFLORIDA.</h1></center>\n<center>No. 58.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 26, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF FLORIDA.\n<p><i>Carl Rachlin</i> and <i>Floyd McKissick</i> for petitioners.</p>\n<p><i>James W. Kynes,</i> Attorney General of Florida, and <i>George R. Georgieff,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgments are reversed. <i>Boynton</i> v. <i>Virginia,</i> 364 U. S. 454, <i>Abernathy</i> v. <i>Alabama, ante,</i> p. 447.</p>\n</div>", "id": 107028, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107028/", "sha1": "bb8f5c3babf3df92ce31af320aa5925d66936930", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "380 U.S. 519", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107028/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Callender v. Florida", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "58", 
+    "id": 91387, 
+    "resource_uri": "/api/rest/v2/citation/91387/"
+  }, 
+  "id": 107028, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1965-04-26", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>380 U.S. 519 (1965)</b></center>\n<center><h1>CALLENDER ET AL.<br>\nv.<br>\nFLORIDA.</h1></center>\n<center>No. 58.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 26, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF FLORIDA.\n<p><i>Carl Rachlin</i> and <i>Floyd McKissick</i> for petitioners.</p>\n<p><i>James W. Kynes,</i> Attorney General of Florida, and <i>George R. Georgieff,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgments are reversed. <i>Boynton</i> v. <i>Virginia,</i> 364 U. S. 454, <i>Abernathy</i> v. <i>Alabama, ante,</i> p. 447.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">380</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">519</span></span> (1965)</b></center>\n<center><h1>CALLENDER ET AL.<br>\nv.<br>\nFLORIDA.</h1></center>\n<center>No. 58.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 26, 1965.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF FLORIDA.\n<p><i>Carl Rachlin</i> and <i>Floyd McKissick</i> for petitioners.</p>\n<p><i>James W. Kynes,</i> Attorney General of Florida, and <i>George R. Georgieff,</i> Assistant Attorney General, for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgments are reversed. <i>Boynton</i> v. <i>Virginia,</i> 364 U. S. 454, <i>Abernathy</i> v. <i>Alabama, ante,</i> p. 447.</p>\n</div>", 
+  "sha1": "bb8f5c3babf3df92ce31af320aa5925d66936930", 
+  "date_modified": "2014-12-21T01:54:09.083663", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107028/callender-v-florida/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/316205/", 
+  "html": "<p class=\"case_cite\">380 U.S. 519</p>\n    <p class=\"case_cite\">85 S.Ct. 1325</p>\n    <p class=\"parties\">Herbert E. CALLENDER et al.<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 58.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 26, 1965</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Carl Rachlin and Floyd McKissick, for petitioners.</p>\n      <p class=\"indent\">James W. Kynes, Atty. Gen. of Florida, and George R. Georgieff, Asst. Atty. Gen., for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Florida.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted and the judgments are reversed. Boynton v. Com. of Virginia, 364 U.S. 454, 81 S.Ct. 182, 5 L.Ed.2d 206, Abernathy v. State of Alabama, 380 U.S. 447, 85 S.Ct. 1101.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107028/"
+}

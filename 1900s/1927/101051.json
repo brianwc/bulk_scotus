@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/101051/jacob-telfair-smith-petitioner-v-united-states/", "blocked": false, "citation": {"case_name": "Jacob Telfair Smith v. United States Shipping Board Emergency Fleet Corporation and Catz American Shipping Company, Inc. v. United States Shipping Board Emergency Eleet Corporation.", "docket_number": "Nos. 796, 797", "document_uris": ["/api/rest/v2/document/101051/"], "federal_cite_one": "273 U.S. 747", "federal_cite_three": null, "federal_cite_two": null, "id": 85434, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/85434/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1927-02-21", "date_modified": "2014-12-21T01:38:19.052711", "docket": "/api/rest/v2/docket/2498641/", "download_url": "http://bulk.resource.org/courts.gov/c/US/273/273.US.747.796.797.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">273 U.S. 747</p>\r\n    <p class=\"case_cite\">47 S.Ct. 448</p>\r\n    <p class=\"case_cite\">71 L.Ed. 871</p>\r\n    <p class=\"parties\">Jacob Telfair SMITH, petitioner,<br>v.<br>UNITED STATES SHIPPING BOARD EMERGENCY FLEET CORPORATION;  and  CATZ AMERICAN SHIPPING COMPANY, Inc., petitioner,  v.  UNITED STATES SHIPPING BOARD EMERGENCY ELEET CORPORATION.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">Nos. 796, 797.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 21, 1927</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John C. Prizer, of New York City, for petitioners.</p>\r\n      <p class=\"indent\">Messrs. William D. Mitchell, Sol. Gen., George R. Farnum, Asst. Atty. Gen., and J. Frank Staley, of Washington, D. C., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writs of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> This application for certiorari was on permission of the Court of Appeals in which the case was still pending and undetermined.</p>\r\n      </div>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">273</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">747</span></span></p>\r\n    <p class=\"case_cite\">47 S.Ct. 448</p>\r\n    <p class=\"case_cite\">71 L.Ed. 871</p>\r\n    <p class=\"parties\">Jacob Telfair SMITH, petitioner,<br>v.<br>UNITED STATES SHIPPING BOARD EMERGENCY FLEET CORPORATION;  and  CATZ AMERICAN SHIPPING COMPANY, Inc., petitioner,  v.  UNITED STATES SHIPPING BOARD EMERGENCY ELEET CORPORATION.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">Nos. 796, 797.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 21, 1927</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John C. Prizer, of New York City, for petitioners.</p>\r\n      <p class=\"indent\">Messrs. William D. Mitchell, Sol. Gen., George R. Farnum, Asst. Atty. Gen., and J. Frank Staley, of Washington, D. C., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writs of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> This application for certiorari was on permission of the Court of Appeals in which the case was still pending and undetermined.</p>\r\n      </div>\r\n    </div>\r\n    ", "id": 101051, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/101051/", "sha1": "ea294c189a927c9b6adaaa7463912b7e5452309e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:48:40"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "273 U.S. 747", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/101051/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jacob Telfair Smith v. United States Shipping Board Emergency Fleet Corporation and Catz American Shipping Company, Inc. v. United States Shipping Board Emergency Eleet Corporation.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "Nos. 796, 797", 
+    "id": 85434, 
+    "resource_uri": "/api/rest/v2/citation/85434/"
+  }, 
+  "id": 101051, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1927-02-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/273/273.US.747.796.797.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:48:40", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">273</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">747</span></span></p>\r\n    <p class=\"case_cite\">47 S.Ct. 448</p>\r\n    <p class=\"case_cite\">71 L.Ed. 871</p>\r\n    <p class=\"parties\">Jacob Telfair SMITH, petitioner,<br>v.<br>UNITED STATES SHIPPING BOARD EMERGENCY FLEET CORPORATION;  and  CATZ AMERICAN SHIPPING COMPANY, Inc., petitioner,  v.  UNITED STATES SHIPPING BOARD EMERGENCY ELEET CORPORATION.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">Nos. 796, 797.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 21, 1927</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John C. Prizer, of New York City, for petitioners.</p>\r\n      <p class=\"indent\">Messrs. William D. Mitchell, Sol. Gen., George R. Farnum, Asst. Atty. Gen., and J. Frank Staley, of Washington, D. C., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writs of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> This application for certiorari was on permission of the Court of Appeals in which the case was still pending and undetermined.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "sha1": "ea294c189a927c9b6adaaa7463912b7e5452309e", 
+  "date_modified": "2014-12-21T01:38:19.052711", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/101051/jacob-telfair-smith-petitioner-v-united-states/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2498641/", 
+  "html": "<p class=\"case_cite\">273 U.S. 747</p>\r\n    <p class=\"case_cite\">47 S.Ct. 448</p>\r\n    <p class=\"case_cite\">71 L.Ed. 871</p>\r\n    <p class=\"parties\">Jacob Telfair SMITH, petitioner,<br>v.<br>UNITED STATES SHIPPING BOARD EMERGENCY FLEET CORPORATION;  and  CATZ AMERICAN SHIPPING COMPANY, Inc., petitioner,  v.  UNITED STATES SHIPPING BOARD EMERGENCY ELEET CORPORATION.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">Nos. 796, 797.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">February 21, 1927</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. John C. Prizer, of New York City, for petitioners.</p>\r\n      <p class=\"indent\">Messrs. William D. Mitchell, Sol. Gen., George R. Farnum, Asst. Atty. Gen., and J. Frank Staley, of Washington, D. C., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Petition for writs of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> This application for certiorari was on permission of the Court of Appeals in which the case was still pending and undetermined.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/101051/"
+}

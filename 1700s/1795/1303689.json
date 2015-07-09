@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1303689/united-states-v-stewart/", "blocked": false, "citation": {"case_name": "United States v. Stewart", "docket_number": null, "document_uris": ["/api/rest/v2/document/1303689/"], "federal_cite_one": "2 U.S. 343", "federal_cite_three": null, "federal_cite_two": null, "id": 1276460, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1276460/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1795-04-01", "date_modified": "2014-12-21T04:46:54.330317", "docket": "/api/rest/v2/docket/1573758/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 343 (____)</b></center>\n<center><b>2 Dall. 343</b></center>\n<center><h1>THE UNITED STATES<br>\nversus<br>\nSTEWART.<br>\nTHE SAME<br>\nversus<br>\nWRIGHT.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*344</span> Rawle (Attorney for the District) premised.</p>\n<p>BY THE COURT:  The only argument of weight in support of the present motion, is that which relates to the period of furnishing the prisoners with the names of the witnesses; but it is, of itself, conclusive: for, unless an opportunity were afterwards given to investigate the characters, and trace the conduct of the witnesses, it would be nugatory and delusive to furnish the list of their names. The act directs notice to be given; this must be intended for the purpose alluded to, and, for the attainment of that purpose, time is, undoubtedly, necessary.</p>\n<p>It must, therefore, be considered as a rule in this case, and in all other cases of a similar nature, that a reasonable time shall be allowed, after a list of the names of the witnesses is furnished to the prisoners, for the purpose of bringing testimony from the counties in which those witnesses live.</p>\n<p>The trials of Stewart &amp; Wright were, accordingly, postponed; and it was then agreed that they should not be brought on 'till the trial of the other prisoners, who were ready for trial, was <span class=\"star-pagination\">*345</span> concluded; but so much time was consumed in this previous business, that the judges declared they could not longer protract the fitting of the Court, on account of other Circuits, and, therefore directed the cases of Stewart &amp; Wright to be continued generally 'till the next term. It appeared, however, that on the preceding day, Lewis had informed the Attorney for the District, that he would proceed to trial in the case of Stewart, with the testimony already in his possession, though he expected other witnesses; and, on this ground, as the Court was about to break up, he moved, that Stewart should be admitted to bail.</p>\n<p>But, BY THE COURT:  It was Stewart's own fault, not the fault of the prosecutor, that the trial was postponed. He has now the same witnesses, that he had at the time of the postponement; but the judges cannot, consistently with their other duties, enter on the trial. It is true, that we have established it as a principle, that no laches should be imputed to the prisoner, for taking time to send into the counties where the witnesses for the prosecution reside, after he has received notice of their names; but that is not the case at present. Stewart has no claim upon the legal discretion of the Court; and, indeed, the circumstances must be very strong, which will, at any time, induce us to admit a person to bail, who stands charged with High-Treason.</p>\n</div>", "html_with_citations": "", "id": 1303689, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1303689/", "sha1": "43db406483be9fce2ab83a3b2ed0d3b57150d6bb", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T22:24:37.318233"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 343", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1303689/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Stewart", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1276460, 
+    "resource_uri": "/api/rest/v2/citation/1276460/"
+  }, 
+  "id": 1303689, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1795-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 343 (____)</b></center>\n<center><b>2 Dall. 343</b></center>\n<center><h1>THE UNITED STATES<br>\nversus<br>\nSTEWART.<br>\nTHE SAME<br>\nversus<br>\nWRIGHT.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*344</span> Rawle (Attorney for the District) premised.</p>\n<p>BY THE COURT: \u0097 The only argument of weight in support of the present motion, is that which relates to the period of furnishing the prisoners with the names of the witnesses; but it is, of itself, conclusive: for, unless an opportunity were afterwards given to investigate the characters, and trace the conduct of the witnesses, it would be nugatory and delusive to furnish the list of their names. The act directs notice to be given; this must be intended for the purpose alluded to, and, for the attainment of that purpose, time is, undoubtedly, necessary.</p>\n<p>It must, therefore, be considered as a rule in this case, and in all other cases of a similar nature, that a reasonable time shall be allowed, after a list of the names of the witnesses is furnished to the prisoners, for the purpose of bringing testimony from the counties in which those witnesses live.</p>\n<p>The trials of Stewart &amp; Wright were, accordingly, postponed; and it was then agreed that they should not be brought on 'till the trial of the other prisoners, who were ready for trial, was <span class=\"star-pagination\">*345</span> concluded; but so much time was consumed in this previous business, that the judges declared they could not longer protract the fitting of the Court, on account of other Circuits, and, therefore directed the cases of Stewart &amp; Wright to be continued generally 'till the next term. It appeared, however, that on the preceding day, Lewis had informed the Attorney for the District, that he would proceed to trial in the case of Stewart, with the testimony already in his possession, though he expected other witnesses; and, on this ground, as the Court was about to break up, he moved, that Stewart should be admitted to bail.</p>\n<p>But, BY THE COURT: \u0097 It was Stewart's own fault, not the fault of the prosecutor, that the trial was postponed. He has now the same witnesses, that he had at the time of the postponement; but the judges cannot, consistently with their other duties, enter on the trial. It is true, that we have established it as a principle, that no laches should be imputed to the prisoner, for taking time to send into the counties where the witnesses for the prosecution reside, after he has received notice of their names; but that is not the case at present. Stewart has no claim upon the legal discretion of the Court; and, indeed, the circumstances must be very strong, which will, at any time, induce us to admit a person to bail, who stands charged with High-Treason.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:24:37.318233", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "43db406483be9fce2ab83a3b2ed0d3b57150d6bb", 
+  "date_modified": "2014-12-21T04:46:54.330317", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1303689/united-states-v-stewart/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1573758/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1303689/"
+}

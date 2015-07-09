@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105665/united-states-of-america-petitioner-v-dave/", "blocked": false, "citation": {"case_name": "United States v. Dave Diamond, Also Known as David Dumanus, David Thornson, and Abe Slater, and Freeda, Diamond, Also Known as Frieda Diamond and Florence Slater", "docket_number": "771", "document_uris": ["/api/rest/v2/document/105665/"], "federal_cite_one": "356 U.S. 257", "federal_cite_three": null, "federal_cite_two": null, "id": 90048, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90048/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-04-07", "date_modified": "2014-12-21T01:50:58.865919", "docket": "/api/rest/v2/docket/996850/", "download_url": "http://bulk.resource.org/courts.gov/c/US/356/356.US.257.771.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">356 U.S. 257</p>\n    <p class=\"case_cite\">78 S.Ct. 715</p>\n    <p class=\"case_cite\">2 L.Ed.2d 757</p>\n    <p class=\"parties\">UNITED STATES of America, petitioner,<br>v.<br>Dave DIAMOND, also known as David Dumanus, David  Thornson, and Abe Slater, and Freeda, Diamond, also  known as Frieda Diamond and Florence Slater.</p>\n    <p class=\"docket\">No. 771.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 7, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Solicitor General Rankin, Acting Assistant Attorney General McLean, Beatrice Rosenberg and Mr. J. F. Bishop, for the United States.</p>\n      <p class=\"indent\">Mr. Robert L. Brock, for respondent David Diamond.</p>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted and the judgment is affirmed.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">356</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">257</span></span></p>\n    <p class=\"case_cite\">78 S.Ct. 715</p>\n    <p class=\"case_cite\">2 L.Ed.2d 757</p>\n    <p class=\"parties\">UNITED STATES of America, petitioner,<br>v.<br>Dave DIAMOND, also known as David Dumanus, David  Thornson, and Abe Slater, and Freeda, Diamond, also  known as Frieda Diamond and Florence Slater.</p>\n    <p class=\"docket\">No. 771.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 7, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Solicitor General Rankin, Acting Assistant Attorney General McLean, Beatrice Rosenberg and Mr. J. F. Bishop, for the United States.</p>\n      <p class=\"indent\">Mr. Robert L. Brock, for respondent David Diamond.</p>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted and the judgment is affirmed.</p>\n    </div>\n    ", "id": 105665, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105665/", "sha1": "4af6a04726fc06d5587c4ecddd9194cde44d2ae6", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:40"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "356 U.S. 257", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/105665/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Dave Diamond, Also Known as David Dumanus, David Thornson, and Abe Slater, and Freeda, Diamond, Also Known as Frieda Diamond and Florence Slater", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "771", 
+    "id": 90048, 
+    "resource_uri": "/api/rest/v2/citation/90048/"
+  }, 
+  "id": 105665, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-04-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/356/356.US.257.771.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:40", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">356</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">257</span></span></p>\n    <p class=\"case_cite\">78 S.Ct. 715</p>\n    <p class=\"case_cite\">2 L.Ed.2d 757</p>\n    <p class=\"parties\">UNITED STATES of America, petitioner,<br>v.<br>Dave DIAMOND, also known as David Dumanus, David  Thornson, and Abe Slater, and Freeda, Diamond, also  known as Frieda Diamond and Florence Slater.</p>\n    <p class=\"docket\">No. 771.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 7, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Solicitor General Rankin, Acting Assistant Attorney General McLean, Beatrice Rosenberg and Mr. J. F. Bishop, for the United States.</p>\n      <p class=\"indent\">Mr. Robert L. Brock, for respondent David Diamond.</p>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "sha1": "4af6a04726fc06d5587c4ecddd9194cde44d2ae6", 
+  "date_modified": "2014-12-21T01:50:58.865919", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105665/united-states-of-america-petitioner-v-dave/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/996850/", 
+  "html": "<p class=\"case_cite\">356 U.S. 257</p>\n    <p class=\"case_cite\">78 S.Ct. 715</p>\n    <p class=\"case_cite\">2 L.Ed.2d 757</p>\n    <p class=\"parties\">UNITED STATES of America, petitioner,<br>v.<br>Dave DIAMOND, also known as David Dumanus, David  Thornson, and Abe Slater, and Freeda, Diamond, also  known as Frieda Diamond and Florence Slater.</p>\n    <p class=\"docket\">No. 771.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 7, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Solicitor General Rankin, Acting Assistant Attorney General McLean, Beatrice Rosenberg and Mr. J. F. Bishop, for the United States.</p>\n      <p class=\"indent\">Mr. Robert L. Brock, for respondent David Diamond.</p>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted and the judgment is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105665/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087860/patterson-v-dallas/", "blocked": false, "citation": {"case_name": "Patterson v. Dallas", "docket_number": "708", "document_uris": ["/api/rest/v2/document/1087860/"], "federal_cite_one": "372 U.S. 251", "federal_cite_three": null, "federal_cite_two": null, "id": 1060631, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060631/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-02-25", "date_modified": "2014-10-30T10:15:45.507602", "docket": "/api/rest/v2/docket/1507839/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>372 U.S. 251 (1963)</b></center>\n<center><h1>WHITE STAG MANUFACTURING CO.<br>\nv.<br>\nELLIS ET AL., MEMBERS OF THE STATE TAX COMMISSION OF OREGON.</h1></center>\n<center>No. 708.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 25, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF OREGON.\n<p><i>Walter H. Evans, Jr.</i> for appellant.</p>\n<p><i>Robert Y. Thornton,</i> Attorney General of Oregon, and <i>Carlisle B. Roberts</i> and <i>Gerald F. Bartz,</i> Assistant Attorneys General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1087860, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087860/", "sha1": "eab7a694c970a5800d022eff0723faf7bfa36eef", "source": "L", "time_retrieved": "2013-10-29T19:58:00.783264"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "372 U.S. 251", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087860/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Patterson v. Dallas", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "708", 
+    "id": 1060631, 
+    "resource_uri": "/api/rest/v2/citation/1060631/"
+  }, 
+  "id": 1087860, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-02-25", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>372 U.S. 251 (1963)</b></center>\n<center><h1>WHITE STAG MANUFACTURING CO.<br>\nv.<br>\nELLIS ET AL., MEMBERS OF THE STATE TAX COMMISSION OF OREGON.</h1></center>\n<center>No. 708.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 25, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF OREGON.\n<p><i>Walter H. Evans, Jr.</i> for appellant.</p>\n<p><i>Robert Y. Thornton,</i> Attorney General of Oregon, and <i>Carlisle B. Roberts</i> and <i>Gerald F. Bartz,</i> Assistant Attorneys General, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:58:00.783264", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "eab7a694c970a5800d022eff0723faf7bfa36eef", 
+  "date_modified": "2014-10-30T10:15:45.507602", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087860/patterson-v-dallas/", 
+  "citation_count": 3, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1507839/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087860/"
+}

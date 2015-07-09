@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1490241/knieriem-v-group-health-plan-inc/", "blocked": false, "citation": {"case_name": "Knieriem v. Group Health Plan, Inc.", "docket_number": "05-1336", "document_uris": ["/api/rest/v2/document/1490241/"], "federal_cite_one": "548 U.S. 905", "federal_cite_three": null, "federal_cite_two": null, "id": 1463011, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1463011/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-06-26", "date_modified": "2014-10-30T17:41:52.493069", "docket": "/api/rest/v2/docket/2555142/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>548 U.S. 905 (2006)</b></center>\n<center><h1>KNIERIEM, AS PERSONAL REPRESENTATIVE OF THE ESTATE OF SIADE, DECEASED<br>\nv.<br>\nGROUP HEALTH PLAN, INC., ET AL.</h1></center>\n<center>No. 05-1336.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">905</span></span> (2006)</b></center>\n<center><h1>KNIERIEM, AS PERSONAL REPRESENTATIVE OF THE ESTATE OF SIADE, DECEASED<br>\nv.<br>\nGROUP HEALTH PLAN, INC., ET AL.</h1></center>\n<center>No. 05-1336.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", "id": 1490241, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1490241/", "sha1": "3c80b0b1f446bec77eb693490355b7d055416ecb", "source": "L", "time_retrieved": "2013-10-29T23:27:59.718744"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "548 U.S. 905", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1490241/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Knieriem v. Group Health Plan, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-1336", 
+    "id": 1463011, 
+    "resource_uri": "/api/rest/v2/citation/1463011/"
+  }, 
+  "id": 1490241, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-06-26", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>548 U.S. 905 (2006)</b></center>\n<center><h1>KNIERIEM, AS PERSONAL REPRESENTATIVE OF THE ESTATE OF SIADE, DECEASED<br>\nv.<br>\nGROUP HEALTH PLAN, INC., ET AL.</h1></center>\n<center>No. 05-1336.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:27:59.718744", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">905</span></span> (2006)</b></center>\n<center><h1>KNIERIEM, AS PERSONAL REPRESENTATIVE OF THE ESTATE OF SIADE, DECEASED<br>\nv.<br>\nGROUP HEALTH PLAN, INC., ET AL.</h1></center>\n<center>No. 05-1336.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", 
+  "sha1": "3c80b0b1f446bec77eb693490355b7d055416ecb", 
+  "date_modified": "2014-10-30T17:41:52.493069", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1490241/knieriem-v-group-health-plan-inc/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2555142/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1490241/"
+}

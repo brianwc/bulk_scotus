@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1286196/rhodus-v-manning/", "blocked": false, "citation": {"case_name": "Rhodus v. Manning", "docket_number": "739, 740, 741, 742", "document_uris": ["/api/rest/v2/document/1286196/"], "federal_cite_one": "217 U.S. 597", "federal_cite_three": null, "federal_cite_two": null, "id": 1258967, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1258967/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1910-05-31", "date_modified": "2014-10-30T08:02:36.037154", "docket": "/api/rest/v2/docket/1210476/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>217 U.S. 597 (1910)</b></center>\n<center><h1>THOMAS RHODUS<br>\nv.<br>\nMANNING.<br>\nSAME<br>\nv.<br>\nSAME.<br>\nBIRCH F. RHODUS<br>\nv.<br>\nSAME.<br>\nSAME<br>\nv.<br>\nSAME.</h1></center>\n<center>Nos. 739, 740, 741, 742.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Motions to dismiss or affirm submitted May 16, 1910.</center>\n<center>Decided May 31, 1910.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF ILLINOIS.\n<p><span class=\"star-pagination\">*598</span> <i>Mr. Benjamin C. Bachrach</i> and <i>Mr. Joseph B. David</i> for plaintiffs in error.</p>\n<p><i>Mr. Samuel Alschuler, Mr. Charles R. Holden</i> and <i>Mr. Joseph Weissenbach</i> for defendants in error.</p>\n<p><i>Per Curiam.</i></p>\n<p>Judgments affirmed with costs.</p>\n</div>", "html_with_citations": "", "id": 1286196, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1286196/", "sha1": "7d312c8ffd00d145c650668c0a001c88526874fd", "source": "L", "time_retrieved": "2013-10-29T22:21:17.445913"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "217 U.S. 597", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1286196/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Rhodus v. Manning", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "739, 740, 741, 742", 
+    "id": 1258967, 
+    "resource_uri": "/api/rest/v2/citation/1258967/"
+  }, 
+  "id": 1286196, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1910-05-31", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>217 U.S. 597 (1910)</b></center>\n<center><h1>THOMAS RHODUS<br>\nv.<br>\nMANNING.<br>\nSAME<br>\nv.<br>\nSAME.<br>\nBIRCH F. RHODUS<br>\nv.<br>\nSAME.<br>\nSAME<br>\nv.<br>\nSAME.</h1></center>\n<center>Nos. 739, 740, 741, 742.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Motions to dismiss or affirm submitted May 16, 1910.</center>\n<center>Decided May 31, 1910.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF ILLINOIS.\n<p><span class=\"star-pagination\">*598</span> <i>Mr. Benjamin C. Bachrach</i> and <i>Mr. Joseph B. David</i> for plaintiffs in error.</p>\n<p><i>Mr. Samuel Alschuler, Mr. Charles R. Holden</i> and <i>Mr. Joseph Weissenbach</i> for defendants in error.</p>\n<p><i>Per Curiam.</i></p>\n<p>Judgments affirmed with costs.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:21:17.445913", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "7d312c8ffd00d145c650668c0a001c88526874fd", 
+  "date_modified": "2014-10-30T08:02:36.037154", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1286196/rhodus-v-manning/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1210476/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1286196/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/109849/patricia-campbell-hearst-petitioner-v-united/", "blocked": false, "citation": {"case_name": "Patricia Campbell Hearst v. United States", "docket_number": "77-1089", "document_uris": ["/api/rest/v2/document/109849/"], "federal_cite_one": "435 U.S. 1000", "federal_cite_three": null, "federal_cite_two": null, "id": 94208, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/94208/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1978-04-24", "date_modified": "2014-12-21T02:02:06.550922", "docket": "/api/rest/v2/docket/2477826/", "download_url": "http://bulk.resource.org/courts.gov/c/US/435/435.US.1000.77-1089.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">435 U.S. 1000</p>\n    <p class=\"case_cite\">98 S.Ct. 1656</p>\n    <p class=\"case_cite\">56 L.Ed.2d 90</p>\n    <p class=\"parties\">Patricia Campbell HEARST, petitioner,<br>v.<br>UNITED STATES</p>\n    <p class=\"docket\">No. 77-1089</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 24, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BRENNAN would grant certiorari limited to questions VII and VIII presented by the petition.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">435</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1000</span></span></p>\n    <p class=\"case_cite\">98 S.Ct. 1656</p>\n    <p class=\"case_cite\">56 L.Ed.2d 90</p>\n    <p class=\"parties\">Patricia Campbell HEARST, petitioner,<br>v.<br>UNITED STATES</p>\n    <p class=\"docket\">No. 77-1089</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 24, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BRENNAN would grant certiorari limited to questions VII and VIII presented by the petition.</p>\n    </div>\n    ", "id": 109849, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/109849/", "sha1": "2fee8b9545b427034e8745e15e6d820c9010beac", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:12:18"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "435 U.S. 1000", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/109849/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Patricia Campbell Hearst v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "77-1089", 
+    "id": 94208, 
+    "resource_uri": "/api/rest/v2/citation/94208/"
+  }, 
+  "id": 109849, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1978-04-24", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/435/435.US.1000.77-1089.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:12:18", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">435</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1000</span></span></p>\n    <p class=\"case_cite\">98 S.Ct. 1656</p>\n    <p class=\"case_cite\">56 L.Ed.2d 90</p>\n    <p class=\"parties\">Patricia Campbell HEARST, petitioner,<br>v.<br>UNITED STATES</p>\n    <p class=\"docket\">No. 77-1089</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 24, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BRENNAN would grant certiorari limited to questions VII and VIII presented by the petition.</p>\n    </div>\n    ", 
+  "sha1": "2fee8b9545b427034e8745e15e6d820c9010beac", 
+  "date_modified": "2014-12-21T02:02:06.550922", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/109849/patricia-campbell-hearst-petitioner-v-united/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2477826/", 
+  "html": "<p class=\"case_cite\">435 U.S. 1000</p>\n    <p class=\"case_cite\">98 S.Ct. 1656</p>\n    <p class=\"case_cite\">56 L.Ed.2d 90</p>\n    <p class=\"parties\">Patricia Campbell HEARST, petitioner,<br>v.<br>UNITED STATES</p>\n    <p class=\"docket\">No. 77-1089</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 24, 1978</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BRENNAN would grant certiorari limited to questions VII and VIII presented by the petition.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/109849/"
+}

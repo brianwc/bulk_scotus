@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1520863/williams-v-city-of-wichita/", "blocked": false, "citation": {"case_name": "Williams v. City of Wichita", "docket_number": "132", "document_uris": ["/api/rest/v2/document/1520863/"], "federal_cite_one": "375 U.S. 7", "federal_cite_three": null, "federal_cite_two": null, "id": 1493634, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1493634/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-10-14", "date_modified": "2014-10-30T02:09:39.771024", "docket": "/api/rest/v2/docket/399041/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>375 U.S. 7 (1963)</b></center>\n<center><h1>WILLIAMS<br>\nv.<br>\nCITY OF WICHITA.</h1></center>\n<center>No. 132.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF KANSAS.\n<p><i>Kenneth G. Speir, Herbert H. Sizemore</i> and <i>Eugene Gressman</i> for appellant.</p>\n<p><i>William M. Ferguson,</i> Attorney General of Kansas, and <i>Charles S. Rhyne</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">7</span></span> (1963)</b></center>\n<center><h1>WILLIAMS<br>\nv.<br>\nCITY OF WICHITA.</h1></center>\n<center>No. 132.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF KANSAS.\n<p><i>Kenneth G. Speir, Herbert H. Sizemore</i> and <i>Eugene Gressman</i> for appellant.</p>\n<p><i>William M. Ferguson,</i> Attorney General of Kansas, and <i>Charles S. Rhyne</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "id": 1520863, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1520863/", "sha1": "9a35a72edb453c7537de6152d29549a60679f2f9", "source": "L", "time_retrieved": "2013-10-29T23:34:03.190612"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 7", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1520863/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Williams v. City of Wichita", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "132", 
+    "id": 1493634, 
+    "resource_uri": "/api/rest/v2/citation/1493634/"
+  }, 
+  "id": 1520863, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-10-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 7 (1963)</b></center>\n<center><h1>WILLIAMS<br>\nv.<br>\nCITY OF WICHITA.</h1></center>\n<center>No. 132.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF KANSAS.\n<p><i>Kenneth G. Speir, Herbert H. Sizemore</i> and <i>Eugene Gressman</i> for appellant.</p>\n<p><i>William M. Ferguson,</i> Attorney General of Kansas, and <i>Charles S. Rhyne</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:34:03.190612", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">375</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">7</span></span> (1963)</b></center>\n<center><h1>WILLIAMS<br>\nv.<br>\nCITY OF WICHITA.</h1></center>\n<center>No. 132.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF KANSAS.\n<p><i>Kenneth G. Speir, Herbert H. Sizemore</i> and <i>Eugene Gressman</i> for appellant.</p>\n<p><i>William M. Ferguson,</i> Attorney General of Kansas, and <i>Charles S. Rhyne</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "sha1": "9a35a72edb453c7537de6152d29549a60679f2f9", 
+  "date_modified": "2014-10-30T02:09:39.771024", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1520863/williams-v-city-of-wichita/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/399041/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1520863/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1303430/oswald-v-state-of-new-york/", "blocked": false, "citation": {"case_name": "Oswald v. State of New York", "docket_number": null, "document_uris": ["/api/rest/v2/document/1303430/"], "federal_cite_one": "2 U.S. 415", "federal_cite_three": null, "federal_cite_two": null, "id": 1276201, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1276201/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1793-02-20", "date_modified": "2014-10-30T17:31:21.665194", "docket": "/api/rest/v2/docket/2523106/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 415 (____)</b></center>\n<center><b>2 Dall. 415</b></center>\n<center><h1>OSWALD, Administrator,<br>\nversus<br>\nthe STATE of NEW-YORK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>PROCLAMATION was made in this cause, \"that any person having authority to appear for the State of New-York is required to appear accordingly;\" and no person appearing it was ordered, on motion of Coxe for the Plaintiff,</p>\n<p>BY THE COURT:  Unless the State appears by the first day of next Term to the above suit, or shew cause to the contrary, judgment will be entered by default against the said state.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  See ant. p. 401 and also post. Chisholm, executor, versus Georgia. Cutting, administrator, versus South Carolina. Grayson versus Virginia</p>\n\n</div>", "html_with_citations": "", "id": 1303430, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1303430/", "sha1": "71cd6eb2a2022bcb9834015f63844c4cb5065eef", "source": "L", "time_retrieved": "2013-10-29T22:24:35.235796"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 415", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1303430/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Oswald v. State of New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1276201, 
+    "resource_uri": "/api/rest/v2/citation/1276201/"
+  }, 
+  "id": 1303430, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1793-02-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 415 (____)</b></center>\n<center><b>2 Dall. 415</b></center>\n<center><h1>OSWALD, Administrator,<br>\nversus<br>\nthe STATE of NEW-YORK.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>PROCLAMATION was made in this cause, \"that any person having authority to appear for the State of New-York is required to appear accordingly;\" and no person appearing it was ordered, on motion of Coxe for the Plaintiff,</p>\n<p>BY THE COURT: \u0097 Unless the State appears by the first day of next Term to the above suit, or shew cause to the contrary, judgment will be entered by default against the said state.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  See ant. p. 401 and also post. Chisholm, executor, versus Georgia. Cutting, administrator, versus South Carolina. Grayson versus Virginia</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T22:24:35.235796", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "71cd6eb2a2022bcb9834015f63844c4cb5065eef", 
+  "date_modified": "2014-10-30T17:31:21.665194", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1303430/oswald-v-state-of-new-york/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2523106/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1303430/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2219671/jones-v-le-tombe/", "blocked": false, "citation": {"case_name": "Jones v. Le Tombe", "docket_number": null, "document_uris": ["/api/rest/v2/document/2219671/"], "federal_cite_one": "3 U.S. 384", "federal_cite_three": null, "federal_cite_two": null, "id": 2192442, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2192442/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1798-02-09", "date_modified": "2014-10-30T14:23:45.423036", "docket": "/api/rest/v2/docket/2033448/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>3 U.S. 384 (____)</b></center>\n<center><b>3 Dall. 384</b></center>\n<center><h1>JONES, Indorsee,<br>\nversus<br>\nLE TOMBE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*385</span> At the opening of the Term, Dallas and Du Ponceau had obtained a rule, that the Plaintiff shew his cause of action, and why the Defendant should not be discharged on filing a common appearance; and now Ingerfoll and E. Tilghman shewed cause, produced the bills of exchange, and the Plaintiff's positive affidavit of a subsisting debt, including a declaration.</p>\n<p>The Counsel for the Defendant were stopped when they rose to reply; and THE COURT were unanimously and clearly of opinion, that the contract was made on account of the government; that the credit was given to it as an official engagement; and that, therefore, there was no cause of action against the present Defendant.</p>\n<p>The rule was, accordingly, made absolute; and the Plaintiff soon afterwards discontinued the action.</p>\n</div>", "html_with_citations": "", "id": 2219671, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2219671/", "sha1": "93a912b445bec98906162048c0dbc5451dd3682a", "source": "L", "time_retrieved": "2013-10-30T01:39:18.541074"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "3 U.S. 384", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2219671/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jones v. Le Tombe", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2192442, 
+    "resource_uri": "/api/rest/v2/citation/2192442/"
+  }, 
+  "id": 2219671, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1798-02-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>3 U.S. 384 (____)</b></center>\n<center><b>3 Dall. 384</b></center>\n<center><h1>JONES, Indorsee,<br>\nversus<br>\nLE TOMBE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*385</span> At the opening of the Term, Dallas and Du Ponceau had obtained a rule, that the Plaintiff shew his cause of action, and why the Defendant should not be discharged on filing a common appearance; and now Ingerfoll and E. Tilghman shewed cause, produced the bills of exchange, and the Plaintiff's positive affidavit of a subsisting debt, including a declaration.</p>\n<p>The Counsel for the Defendant were stopped when they rose to reply; and THE COURT were unanimously and clearly of opinion, that the contract was made on account of the government; that the credit was given to it as an official engagement; and that, therefore, there was no cause of action against the present Defendant.</p>\n<p>The rule was, accordingly, made absolute; and the Plaintiff soon afterwards discontinued the action.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T01:39:18.541074", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "93a912b445bec98906162048c0dbc5451dd3682a", 
+  "date_modified": "2014-10-30T14:23:45.423036", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2219671/jones-v-le-tombe/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2033448/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2219671/"
+}

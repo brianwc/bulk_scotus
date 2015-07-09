@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/91540/wells-and-others-v-wilkins/", "blocked": false, "citation": {"case_name": "Wells and Others v. Wilkins", "docket_number": null, "document_uris": ["/api/rest/v2/document/91540/"], "federal_cite_one": "116 U.S. 393", "federal_cite_three": null, "federal_cite_two": null, "id": 75920, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/75920/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1886-01-11", "date_modified": "2014-12-21T01:30:02.916555", "docket": "/api/rest/v2/docket/2042168/", "download_url": "http://bulk.resource.org/courts.gov/c/US/116/116.US.393.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">6 S.Ct. 600</p>\n    <p class=\"case_cite\">116 U.S. 393</p>\n    <p class=\"case_cite\">29 L.Ed. 671</p>\n    <p class=\"parties\">WELLS and others<br>v.<br>WILKINS.</p>\n    <p class=\"date\">Filed January 11, 1886.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>J. D. Thompson</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>C. C. Yonge, Sr.</i>, for defendant in error</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">These are suits in ejectment, each for a separate and distinct part of a lot in Pensacola. A judgment was rendered in each case for the recovery of the premises sued for in that case. Neither the pleadings nor the evidence found in the records show the value of the property, but on suing out the writs of error the plaintiffs in error in each case filed two affidavits to the effect that the value was more than $5,000. Since the cases were docketed here, however, the defendant in error has filed counter-affidavits which prove beyond all doubt that this is a mistake, and that the value in every one of the cases in very much less than our jurisdictional limit.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The writs of error are consequently all dismissed for want of jurisdiction.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\">6 S.Ct. 600</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">116</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">393</span></span></p>\n    <p class=\"case_cite\">29 L.Ed. 671</p>\n    <p class=\"parties\">WELLS and others<br>v.<br>WILKINS.</p>\n    <p class=\"date\">Filed January 11, 1886.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>J. D. Thompson</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>C. C. Yonge, Sr.</i>, for defendant in error</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">These are suits in ejectment, each for a separate and distinct part of a lot in Pensacola. A judgment was rendered in each case for the recovery of the premises sued for in that case. Neither the pleadings nor the evidence found in the records show the value of the property, but on suing out the writs of error the plaintiffs in error in each case filed two affidavits to the effect that the value was more than $5,000. Since the cases were docketed here, however, the defendant in error has filed counter-affidavits which prove beyond all doubt that this is a mistake, and that the value in every one of the cases in very much less than our jurisdictional limit.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The writs of error are consequently all dismissed for want of jurisdiction.</p>\n    </div>\n    ", "id": 91540, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/91540/", "sha1": "40c8993901b29cfee0c548684a79bfe6b60c1e60", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:03:23"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "116 U.S. 393", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/91540/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Wells and Others v. Wilkins", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 75920, 
+    "resource_uri": "/api/rest/v2/citation/75920/"
+  }, 
+  "id": 91540, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1886-01-11", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/116/116.US.393.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:03:23", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\">6 S.Ct. 600</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">116</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">393</span></span></p>\n    <p class=\"case_cite\">29 L.Ed. 671</p>\n    <p class=\"parties\">WELLS and others<br>v.<br>WILKINS.</p>\n    <p class=\"date\">Filed January 11, 1886.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>J. D. Thompson</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>C. C. Yonge, Sr.</i>, for defendant in error</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">These are suits in ejectment, each for a separate and distinct part of a lot in Pensacola. A judgment was rendered in each case for the recovery of the premises sued for in that case. Neither the pleadings nor the evidence found in the records show the value of the property, but on suing out the writs of error the plaintiffs in error in each case filed two affidavits to the effect that the value was more than $5,000. Since the cases were docketed here, however, the defendant in error has filed counter-affidavits which prove beyond all doubt that this is a mistake, and that the value in every one of the cases in very much less than our jurisdictional limit.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The writs of error are consequently all dismissed for want of jurisdiction.</p>\n    </div>\n    ", 
+  "sha1": "40c8993901b29cfee0c548684a79bfe6b60c1e60", 
+  "date_modified": "2014-12-21T01:30:02.916555", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/91540/wells-and-others-v-wilkins/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2042168/", 
+  "html": "<p class=\"case_cite\">6 S.Ct. 600</p>\n    <p class=\"case_cite\">116 U.S. 393</p>\n    <p class=\"case_cite\">29 L.Ed. 671</p>\n    <p class=\"parties\">WELLS and others<br>v.<br>WILKINS.</p>\n    <p class=\"date\">Filed January 11, 1886.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>J. D. Thompson</i>, for plaintiffs in error.</p>\n      <p class=\"indent\"><i>C. C. Yonge, Sr.</i>, for defendant in error</p>\n      <p class=\"indent\">WAITE, C. J.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">These are suits in ejectment, each for a separate and distinct part of a lot in Pensacola. A judgment was rendered in each case for the recovery of the premises sued for in that case. Neither the pleadings nor the evidence found in the records show the value of the property, but on suing out the writs of error the plaintiffs in error in each case filed two affidavits to the effect that the value was more than $5,000. Since the cases were docketed here, however, the defendant in error has filed counter-affidavits which prove beyond all doubt that this is a mistake, and that the value in every one of the cases in very much less than our jurisdictional limit.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The writs of error are consequently all dismissed for want of jurisdiction.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/91540/"
+}

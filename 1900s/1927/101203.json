@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/101203/finkelstein-kommel-petitioners-v-the-united/", "blocked": false, "citation": {"case_name": "Finkelstein & Kommel v. The United States", "docket_number": "346", "document_uris": ["/api/rest/v2/document/101203/"], "federal_cite_one": "275 U.S. 501", "federal_cite_three": null, "federal_cite_two": null, "id": 85586, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/85586/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1927-12-12", "date_modified": "2014-12-21T01:38:27.688250", "docket": "/api/rest/v2/docket/2308454/", "download_url": "http://bulk.resource.org/courts.gov/c/US/275/275.US.501.346.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">275 U.S. 501</p>\n    <p class=\"case_cite\">48 S.Ct. 140</p>\n    <p class=\"case_cite\">72 L.Ed. 394</p>\n    <p class=\"parties\">FINKELSTEIN &amp; KOMMEL, petitioners,<br>v.<br>The UNITED STATES.</p>\n    <p class=\"docket\">No. 346.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 28, 1927</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick W. Brooks, Jr., of New York City, for petitioners.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of the United States v. Fish, 268 U. S. 607, 612, 45 S. Ct. 616, 69 L. Ed. 1112; the decision being that section 489 of the Tariff Act of 1922 (c. 356, 42 Stat. 858, 962 (19 USCA &#167; 361) does not forbid the Customs Court to adopt rules of practice permitting the filing of such petitions before liquidation, that it has jurisdiction to consider petitions so filed, and its decision in this case granting the petition was not ineffective for want of jurisdiction.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">275</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">501</span></span></p>\n    <p class=\"case_cite\">48 S.Ct. 140</p>\n    <p class=\"case_cite\">72 L.Ed. 394</p>\n    <p class=\"parties\">FINKELSTEIN &amp; KOMMEL, petitioners,<br>v.<br>The UNITED STATES.</p>\n    <p class=\"docket\">No. 346.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 28, 1927</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick W. Brooks, Jr., of New York City, for petitioners.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of the United States v. Fish, 268 U. S. 607, 612, <span class=\"citation\" data-id=\"100700\"><a href=\"/opinion/100700/united-states-v-fish/\"><span class=\"volume\">45</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">616</span></a></span>, 69 L. Ed. 1112; the decision being that section 489 of the Tariff Act of 1922 (c. 356, 42 Stat. 858, 962 (19 USCA &#167; 361) does not forbid the Customs Court to adopt rules of practice permitting the filing of such petitions before liquidation, that it has jurisdiction to consider petitions so filed, and its decision in this case granting the petition was not ineffective for want of jurisdiction.</p>\n    </div>\n    ", "id": 101203, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/101203/", "sha1": "10b7d660b2b4ed0ddf7c5cfee7214247c2074077", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:48:43"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "275 U.S. 501", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/101203/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Finkelstein & Kommel v. The United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "346", 
+    "id": 85586, 
+    "resource_uri": "/api/rest/v2/citation/85586/"
+  }, 
+  "id": 101203, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1927-12-12", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/275/275.US.501.346.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:48:43", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">275</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">501</span></span></p>\n    <p class=\"case_cite\">48 S.Ct. 140</p>\n    <p class=\"case_cite\">72 L.Ed. 394</p>\n    <p class=\"parties\">FINKELSTEIN &amp; KOMMEL, petitioners,<br>v.<br>The UNITED STATES.</p>\n    <p class=\"docket\">No. 346.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 28, 1927</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick W. Brooks, Jr., of New York City, for petitioners.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of the United States v. Fish, 268 U. S. 607, 612, <span class=\"citation\" data-id=\"100700\"><a href=\"/opinion/100700/united-states-v-fish/\"><span class=\"volume\">45</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">616</span></a></span>, 69 L. Ed. 1112; the decision being that section 489 of the Tariff Act of 1922 (c. 356, 42 Stat. 858, 962 (19 USCA &#167; 361) does not forbid the Customs Court to adopt rules of practice permitting the filing of such petitions before liquidation, that it has jurisdiction to consider petitions so filed, and its decision in this case granting the petition was not ineffective for want of jurisdiction.</p>\n    </div>\n    ", 
+  "sha1": "10b7d660b2b4ed0ddf7c5cfee7214247c2074077", 
+  "date_modified": "2014-12-21T01:38:27.688250", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/101203/finkelstein-kommel-petitioners-v-the-united/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2308454/", 
+  "html": "<p class=\"case_cite\">275 U.S. 501</p>\n    <p class=\"case_cite\">48 S.Ct. 140</p>\n    <p class=\"case_cite\">72 L.Ed. 394</p>\n    <p class=\"parties\">FINKELSTEIN &amp; KOMMEL, petitioners,<br>v.<br>The UNITED STATES.</p>\n    <p class=\"docket\">No. 346.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 28, 1927</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Frederick W. Brooks, Jr., of New York City, for petitioners.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of the United States v. Fish, 268 U. S. 607, 612, 45 S. Ct. 616, 69 L. Ed. 1112; the decision being that section 489 of the Tariff Act of 1922 (c. 356, 42 Stat. 858, 962 (19 USCA &#167; 361) does not forbid the Customs Court to adopt rules of practice permitting the filing of such petitions before liquidation, that it has jurisdiction to consider petitions so filed, and its decision in this case granting the petition was not ineffective for want of jurisdiction.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/101203/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2421309/davies-v-corbin/", "blocked": false, "citation": {"case_name": "Davies v. Corbin", "docket_number": null, "document_uris": ["/api/rest/v2/document/2421309/"], "federal_cite_one": "113 U.S. 687", "federal_cite_three": null, "federal_cite_two": null, "id": 2394081, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2394081/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1885-03-18", "date_modified": "2014-10-30T17:46:28.635097", "docket": "/api/rest/v2/docket/2570857/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>113 U.S. 687 (1885)</b></center>\n<center><h1>DAVIES<br>\nv.<br>\nCORBIN &amp; Another.<br>\nGAINES<br>\nv.<br>\nCORBIN &amp; Another.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 3, 1885.</center>\n<center>Decided March 18, 1885.</center>\nIN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF ARKANSAS.\n<p><i>Mr. W. Hallett Phillips,</i> with whom were <i>Messrs. B.C. Brown, E.W. Kimball</i> and <i>C.P. Redmond,</i> for the motions.</p>\n<p><i>Mr. A.H. Garland</i> opposing.</p>\n<p><span class=\"star-pagination\">*688</span> MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>This is the second time a motion has been made to dismiss the case of <i>Davies</i> v. <i>Corbin.</i> The ground of the present motion is that the security required by § 1000 Rev. Stat. has never been given. Against this it is shown that a supersedeas bond was accepted by the judge who signed the citation on the 8th of April, 1884. The judgment brought under review by the writ of error was rendered on the 11th of February, 1884. The writ of error was sued out and served on the 7th of March, in the same year, and the citation was also signed and served on that day. The cause was duly docketed in this court by the defendant in error on the 22d of March, in advance of the return day of the writ. On the same day the defendant in error filed his motion to dismiss for other reasons than that now relied on. The plaintiff in error was notified that the motion would be presented to the court on the 14th of April. When the motion was filed the security had not been given, but before the time fixed for hearing it was tendered in proper form <span class=\"star-pagination\">*689</span> and accepted. Early in the present term that motion was overruled.</p>\n<p>The docketing of the cause by the defendant in error in advance of the return day of the writ did not prevent the plaintiff in error from doing what was necessary while the writ was in life to give it full effect. The present motion to dismiss is, therefore, overruled.</p>\n<p>The original rule allowing a motion to affirm to be united with a motion to dismiss was promulgated May 8, 1876, 91 U.S. VII., and in <i>Whitney</i> v. <i>Cook,</i> 99 U.S. 607, decided during the October Term, 1878, it was ruled that the motion to affirm could not be entertained unless there appeared on the record at least some color of right to a dismissal. This practice has been steadily adhered to ever since, and, in our opinion, prevents our entertaining the motion to affirm in this case. That motion is consequently</p>\n<p><i>Denied.</i></p>\n<p>In <i>Gaines</i> v. <i>Corbin and Another,</i> there is a motion to dismiss, with which is united a motion to affirm.</p>\n<p>These motions are denied. There is not sufficient color of right to a dismissal to make it proper for us to entertain a motion to affirm.</p>\n</div>", "html_with_citations": "", "id": 2421309, "judges": "Waite", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2421309/", "sha1": "a3b67847c2a0acb5140be5185827b082f526b64d", "source": "L", "time_retrieved": "2013-10-30T02:28:48.956778"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "113 U.S. 687", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2421309/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Davies v. Corbin", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2394081, 
+    "resource_uri": "/api/rest/v2/citation/2394081/"
+  }, 
+  "id": 2421309, 
+  "blocked": false, 
+  "judges": "Waite", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1885-03-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>113 U.S. 687 (1885)</b></center>\n<center><h1>DAVIES<br>\nv.<br>\nCORBIN &amp; Another.<br>\nGAINES<br>\nv.<br>\nCORBIN &amp; Another.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 3, 1885.</center>\n<center>Decided March 18, 1885.</center>\nIN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF ARKANSAS.\n<p><i>Mr. W. Hallett Phillips,</i> with whom were <i>Messrs. B.C. Brown, E.W. Kimball</i> and <i>C.P. Redmond,</i> for the motions.</p>\n<p><i>Mr. A.H. Garland</i> opposing.</p>\n<p><span class=\"star-pagination\">*688</span> MR. CHIEF JUSTICE WAITE delivered the opinion of the court.</p>\n<p>This is the second time a motion has been made to dismiss the case of <i>Davies</i> v. <i>Corbin.</i> The ground of the present motion is that the security required by \u00a7 1000 Rev. Stat. has never been given. Against this it is shown that a supersedeas bond was accepted by the judge who signed the citation on the 8th of April, 1884. The judgment brought under review by the writ of error was rendered on the 11th of February, 1884. The writ of error was sued out and served on the 7th of March, in the same year, and the citation was also signed and served on that day. The cause was duly docketed in this court by the defendant in error on the 22d of March, in advance of the return day of the writ. On the same day the defendant in error filed his motion to dismiss for other reasons than that now relied on. The plaintiff in error was notified that the motion would be presented to the court on the 14th of April. When the motion was filed the security had not been given, but before the time fixed for hearing it was tendered in proper form <span class=\"star-pagination\">*689</span> and accepted. Early in the present term that motion was overruled.</p>\n<p>The docketing of the cause by the defendant in error in advance of the return day of the writ did not prevent the plaintiff in error from doing what was necessary while the writ was in life to give it full effect. The present motion to dismiss is, therefore, overruled.</p>\n<p>The original rule allowing a motion to affirm to be united with a motion to dismiss was promulgated May 8, 1876, 91 U.S. VII., and in <i>Whitney</i> v. <i>Cook,</i> 99 U.S. 607, decided during the October Term, 1878, it was ruled that the motion to affirm could not be entertained unless there appeared on the record at least some color of right to a dismissal. This practice has been steadily adhered to ever since, and, in our opinion, prevents our entertaining the motion to affirm in this case. That motion is consequently</p>\n<p><i>Denied.</i></p>\n<p>In <i>Gaines</i> v. <i>Corbin and Another,</i> there is a motion to dismiss, with which is united a motion to affirm.</p>\n<p>These motions are denied. There is not sufficient color of right to a dismissal to make it proper for us to entertain a motion to affirm.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:28:48.956778", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a3b67847c2a0acb5140be5185827b082f526b64d", 
+  "date_modified": "2014-10-30T17:46:28.635097", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2421309/davies-v-corbin/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2570857/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2421309/"
+}

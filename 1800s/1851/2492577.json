@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2492577/williams-trustee-v-oliver/", "blocked": false, "citation": {"case_name": "Williams, Trustee v. Oliver", "docket_number": null, "document_uris": ["/api/rest/v2/document/2492577/"], "federal_cite_one": "53 U.S. 125", "federal_cite_three": null, "federal_cite_two": null, "id": 2465349, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2465349/", "scotus_early_cite": "12 How. 125", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1851-12-24", "date_modified": "2014-10-30T09:07:52.618027", "docket": "/api/rest/v2/docket/1359227/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>53 U.S. 125 (1851)</b></center>\n<center><b>12 How. 125</b></center>\n<center><h1>NATHANIEL WILLIAMS, AS PERMANENT TRUSTEE FOR THE CREDITORS OF JOHN GOODING, AN INSOLVENT DEBTOR,<br>\nv.<br>\nCHARLES OLIVER, ROBERT M. GIBBES, AND THOMAS OLIVER, EXECUTORS OF ROBERT OLIVER, AND JOHN GLENN AND DAVID M. PERRINE, TRUSTEES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*126</span> Mr. Justice NELSON delivered the opinion of the court.</p>\n<p>This case involves the same principles as the case of Williams, permanent Trustee of James Williams, already decided; and we refer to the opinion there delivered for our decision in this case.</p>\n<p>The case is dismissed for want of jurisdiction.</p>\n<p></p>\n<h2>Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the Court of Appeals of the State of Maryland for the Western Shore, and was argued by counsel. On consideration whereof, it is now here ordered and adjudged by this court, that this cause be, and the same is hereby, dismissed, for the want of jurisdiction.</p>\n</div>", "html_with_citations": "", "id": 2492577, "judges": "Nelson", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2492577/", "sha1": "0c5e13ab968b589f7734439adcbfbb2ebc945fad", "source": "L", "time_retrieved": "2013-10-30T02:54:58.364514"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "53 U.S. 125", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2492577/"
+    ], 
+    "scotus_early_cite": "12 How. 125", 
+    "case_name": "Williams, Trustee v. Oliver", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2465349, 
+    "resource_uri": "/api/rest/v2/citation/2465349/"
+  }, 
+  "id": 2492577, 
+  "blocked": false, 
+  "judges": "Nelson", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1851-12-24", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>53 U.S. 125 (1851)</b></center>\n<center><b>12 How. 125</b></center>\n<center><h1>NATHANIEL WILLIAMS, AS PERMANENT TRUSTEE FOR THE CREDITORS OF JOHN GOODING, AN INSOLVENT DEBTOR,<br>\nv.<br>\nCHARLES OLIVER, ROBERT M. GIBBES, AND THOMAS OLIVER, EXECUTORS OF ROBERT OLIVER, AND JOHN GLENN AND DAVID M. PERRINE, TRUSTEES.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*126</span> Mr. Justice NELSON delivered the opinion of the court.</p>\n<p>This case involves the same principles as the case of Williams, permanent Trustee of James Williams, already decided; and we refer to the opinion there delivered for our decision in this case.</p>\n<p>The case is dismissed for want of jurisdiction.</p>\n<p></p>\n<h2>Order.</h2>\n<p>This cause came on to be heard on the transcript of the record from the Court of Appeals of the State of Maryland for the Western Shore, and was argued by counsel. On consideration whereof, it is now here ordered and adjudged by this court, that this cause be, and the same is hereby, dismissed, for the want of jurisdiction.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:54:58.364514", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0c5e13ab968b589f7734439adcbfbb2ebc945fad", 
+  "date_modified": "2014-10-30T09:07:52.618027", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2492577/williams-trustee-v-oliver/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1359227/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2492577/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/138577/williams-v-illinois/", "blocked": false, "citation": {"case_name": "Williams v. Illinois", "docket_number": "03-11018", "document_uris": ["/api/rest/v2/document/138577/"], "federal_cite_one": "543 U.S. 864", "federal_cite_three": null, "federal_cite_two": null, "id": 122930, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/122930/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-10-04", "date_modified": "2014-12-21T02:20:42.917628", "docket": "/api/rest/v2/docket/1475565/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.864.03-11018.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 864</p>\n    <p class=\"parties\">WILLIAMS<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 03-11018.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ill. Certiorari denied. Reported below: 209 Ill. 2d 227, 807 N. E. 2d 448.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">864</span></span></p>\n    <p class=\"parties\">WILLIAMS<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 03-11018.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ill. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1991318\"><a href=\"/opinion/1991318/people-v-williams/\"><span class=\"volume\">209</span> <span class=\"reporter\">Ill. 2d</span> <span class=\"page\">227</span></a></span>, 807 N. E. 2d 448.</p>\n    </div>\n    ", "id": 138577, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/138577/", "sha1": "c9c4ad0549d45c3664127c0cbfd6b2e8ec98597d", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:32:29"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 864", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/138577/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Williams v. Illinois", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-11018", 
+    "id": 122930, 
+    "resource_uri": "/api/rest/v2/citation/122930/"
+  }, 
+  "id": 138577, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.864.03-11018.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:32:29", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">864</span></span></p>\n    <p class=\"parties\">WILLIAMS<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 03-11018.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ill. Certiorari denied. Reported below: <span class=\"citation\" data-id=\"1991318\"><a href=\"/opinion/1991318/people-v-williams/\"><span class=\"volume\">209</span> <span class=\"reporter\">Ill. 2d</span> <span class=\"page\">227</span></a></span>, 807 N. E. 2d 448.</p>\n    </div>\n    ", 
+  "sha1": "c9c4ad0549d45c3664127c0cbfd6b2e8ec98597d", 
+  "date_modified": "2014-12-21T02:20:42.917628", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/138577/williams-v-illinois/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1475565/", 
+  "html": "<p class=\"case_cite\">543 U.S. 864</p>\n    <p class=\"parties\">WILLIAMS<br>v.<br>ILLINOIS.</p>\n    <p class=\"docket\">No. 03-11018.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Ill. Certiorari denied. Reported below: 209 Ill. 2d 227, 807 N. E. 2d 448.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/138577/"
+}

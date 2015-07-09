@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087809/fannon-v-united-states/", "blocked": false, "citation": {"case_name": "Fannon v. United States", "docket_number": "1274, Misc", "document_uris": ["/api/rest/v2/document/1087809/"], "federal_cite_one": "394 U.S. 457", "federal_cite_three": null, "federal_cite_two": null, "id": 1060580, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060580/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-04-01", "date_modified": "2014-10-30T10:54:04.037692", "docket": "/api/rest/v2/docket/1587794/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>394 U.S. 457 (1969)</b></center>\n<center><h1>FANNON<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 1274, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 1, 1969.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>John J. Cleary</i> for petitioner.</p>\n<p><i>Solicitor General Griswold, Assistant Attorney General Wilson, Beatrice Rosenberg,</i> and <i>Mervyn Hamburg</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion to supplement the record is granted. The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of Illinois for further consideration in light of <i>Alderman</i> v. <i>United States, ante,</i> p. 165.</p>\n<p>MR. JUSTICE BLACK dissents.</p>\n</div>", "html_with_citations": "", "id": 1087809, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087809/", "sha1": "d45a60788c46dbd97a8f65235c27b93cf34d1ec7", "source": "L", "time_retrieved": "2013-10-29T19:45:10.839638"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "394 U.S. 457", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087809/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Fannon v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1274, Misc", 
+    "id": 1060580, 
+    "resource_uri": "/api/rest/v2/citation/1060580/"
+  }, 
+  "id": 1087809, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>394 U.S. 457 (1969)</b></center>\n<center><h1>FANNON<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 1274, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 1, 1969.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>John J. Cleary</i> for petitioner.</p>\n<p><i>Solicitor General Griswold, Assistant Attorney General Wilson, Beatrice Rosenberg,</i> and <i>Mervyn Hamburg</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The motion to supplement the record is granted. The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States District Court for the Northern District of Illinois for further consideration in light of <i>Alderman</i> v. <i>United States, ante,</i> p. 165.</p>\n<p>MR. JUSTICE BLACK dissents.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:45:10.839638", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d45a60788c46dbd97a8f65235c27b93cf34d1ec7", 
+  "date_modified": "2014-10-30T10:54:04.037692", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087809/fannon-v-united-states/", 
+  "citation_count": 7, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1587794/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087809/"
+}

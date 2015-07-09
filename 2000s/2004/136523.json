@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136523/in-re-disbarment-of-gallagher-no-d-2371/", "blocked": false, "citation": {"case_name": "In Re Disbarment of Gallagher. No. D-2371", "docket_number": null, "document_uris": ["/api/rest/v2/document/136523/"], "federal_cite_one": "541 U.S. 1061", "federal_cite_three": null, "federal_cite_two": null, "id": 120876, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120876/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-05-24", "date_modified": "2014-12-21T02:20:09.664055", "docket": "/api/rest/v2/docket/599777/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1061_2.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1061</p>\n    <p class=\"parties\">IN RE DISBARMENT OF GALLAGHER.<br>No. D-2371.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Disbarment entered. [For earlier order herein, see <i>ante,</i> p. 932.]</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1061</span></span></p>\n    <p class=\"parties\">IN RE DISBARMENT OF GALLAGHER.<br>No. D-2371.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Disbarment entered. [For earlier order herein, see <i>ante,</i> p. 932.]</p>\n    </div>\n    ", "id": 136523, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136523/", "sha1": "5d439caacda4282f1e3ec973381b15618e32dee5", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:48"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1061", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136523/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "In Re Disbarment of Gallagher. No. D-2371", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 120876, 
+    "resource_uri": "/api/rest/v2/citation/120876/"
+  }, 
+  "id": 136523, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-05-24", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1061_2.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:48", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1061</span></span></p>\n    <p class=\"parties\">IN RE DISBARMENT OF GALLAGHER.<br>No. D-2371.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Disbarment entered. [For earlier order herein, see <i>ante,</i> p. 932.]</p>\n    </div>\n    ", 
+  "sha1": "5d439caacda4282f1e3ec973381b15618e32dee5", 
+  "date_modified": "2014-12-21T02:20:09.664055", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136523/in-re-disbarment-of-gallagher-no-d-2371/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/599777/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1061</p>\n    <p class=\"parties\">IN RE DISBARMENT OF GALLAGHER.<br>No. D-2371.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 24, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Disbarment entered. [For earlier order herein, see <i>ante,</i> p. 932.]</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136523/"
+}

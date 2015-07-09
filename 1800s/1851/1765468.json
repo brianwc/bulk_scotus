@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1765468/phillips-v-preston/", "blocked": false, "citation": {"case_name": "Phillips v. Preston", "docket_number": null, "document_uris": ["/api/rest/v2/document/1765468/"], "federal_cite_one": "52 U.S. 294", "federal_cite_three": null, "federal_cite_two": null, "id": 1738239, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1738239/", "scotus_early_cite": "11 How. 294", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1851-02-19", "date_modified": "2014-10-30T17:33:50.665996", "docket": "/api/rest/v2/docket/2529952/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>52 U.S. 294 (____)</b></center>\n<center><b>11 How. 294</b></center>\n<center><h1>GEORGE W. PHILLIPS, PLAINTIFF IN ERROR,<br>\nv.<br>\nJOHN S. PRESTON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>THIS cause came on to be heard on the transcript of the record from the Circuit Court of the United States for the Eastern District of Louisiana. And it appearing to the court here that, upon the suggestion of the death of the plaintiff in error by his counsel, leave was granted by this court to make the representatives of the deceased parties at a prior term of this court, to wit, at December term, 1846, and that the proper representatives have not yet been made, it is thereupon now here ordered and adjudged by this court, that this writ of error be, and the same is hereby, abated, and that this cause be, and the same is hereby, remanded to the said Circuit Court, to be proceeded in according to law and justice.</p>\n</div>", "html_with_citations": "", "id": 1765468, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1765468/", "sha1": "3b03fabd0fe9ec74ad30152d04b378e1ff06cba2", "source": "L", "time_retrieved": "2013-10-30T00:20:53.300006"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "52 U.S. 294", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1765468/"
+    ], 
+    "scotus_early_cite": "11 How. 294", 
+    "case_name": "Phillips v. Preston", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1738239, 
+    "resource_uri": "/api/rest/v2/citation/1738239/"
+  }, 
+  "id": 1765468, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1851-02-19", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>52 U.S. 294 (____)</b></center>\n<center><b>11 How. 294</b></center>\n<center><h1>GEORGE W. PHILLIPS, PLAINTIFF IN ERROR,<br>\nv.<br>\nJOHN S. PRESTON.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>THIS cause came on to be heard on the transcript of the record from the Circuit Court of the United States for the Eastern District of Louisiana. And it appearing to the court here that, upon the suggestion of the death of the plaintiff in error by his counsel, leave was granted by this court to make the representatives of the deceased parties at a prior term of this court, to wit, at December term, 1846, and that the proper representatives have not yet been made, it is thereupon now here ordered and adjudged by this court, that this writ of error be, and the same is hereby, abated, and that this cause be, and the same is hereby, remanded to the said Circuit Court, to be proceeded in according to law and justice.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:20:53.300006", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "3b03fabd0fe9ec74ad30152d04b378e1ff06cba2", 
+  "date_modified": "2014-10-30T17:33:50.665996", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1765468/phillips-v-preston/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2529952/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1765468/"
+}

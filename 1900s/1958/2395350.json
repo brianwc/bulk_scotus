@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2395350/columbia-broacasting-system-inc-v-loews-inc/", "blocked": false, "citation": {"case_name": "Columbia Broacasting System, Inc. v. Loew's Inc.", "docket_number": "90", "document_uris": ["/api/rest/v2/document/2395350/"], "federal_cite_one": "356 U.S. 43", "federal_cite_three": "2 L. Ed. 2d 583", "federal_cite_two": "78 S. Ct. 667", "id": 2368122, "lexis_cite": "1958 U.S. LEXIS 1355", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2368122/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 19, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1958-03-17", "date_modified": "2014-12-21T11:18:39.569151", "docket": "/api/rest/v2/docket/2574822/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>356 U.S. 43 (1958)</b></center>\n<center><h1>COLUMBIA BROADCASTING SYSTEM, INC., ET AL.<br>\nv.<br>\nLOEW'S INC. ET AL.</h1></center>\n<center>No. 90.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 29, 1958.</center>\n<center>Decided March 17, 1958.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>W. B. Carman</i> argued the cause for petitioners. With him on the brief were <i>Homer I. Mitchell, Warren M. Christopher, Loyd Wright</i> and <i>Dudley K. Wright.</i></p>\n<p><i>Herman F. Selvin</i> argued the cause for respondents. With him on the brief was <i>Joseph P. Loeb.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE DOUGLAS took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 2395350, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2395350/", "sha1": "914efe7c54d03e7f0d0680c5982ae996d17e8599", "source": "L", "supreme_court_db_id": "1957-069", "time_retrieved": "2013-10-30T02:21:01.227583"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "356 U.S. 43", 
+    "federal_cite_two": "78 S. Ct. 667", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "2 L. Ed. 2d 583", 
+    "lexis_cite": "1958 U.S. LEXIS 1355", 
+    "document_uris": [
+      "/api/rest/v2/document/2395350/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Columbia Broacasting System, Inc. v. Loew's Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "90", 
+    "id": 2368122, 
+    "resource_uri": "/api/rest/v2/citation/2368122/"
+  }, 
+  "id": 2395350, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1958-03-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>356 U.S. 43 (1958)</b></center>\n<center><h1>COLUMBIA BROADCASTING SYSTEM, INC., ET AL.<br>\nv.<br>\nLOEW'S INC. ET AL.</h1></center>\n<center>No. 90.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued January 29, 1958.</center>\n<center>Decided March 17, 1958.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>W. B. Carman</i> argued the cause for petitioners. With him on the brief were <i>Homer I. Mitchell, Warren M. Christopher, Loyd Wright</i> and <i>Dudley K. Wright.</i></p>\n<p><i>Herman F. Selvin</i> argued the cause for respondents. With him on the brief was <i>Joseph P. Loeb.</i></p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>MR. JUSTICE DOUGLAS took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:21:01.227583", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "914efe7c54d03e7f0d0680c5982ae996d17e8599", 
+  "date_modified": "2014-12-21T11:18:39.569151", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2395350/columbia-broacasting-system-inc-v-loews-inc/", 
+  "citation_count": 19, 
+  "supreme_court_db_id": "1957-069", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2574822/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2395350/"
+}

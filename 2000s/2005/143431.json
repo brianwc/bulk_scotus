@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/143431/brown-v-united-states/", "blocked": false, "citation": {"case_name": "Brown v. United States", "docket_number": "04-8761", "document_uris": ["/api/rest/v2/document/143431/"], "federal_cite_one": "544 U.S. 946", "federal_cite_three": null, "federal_cite_two": null, "id": 127783, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/127783/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-03-28", "date_modified": "2014-12-21T02:21:51.021577", "docket": "/api/rest/v2/docket/2421659/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.946.04-8761.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 946</p>\n    <p class=\"parties\">BROWN<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-8761.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 28, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Reported below: 101 Fed. Appx. 522. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>United States</i> v. <i>Booker,</i> 543 U.S. 220 (2005).</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">946</span></span></p>\n    <p class=\"parties\">BROWN<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-8761.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 28, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Reported below: 101 Fed. Appx. 522. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>United States</i> v. <i>Booker,</i> <span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">220</span></span> (2005).</p>\n    </div>\n    ", "id": 143431, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/143431/", "sha1": "132d2b2063ed0f388a1c6ee3325acfb30ab2251f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:57:07"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 946", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/143431/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Brown v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-8761", 
+    "id": 127783, 
+    "resource_uri": "/api/rest/v2/citation/127783/"
+  }, 
+  "id": 143431, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-03-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.946.04-8761.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:57:07", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">946</span></span></p>\n    <p class=\"parties\">BROWN<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-8761.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 28, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Reported below: 101 Fed. Appx. 522. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>United States</i> v. <i>Booker,</i> <span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">220</span></span> (2005).</p>\n    </div>\n    ", 
+  "sha1": "132d2b2063ed0f388a1c6ee3325acfb30ab2251f", 
+  "date_modified": "2014-12-21T02:21:51.021577", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/143431/brown-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2421659/", 
+  "html": "<p class=\"case_cite\">544 U.S. 946</p>\n    <p class=\"parties\">BROWN<br><i>v.</i><br>UNITED STATES.</p>\n    <p class=\"docket\">No. 04-8761.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 28, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Reported below: 101 Fed. Appx. 522. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>United States</i> v. <i>Booker,</i> 543 U.S. 220 (2005).</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/143431/"
+}

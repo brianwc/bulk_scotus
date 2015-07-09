@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2218550/geyer-v-michel/", "blocked": false, "citation": {"case_name": "Geyer v. Michel", "docket_number": null, "document_uris": ["/api/rest/v2/document/2218550/"], "federal_cite_one": "3 U.S. 285", "federal_cite_three": null, "federal_cite_two": null, "id": 2191321, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2191321/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1796-03-14", "date_modified": "2014-10-30T14:23:45.409025", "docket": "/api/rest/v2/docket/2033447/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>3 U.S. 285 (____)</b></center>\n<center><b>3 Dall. 285</b></center>\n<center><h1>GEYER, et al.<br>\nversus<br>\nMICHEL, et al. and the ship DEN ONZEKEREN.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*296</span> The case was argued, by E. Tilghman and Lewis, for the Plaintiffs in error, and by Ingersoll, Dallas, and Du Ponceau, for the Defendant.</p>\n<p>After consideration, THE COURT were unanimously of opinion, that the decree of the Circuit Court ought to be affirmed; but the Judges did not aslign their reasons.<sup>[*]</sup></p>\n<p>The decree of the Circuit Court affirmed.</p>\n<h2>NOTES</h2>\n<p>[*]  See post. Moodie versus the Phbe Anne.</p>\n\n</div>", "html_with_citations": "", "id": 2218550, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2218550/", "sha1": "04cf32559536f1e3e462743726c297d7ef924185", "source": "L", "time_retrieved": "2013-10-30T01:38:50.055360"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "3 U.S. 285", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2218550/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Geyer v. Michel", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2191321, 
+    "resource_uri": "/api/rest/v2/citation/2191321/"
+  }, 
+  "id": 2218550, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1796-03-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>3 U.S. 285 (____)</b></center>\n<center><b>3 Dall. 285</b></center>\n<center><h1>GEYER, et al.<br>\nversus<br>\nMICHEL, et al. and the ship DEN ONZEKEREN.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*296</span> The case was argued, by E. Tilghman and Lewis, for the Plaintiffs in error, and by Ingersoll, Dallas, and Du Ponceau, for the Defendant.</p>\n<p>After consideration, THE COURT were unanimously of opinion, that the decree of the Circuit Court ought to be affirmed; but the Judges did not aslign their reasons.<sup>[*]</sup></p>\n<p>The decree of the Circuit Court affirmed.</p>\n<h2>NOTES</h2>\n<p>[*]  See post. Moodie versus the Ph\u009cbe Anne.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T01:38:50.055360", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "04cf32559536f1e3e462743726c297d7ef924185", 
+  "date_modified": "2014-10-30T14:23:45.409025", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2218550/geyer-v-michel/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2033447/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2218550/"
+}

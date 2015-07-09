@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/134831/strauss-v-florida/", "blocked": false, "citation": {"case_name": "Strauss v. Florida", "docket_number": "03-8154", "document_uris": ["/api/rest/v2/document/134831/"], "federal_cite_one": "541 U.S. 906", "federal_cite_three": null, "federal_cite_two": null, "id": 119184, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/119184/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-03-08", "date_modified": "2014-12-21T02:19:48.645625", "docket": "/api/rest/v2/docket/2085838/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.906.03-8154.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 906</p>\n    <p class=\"parties\">STRAUSS<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 03-8154.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Dist. Ct. App. Fla., 5th Dist. Certiorari denied. Reported below: 836 So. 2d 1096.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">906</span></span></p>\n    <p class=\"parties\">STRAUSS<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 03-8154.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Dist. Ct. App. Fla., 5th Dist. Certiorari denied. Reported below: 836 So. 2d 1096.</p>\n    </div>\n    ", "id": 134831, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/134831/", "sha1": "c947ed87da171d38658c2ccd6ac8df12419ec2b1", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:13"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 906", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/134831/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Strauss v. Florida", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-8154", 
+    "id": 119184, 
+    "resource_uri": "/api/rest/v2/citation/119184/"
+  }, 
+  "id": 134831, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-03-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.906.03-8154.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:13", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">906</span></span></p>\n    <p class=\"parties\">STRAUSS<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 03-8154.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Dist. Ct. App. Fla., 5th Dist. Certiorari denied. Reported below: 836 So. 2d 1096.</p>\n    </div>\n    ", 
+  "sha1": "c947ed87da171d38658c2ccd6ac8df12419ec2b1", 
+  "date_modified": "2014-12-21T02:19:48.645625", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/134831/strauss-v-florida/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2085838/", 
+  "html": "<p class=\"case_cite\">541 U.S. 906</p>\n    <p class=\"parties\">STRAUSS<br>v.<br>FLORIDA.</p>\n    <p class=\"docket\">No. 03-8154.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 8, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Dist. Ct. App. Fla., 5th Dist. Certiorari denied. Reported below: 836 So. 2d 1096.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/134831/"
+}

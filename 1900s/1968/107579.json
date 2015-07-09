@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107579/national-small-shipments-traffic-conference-inc-v-/", "blocked": false, "citation": {"case_name": "National Small Shipments Traffic Conference, Inc. v. Ringsby Truck Lines, Inc.", "docket_number": "163", "document_uris": ["/api/rest/v2/document/107579/"], "federal_cite_one": "389 U.S. 576", "federal_cite_three": null, "federal_cite_two": null, "id": 91938, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91938/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-01-15", "date_modified": "2014-12-21T01:55:46.822283", "docket": "/api/rest/v2/docket/2564922/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">389 U.S. 576</p>\n    <p class=\"case_cite\">88 S.Ct. 689</p>\n    <p class=\"case_cite\">19 L.Ed.2d 775</p>\n    <p class=\"parties\">NATIONAL SMALL SHIPMENTS TRAFFIC CONFERENCE, INC., et al.<br>v.<br>RINGSBY TRUCK LINES, INC., et al.</p>\n    <p class=\"docket\">No. 163.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1967.</p>\n    <p class=\"date\">January 15, 1968</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Arthur A. Arsham, John J. C. Martin and Max L. Wymore, for appellants.</p>\n      <p class=\"indent\">LeGrand Alf Carlston and Z. L. Pearson, Jr., for appellees.</p>\n      <p class=\"indent\">Solicitor General Griswold, former Solicitor General Marshall and Robert W. Ginnane, for the United States and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS dissents.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice MARSHALL took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>389 U.S. 576 (1968)</b></center>\n<center><h1>NATIONAL SMALL SHIPMENTS TRAFFIC CONFERENCE, INC., ET AL.<br>\nv.<br>\nRINGSBY TRUCK LINES, INC., ET AL.</h1></center>\n<center>No. 163.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO.\n<p><i>Arthur A. Arsham, John J. C. Martin</i> and <i>Max L. Wymore</i> for appellants.</p>\n<p><i>LeGrand Alf Carlston</i> and <i>Z. L. Pearson, Jr.,</i> for appellees.</p>\n<p><i>Solicitor General Griswold,</i> former <i>Solicitor General Marshall</i> and <i>Robert W. Ginnane</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">389</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">576</span></span> (1968)</b></center>\n<center><h1>NATIONAL SMALL SHIPMENTS TRAFFIC CONFERENCE, INC., ET AL.<br>\nv.<br>\nRINGSBY TRUCK LINES, INC., ET AL.</h1></center>\n<center>No. 163.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO.\n<p><i>Arthur A. Arsham, John J. C. Martin</i> and <i>Max L. Wymore</i> for appellants.</p>\n<p><i>LeGrand Alf Carlston</i> and <i>Z. L. Pearson, Jr.,</i> for appellees.</p>\n<p><i>Solicitor General Griswold,</i> former <i>Solicitor General Marshall</i> and <i>Robert W. Ginnane</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", "id": 107579, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107579/", "sha1": "d02ec870336e96988da9e46a759a4318bfbde347", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:09"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "389 U.S. 576", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107579/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "National Small Shipments Traffic Conference, Inc. v. Ringsby Truck Lines, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "163", 
+    "id": 91938, 
+    "resource_uri": "/api/rest/v2/citation/91938/"
+  }, 
+  "id": 107579, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-01-15", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>389 U.S. 576 (1968)</b></center>\n<center><h1>NATIONAL SMALL SHIPMENTS TRAFFIC CONFERENCE, INC., ET AL.<br>\nv.<br>\nRINGSBY TRUCK LINES, INC., ET AL.</h1></center>\n<center>No. 163.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO.\n<p><i>Arthur A. Arsham, John J. C. Martin</i> and <i>Max L. Wymore</i> for appellants.</p>\n<p><i>LeGrand Alf Carlston</i> and <i>Z. L. Pearson, Jr.,</i> for appellees.</p>\n<p><i>Solicitor General Griswold,</i> former <i>Solicitor General Marshall</i> and <i>Robert W. Ginnane</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:09", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">389</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">576</span></span> (1968)</b></center>\n<center><h1>NATIONAL SMALL SHIPMENTS TRAFFIC CONFERENCE, INC., ET AL.<br>\nv.<br>\nRINGSBY TRUCK LINES, INC., ET AL.</h1></center>\n<center>No. 163.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 15, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO.\n<p><i>Arthur A. Arsham, John J. C. Martin</i> and <i>Max L. Wymore</i> for appellants.</p>\n<p><i>LeGrand Alf Carlston</i> and <i>Z. L. Pearson, Jr.,</i> for appellees.</p>\n<p><i>Solicitor General Griswold,</i> former <i>Solicitor General Marshall</i> and <i>Robert W. Ginnane</i> for the United States et al.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "d02ec870336e96988da9e46a759a4318bfbde347", 
+  "date_modified": "2014-12-21T01:55:46.822283", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107579/national-small-shipments-traffic-conference-inc-v-/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2564922/", 
+  "html": "<p class=\"case_cite\">389 U.S. 576</p>\n    <p class=\"case_cite\">88 S.Ct. 689</p>\n    <p class=\"case_cite\">19 L.Ed.2d 775</p>\n    <p class=\"parties\">NATIONAL SMALL SHIPMENTS TRAFFIC CONFERENCE, INC., et al.<br>v.<br>RINGSBY TRUCK LINES, INC., et al.</p>\n    <p class=\"docket\">No. 163.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1967.</p>\n    <p class=\"date\">January 15, 1968</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Arthur A. Arsham, John J. C. Martin and Max L. Wymore, for appellants.</p>\n      <p class=\"indent\">LeGrand Alf Carlston and Z. L. Pearson, Jr., for appellees.</p>\n      <p class=\"indent\">Solicitor General Griswold, former Solicitor General Marshall and Robert W. Ginnane, for the United States and others.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed as moot.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS dissents.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice MARSHALL took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107579/"
+}

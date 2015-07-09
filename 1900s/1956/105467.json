@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105467/leslie-et-al-v-houston-natural-gas-corp/", "blocked": false, "citation": {"case_name": "Leslie v. Houston Natural Gas Corp", "docket_number": "146", "document_uris": ["/api/rest/v2/document/105467/"], "federal_cite_one": "352 U.S. 803", "federal_cite_three": null, "federal_cite_two": null, "id": 89850, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/89850/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1956-10-04", "date_modified": "2014-12-21T01:50:21.881931", "docket": "/api/rest/v2/docket/2387479/", "download_url": "http://bulk.resource.org/courts.gov/c/US/352/352.US.803.146.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">352 U.S. 803</p>\n    <p class=\"case_cite\">77 S.Ct. 20</p>\n    <p class=\"parties\">LESLIE et al.<br>v.<br>HOUSTON NATURAL GAS CORP.</p>\n    <p class=\"docket\">No. 146.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 4, 1956</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Fred W. Moore and Dan Moody, for petitioners.</p>\n      <p class=\"indent\">Mr. Leon Jaworski (Messrs. John C. White and Milton K. Eckert, on the brief), for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">B. H. Gillman, George d. Gibson, C. L. Lambert, L. E. Dykes, D. C. Landwehr, L. B. Wolfe, Harry Pepper, Standard Rendering Co., John G. Taylor, A. M. Lewis and A. N. Lewis as partners, and S. J. Cutaia and Frank Cutaia as partners, J. E. Burleson and George L. Barr are dismissed as parties petitioner herein per stipulation pursuant to Rule 60 of the Rules of this Court. 28 U.S.C.A.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">352</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">803</span></span></p>\n    <p class=\"case_cite\">77 S.Ct. 20</p>\n    <p class=\"parties\">LESLIE et al.<br>v.<br>HOUSTON NATURAL GAS CORP.</p>\n    <p class=\"docket\">No. 146.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 4, 1956</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Fred W. Moore and Dan Moody, for petitioners.</p>\n      <p class=\"indent\">Mr. Leon Jaworski (Messrs. John C. White and Milton K. Eckert, on the brief), for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">B. H. Gillman, George d. Gibson, C. L. Lambert, L. E. Dykes, D. C. Landwehr, L. B. Wolfe, Harry Pepper, Standard Rendering Co., John G. Taylor, A. M. Lewis and A. N. Lewis as partners, and S. J. Cutaia and Frank Cutaia as partners, J. E. Burleson and George L. Barr are dismissed as parties petitioner herein per stipulation pursuant to Rule 60 of the Rules of this Court. 28 U.S.C.A.</p>\n    </div>\n    ", "id": 105467, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105467/", "sha1": "09fd263d59ed77678afb6aef94ea1db6c04986f3", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:32"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "352 U.S. 803", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/105467/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Leslie v. Houston Natural Gas Corp", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "146", 
+    "id": 89850, 
+    "resource_uri": "/api/rest/v2/citation/89850/"
+  }, 
+  "id": 105467, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1956-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/352/352.US.803.146.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:32", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">352</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">803</span></span></p>\n    <p class=\"case_cite\">77 S.Ct. 20</p>\n    <p class=\"parties\">LESLIE et al.<br>v.<br>HOUSTON NATURAL GAS CORP.</p>\n    <p class=\"docket\">No. 146.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 4, 1956</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Fred W. Moore and Dan Moody, for petitioners.</p>\n      <p class=\"indent\">Mr. Leon Jaworski (Messrs. John C. White and Milton K. Eckert, on the brief), for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">B. H. Gillman, George d. Gibson, C. L. Lambert, L. E. Dykes, D. C. Landwehr, L. B. Wolfe, Harry Pepper, Standard Rendering Co., John G. Taylor, A. M. Lewis and A. N. Lewis as partners, and S. J. Cutaia and Frank Cutaia as partners, J. E. Burleson and George L. Barr are dismissed as parties petitioner herein per stipulation pursuant to Rule 60 of the Rules of this Court. 28 U.S.C.A.</p>\n    </div>\n    ", 
+  "sha1": "09fd263d59ed77678afb6aef94ea1db6c04986f3", 
+  "date_modified": "2014-12-21T01:50:21.881931", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105467/leslie-et-al-v-houston-natural-gas-corp/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2387479/", 
+  "html": "<p class=\"case_cite\">352 U.S. 803</p>\n    <p class=\"case_cite\">77 S.Ct. 20</p>\n    <p class=\"parties\">LESLIE et al.<br>v.<br>HOUSTON NATURAL GAS CORP.</p>\n    <p class=\"docket\">No. 146.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 4, 1956</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Fred W. Moore and Dan Moody, for petitioners.</p>\n      <p class=\"indent\">Mr. Leon Jaworski (Messrs. John C. White and Milton K. Eckert, on the brief), for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">B. H. Gillman, George d. Gibson, C. L. Lambert, L. E. Dykes, D. C. Landwehr, L. B. Wolfe, Harry Pepper, Standard Rendering Co., John G. Taylor, A. M. Lewis and A. N. Lewis as partners, and S. J. Cutaia and Frank Cutaia as partners, J. E. Burleson and George L. Barr are dismissed as parties petitioner herein per stipulation pursuant to Rule 60 of the Rules of this Court. 28 U.S.C.A.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105467/"
+}

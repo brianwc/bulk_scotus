@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087815/local-182-international-brotherhood-v-nlrb/", "blocked": false, "citation": {"case_name": "Local 182, International Brotherhood v. NLRB", "docket_number": "958", "document_uris": ["/api/rest/v2/document/1087815/"], "federal_cite_one": "394 U.S. 213", "federal_cite_three": null, "federal_cite_two": null, "id": 1060586, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060586/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-03-10", "date_modified": "2014-10-30T09:10:34.701363", "docket": "/api/rest/v2/docket/1365269/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>394 U.S. 213 (1969)</b></center>\n<center><h1>LOCAL 182, INTERNATIONAL BROTHERHOOD OF TEAMSTERS, CHAUFFEURS, WAREHOUSEMEN &amp; HELPERS OF AMERICA<br>\nv.<br>\nNATIONAL LABOR RELATIONS BOARD.</h1></center>\n<center>No. 958.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 10, 1969.</center>\nAPPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.\n<p><i>John T. Buckley</i> for appellant.</p>\n<p><i>Solicitor General Griswold, Arnold Ordman, Dominick L. Manoli,</i> and <i>Norton J. Come</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1087815, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087815/", "sha1": "8724cae7baca627fa2889c492e7dcf1d0cb5c4ef", "source": "L", "time_retrieved": "2013-10-29T19:45:14.246807"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "394 U.S. 213", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087815/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Local 182, International Brotherhood v. NLRB", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "958", 
+    "id": 1060586, 
+    "resource_uri": "/api/rest/v2/citation/1060586/"
+  }, 
+  "id": 1087815, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-03-10", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>394 U.S. 213 (1969)</b></center>\n<center><h1>LOCAL 182, INTERNATIONAL BROTHERHOOD OF TEAMSTERS, CHAUFFEURS, WAREHOUSEMEN &amp; HELPERS OF AMERICA<br>\nv.<br>\nNATIONAL LABOR RELATIONS BOARD.</h1></center>\n<center>No. 958.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 10, 1969.</center>\nAPPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.\n<p><i>John T. Buckley</i> for appellant.</p>\n<p><i>Solicitor General Griswold, Arnold Ordman, Dominick L. Manoli,</i> and <i>Norton J. Come</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:45:14.246807", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "8724cae7baca627fa2889c492e7dcf1d0cb5c4ef", 
+  "date_modified": "2014-10-30T09:10:34.701363", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087815/local-182-international-brotherhood-v-nlrb/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1365269/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087815/"
+}

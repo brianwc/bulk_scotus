@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/122349/in-re-njai/", "blocked": true, "citation": {"case_name": "In Re N'jai", "docket_number": "01-10417", "document_uris": ["/api/rest/v2/document/122349/"], "federal_cite_one": "537 U.S. 811", "federal_cite_three": null, "federal_cite_two": null, "id": 106702, "lexis_cite": "", "neutral_cite": "", "resource_uri": "/api/rest/v2/citation/106702/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": "2012-10-05", "date_filed": "2002-10-07", "date_modified": "2014-12-21T02:17:30.437750", "docket": "/api/rest/v2/docket/2241839/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.811.01-10417.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 811</p>\r\n    <p class=\"parties\">IN RE N'JAI;</p>\r\n    <p class=\"docket\">No. 01-10417.</p>\r\n    <p class=\"court\">Supreme Court of United States.</p>\r\n    <p class=\"date\">October 7, 2002.</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">ON PETITION FOR WRITS OF MANDAMUS.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writs of mandamus denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">811</span></span></p>\r\n    <p class=\"parties\">IN RE N'JAI;</p>\r\n    <p class=\"docket\">No. 01-10417.</p>\r\n    <p class=\"court\">Supreme Court of United States.</p>\r\n    <p class=\"date\">October 7, 2002.</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">ON PETITION FOR WRITS OF MANDAMUS.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writs of mandamus denied.</p>\r\n    </div>\r\n    ", "id": 122349, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/122349/", "sha1": "4bcdfe2dc745807b2ef788c42d7676e7f0c2c959", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:43"}
+{
+  "date_blocked": "2012-10-05", 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 811", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/122349/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "In Re N'jai", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": "", 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-10417", 
+    "id": 106702, 
+    "resource_uri": "/api/rest/v2/citation/106702/"
+  }, 
+  "id": 122349, 
+  "blocked": true, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.811.01-10417.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:43", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">811</span></span></p>\r\n    <p class=\"parties\">IN RE N'JAI;</p>\r\n    <p class=\"docket\">No. 01-10417.</p>\r\n    <p class=\"court\">Supreme Court of United States.</p>\r\n    <p class=\"date\">October 7, 2002.</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">ON PETITION FOR WRITS OF MANDAMUS.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writs of mandamus denied.</p>\r\n    </div>\r\n    ", 
+  "sha1": "4bcdfe2dc745807b2ef788c42d7676e7f0c2c959", 
+  "date_modified": "2014-12-21T02:17:30.437750", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/122349/in-re-njai/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2241839/", 
+  "html": "<p class=\"case_cite\">537 U.S. 811</p>\r\n    <p class=\"parties\">IN RE N'JAI;</p>\r\n    <p class=\"docket\">No. 01-10417.</p>\r\n    <p class=\"court\">Supreme Court of United States.</p>\r\n    <p class=\"date\">October 7, 2002.</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">ON PETITION FOR WRITS OF MANDAMUS.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writs of mandamus denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/122349/"
+}

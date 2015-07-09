@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/93079/cluett-v-mcneany/", "blocked": false, "citation": {"case_name": "Cluett v. McNeany", "docket_number": "175. Argued with No. 174", "document_uris": ["/api/rest/v2/document/93079/"], "federal_cite_one": "140 U.S. 183", "federal_cite_three": null, "federal_cite_two": null, "id": 77459, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/77459/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1891-05-11", "date_modified": "2014-12-21T01:31:17.263802", "docket": "/api/rest/v2/docket/2560500/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">140 U.S. 183</p>\n    <p class=\"case_cite\">11 S.Ct. 727</p>\n    <p class=\"case_cite\">35 L.Ed. 385</p>\n    <p class=\"parties\">CLUETT et al.<br>v.<br>McNEANY et al.</p>\n    <p class=\"date\">May 11, 1891.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Saml. A. Duncan</i> and <i>James A. Skilton</i>, for appellants.</p>\n      <p class=\"indent\"><i>David Tim</i>, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">As this case also turns upon the validity of the same patent, (Cluett v. Claflin, ante, 725,) the decree of the court below is affirmed.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>140 U.S. 183 (____)</b></center>\n<center><h1>CLUETT<br>\nv.<br>\nMcNEANY.</h1></center>\n<center>No. 175. Argued with No. 174.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\nAppeal from the Circuit Court of the United States for the Southern District of New York;\n<p>Mr. S.A. Duncan and Mr. J.A. Skilton for appellants.</p>\n<p><span class=\"star-pagination\">*184</span> Mr. David Tim for appellees.</p>\n<p>MR. JUSTICE BLATCHFORD did not sit in this case, and took no part in its decision.</p>\n<p>As this case also turns upon the validity of the same patent the decree of the court below is</p>\n<p>Affirmed.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">140</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">183</span></span> (____)</b></center>\n<center><h1>CLUETT<br>\nv.<br>\nMcNEANY.</h1></center>\n<center>No. 175. Argued with No. 174.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\nAppeal from the Circuit Court of the United States for the Southern District of New York;\n<p>Mr. S.A. Duncan and Mr. J.A. Skilton for appellants.</p>\n<p><span class=\"star-pagination\">*184</span> Mr. David Tim for appellees.</p>\n<p>MR. JUSTICE BLATCHFORD did not sit in this case, and took no part in its decision.</p>\n<p>As this case also turns upon the validity of the same patent the decree of the court below is</p>\n<p>Affirmed.</p>\n</div>", "id": 93079, "judges": "Mr. Justice Blatchford Did Not Sit in This Case", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/93079/", "sha1": "fcd7771490ac9423cebe983b60fc81ffafbdd4bb", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:06:49"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "140 U.S. 183", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/93079/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Cluett v. McNeany", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "175. Argued with No. 174", 
+    "id": 77459, 
+    "resource_uri": "/api/rest/v2/citation/77459/"
+  }, 
+  "id": 93079, 
+  "blocked": false, 
+  "judges": "Mr. Justice Blatchford Did Not Sit in This Case", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1891-05-11", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>140 U.S. 183 (____)</b></center>\n<center><h1>CLUETT<br>\nv.<br>\nMcNEANY.</h1></center>\n<center>No. 175. Argued with No. 174.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\nAppeal from the Circuit Court of the United States for the Southern District of New York;\n<p>Mr. S.A. Duncan and Mr. J.A. Skilton for appellants.</p>\n<p><span class=\"star-pagination\">*184</span> Mr. David Tim for appellees.</p>\n<p>MR. JUSTICE BLATCHFORD did not sit in this case, and took no part in its decision.</p>\n<p>As this case also turns upon the validity of the same patent the decree of the court below is</p>\n<p>Affirmed.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:06:49", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">140</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">183</span></span> (____)</b></center>\n<center><h1>CLUETT<br>\nv.<br>\nMcNEANY.</h1></center>\n<center>No. 175. Argued with No. 174.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\nAppeal from the Circuit Court of the United States for the Southern District of New York;\n<p>Mr. S.A. Duncan and Mr. J.A. Skilton for appellants.</p>\n<p><span class=\"star-pagination\">*184</span> Mr. David Tim for appellees.</p>\n<p>MR. JUSTICE BLATCHFORD did not sit in this case, and took no part in its decision.</p>\n<p>As this case also turns upon the validity of the same patent the decree of the court below is</p>\n<p>Affirmed.</p>\n</div>", 
+  "sha1": "fcd7771490ac9423cebe983b60fc81ffafbdd4bb", 
+  "date_modified": "2014-12-21T01:31:17.263802", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/93079/cluett-v-mcneany/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2560500/", 
+  "html": "<p class=\"case_cite\">140 U.S. 183</p>\n    <p class=\"case_cite\">11 S.Ct. 727</p>\n    <p class=\"case_cite\">35 L.Ed. 385</p>\n    <p class=\"parties\">CLUETT et al.<br>v.<br>McNEANY et al.</p>\n    <p class=\"date\">May 11, 1891.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>Saml. A. Duncan</i> and <i>James A. Skilton</i>, for appellants.</p>\n      <p class=\"indent\"><i>David Tim</i>, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">As this case also turns upon the validity of the same patent, (Cluett v. Claflin, ante, 725,) the decree of the court below is affirmed.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/93079/"
+}

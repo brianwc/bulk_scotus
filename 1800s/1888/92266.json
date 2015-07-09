@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/92266/hosford-et-al-v-hartford-fire-ins-co/", "blocked": false, "citation": {"case_name": "Hosford v. Hartford Fire Ins. Co", "docket_number": null, "document_uris": ["/api/rest/v2/document/92266/"], "federal_cite_one": "127 U.S. 404", "federal_cite_three": null, "federal_cite_two": null, "id": 76646, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/76646/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1888-05-14", "date_modified": "2014-12-21T01:30:35.294217", "docket": "/api/rest/v2/docket/2399131/", "download_url": "http://bulk.resource.org/courts.gov/c/US/127/127.US.404.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">8 S.Ct. 1202</p>\n    <p class=\"case_cite\">127 U.S. 404</p>\n    <p class=\"case_cite\">32 L.Ed. 198</p>\n    <p class=\"parties\">HOSFORD <i>et al.</i><br>v.<br>HARTFORD FIRE INS. CO.</p>\n    <p class=\"date\">May 14, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>T. M. Marquett</i> and <i>Isham Reavis</i>, for plaintiffs in error.</p>\n      <p class=\"indent\">Mr. Justice GRAY, after stating the facts as above, delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case I am instructed by the majority of the court to announce its opinion that the warranty concerning incumbrances includes only incumbrances created by the act or with the consent of the assured, and not those created by the law; and therefore the policy was not avoided by the omission to disclose the fact that 'delinquent taxes' on the premises for previous years were due and unpaid, although by the statutes of Nebraska taxes are made a lien on the real estate taxed. Judgment reversed, and case remanded to the circuit court, with directions to render judgment for the plaintiffs upon the special verdict.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\">8 S.Ct. 1202</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">127</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">404</span></span></p>\n    <p class=\"case_cite\">32 L.Ed. 198</p>\n    <p class=\"parties\">HOSFORD <i>et al.</i><br>v.<br>HARTFORD FIRE INS. CO.</p>\n    <p class=\"date\">May 14, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>T. M. Marquett</i> and <i>Isham Reavis</i>, for plaintiffs in error.</p>\n      <p class=\"indent\">Mr. Justice GRAY, after stating the facts as above, delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case I am instructed by the majority of the court to announce its opinion that the warranty concerning incumbrances includes only incumbrances created by the act or with the consent of the assured, and not those created by the law; and therefore the policy was not avoided by the omission to disclose the fact that 'delinquent taxes' on the premises for previous years were due and unpaid, although by the statutes of Nebraska taxes are made a lien on the real estate taxed. Judgment reversed, and case remanded to the circuit court, with directions to render judgment for the plaintiffs upon the special verdict.</p>\n    </div>\n    ", "id": 92266, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/92266/", "sha1": "2ff37325ee76d20c98a1d4a7158bcd8340a9d28e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:05:36"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 U.S. 404", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/92266/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hosford v. Hartford Fire Ins. Co", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 76646, 
+    "resource_uri": "/api/rest/v2/citation/76646/"
+  }, 
+  "id": 92266, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1888-05-14", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/127/127.US.404.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:05:36", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\">8 S.Ct. 1202</p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">127</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">404</span></span></p>\n    <p class=\"case_cite\">32 L.Ed. 198</p>\n    <p class=\"parties\">HOSFORD <i>et al.</i><br>v.<br>HARTFORD FIRE INS. CO.</p>\n    <p class=\"date\">May 14, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>T. M. Marquett</i> and <i>Isham Reavis</i>, for plaintiffs in error.</p>\n      <p class=\"indent\">Mr. Justice GRAY, after stating the facts as above, delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case I am instructed by the majority of the court to announce its opinion that the warranty concerning incumbrances includes only incumbrances created by the act or with the consent of the assured, and not those created by the law; and therefore the policy was not avoided by the omission to disclose the fact that 'delinquent taxes' on the premises for previous years were due and unpaid, although by the statutes of Nebraska taxes are made a lien on the real estate taxed. Judgment reversed, and case remanded to the circuit court, with directions to render judgment for the plaintiffs upon the special verdict.</p>\n    </div>\n    ", 
+  "sha1": "2ff37325ee76d20c98a1d4a7158bcd8340a9d28e", 
+  "date_modified": "2014-12-21T01:30:35.294217", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/92266/hosford-et-al-v-hartford-fire-ins-co/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2399131/", 
+  "html": "<p class=\"case_cite\">8 S.Ct. 1202</p>\n    <p class=\"case_cite\">127 U.S. 404</p>\n    <p class=\"case_cite\">32 L.Ed. 198</p>\n    <p class=\"parties\">HOSFORD <i>et al.</i><br>v.<br>HARTFORD FIRE INS. CO.</p>\n    <p class=\"date\">May 14, 1888.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\"><i>T. M. Marquett</i> and <i>Isham Reavis</i>, for plaintiffs in error.</p>\n      <p class=\"indent\">Mr. Justice GRAY, after stating the facts as above, delivered the opinion of the court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">In this case I am instructed by the majority of the court to announce its opinion that the warranty concerning incumbrances includes only incumbrances created by the act or with the consent of the assured, and not those created by the law; and therefore the policy was not avoided by the omission to disclose the fact that 'delinquent taxes' on the premises for previous years were due and unpaid, although by the statutes of Nebraska taxes are made a lien on the real estate taxed. Judgment reversed, and case remanded to the circuit court, with directions to render judgment for the plaintiffs upon the special verdict.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/92266/"
+}

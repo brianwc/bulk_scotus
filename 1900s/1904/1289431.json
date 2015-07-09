@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1289431/bradley-v-lightcap/", "blocked": false, "citation": {"case_name": "Bradley v. Lightcap", "docket_number": "306", "document_uris": ["/api/rest/v2/document/1289431/"], "federal_cite_one": "195 U.S. 24", "federal_cite_three": null, "federal_cite_two": null, "id": 1262202, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1262202/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1904-05-31", "date_modified": "2014-10-30T17:48:42.894212", "docket": "/api/rest/v2/docket/2578367/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>195 U.S. 24 (1904)</b></center>\n<center><h1>BRADLEY<br>\nv.<br>\nLIGHTCAP. No. 2.</h1></center>\n<center>No. 306.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 21, 1904.</center>\n<center>Decided May 31, 1904.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF ILLINOIS.\n<p><i>Mr. John S. Miller,</i> with whom <i>Mr. Merritt Starr</i> and <i>Mr. W.W. Hammond</i> were on the brief, for plaintiff in error.</p>\n<p><i>Mr. George W. Wall</i> and <i>Mr. E.A. Wallace,</i> with whom <i>Mr. Lyman Lacey, Jr.,</i> was on the brief, for defendant in error.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>After the decision reported 186 Illinois, 510, Mrs. Bradley filed her bill in equity in the Circuit Court of Fulton County, Illinois, to quiet her title to the land in controversy in the action in ejectment and for appropriate relief. The bill was dismissed on demurrer and Mrs. Bradley carried the case to the Supreme Court of Illinois, which affirmed the decree below. <span class=\"star-pagination\">*25</span> <i>Bradley</i> v. <i>Lightcap,</i> 202 Illinois, 154, April 24, 1903. Three of the members of the court dissented. The opinion of the Supreme Court proceeded on the strength of the decisions in 186 Illinois, 510, and 201 Illinois, 511.</p>\n<p>As we have reversed the judgment in the prior case, this case must take the same course.</p>\n<p><i>Decree reversed and cause remanded for further proceedings not inconsistent with our opinion in No.</i> 243.</p>\n</div>", "html_with_citations": "", "id": 1289431, "judges": "Fuller", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1289431/", "sha1": "d20fff939f9033ffa2b3c95c88e617fddec226be", "source": "L", "time_retrieved": "2013-10-29T22:21:55.001224"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "195 U.S. 24", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1289431/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bradley v. Lightcap", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "306", 
+    "id": 1262202, 
+    "resource_uri": "/api/rest/v2/citation/1262202/"
+  }, 
+  "id": 1289431, 
+  "blocked": false, 
+  "judges": "Fuller", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1904-05-31", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>195 U.S. 24 (1904)</b></center>\n<center><h1>BRADLEY<br>\nv.<br>\nLIGHTCAP. No. 2.</h1></center>\n<center>No. 306.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued April 21, 1904.</center>\n<center>Decided May 31, 1904.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF ILLINOIS.\n<p><i>Mr. John S. Miller,</i> with whom <i>Mr. Merritt Starr</i> and <i>Mr. W.W. Hammond</i> were on the brief, for plaintiff in error.</p>\n<p><i>Mr. George W. Wall</i> and <i>Mr. E.A. Wallace,</i> with whom <i>Mr. Lyman Lacey, Jr.,</i> was on the brief, for defendant in error.</p>\n<p>MR. CHIEF JUSTICE FULLER delivered the opinion of the court.</p>\n<p>After the decision reported 186 Illinois, 510, Mrs. Bradley filed her bill in equity in the Circuit Court of Fulton County, Illinois, to quiet her title to the land in controversy in the action in ejectment and for appropriate relief. The bill was dismissed on demurrer and Mrs. Bradley carried the case to the Supreme Court of Illinois, which affirmed the decree below. <span class=\"star-pagination\">*25</span> <i>Bradley</i> v. <i>Lightcap,</i> 202 Illinois, 154, April 24, 1903. Three of the members of the court dissented. The opinion of the Supreme Court proceeded on the strength of the decisions in 186 Illinois, 510, and 201 Illinois, 511.</p>\n<p>As we have reversed the judgment in the prior case, this case must take the same course.</p>\n<p><i>Decree reversed and cause remanded for further proceedings not inconsistent with our opinion in No.</i> 243.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:21:55.001224", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d20fff939f9033ffa2b3c95c88e617fddec226be", 
+  "date_modified": "2014-10-30T17:48:42.894212", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1289431/bradley-v-lightcap/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2578367/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1289431/"
+}

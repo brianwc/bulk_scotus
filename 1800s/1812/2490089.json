@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2490089/wise-lynn-v-the-columbian-turnpike-company/", "blocked": false, "citation": {"case_name": "Wise & Lynn v. the Columbian Turnpike Company", "docket_number": null, "document_uris": ["/api/rest/v2/document/2490089/"], "federal_cite_one": "11 U.S. 276", "federal_cite_three": null, "federal_cite_two": null, "id": 2462861, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2462861/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1812-03-14", "date_modified": "2014-10-29T22:57:42.571779", "docket": "/api/rest/v2/docket/21692/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>11 U.S. 276 (1812)</b></center>\n<center><b>7 Cranch 276</b></center>\n<center><h1>WISE &amp; LYNN<br>\nv.<br>\nTHE COLUMBIAN TURNPIKE COMPANY.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>March 9, 1812.</center>\n<center>March 14, 1812.</center>\n<p><i>Present ... . All the Judges.</i></p>\n<p>Upon the return of the rule, it appearing that the sum awarded was only 45 dollars, the COURT, all the Judges being present, decided that they had no jurisdiction, although the sum claimed by <i>Wise &amp; Lynn,</i> before the commissioners of the road, was more than 100 dollars.</p>\n<p><i>Writ of error dismissed.</i></p>\n</div>", "html_with_citations": "", "id": 2490089, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2490089/", "sha1": "1a1aecdb9db63ebf37454a4eb8532a26860be94c", "source": "L", "time_retrieved": "2013-10-30T02:54:03.984877"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "11 U.S. 276", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2490089/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Wise & Lynn v. the Columbian Turnpike Company", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2462861, 
+    "resource_uri": "/api/rest/v2/citation/2462861/"
+  }, 
+  "id": 2490089, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1812-03-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>11 U.S. 276 (1812)</b></center>\n<center><b>7 Cranch 276</b></center>\n<center><h1>WISE &amp; LYNN<br>\nv.<br>\nTHE COLUMBIAN TURNPIKE COMPANY.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>March 9, 1812.</center>\n<center>March 14, 1812.</center>\n<p><i>Present ... . All the Judges.</i></p>\n<p>Upon the return of the rule, it appearing that the sum awarded was only 45 dollars, the COURT, all the Judges being present, decided that they had no jurisdiction, although the sum claimed by <i>Wise &amp; Lynn,</i> before the commissioners of the road, was more than 100 dollars.</p>\n<p><i>Writ of error dismissed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:54:03.984877", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "1a1aecdb9db63ebf37454a4eb8532a26860be94c", 
+  "date_modified": "2014-10-29T22:57:42.571779", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2490089/wise-lynn-v-the-columbian-turnpike-company/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/21692/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2490089/"
+}

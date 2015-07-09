@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1615134/ex-parte-roberts/", "blocked": false, "citation": {"case_name": "Ex Parte Roberts", "docket_number": null, "document_uris": ["/api/rest/v2/document/1615134/"], "federal_cite_one": "31 U.S. 216", "federal_cite_three": null, "federal_cite_two": null, "id": 1587905, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1587905/", "scotus_early_cite": "6 Pet. 216", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1832-02-28", "date_modified": "2014-12-21T01:44:27.006155", "docket": "/api/rest/v2/docket/1389334/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>31 U.S. 216 (____)</b></center>\n<center><b>6 Pet. 216</b></center>\n<center><h1>EX PARTE JOSEPH ROBERTS, AND<br>\nEX PARTE GEORGE ADSHEAD.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*217</span> The motion for a mandamus was argued in writing by Mr Beardsley, as counsel for the claimants.</p>\n<p>Mr Chief Justice MARSHALL delivered the opinion of the Court.</p>\n<p>The court is of opinion that the present is not a proper case for the interposition of this court, by way of mandamus. The application to set aside the default and inquest, was an application to the discretion of the district court; and is not distinguishable in principle from applications to grant new trials. This court has always considered such applications as resting in the sound discretion of the court where the cause is depending, and not a matter for a mandamus or writ of error.</p>\n</div>", "html_with_citations": "", "id": 1615134, "judges": "Marshall", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1615134/", "sha1": "dcc7927af2512970db44c8df8726ed0e413d9dfc", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T23:56:29.320768"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "31 U.S. 216", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1615134/"
+    ], 
+    "scotus_early_cite": "6 Pet. 216", 
+    "case_name": "Ex Parte Roberts", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1587905, 
+    "resource_uri": "/api/rest/v2/citation/1587905/"
+  }, 
+  "id": 1615134, 
+  "blocked": false, 
+  "judges": "Marshall", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1832-02-28", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>31 U.S. 216 (____)</b></center>\n<center><b>6 Pet. 216</b></center>\n<center><h1>EX PARTE JOSEPH ROBERTS, AND<br>\nEX PARTE GEORGE ADSHEAD.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*217</span> The motion for a mandamus was argued in writing by Mr Beardsley, as counsel for the claimants.</p>\n<p>Mr Chief Justice MARSHALL delivered the opinion of the Court.</p>\n<p>The court is of opinion that the present is not a proper case for the interposition of this court, by way of mandamus. The application to set aside the default and inquest, was an application to the discretion of the district court; and is not distinguishable in principle from applications to grant new trials. This court has always considered such applications as resting in the sound discretion of the court where the cause is depending, and not a matter for a mandamus or writ of error.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:56:29.320768", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "dcc7927af2512970db44c8df8726ed0e413d9dfc", 
+  "date_modified": "2014-12-21T01:44:27.006155", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1615134/ex-parte-roberts/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1389334/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1615134/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136846/in-re-kelley/", "blocked": false, "citation": {"case_name": "In Re Kelley", "docket_number": "03-10315", "document_uris": ["/api/rest/v2/document/136846/"], "federal_cite_one": "541 U.S. 1084", "federal_cite_three": null, "federal_cite_two": null, "id": 121199, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121199/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-07", "date_modified": "2014-12-21T02:20:12.800349", "docket": "/api/rest/v2/docket/2117589/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1084.03-10315.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1084</p>\n    <p class=\"parties\">IN RE KELLEY.</p>\n    <p class=\"docket\">No. 03-10315.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 7, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitions for writs of habeas corpus denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1084</span></span></p>\n    <p class=\"parties\">IN RE KELLEY.</p>\n    <p class=\"docket\">No. 03-10315.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 7, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitions for writs of habeas corpus denied.</p>\n    </div>\n    ", "id": 136846, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136846/", "sha1": "5c1a739dc34e72ffdc361e0ae342b24ca245e27a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1084", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136846/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "In Re Kelley", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-10315", 
+    "id": 121199, 
+    "resource_uri": "/api/rest/v2/citation/121199/"
+  }, 
+  "id": 136846, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1084.03-10315.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1084</span></span></p>\n    <p class=\"parties\">IN RE KELLEY.</p>\n    <p class=\"docket\">No. 03-10315.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 7, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitions for writs of habeas corpus denied.</p>\n    </div>\n    ", 
+  "sha1": "5c1a739dc34e72ffdc361e0ae342b24ca245e27a", 
+  "date_modified": "2014-12-21T02:20:12.800349", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136846/in-re-kelley/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2117589/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1084</p>\n    <p class=\"parties\">IN RE KELLEY.</p>\n    <p class=\"docket\">No. 03-10315.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 7, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Petitions for writs of habeas corpus denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136846/"
+}

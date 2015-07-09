@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2621018/free-v-abbott-laboratories-inc/", "blocked": false, "citation": {"case_name": "Free v. Abbott Laboratories, Inc.", "docket_number": "99-391", "document_uris": ["/api/rest/v2/document/2621018/"], "federal_cite_one": "529 U.S. 333", "federal_cite_three": "146 L. Ed. 2d 306", "federal_cite_two": "120 S. Ct. 1578", "id": 2593790, "lexis_cite": "2000 U.S. LEXIS 2378", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593790/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 26, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2000-04-03", "date_modified": "2014-12-22T10:19:19.721817", "docket": "/api/rest/v2/docket/598349/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>529 U.S. 333 (2000)</b></center>\n<center><h1>FREE et al.<br>\nv.<br>\nABBOTT LABORATORIES, INC., et al.</h1></center>\n<center>No. 99-391.</center>\n<center><p><b>United States Supreme Court.</b></p></center>\n<center>Argued March 27, 2000.</center>\n<center>Decided April 3, 2000.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT\n<p><i>Daniel A. Small</i> argued the cause for petitioners. With him on the briefs were <i>Michael D. Hausfeld, Matthew F. Pawa, Eric L. Olson, Daniel E. Gustafson, Howard J. Sedran,</i> and <i>Don Barrett.</i> </p>\n<p><i>Frank Cicero, Jr.,</i> argued the cause for respondents. With him on the brief were <i>Craig A. Knot, Christopher Landau,</i> and <i>Max R. Shulman.</i><sup>[*]</sup></p>\n<p>Per Curiam.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>Justice O'Connor took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]   <i>Jane Bishop Johnson</i> filed a brief for the State of Louisiana as <i>amicus curiae</i> urging reversal.\n</p>\n<p>Briefs of <i>amici curiae</i> urging affirmance were filed for the Chamber of Commerce of the United States et al. by <i>Evan M. Tager, Robin S. Conrad,</i> and <i>Donald D. Evans;</i> for the Product Liability Advisory Council by <i>John H. Beisner;</i> and for the Securities Industry Association by <i>Stuart J. Kaswell.</i> </p>\n\n</div>", "html_with_citations": "", "id": 2621018, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2621018/", "sha1": "a0b5f10c402da13d1c46115920d0a367699dd741", "source": "L", "supreme_court_db_id": "1999-045", "time_retrieved": "2013-11-01T13:21:21.280883"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "529 U.S. 333", 
+    "federal_cite_two": "120 S. Ct. 1578", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "146 L. Ed. 2d 306", 
+    "lexis_cite": "2000 U.S. LEXIS 2378", 
+    "document_uris": [
+      "/api/rest/v2/document/2621018/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Free v. Abbott Laboratories, Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "99-391", 
+    "id": 2593790, 
+    "resource_uri": "/api/rest/v2/citation/2593790/"
+  }, 
+  "id": 2621018, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2000-04-03", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>529 U.S. 333 (2000)</b></center>\n<center><h1>FREE et al.<br>\nv.<br>\nABBOTT LABORATORIES, INC., et al.</h1></center>\n<center>No. 99-391.</center>\n<center><p><b>United States Supreme Court.</b></p></center>\n<center>Argued March 27, 2000.</center>\n<center>Decided April 3, 2000.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT\n<p><i>Daniel A. Small</i> argued the cause for petitioners. With him on the briefs were <i>Michael D. Hausfeld, Matthew F. Pawa, Eric L. Olson, Daniel E. Gustafson, Howard J. Sedran,</i> and <i>Don Barrett.</i> </p>\n<p><i>Frank Cicero, Jr.,</i> argued the cause for respondents. With him on the brief were <i>Craig A. Knot, Christopher Landau,</i> and <i>Max R. Shulman.</i><sup>[*]</sup></p>\n<p>Per Curiam.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>Justice O'Connor took no part in the consideration or decision of this case.</p>\n<h2>NOTES</h2>\n<p>[*]   <i>Jane Bishop Johnson</i> filed a brief for the State of Louisiana as <i>amicus curiae</i> urging reversal.\n</p>\n<p>Briefs of <i>amici curiae</i> urging affirmance were filed for the Chamber of Commerce of the United States et al. by <i>Evan M. Tager, Robin S. Conrad,</i> and <i>Donald D. Evans;</i> for the Product Liability Advisory Council by <i>John H. Beisner;</i> and for the Securities Industry Association by <i>Stuart J. Kaswell.</i> </p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T13:21:21.280883", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a0b5f10c402da13d1c46115920d0a367699dd741", 
+  "date_modified": "2014-12-22T10:19:19.721817", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2621018/free-v-abbott-laboratories-inc/", 
+  "citation_count": 26, 
+  "supreme_court_db_id": "1999-045", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/598349/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2621018/"
+}

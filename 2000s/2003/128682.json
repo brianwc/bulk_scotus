@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/128682/american-general-life-insurance-co-v-sphere/", "blocked": false, "citation": {"case_name": "American General Life Insurance Co. v. Sphere Drake Insurance Ltd", "docket_number": "02-1168", "document_uris": ["/api/rest/v2/document/128682/"], "federal_cite_one": "538 U.S. 961", "federal_cite_three": null, "federal_cite_two": null, "id": 113035, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/113035/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-04-07", "date_modified": "2014-12-21T02:18:38.244559", "docket": "/api/rest/v2/docket/1656722/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.961.02-1168.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 961</p>\n    <p class=\"parties\">AMERICAN GENERAL LIFE INSURANCE CO.<br>v.<br>SPHERE DRAKE INSURANCE LTD.</p>\n    <p class=\"docket\">No. 02-1168.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 7, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 307 F. 3d 617.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">961</span></span></p>\n    <p class=\"parties\">AMERICAN GENERAL LIFE INSURANCE CO.<br>v.<br>SPHERE DRAKE INSURANCE LTD.</p>\n    <p class=\"docket\">No. 02-1168.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 7, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 307 F. 3d 617.</p>\n    </div>\n    ", "id": 128682, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/128682/", "sha1": "3974afc74d69a205e55cc2085ce6a7b76a37e501", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:26:32"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 961", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/128682/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "American General Life Insurance Co. v. Sphere Drake Insurance Ltd", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-1168", 
+    "id": 113035, 
+    "resource_uri": "/api/rest/v2/citation/113035/"
+  }, 
+  "id": 128682, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-04-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.961.02-1168.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:26:32", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">961</span></span></p>\n    <p class=\"parties\">AMERICAN GENERAL LIFE INSURANCE CO.<br>v.<br>SPHERE DRAKE INSURANCE LTD.</p>\n    <p class=\"docket\">No. 02-1168.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 7, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 307 F. 3d 617.</p>\n    </div>\n    ", 
+  "sha1": "3974afc74d69a205e55cc2085ce6a7b76a37e501", 
+  "date_modified": "2014-12-21T02:18:38.244559", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/128682/american-general-life-insurance-co-v-sphere/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1656722/", 
+  "html": "<p class=\"case_cite\">538 U.S. 961</p>\n    <p class=\"parties\">AMERICAN GENERAL LIFE INSURANCE CO.<br>v.<br>SPHERE DRAKE INSURANCE LTD.</p>\n    <p class=\"docket\">No. 02-1168.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">April 7, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Certiorari denied. Reported below: 307 F. 3d 617.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/128682/"
+}

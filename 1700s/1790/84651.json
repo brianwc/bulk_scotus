@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/84651/todd-v-thompson/", "blocked": false, "citation": {"case_name": "Todd v. Thompson", "docket_number": null, "document_uris": ["/api/rest/v2/document/84651/"], "federal_cite_one": "2 U.S. 105", "federal_cite_three": null, "federal_cite_two": null, "id": 51610, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/51610/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1790-06-01", "date_modified": "2014-12-21T01:23:39.673585", "docket": "/api/rest/v2/docket/2417060/", "download_url": "http://bulk.resource.org/courts.gov/c/US/2/2.US.105.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">2 U.S. 105</p>\n    <p class=\"case_cite\">2 Dall. 105</p>\n    <p class=\"case_cite\">1 L.Ed. 309</p>\n    <p class=\"parties\">Todd<br>v.<br>Thompson</p>\n    <p class=\"court\">Supreme Court of Pennsylvania</p>\n    <p class=\"date\">June Term, 1790</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This cause being marked for trial, it was continued by the plaintiff; whereupon the defendant's counsel moved for a rule to try at the next term, or non pros. This, however, was opposed, the plaintiff's counsel alledging, that there was no default on his part, as the procrastination arose, in fact, from the absence of a material witness, and the late arrival of a record from New Jersey, which was so imperfectly exemplified, that it could not be offered in evidence. To this it was answered, that there had been no subpoena taken out for the absent witness; and that as the action had been depending for more than two years, there was evidently a laches in not obtaining the exemplification sooner.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">By the Court: It is certainly a great default, that an earlier application was not made for the exemplification; and that instructions were not given to some person, to see that it was regularly made out. On that ground alone, therefore, the motion must be granted. But even if the plaintiff had not been guilty of a laches; if it was a misfortune, and not negligence, that had prevented the seasonable arrival of the record, we should still doubt the propriety of refusing the rule.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">2</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">105</span></span></p>\n    <p class=\"case_cite\">2 Dall. 105</p>\n    <p class=\"case_cite\">1 L.Ed. 309</p>\n    <p class=\"parties\">Todd<br>v.<br>Thompson</p>\n    <p class=\"court\">Supreme Court of Pennsylvania</p>\n    <p class=\"date\">June Term, 1790</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This cause being marked for trial, it was continued by the plaintiff; whereupon the defendant's counsel moved for a rule to try at the next term, or non pros. This, however, was opposed, the plaintiff's counsel alledging, that there was no default on his part, as the procrastination arose, in fact, from the absence of a material witness, and the late arrival of a record from New Jersey, which was so imperfectly exemplified, that it could not be offered in evidence. To this it was answered, that there had been no subpoena taken out for the absent witness; and that as the action had been depending for more than two years, there was evidently a laches in not obtaining the exemplification sooner.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">By the Court: It is certainly a great default, that an earlier application was not made for the exemplification; and that instructions were not given to some person, to see that it was regularly made out. On that ground alone, therefore, the motion must be granted. But even if the plaintiff had not been guilty of a laches; if it was a misfortune, and not negligence, that had prevented the seasonable arrival of the record, we should still doubt the propriety of refusing the rule.</p>\n    </div>\n    ", "id": 84651, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/84651/", "sha1": "52268f33db495150f640c614dbe712d6f21889a0", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T08:59:26"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 105", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/84651/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Todd v. Thompson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 51610, 
+    "resource_uri": "/api/rest/v2/citation/51610/"
+  }, 
+  "id": 84651, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1790-06-01", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/2/2.US.105.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T08:59:26", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">2</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">105</span></span></p>\n    <p class=\"case_cite\">2 Dall. 105</p>\n    <p class=\"case_cite\">1 L.Ed. 309</p>\n    <p class=\"parties\">Todd<br>v.<br>Thompson</p>\n    <p class=\"court\">Supreme Court of Pennsylvania</p>\n    <p class=\"date\">June Term, 1790</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This cause being marked for trial, it was continued by the plaintiff; whereupon the defendant's counsel moved for a rule to try at the next term, or non pros. This, however, was opposed, the plaintiff's counsel alledging, that there was no default on his part, as the procrastination arose, in fact, from the absence of a material witness, and the late arrival of a record from New Jersey, which was so imperfectly exemplified, that it could not be offered in evidence. To this it was answered, that there had been no subpoena taken out for the absent witness; and that as the action had been depending for more than two years, there was evidently a laches in not obtaining the exemplification sooner.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">By the Court: It is certainly a great default, that an earlier application was not made for the exemplification; and that instructions were not given to some person, to see that it was regularly made out. On that ground alone, therefore, the motion must be granted. But even if the plaintiff had not been guilty of a laches; if it was a misfortune, and not negligence, that had prevented the seasonable arrival of the record, we should still doubt the propriety of refusing the rule.</p>\n    </div>\n    ", 
+  "sha1": "52268f33db495150f640c614dbe712d6f21889a0", 
+  "date_modified": "2014-12-21T01:23:39.673585", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/84651/todd-v-thompson/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2417060/", 
+  "html": "<p class=\"case_cite\">2 U.S. 105</p>\n    <p class=\"case_cite\">2 Dall. 105</p>\n    <p class=\"case_cite\">1 L.Ed. 309</p>\n    <p class=\"parties\">Todd<br>v.<br>Thompson</p>\n    <p class=\"court\">Supreme Court of Pennsylvania</p>\n    <p class=\"date\">June Term, 1790</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This cause being marked for trial, it was continued by the plaintiff; whereupon the defendant's counsel moved for a rule to try at the next term, or non pros. This, however, was opposed, the plaintiff's counsel alledging, that there was no default on his part, as the procrastination arose, in fact, from the absence of a material witness, and the late arrival of a record from New Jersey, which was so imperfectly exemplified, that it could not be offered in evidence. To this it was answered, that there had been no subpoena taken out for the absent witness; and that as the action had been depending for more than two years, there was evidently a laches in not obtaining the exemplification sooner.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">By the Court: It is certainly a great default, that an earlier application was not made for the exemplification; and that instructions were not given to some person, to see that it was regularly made out. On that ground alone, therefore, the motion must be granted. But even if the plaintiff had not been guilty of a laches; if it was a misfortune, and not negligence, that had prevented the seasonable arrival of the record, we should still doubt the propriety of refusing the rule.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/84651/"
+}

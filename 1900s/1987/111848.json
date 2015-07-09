@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/111848/missouri-v-blair/", "blocked": false, "citation": {"case_name": "Missouri v. Blair", "docket_number": "85-303", "document_uris": ["/api/rest/v2/document/111848/"], "federal_cite_one": "480 U.S. 698", "federal_cite_three": "94 L. Ed. 2d 678", "federal_cite_two": "107 S. Ct. 1596", "id": 96207, "lexis_cite": "1987 U.S. LEXIS 1389", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/96207/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1987-03-25", "date_modified": "2014-12-21T19:29:20.371341", "docket": "/api/rest/v2/docket/290594/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">480 U.S. 698</p>\n    <p class=\"case_cite\">107 S.Ct. 1596</p>\n    <p class=\"case_cite\">94 L.Ed.2d 678</p>\n    <p class=\"parties\">MISSOURI, Petitioner,<br>v.<br>Zola BLAIR</p>\n    <p class=\"docket\">No. 85-303</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 25, 1987</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">ON WRIT OF</p>\n      <p>CERTIORARI TO THE SUPREME COURT OF MISSOURI [March 25, 1987]</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of certiorari is dismissed as improvidently granted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>480 U.S. 698 (1987)</b></center>\n<center><h1>MISSOURI<br>\nv.<br>\nBLAIR</h1></center>\n<center>No. 85-303.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 12, 1986</center>\n<center>Decided March 25, 1987</center>\nCERTIORARI TO THE SUPREME COURT OF MISSOURI\n<p><i>Albert A. Riederer</i> argued the cause for petitioner. With him on the briefs were <i>William L. Webster,</i> Attorney General of Missouri, <i>Philip M. Koppe,</i> Assistant Attorney General, and <i>Robert Frager.</i></p>\n<p><i>Joseph H. Locascio</i> argued the cause and filed a brief for respondent.<sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Larry W. Yackle, Charles S. Sims,</i> and <i>Burt Neuborne</i> filed a brief for the American Civil Liberties Union et al. as <i>amici curiae</i> urging affirmance.</p>\n\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">480</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">698</span></span> (1987)</b></center>\n<center><h1>MISSOURI<br>\nv.<br>\nBLAIR</h1></center>\n<center>No. 85-303.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 12, 1986</center>\n<center>Decided March 25, 1987</center>\nCERTIORARI TO THE SUPREME COURT OF MISSOURI\n<p><i>Albert A. Riederer</i> argued the cause for petitioner. With him on the briefs were <i>William L. Webster,</i> Attorney General of Missouri, <i>Philip M. Koppe,</i> Assistant Attorney General, and <i>Robert Frager.</i></p>\n<p><i>Joseph H. Locascio</i> argued the cause and filed a brief for respondent.<sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Larry W. Yackle, Charles S. Sims,</i> and <i>Burt Neuborne</i> filed a brief for the American Civil Liberties Union et al. as <i>amici curiae</i> urging affirmance.</p>\n\n</div>", "id": 111848, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/111848/", "sha1": "c753b7514af7a5e2e7c1a7c2281e3a303c27dc9c", "source": "LR", "supreme_court_db_id": "1986-061", "time_retrieved": "2010-04-28T10:13:25"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "480 U.S. 698", 
+    "federal_cite_two": "107 S. Ct. 1596", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "94 L. Ed. 2d 678", 
+    "lexis_cite": "1987 U.S. LEXIS 1389", 
+    "document_uris": [
+      "/api/rest/v2/document/111848/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Missouri v. Blair", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "85-303", 
+    "id": 96207, 
+    "resource_uri": "/api/rest/v2/citation/96207/"
+  }, 
+  "id": 111848, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1987-03-25", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>480 U.S. 698 (1987)</b></center>\n<center><h1>MISSOURI<br>\nv.<br>\nBLAIR</h1></center>\n<center>No. 85-303.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 12, 1986</center>\n<center>Decided March 25, 1987</center>\nCERTIORARI TO THE SUPREME COURT OF MISSOURI\n<p><i>Albert A. Riederer</i> argued the cause for petitioner. With him on the briefs were <i>William L. Webster,</i> Attorney General of Missouri, <i>Philip M. Koppe,</i> Assistant Attorney General, and <i>Robert Frager.</i></p>\n<p><i>Joseph H. Locascio</i> argued the cause and filed a brief for respondent.<sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Larry W. Yackle, Charles S. Sims,</i> and <i>Burt Neuborne</i> filed a brief for the American Civil Liberties Union et al. as <i>amici curiae</i> urging affirmance.</p>\n\n</div>", 
+  "time_retrieved": "2010-04-28T10:13:25", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">480</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">698</span></span> (1987)</b></center>\n<center><h1>MISSOURI<br>\nv.<br>\nBLAIR</h1></center>\n<center>No. 85-303.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 12, 1986</center>\n<center>Decided March 25, 1987</center>\nCERTIORARI TO THE SUPREME COURT OF MISSOURI\n<p><i>Albert A. Riederer</i> argued the cause for petitioner. With him on the briefs were <i>William L. Webster,</i> Attorney General of Missouri, <i>Philip M. Koppe,</i> Assistant Attorney General, and <i>Robert Frager.</i></p>\n<p><i>Joseph H. Locascio</i> argued the cause and filed a brief for respondent.<sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Larry W. Yackle, Charles S. Sims,</i> and <i>Burt Neuborne</i> filed a brief for the American Civil Liberties Union et al. as <i>amici curiae</i> urging affirmance.</p>\n\n</div>", 
+  "sha1": "c753b7514af7a5e2e7c1a7c2281e3a303c27dc9c", 
+  "date_modified": "2014-12-21T19:29:20.371341", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/111848/missouri-v-blair/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": "1986-061", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/290594/", 
+  "html": "<p class=\"case_cite\">480 U.S. 698</p>\n    <p class=\"case_cite\">107 S.Ct. 1596</p>\n    <p class=\"case_cite\">94 L.Ed.2d 678</p>\n    <p class=\"parties\">MISSOURI, Petitioner,<br>v.<br>Zola BLAIR</p>\n    <p class=\"docket\">No. 85-303</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 25, 1987</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">ON WRIT OF</p>\n      <p>CERTIORARI TO THE SUPREME COURT OF MISSOURI [March 25, 1987]</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of certiorari is dismissed as improvidently granted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/111848/"
+}

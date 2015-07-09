@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106476/dave-fleischer-etc-v-w-p-i-x-inc-et-al/", "blocked": false, "citation": {"case_name": "Dave Fleischer, Etc. v. W. P. I. X., Inc.", "docket_number": "78, Misc", "document_uris": ["/api/rest/v2/document/106476/"], "federal_cite_one": "371 U.S. 16", "federal_cite_three": null, "federal_cite_two": null, "id": 90859, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90859/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-10-08", "date_modified": "2015-04-22T11:15:06.958722", "docket": "/api/rest/v2/docket/2047675/", "download_url": "http://bulk.resource.org/courts.gov/c/US/371/371.US.16.78.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">371 U.S. 16</p>\n    <p class=\"case_cite\">83 S.Ct. 59</p>\n    <p class=\"case_cite\">9 L.Ed.2d 50</p>\n    <p class=\"parties\">Dave FLEISCHER, etc.<br>v.<br>W. P. I. X., INC., et al.</p>\n    <p class=\"docket\">No. 78, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 8, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Gustave B. Garfield, for appellant.</p>\n      <p class=\"indent\">Daniel Huttenbrauck and Seymour Shainswit, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice GOLDBERG took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">16</span></span></p>\n    <p class=\"case_cite\">83 S.Ct. 59</p>\n    <p class=\"case_cite\">9 L.Ed.2d 50</p>\n    <p class=\"parties\">Dave FLEISCHER, etc.<br>v.<br>W. P. I. X., INC., et al.</p>\n    <p class=\"docket\">No. 78, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 8, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Gustave B. Garfield, for appellant.</p>\n      <p class=\"indent\">Daniel Huttenbrauck and Seymour Shainswit, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice GOLDBERG took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "id": 106476, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106476/", "sha1": "4a0c83abea418a4b2d1803429a59f2855d125f0a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "371 U.S. 16", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/106476/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Dave Fleischer, Etc. v. W. P. I. X., Inc.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "78, Misc", 
+    "id": 90859, 
+    "resource_uri": "/api/rest/v2/citation/90859/"
+  }, 
+  "id": 106476, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-10-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/371/371.US.16.78.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:10:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">16</span></span></p>\n    <p class=\"case_cite\">83 S.Ct. 59</p>\n    <p class=\"case_cite\">9 L.Ed.2d 50</p>\n    <p class=\"parties\">Dave FLEISCHER, etc.<br>v.<br>W. P. I. X., INC., et al.</p>\n    <p class=\"docket\">No. 78, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 8, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Gustave B. Garfield, for appellant.</p>\n      <p class=\"indent\">Daniel Huttenbrauck and Seymour Shainswit, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice GOLDBERG took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "sha1": "4a0c83abea418a4b2d1803429a59f2855d125f0a", 
+  "date_modified": "2015-04-22T11:15:06.958722", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106476/dave-fleischer-etc-v-w-p-i-x-inc-et-al/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2047675/", 
+  "html": "<p class=\"case_cite\">371 U.S. 16</p>\n    <p class=\"case_cite\">83 S.Ct. 59</p>\n    <p class=\"case_cite\">9 L.Ed.2d 50</p>\n    <p class=\"parties\">Dave FLEISCHER, etc.<br>v.<br>W. P. I. X., INC., et al.</p>\n    <p class=\"docket\">No. 78, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 8, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Gustave B. Garfield, for appellant.</p>\n      <p class=\"indent\">Daniel Huttenbrauck and Seymour Shainswit, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice GOLDBERG took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106476/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/84700/anonymous/", "blocked": false, "citation": {"case_name": "Anonymous", "docket_number": null, "document_uris": ["/api/rest/v2/document/84700/"], "federal_cite_one": "3 U.S. 477", "federal_cite_three": null, "federal_cite_two": null, "id": 51683, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/51683/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1798-12-01", "date_modified": "2014-12-21T01:23:41.280337", "docket": "/api/rest/v2/docket/1482236/", "download_url": "http://bulk.resource.org/courts.gov/c/US/3/3.US.477.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">3 U.S. 477</p>\n    <p class=\"case_cite\">3 Dall. 477</p>\n    <p class=\"case_cite\">1 L.Ed. 687</p>\n    <p class=\"parties\">Anonymous</p>\n    <p class=\"court\">Supreme Court of Pennsylvania</p>\n    <p class=\"date\">December Term, 1798</p>\n    <p>3 U.S. 477</p>\n    <p>3 Dall. 477</p>\n    <p>1 L.Ed. 687</p>\n    <p>Anonymous</p>\n    <p>Supreme Court of Pennsylvania</p>\n    <p>December Term, 1798</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This was an ejectment, to be decided by the opinion of the court. It appeared that the Lessor of the Plaintiff claimed as heir at law of James Graham, who made his will on the 8th of October, 1745, devising 'to my wife one third part of all my effects, the improvements excepted. Also I give to my son James the improvement whereon I now live.' The premises were held by warrant; and the only question was, whether an estate for life, or in fee, vested in the Testator's son James by the devise?</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The Court decided, that the Devisee took an estate in fee<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a>.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> I was favored with this memorandum by Mr. Duncan of Carlise, one of the counsel who argued the cause.</p>\n      </div>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">477</span></span></p>\n    <p class=\"case_cite\">3 Dall. 477</p>\n    <p class=\"case_cite\">1 L.Ed. 687</p>\n    <p class=\"parties\">Anonymous</p>\n    <p class=\"court\">Supreme Court of Pennsylvania</p>\n    <p class=\"date\">December Term, 1798</p>\n    <p><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">477</span></span></p>\n    <p>3 Dall. 477</p>\n    <p>1 L.Ed. 687</p>\n    <p>Anonymous</p>\n    <p>Supreme Court of Pennsylvania</p>\n    <p>December Term, 1798</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This was an ejectment, to be decided by the opinion of the court. It appeared that the Lessor of the Plaintiff claimed as heir at law of James Graham, who made his will on the 8th of October, 1745, devising 'to my wife one third part of all my effects, the improvements excepted. Also I give to my son James the improvement whereon I now live.' The premises were held by warrant; and the only question was, whether an estate for life, or in fee, vested in the Testator's son James by the devise?</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The Court decided, that the Devisee took an estate in fee<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a>.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> I was favored with this memorandum by Mr. Duncan of Carlise, one of the counsel who argued the cause.</p>\n      </div>\n    </div>\n    ", "id": 84700, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/84700/", "sha1": "c9943119179a191c61bfa1fbfecd1f7927272b08", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T08:59:27"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "3 U.S. 477", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/84700/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Anonymous", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 51683, 
+    "resource_uri": "/api/rest/v2/citation/51683/"
+  }, 
+  "id": 84700, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1798-12-01", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/3/3.US.477.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T08:59:27", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">477</span></span></p>\n    <p class=\"case_cite\">3 Dall. 477</p>\n    <p class=\"case_cite\">1 L.Ed. 687</p>\n    <p class=\"parties\">Anonymous</p>\n    <p class=\"court\">Supreme Court of Pennsylvania</p>\n    <p class=\"date\">December Term, 1798</p>\n    <p><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">477</span></span></p>\n    <p>3 Dall. 477</p>\n    <p>1 L.Ed. 687</p>\n    <p>Anonymous</p>\n    <p>Supreme Court of Pennsylvania</p>\n    <p>December Term, 1798</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This was an ejectment, to be decided by the opinion of the court. It appeared that the Lessor of the Plaintiff claimed as heir at law of James Graham, who made his will on the 8th of October, 1745, devising 'to my wife one third part of all my effects, the improvements excepted. Also I give to my son James the improvement whereon I now live.' The premises were held by warrant; and the only question was, whether an estate for life, or in fee, vested in the Testator's son James by the devise?</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The Court decided, that the Devisee took an estate in fee<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a>.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> I was favored with this memorandum by Mr. Duncan of Carlise, one of the counsel who argued the cause.</p>\n      </div>\n    </div>\n    ", 
+  "sha1": "c9943119179a191c61bfa1fbfecd1f7927272b08", 
+  "date_modified": "2014-12-21T01:23:41.280337", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/84700/anonymous/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1482236/", 
+  "html": "<p class=\"case_cite\">3 U.S. 477</p>\n    <p class=\"case_cite\">3 Dall. 477</p>\n    <p class=\"case_cite\">1 L.Ed. 687</p>\n    <p class=\"parties\">Anonymous</p>\n    <p class=\"court\">Supreme Court of Pennsylvania</p>\n    <p class=\"date\">December Term, 1798</p>\n    <p>3 U.S. 477</p>\n    <p>3 Dall. 477</p>\n    <p>1 L.Ed. 687</p>\n    <p>Anonymous</p>\n    <p>Supreme Court of Pennsylvania</p>\n    <p>December Term, 1798</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This was an ejectment, to be decided by the opinion of the court. It appeared that the Lessor of the Plaintiff claimed as heir at law of James Graham, who made his will on the 8th of October, 1745, devising 'to my wife one third part of all my effects, the improvements excepted. Also I give to my son James the improvement whereon I now live.' The premises were held by warrant; and the only question was, whether an estate for life, or in fee, vested in the Testator's son James by the devise?</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">The Court decided, that the Devisee took an estate in fee<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a>.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> I was favored with this memorandum by Mr. Duncan of Carlise, one of the counsel who argued the cause.</p>\n      </div>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/84700/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1860157/thomas-m-cooley-law-school-v-american-bar-associat/", "blocked": false, "citation": {"case_name": "Thomas M. Cooley Law School v. American Bar Association", "docket_number": "06-668", "document_uris": ["/api/rest/v2/document/1860157/"], "federal_cite_one": "127 S. Ct. 985", "federal_cite_three": null, "federal_cite_two": null, "id": 1832928, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1832928/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-01-08", "date_modified": "2014-10-30T10:00:10.409302", "docket": "/api/rest/v2/docket/1473545/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 985 (2007)</b></center>\n<center><h1>THOMAS M. COOLEY LAW SCHOOL, petitioner,<br>\nv.<br>\nThe AMERICAN BAR ASSOCIATION, et al.</h1></center>\n<center>No. 06-668.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>January 8, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</div>", "html_with_citations": "", "id": 1860157, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1860157/", "sha1": "ff77ccf4d99a7f51aae9486609a26a6e31890b51", "source": "L", "time_retrieved": "2013-10-30T00:38:54.822148"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 985", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1860157/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Thomas M. Cooley Law School v. American Bar Association", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-668", 
+    "id": 1832928, 
+    "resource_uri": "/api/rest/v2/citation/1832928/"
+  }, 
+  "id": 1860157, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-01-08", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 985 (2007)</b></center>\n<center><h1>THOMAS M. COOLEY LAW SCHOOL, petitioner,<br>\nv.<br>\nThe AMERICAN BAR ASSOCIATION, et al.</h1></center>\n<center>No. 06-668.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>January 8, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:38:54.822148", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ff77ccf4d99a7f51aae9486609a26a6e31890b51", 
+  "date_modified": "2014-10-30T10:00:10.409302", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1860157/thomas-m-cooley-law-school-v-american-bar-associat/", 
+  "citation_count": 3, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1473545/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1860157/"
+}

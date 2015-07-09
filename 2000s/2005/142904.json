@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/142904/johnson-v-virginia/", "blocked": false, "citation": {"case_name": "Johnson v. Virginia", "docket_number": "03-10877", "document_uris": ["/api/rest/v2/document/142904/"], "federal_cite_one": "544 U.S. 901", "federal_cite_three": null, "federal_cite_two": null, "id": 127256, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/127256/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-03-07", "date_modified": "2014-12-21T02:21:19.291094", "docket": "/api/rest/v2/docket/476135/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.901.03-10877.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 901</p>\n    <p class=\"parties\">JOHNSON<br><i>v.</i><br>VIRGINIA.</p>\n    <p class=\"docket\">No. 03-10877.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 7, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Va. Reported below: 267 Va. 53, 591 S. E. 2d 47. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>Roper</i> v. <i>Simmons,</i> 543 U.S. 551 (2005).</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span></p>\n    <p class=\"parties\">JOHNSON<br><i>v.</i><br>VIRGINIA.</p>\n    <p class=\"docket\">No. 03-10877.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 7, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Va. Reported below: <span class=\"citation\" data-id=\"1059145\"><a href=\"/opinion/1059145/johnson-v-com/\"><span class=\"volume\">267</span> <span class=\"reporter\">Va.</span> <span class=\"page\">53</span></a></span>, 591 S. E. 2d 47. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>Roper</i> v. <i>Simmons,</i> <span class=\"citation\" data-id=\"137749\"><a href=\"/opinion/137749/roper-v-simmons/\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">551</span></a></span> (2005).</p>\n    </div>\n    ", "id": 142904, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/142904/", "sha1": "bb0f8ecf9da7744b27ca3d43201075f523b19d9d", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:35:47"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 901", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/142904/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Johnson v. Virginia", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-10877", 
+    "id": 127256, 
+    "resource_uri": "/api/rest/v2/citation/127256/"
+  }, 
+  "id": 142904, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-03-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.901.03-10877.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:35:47", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">901</span></span></p>\n    <p class=\"parties\">JOHNSON<br><i>v.</i><br>VIRGINIA.</p>\n    <p class=\"docket\">No. 03-10877.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 7, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Va. Reported below: <span class=\"citation\" data-id=\"1059145\"><a href=\"/opinion/1059145/johnson-v-com/\"><span class=\"volume\">267</span> <span class=\"reporter\">Va.</span> <span class=\"page\">53</span></a></span>, 591 S. E. 2d 47. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>Roper</i> v. <i>Simmons,</i> <span class=\"citation\" data-id=\"137749\"><a href=\"/opinion/137749/roper-v-simmons/\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">551</span></a></span> (2005).</p>\n    </div>\n    ", 
+  "sha1": "bb0f8ecf9da7744b27ca3d43201075f523b19d9d", 
+  "date_modified": "2014-12-21T02:21:19.291094", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/142904/johnson-v-virginia/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/476135/", 
+  "html": "<p class=\"case_cite\">544 U.S. 901</p>\n    <p class=\"parties\">JOHNSON<br><i>v.</i><br>VIRGINIA.</p>\n    <p class=\"docket\">No. 03-10877.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 7, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sup. Ct. Va. Reported below: 267 Va. 53, 591 S. E. 2d 47. Motion of petitioner for leave to proceed <i>in forma pauperis</i> granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of <i>Roper</i> v. <i>Simmons,</i> 543 U.S. 551 (2005).</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/142904/"
+}

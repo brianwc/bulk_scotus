@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/113812/mattison-v-quarles/", "blocked": false, "citation": {"case_name": "Mattison v. Quarles", "docket_number": "93-5034", "document_uris": ["/api/rest/v2/document/113812/"], "federal_cite_one": "510 U.S. 872", "federal_cite_three": null, "federal_cite_two": null, "id": 98171, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/98171/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-10-04", "date_modified": "2014-12-21T02:13:38.045986", "docket": "/api/rest/v2/docket/529160/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.872.93-5034.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 872</p>\n    <p class=\"parties\">Mattison<br>v.<br>Quarles.</p>\n    <p class=\"docket\">No. 93-5034.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 6th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">872</span></span></p>\n    <p class=\"parties\">Mattison<br>v.<br>Quarles.</p>\n    <p class=\"docket\">No. 93-5034.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 6th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "id": 113812, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/113812/", "sha1": "69c063c0100cc168123c3a079a3de6e6a0517929", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:19"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 872", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/113812/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Mattison v. Quarles", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-5034", 
+    "id": 98171, 
+    "resource_uri": "/api/rest/v2/citation/98171/"
+  }, 
+  "id": 113812, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.872.93-5034.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:19", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">872</span></span></p>\n    <p class=\"parties\">Mattison<br>v.<br>Quarles.</p>\n    <p class=\"docket\">No. 93-5034.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 6th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "69c063c0100cc168123c3a079a3de6e6a0517929", 
+  "date_modified": "2014-12-21T02:13:38.045986", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/113812/mattison-v-quarles/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/529160/", 
+  "html": "<p class=\"case_cite\">510 U.S. 872</p>\n    <p class=\"parties\">Mattison<br>v.<br>Quarles.</p>\n    <p class=\"docket\">No. 93-5034.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 6th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/113812/"
+}

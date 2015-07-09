@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/99462/ohio-valley-electric-railway-company-plaintiff/", "blocked": false, "citation": {"case_name": "Ohio Valley Electric Railway Company, in Error v. J. B. Hall, as Administrator, Etc", "docket_number": "761", "document_uris": ["/api/rest/v2/document/99462/"], "federal_cite_one": "250 U.S. 649", "federal_cite_three": null, "federal_cite_two": null, "id": 83845, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/83845/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1919-06-02", "date_modified": "2014-12-21T01:36:45.363106", "docket": "/api/rest/v2/docket/1419733/", "download_url": "http://bulk.resource.org/courts.gov/c/US/250/250.US.649.761.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">250 U.S. 649</p>\r\n    <p class=\"case_cite\">39 S.Ct. 491</p>\r\n    <p class=\"case_cite\">63 L.Ed. 1188</p>\r\n    <p class=\"parties\">OHIO VALLEY ELECTRIC RAILWAY COMPANY, plaintiff in error,<br>v.<br>J. B. HALL, as Administrator, etc.</p>\r\n    <p class=\"docket\">No. 761.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">June 2, 1919</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Dismissed with costs, on motion of counsel for the plaintiff in error.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">250</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">649</span></span></p>\r\n    <p class=\"case_cite\">39 S.Ct. 491</p>\r\n    <p class=\"case_cite\">63 L.Ed. 1188</p>\r\n    <p class=\"parties\">OHIO VALLEY ELECTRIC RAILWAY COMPANY, plaintiff in error,<br>v.<br>J. B. HALL, as Administrator, etc.</p>\r\n    <p class=\"docket\">No. 761.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">June 2, 1919</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Dismissed with costs, on motion of counsel for the plaintiff in error.</p>\r\n    </div>\r\n    ", "id": 99462, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/99462/", "sha1": "221792cb0fd87a954cc1c4ed33adcd90512ff89a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:47:07"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "250 U.S. 649", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/99462/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ohio Valley Electric Railway Company, in Error v. J. B. Hall, as Administrator, Etc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "761", 
+    "id": 83845, 
+    "resource_uri": "/api/rest/v2/citation/83845/"
+  }, 
+  "id": 99462, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1919-06-02", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/250/250.US.649.761.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:47:07", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">250</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">649</span></span></p>\r\n    <p class=\"case_cite\">39 S.Ct. 491</p>\r\n    <p class=\"case_cite\">63 L.Ed. 1188</p>\r\n    <p class=\"parties\">OHIO VALLEY ELECTRIC RAILWAY COMPANY, plaintiff in error,<br>v.<br>J. B. HALL, as Administrator, etc.</p>\r\n    <p class=\"docket\">No. 761.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">June 2, 1919</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Dismissed with costs, on motion of counsel for the plaintiff in error.</p>\r\n    </div>\r\n    ", 
+  "sha1": "221792cb0fd87a954cc1c4ed33adcd90512ff89a", 
+  "date_modified": "2014-12-21T01:36:45.363106", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/99462/ohio-valley-electric-railway-company-plaintiff/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1419733/", 
+  "html": "<p class=\"case_cite\">250 U.S. 649</p>\r\n    <p class=\"case_cite\">39 S.Ct. 491</p>\r\n    <p class=\"case_cite\">63 L.Ed. 1188</p>\r\n    <p class=\"parties\">OHIO VALLEY ELECTRIC RAILWAY COMPANY, plaintiff in error,<br>v.<br>J. B. HALL, as Administrator, etc.</p>\r\n    <p class=\"docket\">No. 761.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">June 2, 1919</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">Dismissed with costs, on motion of counsel for the plaintiff in error.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/99462/"
+}

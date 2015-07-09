@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620848/turner-v-enrille/", "blocked": false, "citation": {"case_name": "Turner v. Enrille", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620848/"], "federal_cite_one": "4 U.S. 7", "federal_cite_three": null, "federal_cite_two": null, "id": 2593620, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593620/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1799-08-09", "date_modified": "2014-10-29T22:59:19.718596", "docket": "/api/rest/v2/docket/24886/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 7 (____)</b></center>\n<center><b>4 Dall. 7</b></center>\n<center><h1>Turner, Administrator,<br>\nversus<br>\nEnrille.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*8</span> For the defendant in error, Dallas lamented the obvious irregularities on the face of the record.</p>\n<p>By the COURT.</p>\n<p>The decision in the case of Bingham v. Cabot et al. must govern the present case. Let the judgment be reversed with costs.</p>\n</div>", "html_with_citations": "", "id": 2620848, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620848/", "sha1": "bc707bb7407326cb0c9894703f9b5b23dc1ed756", "source": "L", "time_retrieved": "2013-11-01T12:29:14.058797"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 7", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620848/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Turner v. Enrille", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593620, 
+    "resource_uri": "/api/rest/v2/citation/2593620/"
+  }, 
+  "id": 2620848, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1799-08-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 7 (____)</b></center>\n<center><b>4 Dall. 7</b></center>\n<center><h1>Turner, Administrator,<br>\nversus<br>\nEnrille.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*8</span> For the defendant in error, Dallas lamented the obvious irregularities on the face of the record.</p>\n<p>By the COURT.</p>\n<p>The decision in the case of Bingham v. Cabot et al. must govern the present case. Let the judgment be reversed with costs.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T12:29:14.058797", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "bc707bb7407326cb0c9894703f9b5b23dc1ed756", 
+  "date_modified": "2014-10-29T22:59:19.718596", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620848/turner-v-enrille/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/24886/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620848/"
+}

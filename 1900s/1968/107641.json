@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107641/reed-v-mississippii/", "blocked": false, "citation": {"case_name": "Reed v. Mississippii", "docket_number": "858, Misc", "document_uris": ["/api/rest/v2/document/107641/"], "federal_cite_one": "390 U.S. 413", "federal_cite_three": null, "federal_cite_two": null, "id": 92000, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92000/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-03-18", "date_modified": "2014-12-21T01:55:51.278546", "docket": "/api/rest/v2/docket/780050/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">390 U.S. 413</p>\n    <p class=\"case_cite\">88 S.Ct. 1113</p>\n    <p class=\"case_cite\">19 L.Ed.2d 1273</p>\n    <p class=\"parties\">Abraham REED<br>v.<br>MISSISSIPPI.</p>\n    <p class=\"docket\">No. 858, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1967.</p>\n    <p class=\"date\">March 18, 1968</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Joe T. Patterson, Atty. Gen. of Mississippi, and Guy N. Rogers, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that the papers should be treated as a petition for a writ of certiorari and that certiorari be granted.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>390 U.S. 413 (1968)</b></center>\n<center><h1>REED<br>\nv.<br>\nMISSISSIPPI.</h1></center>\n<center>No. 858, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 18, 1968.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSISSIPPI.\n<p><i>Joe T. Patterson,</i> Attorney General of Mississippi, and <i>Guy N. Rogers,</i> Assistant Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that the papers should be treated as a petition for a writ of certiorari and that certiorari be granted.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">390</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">413</span></span> (1968)</b></center>\n<center><h1>REED<br>\nv.<br>\nMISSISSIPPI.</h1></center>\n<center>No. 858, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 18, 1968.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSISSIPPI.\n<p><i>Joe T. Patterson,</i> Attorney General of Mississippi, and <i>Guy N. Rogers,</i> Assistant Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that the papers should be treated as a petition for a writ of certiorari and that certiorari be granted.</p>\n</div>", "id": 107641, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107641/", "sha1": "1704b4abd1a424f3bbccfa4d05c5b3dd4d0d3595", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:12"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "390 U.S. 413", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107641/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Reed v. Mississippii", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "858, Misc", 
+    "id": 92000, 
+    "resource_uri": "/api/rest/v2/citation/92000/"
+  }, 
+  "id": 107641, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-03-18", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>390 U.S. 413 (1968)</b></center>\n<center><h1>REED<br>\nv.<br>\nMISSISSIPPI.</h1></center>\n<center>No. 858, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 18, 1968.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSISSIPPI.\n<p><i>Joe T. Patterson,</i> Attorney General of Mississippi, and <i>Guy N. Rogers,</i> Assistant Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that the papers should be treated as a petition for a writ of certiorari and that certiorari be granted.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:12", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">390</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">413</span></span> (1968)</b></center>\n<center><h1>REED<br>\nv.<br>\nMISSISSIPPI.</h1></center>\n<center>No. 858, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided March 18, 1968.</center>\nAPPEAL FROM THE SUPREME COURT OF MISSISSIPPI.\n<p><i>Joe T. Patterson,</i> Attorney General of Mississippi, and <i>Guy N. Rogers,</i> Assistant Attorney General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n<p>MR. JUSTICE DOUGLAS is of the opinion that the papers should be treated as a petition for a writ of certiorari and that certiorari be granted.</p>\n</div>", 
+  "sha1": "1704b4abd1a424f3bbccfa4d05c5b3dd4d0d3595", 
+  "date_modified": "2014-12-21T01:55:51.278546", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107641/reed-v-mississippii/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/780050/", 
+  "html": "<p class=\"case_cite\">390 U.S. 413</p>\n    <p class=\"case_cite\">88 S.Ct. 1113</p>\n    <p class=\"case_cite\">19 L.Ed.2d 1273</p>\n    <p class=\"parties\">Abraham REED<br>v.<br>MISSISSIPPI.</p>\n    <p class=\"docket\">No. 858, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October Term, 1967.</p>\n    <p class=\"date\">March 18, 1968</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Joe T. Patterson, Atty. Gen. of Mississippi, and Guy N. Rogers, Asst. Atty. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that the papers should be treated as a petition for a writ of certiorari and that certiorari be granted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107641/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088085/kohler-v-tugwell/", "blocked": false, "citation": {"case_name": "Kohler v. Tugwell", "docket_number": "933", "document_uris": ["/api/rest/v2/document/1088085/"], "federal_cite_one": "393 U.S. 531", "federal_cite_three": null, "federal_cite_two": null, "id": 1060856, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060856/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-02-24", "date_modified": "2014-10-30T02:32:06.539102", "docket": "/api/rest/v2/docket/443754/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>393 U.S. 531 (1969)</b></center>\n<center><h1>KOHLER ET AL.<br>\nv.<br>\nTUGWELL, TREASURER OF LOUISIANA, ET AL.</h1></center>\n<center>No. 933.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 24, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Donald V. Organ</i> for appellants.</p>\n<p><i>Dorothy Wolbrette</i> and <i>William P. Curry,</i> Assistant Attorneys General of Louisiana, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1088085, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088085/", "sha1": "52835e67a7c513ca17506230e3f62afd63409290", "source": "L", "time_retrieved": "2013-10-29T20:45:26.345247"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 531", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088085/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Kohler v. Tugwell", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "933", 
+    "id": 1060856, 
+    "resource_uri": "/api/rest/v2/citation/1060856/"
+  }, 
+  "id": 1088085, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-02-24", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 531 (1969)</b></center>\n<center><h1>KOHLER ET AL.<br>\nv.<br>\nTUGWELL, TREASURER OF LOUISIANA, ET AL.</h1></center>\n<center>No. 933.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 24, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Donald V. Organ</i> for appellants.</p>\n<p><i>Dorothy Wolbrette</i> and <i>William P. Curry,</i> Assistant Attorneys General of Louisiana, for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:45:26.345247", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "52835e67a7c513ca17506230e3f62afd63409290", 
+  "date_modified": "2014-10-30T02:32:06.539102", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088085/kohler-v-tugwell/", 
+  "citation_count": 6, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/443754/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088085/"
+}

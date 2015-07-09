@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/96498/francisco-dones-appellant-v-jose-urrutia/", "blocked": false, "citation": {"case_name": "Francisco Dones v. Jose Urrutia, Warden of the Penitentiary of Porto Rico", "docket_number": "685", "document_uris": ["/api/rest/v2/document/96498/"], "federal_cite_one": "202 U.S. 614", "federal_cite_three": null, "federal_cite_two": null, "id": 80881, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/80881/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1906-05-28", "date_modified": "2014-12-21T01:34:33.707527", "docket": "/api/rest/v2/docket/1235842/", "download_url": "http://bulk.resource.org/courts.gov/c/US/202/202.US.614.685.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">202 U.S. 614</p>\r\n    <p class=\"case_cite\">26 S.Ct. 767</p>\r\n    <p class=\"case_cite\">50 L.Ed. 1172</p>\r\n    <p class=\"parties\">FRANCISCO DONES, <i>Appellant</i>,<br>v.<br>JOSE URRUTIA, Warden of the Penitentiary of Porto Rico.</p>\r\n    <p class=\"docket\">No. 685.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 28, 1906</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\"><i>Messrs. Frederic D. McKenney</i> and <i>J. Spalding Flannery</i> for appellant.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\"><i>The Attorney General</i> and the <i>Solicitor General</i> for appellee.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Final order <i>affirmed</i> with costs. Act April 12, 1900 (31 Stat. at L. 77, chap. 191, &#167;&#167; 15, 33, 34, 35); <i>Ortega</i> v. <i>Lara</i>, 202 U. S. 339, 50 L. ed. &#8212;&#8212;, 26 Sup. Ct. Rep. 707; <i>Perez v. Fernandez</i>, 202 U. S. 80, 50 L. ed. &#8212;&#8212;, 26 Sup. Ct. Rep. 561; Porto Rican Laws &amp; Code of Civ. Proc. 1904, pp. 103, 104, 110; <i>Ex parte Ward</i>, 173 U. S. 454, 43 L. ed. 765, 19 Sup. Ct. Rep. 459; <i>United States v. Bellingham Bay Boom Co.</i>, 176 U. S. 214, 44 L. ed. 440, 20 Sup. Ct. Rep. 343.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">202</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">614</span></span></p>\r\n    <p class=\"case_cite\">26 S.Ct. 767</p>\r\n    <p class=\"case_cite\">50 L.Ed. 1172</p>\r\n    <p class=\"parties\">FRANCISCO DONES, <i>Appellant</i>,<br>v.<br>JOSE URRUTIA, Warden of the Penitentiary of Porto Rico.</p>\r\n    <p class=\"docket\">No. 685.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 28, 1906</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\"><i>Messrs. Frederic D. McKenney</i> and <i>J. Spalding Flannery</i> for appellant.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\"><i>The Attorney General</i> and the <i>Solicitor General</i> for appellee.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Final order <i>affirmed</i> with costs. Act April 12, 1900 (31 Stat. at L. 77, chap. 191, &#167;&#167; 15, 33, 34, 35); <i>Ortega</i> v. <i>Lara</i>, 202 U. S. 339, 50 L. ed. &#8212;&#8212;, 26 Sup. Ct. Rep. 707; <i>Perez v. Fernandez</i>, 202 U. S. 80, 50 L. ed. &#8212;&#8212;, 26 Sup. Ct. Rep. 561; Porto Rican Laws &amp; Code of Civ. Proc. 1904, pp. 103, 104, 110; <i>Ex parte Ward</i>, 173 U. S. 454, 43 L. ed. 765, 19 Sup. Ct. Rep. 459; <i>United States v. Bellingham Bay Boom Co.</i>, 176 U. S. 214, 44 L. ed. 440, 20 Sup. Ct. Rep. 343.</p>\r\n    </div>\r\n    ", "id": 96498, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/96498/", "sha1": "f9b5cdb8d2a844b285761bda85e2f31344a8c911", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:41:35"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "202 U.S. 614", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/96498/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Francisco Dones v. Jose Urrutia, Warden of the Penitentiary of Porto Rico", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "685", 
+    "id": 80881, 
+    "resource_uri": "/api/rest/v2/citation/80881/"
+  }, 
+  "id": 96498, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1906-05-28", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/202/202.US.614.685.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:41:35", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">202</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">614</span></span></p>\r\n    <p class=\"case_cite\">26 S.Ct. 767</p>\r\n    <p class=\"case_cite\">50 L.Ed. 1172</p>\r\n    <p class=\"parties\">FRANCISCO DONES, <i>Appellant</i>,<br>v.<br>JOSE URRUTIA, Warden of the Penitentiary of Porto Rico.</p>\r\n    <p class=\"docket\">No. 685.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 28, 1906</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\"><i>Messrs. Frederic D. McKenney</i> and <i>J. Spalding Flannery</i> for appellant.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\"><i>The Attorney General</i> and the <i>Solicitor General</i> for appellee.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Final order <i>affirmed</i> with costs. Act April 12, 1900 (31 Stat. at L. 77, chap. 191, &#167;&#167; 15, 33, 34, 35); <i>Ortega</i> v. <i>Lara</i>, 202 U. S. 339, 50 L. ed. &#8212;&#8212;, 26 Sup. Ct. Rep. 707; <i>Perez v. Fernandez</i>, 202 U. S. 80, 50 L. ed. &#8212;&#8212;, 26 Sup. Ct. Rep. 561; Porto Rican Laws &amp; Code of Civ. Proc. 1904, pp. 103, 104, 110; <i>Ex parte Ward</i>, 173 U. S. 454, 43 L. ed. 765, 19 Sup. Ct. Rep. 459; <i>United States v. Bellingham Bay Boom Co.</i>, 176 U. S. 214, 44 L. ed. 440, 20 Sup. Ct. Rep. 343.</p>\r\n    </div>\r\n    ", 
+  "sha1": "f9b5cdb8d2a844b285761bda85e2f31344a8c911", 
+  "date_modified": "2014-12-21T01:34:33.707527", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/96498/francisco-dones-appellant-v-jose-urrutia/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1235842/", 
+  "html": "<p class=\"case_cite\">202 U.S. 614</p>\r\n    <p class=\"case_cite\">26 S.Ct. 767</p>\r\n    <p class=\"case_cite\">50 L.Ed. 1172</p>\r\n    <p class=\"parties\">FRANCISCO DONES, <i>Appellant</i>,<br>v.<br>JOSE URRUTIA, Warden of the Penitentiary of Porto Rico.</p>\r\n    <p class=\"docket\">No. 685.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 28, 1906</p>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\"><i>Messrs. Frederic D. McKenney</i> and <i>J. Spalding Flannery</i> for appellant.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\"><i>The Attorney General</i> and the <i>Solicitor General</i> for appellee.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p3\">\r\n      <span class=\"num\">3</span>\r\n      <p class=\"indent\">Final order <i>affirmed</i> with costs. Act April 12, 1900 (31 Stat. at L. 77, chap. 191, &#167;&#167; 15, 33, 34, 35); <i>Ortega</i> v. <i>Lara</i>, 202 U. S. 339, 50 L. ed. &#8212;&#8212;, 26 Sup. Ct. Rep. 707; <i>Perez v. Fernandez</i>, 202 U. S. 80, 50 L. ed. &#8212;&#8212;, 26 Sup. Ct. Rep. 561; Porto Rican Laws &amp; Code of Civ. Proc. 1904, pp. 103, 104, 110; <i>Ex parte Ward</i>, 173 U. S. 454, 43 L. ed. 765, 19 Sup. Ct. Rep. 459; <i>United States v. Bellingham Bay Boom Co.</i>, 176 U. S. 214, 44 L. ed. 440, 20 Sup. Ct. Rep. 343.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/96498/"
+}

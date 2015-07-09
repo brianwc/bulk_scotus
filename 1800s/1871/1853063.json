@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1853063/walker-v-dreville/", "blocked": false, "citation": {"case_name": "Walker v. Dreville", "docket_number": null, "document_uris": ["/api/rest/v2/document/1853063/"], "federal_cite_one": "79 U.S. 440", "federal_cite_three": null, "federal_cite_two": null, "id": 1825834, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1825834/", "scotus_early_cite": "12 Wall. 440", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1871-11-27", "date_modified": "2014-10-30T17:44:31.857297", "docket": "/api/rest/v2/docket/2564347/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>79 U.S. 440 (____)</b></center>\n<center><b>12 Wall. 440</b></center>\n<center><h1>WALKER<br>\nv.<br>\nDREVILLE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*442</span> Mr. T.J. Durant, for the plaintiff in error; Mr. Miles Taylor, contra.</p>\n<p>Mr. Justice MILLER, having stated the case in the way above given, delivered the opinion of the court.</p>\n<p>The pleading, the orders, and the decree of the court, show, we think, so as to need no further argument to a mind familiar with the principles of equity jurisprudence, that the procedure is in its essential nature a foreclosure of a mortgage in chancery. It has all the essential qualities of such a suit, and it has none which is not usual and appropriate in such a proceeding. It is true that there is a personal judgment against defendant, but the ninety-second rule of equity practice prescribed by this court clearly authorizes such a judgment in foreclosure cases. It is the precise mode of foreclosing mortgages adopted in many of the States under their codes, and in all of them, when there is a separate chancery docket, such proceedings are classed among the chancery causes.</p>\n<p>We have so often decided that notwithstanding the peculiarities of the Civil Code of Louisiana, the distinctions between law and equity must be preserved in the Federal courts, and that equity causes from that circuit must come here by appeal, and common law causes by writ of error, that we cannot now depart from that rule without overruling numerous decisions and a well-settled course of practice.<sup>[*]</sup></p>\n<p><span class=\"star-pagination\">*443</span> The present case being a proceeding in equity brought here by writ of error, and not by appeal, the writ must be</p>\n<p>DISMISSED.</p>\n<p>SWAYNE and BRADLEY, JJ., dissented.</p>\n<h2>NOTES</h2>\n<p>[*]  San Pedro, 2 Wheaton, 132; McCollum v. Eager, 2 Howard, 61; Minor v. Tillotson, Ib. 392; Surgett v. Lapice, 8 Id. 48; Brewster v. Wakefield, 22 Id. 118; Thompson v. Railroad Companies, 6 Wallace, 134.</p>\n\n</div>", "html_with_citations": "", "id": 1853063, "judges": "Miller, Having Stated the Case in the Way Above Given", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1853063/", "sha1": "b156534dc67357aaf5b82a2cc963e342e149378b", "source": "L", "time_retrieved": "2013-10-30T00:37:36.677266"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "79 U.S. 440", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1853063/"
+    ], 
+    "scotus_early_cite": "12 Wall. 440", 
+    "case_name": "Walker v. Dreville", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1825834, 
+    "resource_uri": "/api/rest/v2/citation/1825834/"
+  }, 
+  "id": 1853063, 
+  "blocked": false, 
+  "judges": "Miller, Having Stated the Case in the Way Above Given", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1871-11-27", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>79 U.S. 440 (____)</b></center>\n<center><b>12 Wall. 440</b></center>\n<center><h1>WALKER<br>\nv.<br>\nDREVILLE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*442</span> Mr. T.J. Durant, for the plaintiff in error; Mr. Miles Taylor, contra.</p>\n<p>Mr. Justice MILLER, having stated the case in the way above given, delivered the opinion of the court.</p>\n<p>The pleading, the orders, and the decree of the court, show, we think, so as to need no further argument to a mind familiar with the principles of equity jurisprudence, that the procedure is in its essential nature a foreclosure of a mortgage in chancery. It has all the essential qualities of such a suit, and it has none which is not usual and appropriate in such a proceeding. It is true that there is a personal judgment against defendant, but the ninety-second rule of equity practice prescribed by this court clearly authorizes such a judgment in foreclosure cases. It is the precise mode of foreclosing mortgages adopted in many of the States under their codes, and in all of them, when there is a separate chancery docket, such proceedings are classed among the chancery causes.</p>\n<p>We have so often decided that notwithstanding the peculiarities of the Civil Code of Louisiana, the distinctions between law and equity must be preserved in the Federal courts, and that equity causes from that circuit must come here by appeal, and common law causes by writ of error, that we cannot now depart from that rule without overruling numerous decisions and a well-settled course of practice.<sup>[*]</sup></p>\n<p><span class=\"star-pagination\">*443</span> The present case being a proceeding in equity brought here by writ of error, and not by appeal, the writ must be</p>\n<p>DISMISSED.</p>\n<p>SWAYNE and BRADLEY, JJ., dissented.</p>\n<h2>NOTES</h2>\n<p>[*]  San Pedro, 2 Wheaton, 132; McCollum v. Eager, 2 Howard, 61; Minor v. Tillotson, Ib. 392; Surgett v. Lapice, 8 Id. 48; Brewster v. Wakefield, 22 Id. 118; Thompson v. Railroad Companies, 6 Wallace, 134.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T00:37:36.677266", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "b156534dc67357aaf5b82a2cc963e342e149378b", 
+  "date_modified": "2014-10-30T17:44:31.857297", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1853063/walker-v-dreville/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2564347/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1853063/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1303513/scott-v-crosdale/", "blocked": false, "citation": {"case_name": "Scott v. Crosdale", "docket_number": null, "document_uris": ["/api/rest/v2/document/1303513/"], "federal_cite_one": "2 U.S. 127", "federal_cite_three": null, "federal_cite_two": null, "id": 1276284, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1276284/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1791-09-01", "date_modified": "2014-10-30T10:47:31.962723", "docket": "/api/rest/v2/docket/1573716/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 127 (____)</b></center>\n<center><b>2 Dall. 127</b></center>\n<center><h1>SCOTT<br>\nversus<br>\nCROSDALE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Serjeant, for the plaintiff.</p>\n<p><span class=\"star-pagination\">*128</span> BY THE COURT:  The point has been too long settled to be stirred now; and judgment must be for the defendant.</p>\n</div>", "html_with_citations": "", "id": 1303513, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1303513/", "sha1": "5f2ae62f3420515d74069a803ba0051ded4a2cc6", "source": "L", "time_retrieved": "2013-10-29T22:24:35.896743"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 127", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1303513/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Scott v. Crosdale", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1276284, 
+    "resource_uri": "/api/rest/v2/citation/1276284/"
+  }, 
+  "id": 1303513, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1791-09-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 127 (____)</b></center>\n<center><b>2 Dall. 127</b></center>\n<center><h1>SCOTT<br>\nversus<br>\nCROSDALE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Serjeant, for the plaintiff.</p>\n<p><span class=\"star-pagination\">*128</span> BY THE COURT: \u0097 The point has been too long settled to be stirred now; and judgment must be for the defendant.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:24:35.896743", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "5f2ae62f3420515d74069a803ba0051ded4a2cc6", 
+  "date_modified": "2014-10-30T10:47:31.962723", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1303513/scott-v-crosdale/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1573716/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1303513/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/113513/bover-v-united-states/", "blocked": false, "citation": {"case_name": "Bover v. United States", "docket_number": "92-9068", "document_uris": ["/api/rest/v2/document/113513/"], "federal_cite_one": "510 U.S. 849", "federal_cite_three": null, "federal_cite_two": null, "id": 97872, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/97872/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-10-04", "date_modified": "2014-12-21T02:13:35.066625", "docket": "/api/rest/v2/docket/288667/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.849.92-9068.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 849</p>\n    <p class=\"parties\">Bover<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 92-9068.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 11th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 988 F. 2d 1217.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">849</span></span></p>\n    <p class=\"parties\">Bover<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 92-9068.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 11th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 988 F. 2d 1217.</p>\n    </div>\n    ", "id": 113513, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/113513/", "sha1": "35d7ccd09fca454a22e385944d4867ff132d231e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:14"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 849", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/113513/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bover v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "92-9068", 
+    "id": 97872, 
+    "resource_uri": "/api/rest/v2/citation/97872/"
+  }, 
+  "id": 113513, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.849.92-9068.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:14", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">849</span></span></p>\n    <p class=\"parties\">Bover<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 92-9068.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 11th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 988 F. 2d 1217.</p>\n    </div>\n    ", 
+  "sha1": "35d7ccd09fca454a22e385944d4867ff132d231e", 
+  "date_modified": "2014-12-21T02:13:35.066625", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/113513/bover-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/288667/", 
+  "html": "<p class=\"case_cite\">510 U.S. 849</p>\n    <p class=\"parties\">Bover<br>v.<br>United States.</p>\n    <p class=\"docket\">No. 92-9068.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 11th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 988 F. 2d 1217.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/113513/"
+}

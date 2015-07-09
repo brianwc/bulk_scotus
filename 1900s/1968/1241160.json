@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1241160/brooks-v-briley/", "blocked": false, "citation": {"case_name": "Brooks v. Briley", "docket_number": "1285, Misc", "document_uris": ["/api/rest/v2/document/1241160/"], "federal_cite_one": "391 U.S. 361", "federal_cite_three": null, "federal_cite_two": null, "id": 1213931, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1213931/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 5, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-05-20", "date_modified": "2014-10-30T02:46:50.378461", "docket": "/api/rest/v2/docket/472984/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>391 U.S. 361 (1968)</b></center>\n<center><h1>BROOKS ET AL.<br>\nv.<br>\nBRILEY, MAYOR OF NASHVILLE, ET AL.</h1></center>\n<center>No. 1285, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 20, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE MIDDLE DISTRICT OF TENNESSEE.\n<p><i>William M. Kunstler, Arthur Kinoy, Howard Moore, Jr.,</i> and <i>Morton Stavis</i> for appellants.</p>\n<p><i>George F. McCanless,</i> Attorney General of Tennessee, <i>Thomas E. Fox,</i> Assistant Attorney General, <i>Edwin F. Hunt,</i> and <i>Robert E. Kendrick</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> is granted. The motion to affirm is also granted and the judgment is affirmed. <i>Cameron</i> v. <i>Johnson,</i> 390 U. S. 611.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n</div>", "html_with_citations": "", "id": 1241160, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1241160/", "sha1": "a132b568e9fed2333db9122a2777dda17f77b0e9", "source": "L", "time_retrieved": "2013-10-29T22:11:01.793003"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "391 U.S. 361", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1241160/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Brooks v. Briley", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1285, Misc", 
+    "id": 1213931, 
+    "resource_uri": "/api/rest/v2/citation/1213931/"
+  }, 
+  "id": 1241160, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-05-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>391 U.S. 361 (1968)</b></center>\n<center><h1>BROOKS ET AL.<br>\nv.<br>\nBRILEY, MAYOR OF NASHVILLE, ET AL.</h1></center>\n<center>No. 1285, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 20, 1968.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE MIDDLE DISTRICT OF TENNESSEE.\n<p><i>William M. Kunstler, Arthur Kinoy, Howard Moore, Jr.,</i> and <i>Morton Stavis</i> for appellants.</p>\n<p><i>George F. McCanless,</i> Attorney General of Tennessee, <i>Thomas E. Fox,</i> Assistant Attorney General, <i>Edwin F. Hunt,</i> and <i>Robert E. Kendrick</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> is granted. The motion to affirm is also granted and the judgment is affirmed. <i>Cameron</i> v. <i>Johnson,</i> 390 U. S. 611.</p>\n<p>MR. JUSTICE DOUGLAS dissents.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:11:01.793003", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "a132b568e9fed2333db9122a2777dda17f77b0e9", 
+  "date_modified": "2014-10-30T02:46:50.378461", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1241160/brooks-v-briley/", 
+  "citation_count": 5, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/472984/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1241160/"
+}

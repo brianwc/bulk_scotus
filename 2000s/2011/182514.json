@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/182514/madison-county-v-oneida-indian-nation-of-n-y/", "blocked": false, "citation": {"case_name": "Madison County v. Oneida Indian Nation of N. Y.", "docket_number": "10-72", "document_uris": ["/api/rest/v2/document/182514/"], "federal_cite_one": "", "federal_cite_three": null, "federal_cite_two": null, "id": 166226, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/166226/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2011-01-10", "date_modified": "2014-12-21T03:20:02.727633", "docket": "/api/rest/v2/docket/2358437/", "download_url": "http://www.supremecourt.gov/opinions/10pdf/10-72.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "", "id": 182514, "judges": "", "local_path": "pdf/2011/01/10/Madison_County_v._Oneida_Indian_Nation_of_N._Y..pdf", "nature_of_suit": "", "plain_text": "                 Cite as: 562 U. S. ____ (2011)            1\n\n                          Per Curiam\n\nSUPREME COURT OF THE UNITED STATES\n  MADISON COUNTY, NEW YORK ET AL. v. ONEIDA \n\n        INDIAN NATION OF NEW YORK\n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF \n\n           APPEALS FOR THE SECOND CIRCUIT\n\n\n             No. 10–72. Decided January 10, 2011 \n\n\n   PER CURIAM.\n   We granted certiorari, 562 U. S.___(2010), on the ques\ntions “whether tribal sovereign immunity from suit, to the\nextent it should continue to be recognized, bars taxing\nauthorities from foreclosing to collect lawfully imposed\nproperty taxes” and “whether the ancient Oneida reserva\ntion in New York was disestablished or diminished.” Pet.\nfor Cert. i. Counsel for respondent Oneida Indian Nation\nadvised the Court through a letter on November 30, 2010,\nthat the Nation had, on November 29, 2010, passed a\ntribal declaration and ordinance waiving “its sovereign\nimmunity to enforcement of real property taxation\nthrough foreclosure by state, county and local govern\nments within and throughout the United States.” Oneida\nIndian Nation, Ordinance No. O-10–1 (2010). Petitioners\nMadison and Oneida Counties responded in a December 1,\n2010 letter, questioning the validity, scope, and perma\nnence of that waiver; the Nation addressed those concerns\nin a December 2, 2010 letter.\n   We vacate the judgment and remand the case to the\nUnited States Court of Appeals for the Second Circuit.\nThat court should address, in the first instance, whether\nto revisit its ruling on sovereign immunity in light of this\nnew factual development, and—if necessary—proceed to\naddress other questions in the case consistent with its\nsovereign immunity ruling. See Kiyemba v. Obama, 559\nU. S. ___ (2010) (per curiam).\n   Petitioners are awarded costs in this Court pursuant to\n2   MADISON COUNTY v. ONEIDA INDIAN NATION OF N. Y.\n\n                          Per Curiam\n\nthis Court’s Rule 43.2.\n                                        It is so ordered.\n\n  JUSTICE SOTOMAYOR took no part in the consideration\nor decision of this case.\n", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/182514/", "sha1": "a21bbbdef067687b2b71295557a53a65e6680650", "source": "C", "supreme_court_db_id": null, "time_retrieved": "2011-01-10T07:01:04"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/182514/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Madison County v. Oneida Indian Nation of N. Y.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "10-72", 
+    "id": 166226, 
+    "resource_uri": "/api/rest/v2/citation/166226/"
+  }, 
+  "id": 182514, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2011-01-10", 
+  "download_url": "http://www.supremecourt.gov/opinions/10pdf/10-72.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2011/01/10/Madison_County_v._Oneida_Indian_Nation_of_N._Y..pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2011-01-10T07:01:04", 
+  "nature_of_suit": "", 
+  "plain_text": "                 Cite as: 562 U. S. ____ (2011)            1\n\n                          Per Curiam\n\nSUPREME COURT OF THE UNITED STATES\n  MADISON COUNTY, NEW YORK ET AL. v. ONEIDA \n\n        INDIAN NATION OF NEW YORK\n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF \n\n           APPEALS FOR THE SECOND CIRCUIT\n\n\n             No. 10\u201372. Decided January 10, 2011 \n\n\n   PER CURIAM.\n   We granted certiorari, 562 U. S.___(2010), on the ques\ntions \u201cwhether tribal sovereign immunity from suit, to the\nextent it should continue to be recognized, bars taxing\nauthorities from foreclosing to collect lawfully imposed\nproperty taxes\u201d and \u201cwhether the ancient Oneida reserva\ntion in New York was disestablished or diminished.\u201d Pet.\nfor Cert. i. Counsel for respondent Oneida Indian Nation\nadvised the Court through a letter on November 30, 2010,\nthat the Nation had, on November 29, 2010, passed a\ntribal declaration and ordinance waiving \u201cits sovereign\nimmunity to enforcement of real property taxation\nthrough foreclosure by state, county and local govern\nments within and throughout the United States.\u201d Oneida\nIndian Nation, Ordinance No. O-10\u20131 (2010). Petitioners\nMadison and Oneida Counties responded in a December 1,\n2010 letter, questioning the validity, scope, and perma\nnence of that waiver; the Nation addressed those concerns\nin a December 2, 2010 letter.\n   We vacate the judgment and remand the case to the\nUnited States Court of Appeals for the Second Circuit.\nThat court should address, in the first instance, whether\nto revisit its ruling on sovereign immunity in light of this\nnew factual development, and\u2014if necessary\u2014proceed to\naddress other questions in the case consistent with its\nsovereign immunity ruling. See Kiyemba v. Obama, 559\nU. S. ___ (2010) (per curiam).\n   Petitioners are awarded costs in this Court pursuant to\n2   MADISON COUNTY v. ONEIDA INDIAN NATION OF N. Y.\n\n                          Per Curiam\n\nthis Court\u2019s Rule 43.2.\n                                        It is so ordered.\n\n  JUSTICE SOTOMAYOR took no part in the consideration\nor decision of this case.\n", 
+  "html_with_citations": "", 
+  "sha1": "a21bbbdef067687b2b71295557a53a65e6680650", 
+  "date_modified": "2014-12-21T03:20:02.727633", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/182514/madison-county-v-oneida-indian-nation-of-n-y/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2358437/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/182514/"
+}

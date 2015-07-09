@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2621069/megginson-v-united-states/", "blocked": false, "citation": {"case_name": "Megginson v. United States", "docket_number": "07-6309", "document_uris": ["/api/rest/v2/document/2621069/"], "federal_cite_one": "129 S. Ct. 1982", "federal_cite_three": null, "federal_cite_two": null, "id": 2593841, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593841/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2009-05-18", "date_modified": "2015-04-14T08:12:19.178881", "docket": "/api/rest/v2/docket/79435/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>129 S.Ct. 1982 (2009)</b></center>\n<center><h1>Robert MEGGINSON, Petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 07-6309.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 18, 2009.</center>\n<p>The motion of petitioner for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of <i>Arizona v. Gant,</i> 556 U.S. ___, 129 S.Ct. 1710, ___ L.Ed.2d ___ (2009).</p>\n<p>Justice ALITO, dissenting.</p>\n<p>In <i>Arizona v. Gant,</i> 556 U.S. ___, 129 S.Ct. 1710, ___ L.Ed.2d ___ (2009), the Court held that a law enforcement officer who arrests a vehicle occupant may search the vehicle if the officer has reason to believe the vehicle contains evidence of the crime of arrest. <i>Id.,</i> at ___, 129 S.Ct., at 1723-1724. The Court took this test from Justice SCALIA's separate opinion in <i>Thornton v. United States,</i> 541 U.S. 615, 632, 124 S.Ct. 2127, 158 L.Ed.2d 905 (2004) (opinion concurring in judgment), but did not provide an independent explanation of the basis for or the scope of this rule. As I observed in dissent, <i>Gant, supra,</i> at ___, 129 S.Ct., at 1719, this test creates a host of uncertainties, and this case illustrates just one of the problems.</p>\n<p>Here, petitioner, a vehicle occupant, was arrested on a warrant for threatening to kill his wife in violation of N.C. Gen. Stat. Ann. § 14-277.1 (Lexis 2007).<sup>[*]</sup> It does not appear that petitioner told his wife <i>how</i> he intended to kill her, <i>i.e.,</i> with a gun, knife, bare hands, etc. After petitioner was arrested, his car was searched, and the officer found, among other things, a loaded revolver and drugs. This case thus appears to present an important question regarding the meaning and specificity of the reasonable suspicion requirement in <i>Gant.</i> Because of the ambiguity of the new <i>Gant</i> test and the frequency of roadside arrests, I would grant certiorari in this case to provide much needed clarification.</p>\n<h2>NOTES</h2>\n<p>[*]  \"(a) A person is guilty of a Class 1 misdemeanor if without lawful authority:\n</p>\n<p>\"(1) He willfully threatens to physically injure the person or that person's child, sibling, spouse, or dependent or willfully threatens to damage the property of another;</p>\n<p>\"(2) The threat is communicated to the other person, orally, in writing, or by any other means;</p>\n<p>\"(3) The threat is made in a manner and under circumstances which would cause a reasonable person to believe that the threat is likely to be carried out; and</p>\n<p>\"(4) The person threatened believes that the threat will be carried out.</p>\n<p>\"(b) A violation of this section is a Class 1 misdemeanor.\" N.C. Gen. Stat. Ann. § 14-277.1</p>\n\n</div>", "html_with_citations": "", "id": 2621069, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2621069/", "sha1": "5498af163294f7c7e12d13392158c9d669b0875f", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-11-01T13:34:23.057251"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "129 S. Ct. 1982", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2621069/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Megginson v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "07-6309", 
+    "id": 2593841, 
+    "resource_uri": "/api/rest/v2/citation/2593841/"
+  }, 
+  "id": 2621069, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2009-05-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>129 S.Ct. 1982 (2009)</b></center>\n<center><h1>Robert MEGGINSON, Petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 07-6309.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 18, 2009.</center>\n<p>The motion of petitioner for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of <i>Arizona v. Gant,</i> 556 U.S. ___, 129 S.Ct. 1710, ___ L.Ed.2d ___ (2009).</p>\n<p>Justice ALITO, dissenting.</p>\n<p>In <i>Arizona v. Gant,</i> 556 U.S. ___, 129 S.Ct. 1710, ___ L.Ed.2d ___ (2009), the Court held that a law enforcement officer who arrests a vehicle occupant may search the vehicle if the officer has reason to believe the vehicle contains evidence of the crime of arrest. <i>Id.,</i> at ___, 129 S.Ct., at 1723-1724. The Court took this test from Justice SCALIA's separate opinion in <i>Thornton v. United States,</i> 541 U.S. 615, 632, 124 S.Ct. 2127, 158 L.Ed.2d 905 (2004) (opinion concurring in judgment), but did not provide an independent explanation of the basis for or the scope of this rule. As I observed in dissent, <i>Gant, supra,</i> at ___, 129 S.Ct., at 1719, this test creates a host of uncertainties, and this case illustrates just one of the problems.</p>\n<p>Here, petitioner, a vehicle occupant, was arrested on a warrant for threatening to kill his wife in violation of N.C. Gen. Stat. Ann. \u00a7 14-277.1 (Lexis 2007).<sup>[*]</sup> It does not appear that petitioner told his wife <i>how</i> he intended to kill her, <i>i.e.,</i> with a gun, knife, bare hands, etc. After petitioner was arrested, his car was searched, and the officer found, among other things, a loaded revolver and drugs. This case thus appears to present an important question regarding the meaning and specificity of the reasonable suspicion requirement in <i>Gant.</i> Because of the ambiguity of the new <i>Gant</i> test and the frequency of roadside arrests, I would grant certiorari in this case to provide much needed clarification.</p>\n<h2>NOTES</h2>\n<p>[*]  \"(a) A person is guilty of a Class 1 misdemeanor if without lawful authority:\n</p>\n<p>\"(1) He willfully threatens to physically injure the person or that person's child, sibling, spouse, or dependent or willfully threatens to damage the property of another;</p>\n<p>\"(2) The threat is communicated to the other person, orally, in writing, or by any other means;</p>\n<p>\"(3) The threat is made in a manner and under circumstances which would cause a reasonable person to believe that the threat is likely to be carried out; and</p>\n<p>\"(4) The person threatened believes that the threat will be carried out.</p>\n<p>\"(b) A violation of this section is a Class 1 misdemeanor.\" N.C. Gen. Stat. Ann. \u00a7 14-277.1</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T13:34:23.057251", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "5498af163294f7c7e12d13392158c9d669b0875f", 
+  "date_modified": "2015-04-14T08:12:19.178881", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2621069/megginson-v-united-states/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/79435/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2621069/"
+}

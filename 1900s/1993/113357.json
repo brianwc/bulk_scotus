@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/113357/ford-v-california/", "blocked": false, "citation": {"case_name": "Ford v. California", "docket_number": "92-8875", "document_uris": ["/api/rest/v2/document/113357/"], "federal_cite_one": "510 U.S. 838", "federal_cite_three": null, "federal_cite_two": null, "id": 97716, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/97716/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1993-10-04", "date_modified": "2014-12-21T02:13:34.451581", "docket": "/api/rest/v2/docket/2166622/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.838.92-8875.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 838</p>\n    <p class=\"parties\">Ford<br>v.<br>California.</p>\n    <p class=\"docket\">No. 92-8875.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Cal., 2d App. Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 11 Cal. App. 4th 175, 15 Cal. Rptr. 2d 112.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">838</span></span></p>\n    <p class=\"parties\">Ford<br>v.<br>California.</p>\n    <p class=\"docket\">No. 92-8875.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Cal., 2d App. Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2284015\"><a href=\"/opinion/2284015/people-v-von-villas/\"><span class=\"volume\">11</span> <span class=\"reporter\">Cal. App. 4th</span> <span class=\"page\">175</span></a></span>, 15 Cal. Rptr. 2d 112.</p>\n    </div>\n    ", "id": 113357, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/113357/", "sha1": "fcf573aaa6f67e2dec88ce45f3405e2574c6757a", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:09"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 838", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/113357/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ford v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "92-8875", 
+    "id": 97716, 
+    "resource_uri": "/api/rest/v2/citation/97716/"
+  }, 
+  "id": 113357, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1993-10-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.838.92-8875.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:09", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">838</span></span></p>\n    <p class=\"parties\">Ford<br>v.<br>California.</p>\n    <p class=\"docket\">No. 92-8875.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Cal., 2d App. Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: <span class=\"citation\" data-id=\"2284015\"><a href=\"/opinion/2284015/people-v-von-villas/\"><span class=\"volume\">11</span> <span class=\"reporter\">Cal. App. 4th</span> <span class=\"page\">175</span></a></span>, 15 Cal. Rptr. 2d 112.</p>\n    </div>\n    ", 
+  "sha1": "fcf573aaa6f67e2dec88ce45f3405e2574c6757a", 
+  "date_modified": "2014-12-21T02:13:34.451581", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/113357/ford-v-california/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2166622/", 
+  "html": "<p class=\"case_cite\">510 U.S. 838</p>\n    <p class=\"parties\">Ford<br>v.<br>California.</p>\n    <p class=\"docket\">No. 92-8875.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 4, 1993.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the Ct. App. Cal., 2d App. Dist.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 11 Cal. App. 4th 175, 15 Cal. Rptr. 2d 112.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/113357/"
+}

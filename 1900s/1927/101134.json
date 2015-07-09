@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/101134/andrew-w-mellon-as-director-general-of/", "blocked": false, "citation": {"case_name": "Andrew W. Mellon, as Director General of Railroads v. Leah M. Gray, Administratrix of the Estate of Glen E. Gray", "docket_number": "280", "document_uris": ["/api/rest/v2/document/101134/"], "federal_cite_one": "274 U.S. 715", "federal_cite_three": null, "federal_cite_two": null, "id": 85517, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/85517/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1927-05-31", "date_modified": "2014-12-21T01:38:24.560923", "docket": "/api/rest/v2/docket/1379078/", "download_url": "http://bulk.resource.org/courts.gov/c/US/274/274.US.715.280.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">274 U.S. 715</p>\n    <p class=\"case_cite\">47 S.Ct. 585</p>\n    <p class=\"case_cite\">71 L.Ed. 1318</p>\n    <p class=\"parties\">Andrew W. MELLON, as Director General of  Railroads, petitioner,<br>v.<br>Leah M. GRAY, Administratrix of the ESTATE OF  Glen E. GRAY.</p>\n    <p class=\"docket\">No. 280.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 25, 1927.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Shurtleff, Oakes &amp; Hinkley, of Lancaster, N. H., and Charles H. Blatchford, of Portland, Me., for petitioner.</p>\n      <p class=\"indent\">Messrs. Hollis R. Bailey, of Boston, Mass., and Murchie &amp; Murchie, of Concord, N. H. (Messrs. Alexander Murchie and Robert C. Murchie, both of Concord, N. H., of counsel), for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of Reading Company v. John L. Koons, Administrator, 271 U. S. 58, 46 S. Ct. 405, 70 L. Ed. 835.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">274</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">715</span></span></p>\n    <p class=\"case_cite\">47 S.Ct. 585</p>\n    <p class=\"case_cite\">71 L.Ed. 1318</p>\n    <p class=\"parties\">Andrew W. MELLON, as Director General of  Railroads, petitioner,<br>v.<br>Leah M. GRAY, Administratrix of the ESTATE OF  Glen E. GRAY.</p>\n    <p class=\"docket\">No. 280.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 25, 1927.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Shurtleff, Oakes &amp; Hinkley, of Lancaster, N. H., and Charles H. Blatchford, of Portland, Me., for petitioner.</p>\n      <p class=\"indent\">Messrs. Hollis R. Bailey, of Boston, Mass., and Murchie &amp; Murchie, of Concord, N. H. (Messrs. Alexander Murchie and Robert C. Murchie, both of Concord, N. H., of counsel), for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of Reading Company v. John L. Koons, Administrator, 271 U. S. 58, <span class=\"citation no-link\"><span class=\"volume\">46</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">405</span></span>, 70 L. Ed. 835.</p>\n    </div>\n    ", "id": 101134, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/101134/", "sha1": "a6c7e2cf77cc1d48e25c2434d60014e291b4b128", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:48:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "274 U.S. 715", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/101134/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Andrew W. Mellon, as Director General of Railroads v. Leah M. Gray, Administratrix of the Estate of Glen E. Gray", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "280", 
+    "id": 85517, 
+    "resource_uri": "/api/rest/v2/citation/85517/"
+  }, 
+  "id": 101134, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1927-05-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/274/274.US.715.280.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:48:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">274</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">715</span></span></p>\n    <p class=\"case_cite\">47 S.Ct. 585</p>\n    <p class=\"case_cite\">71 L.Ed. 1318</p>\n    <p class=\"parties\">Andrew W. MELLON, as Director General of  Railroads, petitioner,<br>v.<br>Leah M. GRAY, Administratrix of the ESTATE OF  Glen E. GRAY.</p>\n    <p class=\"docket\">No. 280.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 25, 1927.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Shurtleff, Oakes &amp; Hinkley, of Lancaster, N. H., and Charles H. Blatchford, of Portland, Me., for petitioner.</p>\n      <p class=\"indent\">Messrs. Hollis R. Bailey, of Boston, Mass., and Murchie &amp; Murchie, of Concord, N. H. (Messrs. Alexander Murchie and Robert C. Murchie, both of Concord, N. H., of counsel), for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of Reading Company v. John L. Koons, Administrator, 271 U. S. 58, <span class=\"citation no-link\"><span class=\"volume\">46</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">405</span></span>, 70 L. Ed. 835.</p>\n    </div>\n    ", 
+  "sha1": "a6c7e2cf77cc1d48e25c2434d60014e291b4b128", 
+  "date_modified": "2014-12-21T01:38:24.560923", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/101134/andrew-w-mellon-as-director-general-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1379078/", 
+  "html": "<p class=\"case_cite\">274 U.S. 715</p>\n    <p class=\"case_cite\">47 S.Ct. 585</p>\n    <p class=\"case_cite\">71 L.Ed. 1318</p>\n    <p class=\"parties\">Andrew W. MELLON, as Director General of  Railroads, petitioner,<br>v.<br>Leah M. GRAY, Administratrix of the ESTATE OF  Glen E. GRAY.</p>\n    <p class=\"docket\">No. 280.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 25, 1927.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Shurtleff, Oakes &amp; Hinkley, of Lancaster, N. H., and Charles H. Blatchford, of Portland, Me., for petitioner.</p>\n      <p class=\"indent\">Messrs. Hollis R. Bailey, of Boston, Mass., and Murchie &amp; Murchie, of Concord, N. H. (Messrs. Alexander Murchie and Robert C. Murchie, both of Concord, N. H., of counsel), for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of Reading Company v. John L. Koons, Administrator, 271 U. S. 58, 46 S. Ct. 405, 70 L. Ed. 835.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/101134/"
+}

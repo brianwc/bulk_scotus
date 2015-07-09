@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/108133/united-states-v-howard-eugene-rowell/", "blocked": false, "citation": {"case_name": "United States v. Howard Eugene Rowell", "docket_number": "863", "document_uris": ["/api/rest/v2/document/108133/"], "federal_cite_one": "397 U.S. 662", "federal_cite_three": null, "federal_cite_two": null, "id": 92492, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/92492/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1970-05-04", "date_modified": "2014-12-21T01:56:46.042796", "docket": "/api/rest/v2/docket/285682/", "download_url": "http://bulk.resource.org/courts.gov/c/US/397/397.US.662.863.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">397 U.S. 662</p>\n    <p class=\"case_cite\">90 S.Ct. 1407</p>\n    <p class=\"case_cite\">25 L.Ed.2d 642</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>Howard Eugene ROWELL.</p>\n    <p class=\"docket\">No. 863.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 27, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Solicitor General Griswold, Assistant Attorney General Wilson, Beatrice Rosenberg, and Mervyn Hamburg, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Eighth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of the respondent for leave to proceed <i>in forma pauperis</i> is granted. The petition for a writ of certiorari is also granted and the judgment of the United States Court of Appeals is vacated. The case is remanded to that court for further consideration in light of Buie v. United States, 396 U.S. 87, 90 S.Ct. 284, 24 L.Ed.2d 283.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">397</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">662</span></span></p>\n    <p class=\"case_cite\">90 S.Ct. 1407</p>\n    <p class=\"case_cite\">25 L.Ed.2d 642</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>Howard Eugene ROWELL.</p>\n    <p class=\"docket\">No. 863.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 27, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Solicitor General Griswold, Assistant Attorney General Wilson, Beatrice Rosenberg, and Mervyn Hamburg, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Eighth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of the respondent for leave to proceed <i>in forma pauperis</i> is granted. The petition for a writ of certiorari is also granted and the judgment of the United States Court of Appeals is vacated. The case is remanded to that court for further consideration in light of Buie v. United States, <span class=\"citation\" data-id=\"108003\"><a href=\"/opinion/108003/minor-v-united-states/\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">87</span></a></span>, 90 S.Ct. 284, 24 L.Ed.2d 283.</p>\n    </div>\n    ", "id": 108133, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/108133/", "sha1": "4933b63983be5fd82d138b9294df8d49e8ca144e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:23"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "397 U.S. 662", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/108133/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States v. Howard Eugene Rowell", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "863", 
+    "id": 92492, 
+    "resource_uri": "/api/rest/v2/citation/92492/"
+  }, 
+  "id": 108133, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1970-05-04", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/397/397.US.662.863.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:23", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">397</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">662</span></span></p>\n    <p class=\"case_cite\">90 S.Ct. 1407</p>\n    <p class=\"case_cite\">25 L.Ed.2d 642</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>Howard Eugene ROWELL.</p>\n    <p class=\"docket\">No. 863.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 27, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Solicitor General Griswold, Assistant Attorney General Wilson, Beatrice Rosenberg, and Mervyn Hamburg, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Eighth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of the respondent for leave to proceed <i>in forma pauperis</i> is granted. The petition for a writ of certiorari is also granted and the judgment of the United States Court of Appeals is vacated. The case is remanded to that court for further consideration in light of Buie v. United States, <span class=\"citation\" data-id=\"108003\"><a href=\"/opinion/108003/minor-v-united-states/\"><span class=\"volume\">396</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">87</span></a></span>, 90 S.Ct. 284, 24 L.Ed.2d 283.</p>\n    </div>\n    ", 
+  "sha1": "4933b63983be5fd82d138b9294df8d49e8ca144e", 
+  "date_modified": "2014-12-21T01:56:46.042796", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/108133/united-states-v-howard-eugene-rowell/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/285682/", 
+  "html": "<p class=\"case_cite\">397 U.S. 662</p>\n    <p class=\"case_cite\">90 S.Ct. 1407</p>\n    <p class=\"case_cite\">25 L.Ed.2d 642</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>Howard Eugene ROWELL.</p>\n    <p class=\"docket\">No. 863.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 27, 1970</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Solicitor General Griswold, Assistant Attorney General Wilson, Beatrice Rosenberg, and Mervyn Hamburg, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Eighth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of the respondent for leave to proceed <i>in forma pauperis</i> is granted. The petition for a writ of certiorari is also granted and the judgment of the United States Court of Appeals is vacated. The case is remanded to that court for further consideration in light of Buie v. United States, 396 U.S. 87, 90 S.Ct. 284, 24 L.Ed.2d 283.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/108133/"
+}

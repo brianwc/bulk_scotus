@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/121185/branch-et-al-v-smith-et-al-and-smith-et-al/", "blocked": false, "citation": {"case_name": "Branch v. Smith and Smith v. Branch", "docket_number": "01-1437", "document_uris": ["/api/rest/v2/document/121185/"], "federal_cite_one": "536 U.S. 903", "federal_cite_three": null, "federal_cite_two": null, "id": 105538, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/105538/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-06-10", "date_modified": "2014-12-21T02:17:15.623285", "docket": "/api/rest/v2/docket/2482866/", "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.903.01-1596.01-1437.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">536 U.S. 903</p>\n    <p class=\"parties\">BRANCH ET AL.<br><i>v.</i><br>SMITH ET AL.; and<br>SMITH ET AL.<br><i>v.</i><br>BRANCH ET AL.</p>\n    <p class=\"docket\">No. 01-1437.</p>\n    <p class=\"docket\">No. 01-1596.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeals from D. C. S. D. Miss. Probable jurisdiction noted, cases consolidated, and a total of one hour allotted for oral argument. Reported below: 189 F. Supp. 2d 548.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">903</span></span></p>\n    <p class=\"parties\">BRANCH ET AL.<br><i>v.</i><br>SMITH ET AL.; and<br>SMITH ET AL.<br><i>v.</i><br>BRANCH ET AL.</p>\n    <p class=\"docket\">No. 01-1437.</p>\n    <p class=\"docket\">No. 01-1596.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeals from D. C. S. D. Miss. Probable jurisdiction noted, cases consolidated, and a total of one hour allotted for oral argument. Reported below: 189 F. Supp. 2d 548.</p>\n    </div>\n    ", "id": 121185, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/121185/", "sha1": "b8064ea53867e5e9ea38a9178681b8cbfd474af3", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:21:21"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "536 U.S. 903", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/121185/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Branch v. Smith and Smith v. Branch", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "01-1437", 
+    "id": 105538, 
+    "resource_uri": "/api/rest/v2/citation/105538/"
+  }, 
+  "id": 121185, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-06-10", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/536/536.US.903.01-1596.01-1437.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:21:21", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">536</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">903</span></span></p>\n    <p class=\"parties\">BRANCH ET AL.<br><i>v.</i><br>SMITH ET AL.; and<br>SMITH ET AL.<br><i>v.</i><br>BRANCH ET AL.</p>\n    <p class=\"docket\">No. 01-1437.</p>\n    <p class=\"docket\">No. 01-1596.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeals from D. C. S. D. Miss. Probable jurisdiction noted, cases consolidated, and a total of one hour allotted for oral argument. Reported below: 189 F. Supp. 2d 548.</p>\n    </div>\n    ", 
+  "sha1": "b8064ea53867e5e9ea38a9178681b8cbfd474af3", 
+  "date_modified": "2014-12-21T02:17:15.623285", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/121185/branch-et-al-v-smith-et-al-and-smith-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2482866/", 
+  "html": "<p class=\"case_cite\">536 U.S. 903</p>\n    <p class=\"parties\">BRANCH ET AL.<br><i>v.</i><br>SMITH ET AL.; and<br>SMITH ET AL.<br><i>v.</i><br>BRANCH ET AL.</p>\n    <p class=\"docket\">No. 01-1437.</p>\n    <p class=\"docket\">No. 01-1596.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">June 10, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeals from D. C. S. D. Miss. Probable jurisdiction noted, cases consolidated, and a total of one hour allotted for oral argument. Reported below: 189 F. Supp. 2d 548.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/121185/"
+}

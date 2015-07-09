@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1085234/madigan-v-levin/", "blocked": false, "citation": {"case_name": "Madigan v. Levin", "docket_number": "12-872", "document_uris": ["/api/rest/v2/document/1085234/"], "federal_cite_one": "", "federal_cite_three": "", "federal_cite_two": "", "id": 1058005, "lexis_cite": "2013 U.S. LEXIS 7251", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1058005/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2013-10-15", "date_modified": "2014-12-20T11:24:32.287010", "docket": "/api/rest/v2/docket/2443709/", "download_url": "http://www.supremecourt.gov/opinions/13pdf/12-872_pm02.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "", "id": 1085234, "judges": "", "local_path": "pdf/2013/10/15/madigan_v._levin.pdf", "nature_of_suit": "", "plain_text": "(Slip Opinion)            Cite as: 571 U. S. ____ (2013)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash-\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 12–872\n                                     _________________\n\n\n LISA MADIGAN, ET AL., PETITIONERS v. HARVEY N.\n\n                      LEVIN\n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF \n\n           APPEALS FOR THE SEVENTH CIRCUIT\n\n                                 [October 15, 2013]\n\n\n  PER CURIAM.\n  The writ of certiorari is dismissed as improvidently\ngranted.\n                                        It is so ordered.\n", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1085234/", "sha1": "df0e783681c1172b1d3cbd7353948f415c362612", "source": "C", "supreme_court_db_id": "2013-001", "time_retrieved": "2013-10-15T07:21:44.129712"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": "", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "", 
+    "lexis_cite": "2013 U.S. LEXIS 7251", 
+    "document_uris": [
+      "/api/rest/v2/document/1085234/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Madigan v. Levin", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "12-872", 
+    "id": 1058005, 
+    "resource_uri": "/api/rest/v2/citation/1058005/"
+  }, 
+  "id": 1085234, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2013-10-15", 
+  "download_url": "http://www.supremecourt.gov/opinions/13pdf/12-872_pm02.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2013/10/15/madigan_v._levin.pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2013-10-15T07:21:44.129712", 
+  "nature_of_suit": "", 
+  "plain_text": "(Slip Opinion)            Cite as: 571 U. S. ____ (2013)                              1\n\n                                     Per Curiam\n\n       NOTICE: This opinion is subject to formal revision before publication in the\n       preliminary print of the United States Reports. Readers are requested to\n       notify the Reporter of Decisions, Supreme Court of the United States, Wash-\n       ington, D. C. 20543, of any typographical or other formal errors, in order\n       that corrections may be made before the preliminary print goes to press.\n\n\nSUPREME COURT OF THE UNITED STATES\n                                     _________________\n\n                                     No. 12\u2013872\n                                     _________________\n\n\n LISA MADIGAN, ET AL., PETITIONERS v. HARVEY N.\n\n                      LEVIN\n\n ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF \n\n           APPEALS FOR THE SEVENTH CIRCUIT\n\n                                 [October 15, 2013]\n\n\n  PER CURIAM.\n  The writ of certiorari is dismissed as improvidently\ngranted.\n                                        It is so ordered.\n", 
+  "html_with_citations": "", 
+  "sha1": "df0e783681c1172b1d3cbd7353948f415c362612", 
+  "date_modified": "2014-12-20T11:24:32.287010", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1085234/madigan-v-levin/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": "2013-001", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2443709/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1085234/"
+}

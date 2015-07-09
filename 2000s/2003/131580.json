@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/131580/crowell-v-sollie-sheriff-lauderdale-county/", "blocked": false, "citation": {"case_name": "Crowell v. Sollie, Sheriff, Lauderdale County, Mississippi", "docket_number": "02-10673", "document_uris": ["/api/rest/v2/document/131580/"], "federal_cite_one": "540 U.S. 834", "federal_cite_three": null, "federal_cite_two": null, "id": 115933, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/115933/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-10-06", "date_modified": "2014-12-21T02:19:22.549263", "docket": "/api/rest/v2/docket/2461950/", "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.834.02-10673.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">540 U.S. 834</p>\n    <p class=\"parties\">CROWELL<br>v.<br>SOLLIE, SHERIFF, LAUDERDALE COUNTY, MISSISSIPPI, ET AL.</p>\n    <p class=\"docket\">No. 02-10673.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 61 Fed. Appx. 121.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">834</span></span></p>\n    <p class=\"parties\">CROWELL<br>v.<br>SOLLIE, SHERIFF, LAUDERDALE COUNTY, MISSISSIPPI, ET AL.</p>\n    <p class=\"docket\">No. 02-10673.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 61 Fed. Appx. 121.</p>\n    </div>\n    ", "id": 131580, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/131580/", "sha1": "b18e2ab7bf3e8984519a379e19bb380c23fc240b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:38"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "540 U.S. 834", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/131580/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Crowell v. Sollie, Sheriff, Lauderdale County, Mississippi", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-10673", 
+    "id": 115933, 
+    "resource_uri": "/api/rest/v2/citation/115933/"
+  }, 
+  "id": 131580, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-10-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/540/540.US.834.02-10673.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:38", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">540</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">834</span></span></p>\n    <p class=\"parties\">CROWELL<br>v.<br>SOLLIE, SHERIFF, LAUDERDALE COUNTY, MISSISSIPPI, ET AL.</p>\n    <p class=\"docket\">No. 02-10673.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 61 Fed. Appx. 121.</p>\n    </div>\n    ", 
+  "sha1": "b18e2ab7bf3e8984519a379e19bb380c23fc240b", 
+  "date_modified": "2014-12-21T02:19:22.549263", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/131580/crowell-v-sollie-sheriff-lauderdale-county/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2461950/", 
+  "html": "<p class=\"case_cite\">540 U.S. 834</p>\n    <p class=\"parties\">CROWELL<br>v.<br>SOLLIE, SHERIFF, LAUDERDALE COUNTY, MISSISSIPPI, ET AL.</p>\n    <p class=\"docket\">No. 02-10673.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 6, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 61 Fed. Appx. 121.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/131580/"
+}

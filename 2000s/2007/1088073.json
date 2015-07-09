@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088073/herring-v-richmond-medical-center-for-women/", "blocked": false, "citation": {"case_name": "Herring v. Richmond Medical Center for Women", "docket_number": "05-730", "document_uris": ["/api/rest/v2/document/1088073/"], "federal_cite_one": "127 S. Ct. 2094", "federal_cite_three": null, "federal_cite_two": null, "id": 1060844, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060844/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-04-23", "date_modified": "2014-10-30T07:28:33.147431", "docket": "/api/rest/v2/docket/1123416/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 2094 (2007)</b></center>\n<center><h1>Michael HERRING, in His Official Capacity as Commonwealth's Attorney for the City of Richmond, Virginia, et al., petitioners,<br>\nv.<br>\nRICHMOND MEDICAL CENTER FOR WOMEN, et al.</h1></center>\n<center>No. 05-730.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>April 23, 2007.</center>\n<p>On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of <i>Gonzales v. Carhart,</i> 550 U.S. ___, 127 S.Ct. 1610, 167 L.Ed.2d 480 (2007).</p>\n</div>", "html_with_citations": "<div>\n<center><b>127 S.Ct. 2094 (2007)</b></center>\n<center><h1>Michael HERRING, in His Official Capacity as Commonwealth's Attorney for the City of Richmond, Virginia, et al., petitioners,<br>\nv.<br>\nRICHMOND MEDICAL CENTER FOR WOMEN, et al.</h1></center>\n<center>No. 05-730.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>April 23, 2007.</center>\n<p>On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of <i>Gonzales v. Carhart,</i> 550 U.S. ___, 127 S.Ct. 1610, 167 L.Ed.2d 480 (2007).</p>\n</div>", "id": 1088073, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088073/", "sha1": "04d379018d2ec8b50d527439962dc041568f8a2b", "source": "L", "time_retrieved": "2013-10-29T20:45:11.500161"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 2094", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088073/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Herring v. Richmond Medical Center for Women", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-730", 
+    "id": 1060844, 
+    "resource_uri": "/api/rest/v2/citation/1060844/"
+  }, 
+  "id": 1088073, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-04-23", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 2094 (2007)</b></center>\n<center><h1>Michael HERRING, in His Official Capacity as Commonwealth's Attorney for the City of Richmond, Virginia, et al., petitioners,<br>\nv.<br>\nRICHMOND MEDICAL CENTER FOR WOMEN, et al.</h1></center>\n<center>No. 05-730.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>April 23, 2007.</center>\n<p>On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of <i>Gonzales v. Carhart,</i> 550 U.S. ___, 127 S.Ct. 1610, 167 L.Ed.2d 480 (2007).</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:45:11.500161", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b>127 S.Ct. 2094 (2007)</b></center>\n<center><h1>Michael HERRING, in His Official Capacity as Commonwealth's Attorney for the City of Richmond, Virginia, et al., petitioners,<br>\nv.<br>\nRICHMOND MEDICAL CENTER FOR WOMEN, et al.</h1></center>\n<center>No. 05-730.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>April 23, 2007.</center>\n<p>On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of <i>Gonzales v. Carhart,</i> 550 U.S. ___, 127 S.Ct. 1610, 167 L.Ed.2d 480 (2007).</p>\n</div>", 
+  "sha1": "04d379018d2ec8b50d527439962dc041568f8a2b", 
+  "date_modified": "2014-10-30T07:28:33.147431", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088073/herring-v-richmond-medical-center-for-women/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1123416/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088073/"
+}

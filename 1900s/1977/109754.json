@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/109754/richmond-unified-school-dist-v-berg/", "blocked": false, "citation": {"case_name": "Richmond Unified School Dist. v. Berg", "docket_number": "75-1069", "document_uris": ["/api/rest/v2/document/109754/"], "federal_cite_one": "434 U.S. 158", "federal_cite_three": "54 L. Ed. 2d 375", "federal_cite_two": "98 S. Ct. 623", "id": 94113, "lexis_cite": "1977 U.S. LEXIS 160", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/94113/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 12, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1977-12-06", "date_modified": "2014-12-21T14:50:52.623680", "docket": "/api/rest/v2/docket/1670084/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">434 U.S. 158</p>\n    <p class=\"case_cite\">98 S.Ct. 623</p>\n    <p class=\"case_cite\">54 L.Ed.2d 375</p>\n    <p class=\"parties\">RICHMOND UNIFIED SCHOOL DISTRICT et al., petitioners,<br>v.<br>Sonja Lynn BERG, Etc</p>\n    <p class=\"docket\">No. 75-1069</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 6, 1977</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Writ of Certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">Dec. 6, 1977.</p>\n      <p>PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the Court of Appeals, 528 F.2d 1208, is vacated and the cause remanded for further consideration in light of <i>General Electric Co. v. Gilbert,</i> 429 U.S. 125, 97 S.Ct. 401, 50 L.Ed.2d 343 (1976), and <i>Nashville Gas Co. v. Satty,</i> 434 U.S. 136, 98 S.Ct. 347, 54 L.Ed.2d 356, and for consideration of possible mootness.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>434 U.S. 158 (1977)</b></center>\n<center><h1>RICHMOND UNIFIED SCHOOL DISTRICT<br>\nv.<br>\nBERG.</h1></center>\n<center>No. 75-1069.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 5, 1977.</center>\n<center>Decided December 6, 1977.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Arthur W. Walenta, Jr.,</i> argued the cause for petitioners. With him on the briefs was <i>John B. Clausen.</i></p>\n<p><i>Mary C. Dunlap</i> argued the cause and filed a brief for respondent.<sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Court of Appeals, 528 F. 2d 1208, is vacated and the cause remanded for further consideration in light of <i>General Electric Co.</i> v. <i>Gilbert,</i> 429 U. S. 125 (1976), and <i>Nashville Gas Co.</i> v. <i>Satty, ante,</i> p. 136, and for consideration of possible mootness.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Jerry D. Anker, Robert E. Nagle,</i> and <i>David Rubin</i> filed a brief for the National Education Assn. as <i>amicus curiae</i> urging affirmance.</p>\n\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">434</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">158</span></span> (1977)</b></center>\n<center><h1>RICHMOND UNIFIED SCHOOL DISTRICT<br>\nv.<br>\nBERG.</h1></center>\n<center>No. 75-1069.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 5, 1977.</center>\n<center>Decided December 6, 1977.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Arthur W. Walenta, Jr.,</i> argued the cause for petitioners. With him on the briefs was <i>John B. Clausen.</i></p>\n<p><i>Mary C. Dunlap</i> argued the cause and filed a brief for respondent.<sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Court of Appeals, 528 F. 2d 1208, is vacated and the cause remanded for further consideration in light of <i>General Electric Co.</i> v. <i>Gilbert,</i> 429 U. S. 125 (1976), and <i>Nashville Gas Co.</i> v. <i>Satty, ante,</i> p. 136, and for consideration of possible mootness.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Jerry D. Anker, Robert E. Nagle,</i> and <i>David Rubin</i> filed a brief for the National Education Assn. as <i>amicus curiae</i> urging affirmance.</p>\n\n</div>", "id": 109754, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/109754/", "sha1": "b3c63d8d47606f209325262f03df29d43f80e71f", "source": "LR", "supreme_court_db_id": "1977-015", "time_retrieved": "2010-04-28T10:12:15"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "434 U.S. 158", 
+    "federal_cite_two": "98 S. Ct. 623", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "54 L. Ed. 2d 375", 
+    "lexis_cite": "1977 U.S. LEXIS 160", 
+    "document_uris": [
+      "/api/rest/v2/document/109754/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Richmond Unified School Dist. v. Berg", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "75-1069", 
+    "id": 94113, 
+    "resource_uri": "/api/rest/v2/citation/94113/"
+  }, 
+  "id": 109754, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1977-12-06", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>434 U.S. 158 (1977)</b></center>\n<center><h1>RICHMOND UNIFIED SCHOOL DISTRICT<br>\nv.<br>\nBERG.</h1></center>\n<center>No. 75-1069.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 5, 1977.</center>\n<center>Decided December 6, 1977.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Arthur W. Walenta, Jr.,</i> argued the cause for petitioners. With him on the briefs was <i>John B. Clausen.</i></p>\n<p><i>Mary C. Dunlap</i> argued the cause and filed a brief for respondent.<sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Court of Appeals, 528 F. 2d 1208, is vacated and the cause remanded for further consideration in light of <i>General Electric Co.</i> v. <i>Gilbert,</i> 429 U. S. 125 (1976), and <i>Nashville Gas Co.</i> v. <i>Satty, ante,</i> p. 136, and for consideration of possible mootness.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Jerry D. Anker, Robert E. Nagle,</i> and <i>David Rubin</i> filed a brief for the National Education Assn. as <i>amicus curiae</i> urging affirmance.</p>\n\n</div>", 
+  "time_retrieved": "2010-04-28T10:12:15", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">434</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">158</span></span> (1977)</b></center>\n<center><h1>RICHMOND UNIFIED SCHOOL DISTRICT<br>\nv.<br>\nBERG.</h1></center>\n<center>No. 75-1069.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 5, 1977.</center>\n<center>Decided December 6, 1977.</center>\nCERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Arthur W. Walenta, Jr.,</i> argued the cause for petitioners. With him on the briefs was <i>John B. Clausen.</i></p>\n<p><i>Mary C. Dunlap</i> argued the cause and filed a brief for respondent.<sup>[*]</sup></p>\n<p>PER CURIAM.</p>\n<p>The judgment of the Court of Appeals, 528 F. 2d 1208, is vacated and the cause remanded for further consideration in light of <i>General Electric Co.</i> v. <i>Gilbert,</i> 429 U. S. 125 (1976), and <i>Nashville Gas Co.</i> v. <i>Satty, ante,</i> p. 136, and for consideration of possible mootness.</p>\n<h2>NOTES</h2>\n<p>[*]  <i>Jerry D. Anker, Robert E. Nagle,</i> and <i>David Rubin</i> filed a brief for the National Education Assn. as <i>amicus curiae</i> urging affirmance.</p>\n\n</div>", 
+  "sha1": "b3c63d8d47606f209325262f03df29d43f80e71f", 
+  "date_modified": "2014-12-21T14:50:52.623680", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/109754/richmond-unified-school-dist-v-berg/", 
+  "citation_count": 12, 
+  "supreme_court_db_id": "1977-015", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1670084/", 
+  "html": "<p class=\"case_cite\">434 U.S. 158</p>\n    <p class=\"case_cite\">98 S.Ct. 623</p>\n    <p class=\"case_cite\">54 L.Ed.2d 375</p>\n    <p class=\"parties\">RICHMOND UNIFIED SCHOOL DISTRICT et al., petitioners,<br>v.<br>Sonja Lynn BERG, Etc</p>\n    <p class=\"docket\">No. 75-1069</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 6, 1977</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Writ of Certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">Dec. 6, 1977.</p>\n      <p>PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the Court of Appeals, 528 F.2d 1208, is vacated and the cause remanded for further consideration in light of <i>General Electric Co. v. Gilbert,</i> 429 U.S. 125, 97 S.Ct. 401, 50 L.Ed.2d 343 (1976), and <i>Nashville Gas Co. v. Satty,</i> 434 U.S. 136, 98 S.Ct. 347, 54 L.Ed.2d 356, and for consideration of possible mootness.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/109754/"
+}

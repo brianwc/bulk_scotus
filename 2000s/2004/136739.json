@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136739/mitchell-et-al-v-connor-texas-secretary-of/", "blocked": false, "citation": {"case_name": "Mitchell v. Connor, Texas Secretary of State", "docket_number": "03-9620", "document_uris": ["/api/rest/v2/document/136739/"], "federal_cite_one": "541 U.S. 1077", "federal_cite_three": null, "federal_cite_two": null, "id": 121092, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/121092/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-06-01", "date_modified": "2014-12-21T02:20:12.446388", "docket": "/api/rest/v2/docket/411891/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1077.03-9620.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1077</p>\n    <p class=\"parties\">MITCHELL ET AL.<br>v.<br>CONNOR, TEXAS SECRETARY OF STATE, ET AL.</p>\n    <p class=\"docket\">No. 03-9620.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 1, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 80 Fed. Appx. 899.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1077</span></span></p>\n    <p class=\"parties\">MITCHELL ET AL.<br>v.<br>CONNOR, TEXAS SECRETARY OF STATE, ET AL.</p>\n    <p class=\"docket\">No. 03-9620.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 1, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 80 Fed. Appx. 899.</p>\n    </div>\n    ", "id": 136739, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136739/", "sha1": "7692f4898900ea2bd7e2c293af44cab700afff3b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:51"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1077", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136739/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Mitchell v. Connor, Texas Secretary of State", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-9620", 
+    "id": 121092, 
+    "resource_uri": "/api/rest/v2/citation/121092/"
+  }, 
+  "id": 136739, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-06-01", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1077.03-9620.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:51", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1077</span></span></p>\n    <p class=\"parties\">MITCHELL ET AL.<br>v.<br>CONNOR, TEXAS SECRETARY OF STATE, ET AL.</p>\n    <p class=\"docket\">No. 03-9620.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 1, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 80 Fed. Appx. 899.</p>\n    </div>\n    ", 
+  "sha1": "7692f4898900ea2bd7e2c293af44cab700afff3b", 
+  "date_modified": "2014-12-21T02:20:12.446388", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136739/mitchell-et-al-v-connor-texas-secretary-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/411891/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1077</p>\n    <p class=\"parties\">MITCHELL ET AL.<br>v.<br>CONNOR, TEXAS SECRETARY OF STATE, ET AL.</p>\n    <p class=\"docket\">No. 03-9620.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 1, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 80 Fed. Appx. 899.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136739/"
+}

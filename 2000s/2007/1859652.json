@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1859652/mta-new-york-city-transit-authority-v-reiter/", "blocked": false, "citation": {"case_name": "MTA NEW YORK CITY TRANSIT AUTHORITY v. Reiter", "docket_number": "06-890", "document_uris": ["/api/rest/v2/document/1859652/"], "federal_cite_one": "127 S. Ct. 1331", "federal_cite_three": null, "federal_cite_two": null, "id": 1832423, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1832423/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-02-20", "date_modified": "2014-10-30T10:00:00.979842", "docket": "/api/rest/v2/docket/1473231/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 1331 (2007)</b></center>\n<center><h1>MTA NEW YORK CITY TRANSIT AUTHORITY, petitioner,<br>\nv.<br>\nJohn REITER.</h1></center>\n<center>No. 06-890.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>February 20, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n</div>", "html_with_citations": "", "id": 1859652, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1859652/", "sha1": "b7bc715c288a796290f584bc70e354d4bd42965c", "source": "L", "time_retrieved": "2013-10-30T00:38:49.161913"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 1331", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1859652/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "MTA NEW YORK CITY TRANSIT AUTHORITY v. Reiter", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-890", 
+    "id": 1832423, 
+    "resource_uri": "/api/rest/v2/citation/1832423/"
+  }, 
+  "id": 1859652, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-02-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 1331 (2007)</b></center>\n<center><h1>MTA NEW YORK CITY TRANSIT AUTHORITY, petitioner,<br>\nv.<br>\nJohn REITER.</h1></center>\n<center>No. 06-890.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>February 20, 2007.</center>\n<p>Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:38:49.161913", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "b7bc715c288a796290f584bc70e354d4bd42965c", 
+  "date_modified": "2014-10-30T10:00:00.979842", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1859652/mta-new-york-city-transit-authority-v-reiter/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1473231/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1859652/"
+}

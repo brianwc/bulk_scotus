@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/145070/coleman-v-korman-chief-judge-united-states/", "blocked": false, "citation": {"case_name": "Coleman v. Korman, Chief Judge, United States District Court for the Eastern District of New York", "docket_number": "04-9571", "document_uris": ["/api/rest/v2/document/145070/"], "federal_cite_one": "544 U.S. 1066", "federal_cite_three": null, "federal_cite_two": null, "id": 129421, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/129421/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-05-31", "date_modified": "2014-12-21T02:22:10.042989", "docket": "/api/rest/v2/docket/458353/", "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1066.04-9571.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">544 U.S. 1066</p>\n    <p class=\"parties\">COLEMAN<br>v.<br>KORMAN, CHIEF JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF NEW YORK.</p>\n    <p class=\"docket\">No. 04-9571.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 31, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1066</span></span></p>\n    <p class=\"parties\">COLEMAN<br>v.<br>KORMAN, CHIEF JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF NEW YORK.</p>\n    <p class=\"docket\">No. 04-9571.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 31, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 145070, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/145070/", "sha1": "abe12b3356ee044b3761b38fc7cb3c2464e0317f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T11:16:46"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "544 U.S. 1066", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/145070/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Coleman v. Korman, Chief Judge, United States District Court for the Eastern District of New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-9571", 
+    "id": 129421, 
+    "resource_uri": "/api/rest/v2/citation/129421/"
+  }, 
+  "id": 145070, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-05-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/544/544.US.1066.04-9571.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T11:16:46", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">544</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1066</span></span></p>\n    <p class=\"parties\">COLEMAN<br>v.<br>KORMAN, CHIEF JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF NEW YORK.</p>\n    <p class=\"docket\">No. 04-9571.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 31, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "abe12b3356ee044b3761b38fc7cb3c2464e0317f", 
+  "date_modified": "2014-12-21T02:22:10.042989", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/145070/coleman-v-korman-chief-judge-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/458353/", 
+  "html": "<p class=\"case_cite\">544 U.S. 1066</p>\n    <p class=\"parties\">COLEMAN<br>v.<br>KORMAN, CHIEF JUDGE, UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF NEW YORK.</p>\n    <p class=\"docket\">No. 04-9571.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 31, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/145070/"
+}

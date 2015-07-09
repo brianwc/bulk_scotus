@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/85672/wolf-v-usher/", "blocked": false, "citation": {"case_name": "Wolf v. Usher", "docket_number": null, "document_uris": ["/api/rest/v2/document/85672/"], "federal_cite_one": "28 U.S. 269", "federal_cite_three": null, "federal_cite_two": null, "id": 53159, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/53159/", "scotus_early_cite": "3 Pet. 269", "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1830-02-25", "date_modified": "2014-12-21T01:24:15.823928", "docket": "/api/rest/v2/docket/2350760/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">28 U.S. 269</p>\n    <p class=\"case_cite\">3 Pet. 269</p>\n    <p class=\"case_cite\">7 L.Ed. 675</p>\n    <p class=\"parties\">JAMES D. WOLF<br>v.<br>GEORGE F. USHER.</p>\n    <p class=\"date\">January Term, 1830</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This cause came before the court on a certificate of a division between the judges of the circuit court of the district of Rhode Island.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">When the case was opened by the counsel for the plaintiff, it was found on inspecting the record, that the particular point on which the judges of the circuit court had differed, was not certified. The whole record had been sent up, and it contained a certificate that the judges of the court had differed in opinion, without a specific statement of what the difference was.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The court refused to take jurisdiction of the cause, and remanded the same to the circuit court of Rhode Island, with directions to proceed therein according to law.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">Mr Coxe, for plaintiff; Mr Whipple, for defendant.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>28 U.S. 269 (____)</b></center>\n<center><b>3 Pet. 269</b></center>\n<center><h1>JAMES D. WOLF<br>\nvs.<br>\nGEORGE F. USHER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr Coxe, for plaintiff; Mr Whipple, for defendant.</p>\n<p>When the case was opened by the counsel for the plaintiff, it was found on inspecting the record, that the particular point on which the judges of the circuit court had differed, was not certified. The whole record had been sent up, and it contained a certificate that the judges of the court had differed in opinion, without a specific statement of what the difference was.</p>\n<p>The court refused to take jurisdiction of the cause, and remanded the same to the circuit court of Rhode Island, with directions to proceed therein according to law.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">28</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">269</span></span> (____)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">Pet.</span> <span class=\"page\">269</span></span></b></center>\n<center><h1>JAMES D. WOLF<br>\nvs.<br>\nGEORGE F. USHER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr Coxe, for plaintiff; Mr Whipple, for defendant.</p>\n<p>When the case was opened by the counsel for the plaintiff, it was found on inspecting the record, that the particular point on which the judges of the circuit court had differed, was not certified. The whole record had been sent up, and it contained a certificate that the judges of the court had differed in opinion, without a specific statement of what the difference was.</p>\n<p>The court refused to take jurisdiction of the cause, and remanded the same to the circuit court of Rhode Island, with directions to proceed therein according to law.</p>\n</div>", "id": 85672, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/85672/", "sha1": "2eee6cc1293855b62fafc0c2759a0309dfbb20d1", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T08:59:49"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "28 U.S. 269", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/85672/"
+    ], 
+    "scotus_early_cite": "3 Pet. 269", 
+    "case_name": "Wolf v. Usher", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 53159, 
+    "resource_uri": "/api/rest/v2/citation/53159/"
+  }, 
+  "id": 85672, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1830-02-25", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>28 U.S. 269 (____)</b></center>\n<center><b>3 Pet. 269</b></center>\n<center><h1>JAMES D. WOLF<br>\nvs.<br>\nGEORGE F. USHER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr Coxe, for plaintiff; Mr Whipple, for defendant.</p>\n<p>When the case was opened by the counsel for the plaintiff, it was found on inspecting the record, that the particular point on which the judges of the circuit court had differed, was not certified. The whole record had been sent up, and it contained a certificate that the judges of the court had differed in opinion, without a specific statement of what the difference was.</p>\n<p>The court refused to take jurisdiction of the cause, and remanded the same to the circuit court of Rhode Island, with directions to proceed therein according to law.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T08:59:49", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">28</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">269</span></span> (____)</b></center>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">Pet.</span> <span class=\"page\">269</span></span></b></center>\n<center><h1>JAMES D. WOLF<br>\nvs.<br>\nGEORGE F. USHER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Mr Coxe, for plaintiff; Mr Whipple, for defendant.</p>\n<p>When the case was opened by the counsel for the plaintiff, it was found on inspecting the record, that the particular point on which the judges of the circuit court had differed, was not certified. The whole record had been sent up, and it contained a certificate that the judges of the court had differed in opinion, without a specific statement of what the difference was.</p>\n<p>The court refused to take jurisdiction of the cause, and remanded the same to the circuit court of Rhode Island, with directions to proceed therein according to law.</p>\n</div>", 
+  "sha1": "2eee6cc1293855b62fafc0c2759a0309dfbb20d1", 
+  "date_modified": "2014-12-21T01:24:15.823928", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/85672/wolf-v-usher/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2350760/", 
+  "html": "<p class=\"case_cite\">28 U.S. 269</p>\n    <p class=\"case_cite\">3 Pet. 269</p>\n    <p class=\"case_cite\">7 L.Ed. 675</p>\n    <p class=\"parties\">JAMES D. WOLF<br>v.<br>GEORGE F. USHER.</p>\n    <p class=\"date\">January Term, 1830</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This cause came before the court on a certificate of a division between the judges of the circuit court of the district of Rhode Island.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">When the case was opened by the counsel for the plaintiff, it was found on inspecting the record, that the particular point on which the judges of the circuit court had differed, was not certified. The whole record had been sent up, and it contained a certificate that the judges of the court had differed in opinion, without a specific statement of what the difference was.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The court refused to take jurisdiction of the cause, and remanded the same to the circuit court of Rhode Island, with directions to proceed therein according to law.</p>\n    </div>\n    <div class=\"num\" id=\"p4\">\n      <span class=\"num\">4</span>\n      <p class=\"indent\">Mr Coxe, for plaintiff; Mr Whipple, for defendant.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/85672/"
+}

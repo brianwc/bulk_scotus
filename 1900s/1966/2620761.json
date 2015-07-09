@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2620761/vitoratos-v-maxwell/", "blocked": false, "citation": {"case_name": "Vitoratos v. Maxwell", "docket_number": "1003, Misc", "document_uris": ["/api/rest/v2/document/2620761/"], "federal_cite_one": "383 U.S. 105", "federal_cite_three": null, "federal_cite_two": null, "id": 2593533, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593533/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1966-02-21", "date_modified": "2014-12-22T10:54:14.229516", "docket": "/api/rest/v2/docket/2549873/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>383 U.S. 105 (1966)</b></center>\n<center><h1>VITORATOS<br>\nv.<br>\nMAXWELL, WARDEN.</h1></center>\n<center>No. 1003, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 21, 1966.</center>\nAPPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 2620761, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620761/", "sha1": "2dc06ba0ff11ee962b2a64d887ef31a9a9bc1230", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-11-01T11:36:55.525031"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "383 U.S. 105", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620761/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Vitoratos v. Maxwell", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1003, Misc", 
+    "id": 2593533, 
+    "resource_uri": "/api/rest/v2/citation/2593533/"
+  }, 
+  "id": 2620761, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1966-02-21", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>383 U.S. 105 (1966)</b></center>\n<center><h1>VITORATOS<br>\nv.<br>\nMAXWELL, WARDEN.</h1></center>\n<center>No. 1003, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided February 21, 1966.</center>\nAPPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T11:36:55.525031", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "2dc06ba0ff11ee962b2a64d887ef31a9a9bc1230", 
+  "date_modified": "2014-12-22T10:54:14.229516", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620761/vitoratos-v-maxwell/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2549873/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620761/"
+}

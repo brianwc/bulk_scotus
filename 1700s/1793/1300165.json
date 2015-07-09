@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1300165/fitzgerald-v-caldwell/", "blocked": false, "citation": {"case_name": "Fitzgerald v. Caldwell", "docket_number": null, "document_uris": ["/api/rest/v2/document/1300165/"], "federal_cite_one": "2 U.S. 215", "federal_cite_three": null, "federal_cite_two": null, "id": 1272936, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1272936/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1793-04-01", "date_modified": "2014-10-30T10:46:57.257409", "docket": "/api/rest/v2/docket/1572611/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>2 U.S. 215 (____)</b></center>\n<center><b>2 Dall. 215</b></center>\n<center><h1>FITZGERALD<br>\nversus<br>\nCALDWELL.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>M`KEAN, Chief Justice.</p>\n<p>It is clearly the general rule that a garnishee is not liable for interest, while he is restrained from the payment of his debt, by the legal operation of a foreign attachment. But it is said by the plaintiff's Counsel, and I assent to the proposition, that if there is any fraud, or collusion; say, if there is any unreasonable delay occasioned by the conduct <span class=\"star-pagination\">*216</span> of the garnishee himself, such cases will form exceptions to the general rule. In the present instance, however, there is no proof of fraud, or collusion; nor of any wilful procrastination on the part of the garnishee; and fraud can never be presumed. It is true, likewise, that no express authority was given for laying the attachments; but an implied authority appears in the correspondence that has been produced: And the defendant is not answerable for the event. I am, therefore, of opinion that interest ought not to be allowed.</p>\n<p>SHIPPEN, Justice.</p>\n<p>Evidence will often strike different minds in a different manner. It does not appear to me, that there was sufficient authority for instituting the foreign attachment; but, on the contrary, that it was done officiously, and at the instance of the garnishee himself. I should, consequently, think it just, on this occasion, to allow the claim of interest; but the majority of the Court will sanction a different decision.</p>\n<p>YEATES, Justice.</p>\n<p>I concur, generally, in the opinion expressed by the Chief Justice, that there is not sufficient ground to except the present case from the operation of the general rule.</p>\n<p>BRADFORD, Justice.</p>\n<p>As I was originally Counsel in this cause, I forbear taking any part in the decision.</p>\n<p>BY THE COURT:  It is awarded, that the defendant be discharged, upon payment of the principal sum recovered, with costs.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  A writ of error was brought by the Plaintiff; and on the 18th of July 1793, the HIGH COURT OF ERRORS AND APPEALS delivered the following judgment.\n</p>\n<p>BY THE COURT:  After making consideration and due deliberation, it is considered by the Court here  1st. That the last judgment or decretal order of the Supreme Court \"That Andrew Caldwell shall be discharged from the said judgment on the payment of £4016 9s. 4d to wit, the principal sum found due to Vance, Caldwell &amp; Vance, by the second report of the referees, and all costs of suit,\" be reversed. 2d. That the judgment in the Supreme Court rendered in the Term of January 1791, in favor of George Fitzgerald, the plaintiff in Error, for the sum of £5009 5s. 1d. with the costs of suit, and by agreement of the parties, stated, in the Record, made absolute in January Term, 1792, be, and the same is hereby, according to the terms of the said agreement, affirmed and made stable.</p>\n<p>The record was thereupon remitted to the Supreme Court.</p>\n\n</div>", "html_with_citations": "", "id": 1300165, "judges": "M`kean", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1300165/", "sha1": "536596a6396c8ff54a580011e438a42f294389d5", "source": "L", "time_retrieved": "2013-10-29T22:23:59.222040"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "2 U.S. 215", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1300165/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Fitzgerald v. Caldwell", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 1272936, 
+    "resource_uri": "/api/rest/v2/citation/1272936/"
+  }, 
+  "id": 1300165, 
+  "blocked": false, 
+  "judges": "M`kean", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1793-04-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>2 U.S. 215 (____)</b></center>\n<center><b>2 Dall. 215</b></center>\n<center><h1>FITZGERALD<br>\nversus<br>\nCALDWELL.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>M`KEAN, Chief Justice.</p>\n<p>It is clearly the general rule that a garnishee is not liable for interest, while he is restrained from the payment of his debt, by the legal operation of a foreign attachment. But it is said by the plaintiff's Counsel, and I assent to the proposition, that if there is any fraud, or collusion; say, if there is any unreasonable delay occasioned by the conduct <span class=\"star-pagination\">*216</span> of the garnishee himself, such cases will form exceptions to the general rule. In the present instance, however, there is no proof of fraud, or collusion; nor of any wilful procrastination on the part of the garnishee; and fraud can never be presumed. It is true, likewise, that no express authority was given for laying the attachments; but an implied authority appears in the correspondence that has been produced: And the defendant is not answerable for the event. I am, therefore, of opinion that interest ought not to be allowed.</p>\n<p>SHIPPEN, Justice.</p>\n<p>Evidence will often strike different minds in a different manner. It does not appear to me, that there was sufficient authority for instituting the foreign attachment; but, on the contrary, that it was done officiously, and at the instance of the garnishee himself. I should, consequently, think it just, on this occasion, to allow the claim of interest; but the majority of the Court will sanction a different decision.</p>\n<p>YEATES, Justice.</p>\n<p>I concur, generally, in the opinion expressed by the Chief Justice, that there is not sufficient ground to except the present case from the operation of the general rule.</p>\n<p>BRADFORD, Justice.</p>\n<p>As I was originally Counsel in this cause, I forbear taking any part in the decision.</p>\n<p>BY THE COURT: \u0097 It is awarded, that the defendant be discharged, upon payment of the principal sum recovered, with costs.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  A writ of error was brought by the Plaintiff; and on the 18th of July 1793, the HIGH COURT OF ERRORS AND APPEALS delivered the following judgment.\n</p>\n<p>BY THE COURT: \u0097 After making consideration and due deliberation, it is considered by the Court here \u0097 1st. That the last judgment or decretal order of the Supreme Court \"That Andrew Caldwell shall be discharged from the said judgment on the payment of \u00a34016 9s. 4d to wit, the principal sum found due to Vance, Caldwell &amp; Vance, by the second report of the referees, and all costs of suit,\" be reversed. 2d. That the judgment in the Supreme Court rendered in the Term of January 1791, in favor of George Fitzgerald, the plaintiff in Error, for the sum of \u00a35009 5s. 1d. with the costs of suit, and by agreement of the parties, stated, in the Record, made absolute in January Term, 1792, be, and the same is hereby, according to the terms of the said agreement, affirmed and made stable.</p>\n<p>The record was thereupon remitted to the Supreme Court.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-29T22:23:59.222040", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "536596a6396c8ff54a580011e438a42f294389d5", 
+  "date_modified": "2014-10-30T10:46:57.257409", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1300165/fitzgerald-v-caldwell/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1572611/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1300165/"
+}

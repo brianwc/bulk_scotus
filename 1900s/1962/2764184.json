@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2764184/adolph-hohensee-v-new-syndicate-inc-etc/", "blocked": false, "citation": {"case_name": "Adolph Hohensee v. New Syndicate, Inc., Etc", "docket_number": "214", "document_uris": ["/api/rest/v2/document/2764184/"], "federal_cite_one": "369 U.S. 659", "federal_cite_three": "8 L. Ed. 2d 273", "federal_cite_two": "82 S. Ct. 1035", "id": 2736959, "lexis_cite": "1962 U.S. LEXIS 1274", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2736959/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-06-11", "date_modified": "2014-12-23T12:21:24.498168", "docket": "/api/rest/v2/docket/2618434/", "download_url": "/sources/Resource.org/data/US/369/369.US.659.214.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">369 U.S. 659</p>\n    <p class=\"case_cite\">82 S.Ct. 1035</p>\n    <p class=\"case_cite\">8 L.Ed.2d 273</p>\n    <p class=\"parties\">Adolph HOHENSEE<br>v.<br>NEW SYNDICATE, INC., etc.</p>\n    <p class=\"docket\">No. 214.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 14, 1962</p>\n    <p class=\"date\">Rehearing Denied June 11, 1962.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 370 U.S. 920, 82 S.Ct. 1552.</p>\n      <p class=\"indent\">James C. Newton, for petitioner.</p>\n      <p class=\"indent\">Stuart N. Updike, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Third Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded for consideration in light of Goldlawr, Inc., v. Heiman, 369 U.S. 463, 82 S.Ct. 913, 8 L.Ed.2d 39.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN and Mr. Justice STEWART, for the reasons given in their dissent in the Goldlawr case, would deny certiorari.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER took no part in the consideration or decision of this case.</p>\n    </div>\n    ", "html_lawbox": null, "html_with_citations": "", "id": 2764184, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2764184/", "sha1": "6aa16810fcdb9408e2178ac83edfa01e3122faea", "source": "R", "supreme_court_db_id": "1961-078", "time_retrieved": "2014-12-23T12:21:24.237591"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "369 U.S. 659", 
+    "federal_cite_two": "82 S. Ct. 1035", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "8 L. Ed. 2d 273", 
+    "lexis_cite": "1962 U.S. LEXIS 1274", 
+    "document_uris": [
+      "/api/rest/v2/document/2764184/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Adolph Hohensee v. New Syndicate, Inc., Etc", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "214", 
+    "id": 2736959, 
+    "resource_uri": "/api/rest/v2/citation/2736959/"
+  }, 
+  "id": 2764184, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-06-11", 
+  "download_url": "/sources/Resource.org/data/US/369/369.US.659.214.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": null, 
+  "time_retrieved": "2014-12-23T12:21:24.237591", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "6aa16810fcdb9408e2178ac83edfa01e3122faea", 
+  "date_modified": "2014-12-23T12:21:24.498168", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2764184/adolph-hohensee-v-new-syndicate-inc-etc/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": "1961-078", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2618434/", 
+  "html": "<p class=\"case_cite\">369 U.S. 659</p>\n    <p class=\"case_cite\">82 S.Ct. 1035</p>\n    <p class=\"case_cite\">8 L.Ed.2d 273</p>\n    <p class=\"parties\">Adolph HOHENSEE<br>v.<br>NEW SYNDICATE, INC., etc.</p>\n    <p class=\"docket\">No. 214.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 14, 1962</p>\n    <p class=\"date\">Rehearing Denied June 11, 1962.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 370 U.S. 920, 82 S.Ct. 1552.</p>\n      <p class=\"indent\">James C. Newton, for petitioner.</p>\n      <p class=\"indent\">Stuart N. Updike, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Third Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded for consideration in light of Goldlawr, Inc., v. Heiman, 369 U.S. 463, 82 S.Ct. 913, 8 L.Ed.2d 39.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN and Mr. Justice STEWART, for the reasons given in their dissent in the Goldlawr case, would deny certiorari.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER took no part in the consideration or decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/2764184/"
+}

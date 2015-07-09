@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620858/kingston-v-girard/", "blocked": false, "citation": {"case_name": "Kingston v. Girard", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620858/"], "federal_cite_one": "4 U.S. 274", "federal_cite_three": null, "federal_cite_two": null, "id": 2593630, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593630/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1803-03-01", "date_modified": "2014-10-30T17:23:47.338707", "docket": "/api/rest/v2/docket/2503856/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 274 (____)</b></center>\n<center><b>4 Dall. 274</b></center>\n<center><h1>Kingston<br>\nversus<br>\nGirard.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Lewis and Hare, for the plaintiff.</p>\n<p>Ingersoll and Rawle, for the defendant.</p>\n<p>By the COURT:</p>\n<p>If the vessel, after her release, remained at Martinique, to which she was carried by the captor, longer than was necessary to prepare for her voyage, and for the purpose of trading, it was a deviation; and the policy is void.</p>\n<p>Whether the extraordinary expense incurred for seamen's wages, provisions, &amp;c. during the detention of the vessel, upon a capture as prize, is a subject of general average, forms an important question. In the case of Jones et al. v. The Insurance Company of North-America, we decided, unanimously (and our opinion is strengthened by mature reflection) that such expenses, during an embargo in a foreign port, in the course of the voyage insured, are not general average, but a charge upon the freight, for which the underwriters upon the freight alone, must furnish an indemnity. We think, that the same principle embraces the case of detention for the purposes of a quarantine. In the case of detention, by capture as prize, there is not, however, any direct authority to decide the responsibility; and the principle of the other cases, does not embrace it. Elementary writers, Beawes and Magens, differ in opinion. It is, upon the whole, a safe, and the best, rule, to consider, whether the expence is incurred, for the general benefit of all the parties interested, in <span class=\"star-pagination\">*275</span> ship, cargo, and freight. If it is, then all the parties should contribute to defray it. If it is not (as in the cases of embargo and quarantine, where the delay and expense are submitted to, merely that the vessel may earn her freight) then, the party who alone enjoys the benefit, should alone sustain the loss.</p>\n</div>", "html_with_citations": "", "id": 2620858, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620858/", "sha1": "009200a7ae67fb88e4582d69b5bb145c73ae45f6", "source": "L", "time_retrieved": "2013-11-01T12:34:02.955544"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 274", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620858/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Kingston v. Girard", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593630, 
+    "resource_uri": "/api/rest/v2/citation/2593630/"
+  }, 
+  "id": 2620858, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1803-03-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 274 (____)</b></center>\n<center><b>4 Dall. 274</b></center>\n<center><h1>Kingston<br>\nversus<br>\nGirard.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Lewis and Hare, for the plaintiff.</p>\n<p>Ingersoll and Rawle, for the defendant.</p>\n<p>By the COURT:</p>\n<p>If the vessel, after her release, remained at Martinique, to which she was carried by the captor, longer than was necessary to prepare for her voyage, and for the purpose of trading, it was a deviation; and the policy is void.</p>\n<p>Whether the extraordinary expense incurred for seamen's wages, provisions, &amp;c. during the detention of the vessel, upon a capture as prize, is a subject of general average, forms an important question. In the case of Jones et al. v. The Insurance Company of North-America, we decided, unanimously (and our opinion is strengthened by mature reflection) that such expenses, during an embargo in a foreign port, in the course of the voyage insured, are not general average, but a charge upon the freight, for which the underwriters upon the freight alone, must furnish an indemnity. We think, that the same principle embraces the case of detention for the purposes of a quarantine. In the case of detention, by capture as prize, there is not, however, any direct authority to decide the responsibility; and the principle of the other cases, does not embrace it. Elementary writers, Beawes and Magens, differ in opinion. It is, upon the whole, a safe, and the best, rule, to consider, whether the expence is incurred, for the general benefit of all the parties interested, in <span class=\"star-pagination\">*275</span> ship, cargo, and freight. If it is, then all the parties should contribute to defray it. If it is not (as in the cases of embargo and quarantine, where the delay and expense are submitted to, merely that the vessel may earn her freight) then, the party who alone enjoys the benefit, should alone sustain the loss.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T12:34:02.955544", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "009200a7ae67fb88e4582d69b5bb145c73ae45f6", 
+  "date_modified": "2014-10-30T17:23:47.338707", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620858/kingston-v-girard/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2503856/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620858/"
+}

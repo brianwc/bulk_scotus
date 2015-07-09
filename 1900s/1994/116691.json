@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/116691/finch-v-chapman-et-al/", "blocked": false, "citation": {"case_name": "Finch v. Chapman", "docket_number": "93-325", "document_uris": ["/api/rest/v2/document/116691/"], "federal_cite_one": "510 U.S. 1102", "federal_cite_three": null, "federal_cite_two": null, "id": 101050, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101050/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-02-08", "date_modified": "2014-12-21T02:14:01.505448", "docket": "/api/rest/v2/docket/2482650/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1102.93-325.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1102</p>\n    <p class=\"parties\">Finch<br>v.<br>Chapman et al.</p>\n    <p class=\"docket\">No. 93-325.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 8, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari dismissed under this Court's Rule 46.2. Reported below: 991 F. 2d 799.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1102</span></span></p>\n    <p class=\"parties\">Finch<br>v.<br>Chapman et al.</p>\n    <p class=\"docket\">No. 93-325.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 8, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari dismissed under this Court's Rule 46.2. Reported below: 991 F. 2d 799.</p>\n    </div>\n    ", "id": 116691, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/116691/", "sha1": "57fff56af4df0f8c0590efeb39bd6d6ed0263449", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:19:58"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1102", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/116691/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Finch v. Chapman", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-325", 
+    "id": 101050, 
+    "resource_uri": "/api/rest/v2/citation/101050/"
+  }, 
+  "id": 116691, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-02-08", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1102.93-325.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:19:58", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1102</span></span></p>\n    <p class=\"parties\">Finch<br>v.<br>Chapman et al.</p>\n    <p class=\"docket\">No. 93-325.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 8, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari dismissed under this Court's Rule 46.2. Reported below: 991 F. 2d 799.</p>\n    </div>\n    ", 
+  "sha1": "57fff56af4df0f8c0590efeb39bd6d6ed0263449", 
+  "date_modified": "2014-12-21T02:14:01.505448", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/116691/finch-v-chapman-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2482650/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1102</p>\n    <p class=\"parties\">Finch<br>v.<br>Chapman et al.</p>\n    <p class=\"docket\">No. 93-325.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 8, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 7th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari dismissed under this Court's Rule 46.2. Reported below: 991 F. 2d 799.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/116691/"
+}

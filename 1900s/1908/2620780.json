@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2620780/phoenix-construction-co-v-steamer-poughkeepsie-c/", "blocked": false, "citation": {"case_name": "Phoenix Construction Co. v. STEAMER POUGHKEEPSIE & C.", "docket_number": "401", "document_uris": ["/api/rest/v2/document/2620780/"], "federal_cite_one": "212 U.S. 558", "federal_cite_three": null, "federal_cite_two": null, "id": 2593552, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593552/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1908-11-30", "date_modified": "2014-12-21T01:57:37.545811", "docket": "/api/rest/v2/docket/2571225/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>212 U.S. 558 (1908)</b></center>\n<center><h1>THE PHOENIX CONSTRUCTION COMPANY<br>\nv.<br>\nTHE STEAMER POUGHKEEPSIE &amp; c. AND THE STEAMER HOMER RAMSDELL &amp; c. CENTRAL HUDSON STEAMBOAT COMPANY, CLAIMANT.</h1></center>\n<center>No. 401.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 26, 1908.</center>\n<center>Decided November 30, 1908.</center>\nAPPEAL FROM THE DISTRICT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p><i>Mr. E. Crosby Kindelberger</i> for libellant appellant.</p>\n<p><i>Mr. J. Parker Kirlin</i> for claimant appellee.</p>\n<p>No. 401, Motion to dismiss or affirm.</p>\n<p><i>Per Curiam:</i></p>\n<p>Decree affirmed with costs. <i>Cleveland Terminal &amp; Valley Railroad Company</i> v. <i>Cleveland Steamship Company,</i> 208 U.S. 316; <i>The Troy,</i> 208 U.S. 321.</p>\n</div>", "html_with_citations": "", "id": 2620780, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620780/", "sha1": "b21f6b67a84ae82d20dbf39b9d6ba305a7059a9f", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-11-01T11:55:37.812667"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "212 U.S. 558", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620780/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Phoenix Construction Co. v. STEAMER POUGHKEEPSIE & C.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "401", 
+    "id": 2593552, 
+    "resource_uri": "/api/rest/v2/citation/2593552/"
+  }, 
+  "id": 2620780, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1908-11-30", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>212 U.S. 558 (1908)</b></center>\n<center><h1>THE PHOENIX CONSTRUCTION COMPANY<br>\nv.<br>\nTHE STEAMER POUGHKEEPSIE &amp; c. AND THE STEAMER HOMER RAMSDELL &amp; c. CENTRAL HUDSON STEAMBOAT COMPANY, CLAIMANT.</h1></center>\n<center>No. 401.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted October 26, 1908.</center>\n<center>Decided November 30, 1908.</center>\nAPPEAL FROM THE DISTRICT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p><i>Mr. E. Crosby Kindelberger</i> for libellant appellant.</p>\n<p><i>Mr. J. Parker Kirlin</i> for claimant appellee.</p>\n<p>No. 401, Motion to dismiss or affirm.</p>\n<p><i>Per Curiam:</i></p>\n<p>Decree affirmed with costs. <i>Cleveland Terminal &amp; Valley Railroad Company</i> v. <i>Cleveland Steamship Company,</i> 208 U.S. 316; <i>The Troy,</i> 208 U.S. 321.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T11:55:37.812667", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "b21f6b67a84ae82d20dbf39b9d6ba305a7059a9f", 
+  "date_modified": "2014-12-21T01:57:37.545811", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620780/phoenix-construction-co-v-steamer-poughkeepsie-c/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2571225/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620780/"
+}

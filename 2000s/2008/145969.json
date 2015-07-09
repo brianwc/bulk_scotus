@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/145969/vail-v-stenson/", "blocked": false, "citation": {"case_name": "Vail v. Stenson", "docket_number": "08A471", "document_uris": ["/api/rest/v2/document/145969/"], "federal_cite_one": "", "federal_cite_three": null, "federal_cite_two": null, "id": 130287, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/130287/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2008-12-03", "date_modified": "2014-12-21T02:24:57.107296", "docket": "/api/rest/v2/docket/1433548/", "download_url": "http://www.supremecourt.gov/opinions/08pdf/08A471.pdf", "extracted_by_ocr": false, "html": "", "html_lawbox": "", "html_with_citations": "", "id": 145969, "judges": "", "local_path": "pdf/2008/12/03/Vail_v._Stenson.pdf", "nature_of_suit": "", "plain_text": "                 Cite as: 555 U. S. ____ (2008)           1\n\n                    STEVENS, J., concurring\n\nSUPREME COURT OF THE UNITED STATES\n                         _________________\n\n                          No. 08A471\n                         _________________\n\n\n    ELDON VAIL, SECRETARY OF WASHINGTON \n\n     DEPARTMENT OF CORRECTIONS, ET AL. v.\n\n            DAROLD R. J. STENSON\n\n     ON APPLICATION TO VACATE STAY OF EXECUTION\n                      [December 3, 2008]\n\n  The application to vacate the stay of execution of sen\ntence of death entered by the United States District Court\nfor the Eastern District of Washington on November 25,\n2008, presented to Justice Kennedy and by him referred to\nthe Court, is granted.\n\n   JUSTICE STEVENS, with whom JUSTICE GINSBURG joins,\nconcurring.\n   On November 21, 2008, the Thurston County Superior\nCourt denied respondent’s motion for a preliminary in\njunction that would have prevented the State from execut\ning respondent until the court considered respondent’s\nconstitutional challenge to the State’s lethal injection\nprotocol. Rebuffed by the state court, respondent immedi\nately filed an identical constitutional challenge under Rev.\nStat. §1979, 42 U. S. C. §1983, in the United States Dis\ntrict Court for the Eastern District of Washington and\nmoved for a preliminary injunction. The District Court\nconcluded that a stay of execution was warranted to allow\nthe state court sufficient time to fully and fairly consider\nthe merits of respondent’s constitutional claim. In my\nview, the entry of the stay was improper. The state court\ndecided under state law that the execution could proceed\nwhile respondent’s constitutional claim was pending.\nAccordingly, the District Court should not have entered a\n2                    VAIL v. STENSON\n\n                   STEVENS, J., concurring\n\nstay to give the state court additional time it decided was\nnot warranted. In light of that procedural error, and on\nthat basis alone, I vote to grant the application to vacate\nthe stay of execution entered by the District Court.\n", "precedential_status": "Relating-to", "resource_uri": "/api/rest/v2/document/145969/", "sha1": "4e4c3eff1de82cf65a84178737450f8dd6a7c151", "source": "C", "supreme_court_db_id": null, "time_retrieved": "2010-05-05T17:09:54"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/145969/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Vail v. Stenson", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "08A471", 
+    "id": 130287, 
+    "resource_uri": "/api/rest/v2/citation/130287/"
+  }, 
+  "id": 145969, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2008-12-03", 
+  "download_url": "http://www.supremecourt.gov/opinions/08pdf/08A471.pdf", 
+  "source": "C", 
+  "local_path": "pdf/2008/12/03/Vail_v._Stenson.pdf", 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-05-05T17:09:54", 
+  "nature_of_suit": "", 
+  "plain_text": "                 Cite as: 555 U. S. ____ (2008)           1\n\n                    STEVENS, J., concurring\n\nSUPREME COURT OF THE UNITED STATES\n                         _________________\n\n                          No. 08A471\n                         _________________\n\n\n    ELDON VAIL, SECRETARY OF WASHINGTON \n\n     DEPARTMENT OF CORRECTIONS, ET AL. v.\n\n            DAROLD R. J. STENSON\n\n     ON APPLICATION TO VACATE STAY OF EXECUTION\n                      [December 3, 2008]\n\n  The application to vacate the stay of execution of sen\ntence of death entered by the United States District Court\nfor the Eastern District of Washington on November 25,\n2008, presented to Justice Kennedy and by him referred to\nthe Court, is granted.\n\n   JUSTICE STEVENS, with whom JUSTICE GINSBURG joins,\nconcurring.\n   On November 21, 2008, the Thurston County Superior\nCourt denied respondent\u2019s motion for a preliminary in\njunction that would have prevented the State from execut\ning respondent until the court considered respondent\u2019s\nconstitutional challenge to the State\u2019s lethal injection\nprotocol. Rebuffed by the state court, respondent immedi\nately filed an identical constitutional challenge under Rev.\nStat. \u00a71979, 42 U. S. C. \u00a71983, in the United States Dis\ntrict Court for the Eastern District of Washington and\nmoved for a preliminary injunction. The District Court\nconcluded that a stay of execution was warranted to allow\nthe state court sufficient time to fully and fairly consider\nthe merits of respondent\u2019s constitutional claim. In my\nview, the entry of the stay was improper. The state court\ndecided under state law that the execution could proceed\nwhile respondent\u2019s constitutional claim was pending.\nAccordingly, the District Court should not have entered a\n2                    VAIL v. STENSON\n\n                   STEVENS, J., concurring\n\nstay to give the state court additional time it decided was\nnot warranted. In light of that procedural error, and on\nthat basis alone, I vote to grant the application to vacate\nthe stay of execution entered by the District Court.\n", 
+  "html_with_citations": "", 
+  "sha1": "4e4c3eff1de82cf65a84178737450f8dd6a7c151", 
+  "date_modified": "2014-12-21T02:24:57.107296", 
+  "precedential_status": "Relating-to", 
+  "absolute_url": "/opinion/145969/vail-v-stenson/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1433548/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/145969/"
+}

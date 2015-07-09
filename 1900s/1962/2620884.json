@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620884/torrance-v-callenius/", "blocked": false, "citation": {"case_name": "Torrance v. Callenius", "docket_number": "227, Misc", "document_uris": ["/api/rest/v2/document/2620884/"], "federal_cite_one": "369 U.S. 658", "federal_cite_three": null, "federal_cite_two": null, "id": 2593656, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593656/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-05-14", "date_modified": "2014-10-30T11:00:32.912904", "docket": "/api/rest/v2/docket/1601469/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>369 U.S. 658 (1962)</b></center>\n<center><h1>TORRANCE<br>\nv.<br>\nCALLENIUS ET AL., MEMBERS OF THE IOWA BOARD OF CONTROL, ET AL.</h1></center>\n<center>No. 227, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 14, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for consideration in light of <i>Goldlawr, Inc.,</i> v. <i>Heiman, ante,</i> p. 463.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART, for the reasons given in their dissent in the <i>Goldlawr</i> case, would deny certiorari.</p>\n<p>MR. JUSTICE FRANKFURTER took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "", "id": 2620884, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620884/", "sha1": "7a628e42565a219ae81abafea7170088cebc6b24", "source": "L", "time_retrieved": "2013-11-01T12:55:56.642072"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "369 U.S. 658", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620884/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Torrance v. Callenius", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "227, Misc", 
+    "id": 2593656, 
+    "resource_uri": "/api/rest/v2/citation/2593656/"
+  }, 
+  "id": 2620884, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-05-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>369 U.S. 658 (1962)</b></center>\n<center><h1>TORRANCE<br>\nv.<br>\nCALLENIUS ET AL., MEMBERS OF THE IOWA BOARD OF CONTROL, ET AL.</h1></center>\n<center>No. 227, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 14, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded for consideration in light of <i>Goldlawr, Inc.,</i> v. <i>Heiman, ante,</i> p. 463.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE STEWART, for the reasons given in their dissent in the <i>Goldlawr</i> case, would deny certiorari.</p>\n<p>MR. JUSTICE FRANKFURTER took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T12:55:56.642072", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "7a628e42565a219ae81abafea7170088cebc6b24", 
+  "date_modified": "2014-10-30T11:00:32.912904", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620884/torrance-v-callenius/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1601469/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620884/"
+}

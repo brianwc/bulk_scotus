@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/105560/ftc-v-crafts/", "blocked": false, "citation": {"case_name": "FTC v. Crafts", "docket_number": "229", "document_uris": ["/api/rest/v2/document/105560/"], "federal_cite_one": "355 U.S. 9", "federal_cite_three": null, "federal_cite_two": null, "id": 89943, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/89943/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 11, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1957-11-25", "date_modified": "2014-12-21T01:50:57.815720", "docket": "/api/rest/v2/docket/2582159/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">355 U.S. 9</p>\n    <p class=\"case_cite\">78 S.Ct. 33</p>\n    <p class=\"case_cite\">2 L.Ed.2d 23</p>\n    <p class=\"parties\">FEDERAL TRADE COMMISSION, petitioner,<br>v.<br>James F. CRAFTS.</p>\n    <p class=\"docket\">No. 229.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1957</p>\n    <p class=\"date\">Rehearing Denied Nov. 25, 1957.</p>\n    <div class=\"prelims\">\n      <p>See 355 U.S. 885, 78 S.Ct. 146.</p>\n      <p class=\"indent\">Solicitor General Rankin, Assistant Attorney General Hansen, Messrs. Charles H. Weston, Earl W. Kintner and Robert B. Dawkins, for petitioner.</p>\n      <p class=\"indent\">Mr. Christopher M. Jenks, for respondent.</p>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment of the United States Court of Appeals for the Ninth Circuit is reversed. Endicott Johnson Corp. v. Perkins, 317 U.S. 501, 63 S.Ct. 339, 87 L.Ed. 424; Oklahoma Press Publishing Co. v. Walling, 327 U.S. 186, 66 S.Ct. 494, 90 L.Ed. 614.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>355 U.S. 9 (1957)</b></center>\n<center><h1>FEDERAL TRADE COMMISSION<br>\nv.<br>\nCRAFTS.</h1></center>\n<center>No. 229.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1957.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Solicitor General Rankin, Assistant Attorney General Hansen, Charles H. Weston, Earl W. Kintner</i> and <i>Robert B. Dawkins</i> for petitioner.</p>\n<p><i>Christopher M. Jenks</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the United States Court of Appeals for the Ninth Circuit is reversed. <i>Endicott Johnson Corp.</i> v. <i>Perkins,</i> 317 U. S. 501; <i>Oklahoma Press Publishing Co.</i> v. <i>Walling,</i> 327 U. S. 186.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">9</span></span> (1957)</b></center>\n<center><h1>FEDERAL TRADE COMMISSION<br>\nv.<br>\nCRAFTS.</h1></center>\n<center>No. 229.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1957.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Solicitor General Rankin, Assistant Attorney General Hansen, Charles H. Weston, Earl W. Kintner</i> and <i>Robert B. Dawkins</i> for petitioner.</p>\n<p><i>Christopher M. Jenks</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the United States Court of Appeals for the Ninth Circuit is reversed. <i>Endicott Johnson Corp.</i> v. <i>Perkins,</i> 317 U. S. 501; <i>Oklahoma Press Publishing Co.</i> v. <i>Walling,</i> 327 U. S. 186.</p>\n</div>", "id": 105560, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/105560/", "sha1": "fc583f54b2b7235a8f796c200d183e01c8dab12f", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:36"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "355 U.S. 9", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/105560/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "FTC v. Crafts", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "229", 
+    "id": 89943, 
+    "resource_uri": "/api/rest/v2/citation/89943/"
+  }, 
+  "id": 105560, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1957-11-25", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>355 U.S. 9 (1957)</b></center>\n<center><h1>FEDERAL TRADE COMMISSION<br>\nv.<br>\nCRAFTS.</h1></center>\n<center>No. 229.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1957.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Solicitor General Rankin, Assistant Attorney General Hansen, Charles H. Weston, Earl W. Kintner</i> and <i>Robert B. Dawkins</i> for petitioner.</p>\n<p><i>Christopher M. Jenks</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the United States Court of Appeals for the Ninth Circuit is reversed. <i>Endicott Johnson Corp.</i> v. <i>Perkins,</i> 317 U. S. 501; <i>Oklahoma Press Publishing Co.</i> v. <i>Walling,</i> 327 U. S. 186.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:55:36", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">355</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">9</span></span> (1957)</b></center>\n<center><h1>FEDERAL TRADE COMMISSION<br>\nv.<br>\nCRAFTS.</h1></center>\n<center>No. 229.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1957.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT.\n<p><i>Solicitor General Rankin, Assistant Attorney General Hansen, Charles H. Weston, Earl W. Kintner</i> and <i>Robert B. Dawkins</i> for petitioner.</p>\n<p><i>Christopher M. Jenks</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted. The judgment of the United States Court of Appeals for the Ninth Circuit is reversed. <i>Endicott Johnson Corp.</i> v. <i>Perkins,</i> 317 U. S. 501; <i>Oklahoma Press Publishing Co.</i> v. <i>Walling,</i> 327 U. S. 186.</p>\n</div>", 
+  "sha1": "fc583f54b2b7235a8f796c200d183e01c8dab12f", 
+  "date_modified": "2014-12-21T01:50:57.815720", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/105560/ftc-v-crafts/", 
+  "citation_count": 11, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2582159/", 
+  "html": "<p class=\"case_cite\">355 U.S. 9</p>\n    <p class=\"case_cite\">78 S.Ct. 33</p>\n    <p class=\"case_cite\">2 L.Ed.2d 23</p>\n    <p class=\"parties\">FEDERAL TRADE COMMISSION, petitioner,<br>v.<br>James F. CRAFTS.</p>\n    <p class=\"docket\">No. 229.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1957</p>\n    <p class=\"date\">Rehearing Denied Nov. 25, 1957.</p>\n    <div class=\"prelims\">\n      <p>See 355 U.S. 885, 78 S.Ct. 146.</p>\n      <p class=\"indent\">Solicitor General Rankin, Assistant Attorney General Hansen, Messrs. Charles H. Weston, Earl W. Kintner and Robert B. Dawkins, for petitioner.</p>\n      <p class=\"indent\">Mr. Christopher M. Jenks, for respondent.</p>\n      <p class=\"indent\">On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted. The judgment of the United States Court of Appeals for the Ninth Circuit is reversed. Endicott Johnson Corp. v. Perkins, 317 U.S. 501, 63 S.Ct. 339, 87 L.Ed. 424; Oklahoma Press Publishing Co. v. Walling, 327 U.S. 186, 66 S.Ct. 494, 90 L.Ed. 614.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/105560/"
+}

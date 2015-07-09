@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1992692/maryland-v-blake/", "blocked": false, "citation": {"case_name": "Maryland v. Blake", "docket_number": "04-373", "document_uris": ["/api/rest/v2/document/1992692/"], "federal_cite_one": "546 U.S. 72", "federal_cite_three": "163 L. Ed. 2d 406", "federal_cite_two": "126 S. Ct. 602", "id": 1965463, "lexis_cite": "2005 U.S. LEXIS 8553", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1965463/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-11-14", "date_modified": "2014-12-20T11:03:12.448413", "docket": "/api/rest/v2/docket/155057/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>546 U.S. 72 (2005)</b></center>\n<center><h1>MARYLAND<br>\nv.<br>\nBLAKE.</h1></center>\n<center>No. 04-373.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 1, 2005.</center>\n<center>Decided November 14, 2005</center>\n<p><i>Kathryn Grill Graeff,</i> Assistant Attorney General of Maryland, argued the cause for petitioner. With her on the briefs were <i>J. Joseph Curran, Jr.,</i> Attorney General, and <i>Annabelle L. Lisic</i> and <i>Diane E. Keller,</i> Assistant Attorneys General.</p>\n<p><i>James A. Feldman</i> argued the cause for the United States as <i>amicus curiae</i> urging reversal. With him on the brief were <i>Solicitor General Clement, Acting Assistant Attorney General Richter, Deputy Solicitor General Dreeben, John P. Elwood,</i> and <i>Joel M. Gershowitz.</i></p>\n<p><i>Kenneth W. Ravenell</i> argued the cause for respondent. With him on the brief were <i>Ivan J. Bates, Matthew A. S. Esworthy,</i> and <i>Jeffrey T. Green.</i><sup>[*]</sup></p>\n<p><span class=\"star-pagination\">*73</span> PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p><i>It is so ordered.</i></p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging reversal were filed for the State of Texas et al. by <i>Greg Abbott,</i> Attorney General of Texas, <i>Barry R. McBee,</i> First Assistant Attorney General, <i>R. Ted Cruz,</i> Solicitor General, <i>Don Clemmer,</i> Deputy Attorney General, and <i>Gena Bunn, Edward L. Marshall,</i> and <i>Fredericka Sargent,</i> Assistant Attorneys General, and by the Attorneys General for their respective jurisdictions as follows: <i>M. Jane Brady</i> of Delaware, <i>Robert J. Spagnoletti</i> of the District of Columbia, <i>Charles J. Crist, Jr.,</i> of Florida, <i>Mark J. Bennett</i> of Hawaii, <i>Lawrence G. Wasden</i> of Idaho, <i>Lisa Madigan</i> of Illinois, <i>Michael A. Cox</i> of Michigan, <i>Jim Petro</i> of Ohio, <i>W. A. Drew Edmondson</i> of Oklahoma, <i>Hardy Myers</i> of Oregon, <i>Thomas W. Corbett, Jr.,</i> of Pennsylvania, <i>Henry D. McMaster</i> of South Carolina, <i>Lawrence E. Long</i> of South Dakota, <i>Mark L. Shurtleff</i> of Utah, and <i>William Sorrell</i> of Vermont; and for the Criminal Justice Legal Foundation by <i>Kent S. Scheidegger</i> and <i>Charles L. Hobson.</i>\n</p>\n<p>Briefs of <i>amici curiae</i> urging affirmance were filed for the National Association of Criminal Defense Lawyers by <i>James J. Tomkovicz</i> and <i>Joshua L. Dratel;</i> and for the National Legal Aid and Defender Association by <i>Steven B. Duke.</i></p>\n\n</div>", "html_with_citations": "", "id": 1992692, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1992692/", "sha1": "ffd50f25844f69e60a79f6c53c2adabb98cf0e38", "source": "L", "supreme_court_db_id": "2005-008", "time_retrieved": "2013-10-30T00:59:45.318670"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "546 U.S. 72", 
+    "federal_cite_two": "126 S. Ct. 602", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "163 L. Ed. 2d 406", 
+    "lexis_cite": "2005 U.S. LEXIS 8553", 
+    "document_uris": [
+      "/api/rest/v2/document/1992692/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Maryland v. Blake", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "04-373", 
+    "id": 1965463, 
+    "resource_uri": "/api/rest/v2/citation/1965463/"
+  }, 
+  "id": 1992692, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-11-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>546 U.S. 72 (2005)</b></center>\n<center><h1>MARYLAND<br>\nv.<br>\nBLAKE.</h1></center>\n<center>No. 04-373.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued November 1, 2005.</center>\n<center>Decided November 14, 2005</center>\n<p><i>Kathryn Grill Graeff,</i> Assistant Attorney General of Maryland, argued the cause for petitioner. With her on the briefs were <i>J. Joseph Curran, Jr.,</i> Attorney General, and <i>Annabelle L. Lisic</i> and <i>Diane E. Keller,</i> Assistant Attorneys General.</p>\n<p><i>James A. Feldman</i> argued the cause for the United States as <i>amicus curiae</i> urging reversal. With him on the brief were <i>Solicitor General Clement, Acting Assistant Attorney General Richter, Deputy Solicitor General Dreeben, John P. Elwood,</i> and <i>Joel M. Gershowitz.</i></p>\n<p><i>Kenneth W. Ravenell</i> argued the cause for respondent. With him on the brief were <i>Ivan J. Bates, Matthew A. S. Esworthy,</i> and <i>Jeffrey T. Green.</i><sup>[*]</sup></p>\n<p><span class=\"star-pagination\">*73</span> PER CURIAM.</p>\n<p>The writ of certiorari is dismissed as improvidently granted.</p>\n<p><i>It is so ordered.</i></p>\n<h2>NOTES</h2>\n<p>[*]  Briefs of <i>amici curiae</i> urging reversal were filed for the State of Texas et al. by <i>Greg Abbott,</i> Attorney General of Texas, <i>Barry R. McBee,</i> First Assistant Attorney General, <i>R. Ted Cruz,</i> Solicitor General, <i>Don Clemmer,</i> Deputy Attorney General, and <i>Gena Bunn, Edward L. Marshall,</i> and <i>Fredericka Sargent,</i> Assistant Attorneys General, and by the Attorneys General for their respective jurisdictions as follows: <i>M. Jane Brady</i> of Delaware, <i>Robert J. Spagnoletti</i> of the District of Columbia, <i>Charles J. Crist, Jr.,</i> of Florida, <i>Mark J. Bennett</i> of Hawaii, <i>Lawrence G. Wasden</i> of Idaho, <i>Lisa Madigan</i> of Illinois, <i>Michael A. Cox</i> of Michigan, <i>Jim Petro</i> of Ohio, <i>W. A. Drew Edmondson</i> of Oklahoma, <i>Hardy Myers</i> of Oregon, <i>Thomas W. Corbett, Jr.,</i> of Pennsylvania, <i>Henry D. McMaster</i> of South Carolina, <i>Lawrence E. Long</i> of South Dakota, <i>Mark L. Shurtleff</i> of Utah, and <i>William Sorrell</i> of Vermont; and for the Criminal Justice Legal Foundation by <i>Kent S. Scheidegger</i> and <i>Charles L. Hobson.</i>\n</p>\n<p>Briefs of <i>amici curiae</i> urging affirmance were filed for the National Association of Criminal Defense Lawyers by <i>James J. Tomkovicz</i> and <i>Joshua L. Dratel;</i> and for the National Legal Aid and Defender Association by <i>Steven B. Duke.</i></p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T00:59:45.318670", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ffd50f25844f69e60a79f6c53c2adabb98cf0e38", 
+  "date_modified": "2014-12-20T11:03:12.448413", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1992692/maryland-v-blake/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": "2005-008", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/155057/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1992692/"
+}

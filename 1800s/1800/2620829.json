@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620829/blaine-v-ship-clarles-carter/", "blocked": false, "citation": {"case_name": "Blaine v. Ship Clarles Carter", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620829/"], "federal_cite_one": "4 U.S. 22", "federal_cite_three": null, "federal_cite_two": null, "id": 2593601, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593601/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1800-02-18", "date_modified": "2014-10-29T22:59:12.009847", "docket": "/api/rest/v2/docket/24619/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>4 U.S. 22 (____)</b></center>\n<center><b>4 Dall. 22</b></center>\n<center><h1>Blaine<br>\nversus<br>\nShip Charles Carter et al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The COURT decided, that the removal of suits, from the Circuit Court into the Supreme Court, must be by writ of error in every case, whatever may be the original nature of the suits.</p>\n</div>", "html_with_citations": "", "id": 2620829, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620829/", "sha1": "fb174e61931eb3922497ed5e318be72a49e40b5e", "source": "L", "time_retrieved": "2013-11-01T12:17:16.305965"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "4 U.S. 22", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620829/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Blaine v. Ship Clarles Carter", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593601, 
+    "resource_uri": "/api/rest/v2/citation/2593601/"
+  }, 
+  "id": 2620829, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1800-02-18", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>4 U.S. 22 (____)</b></center>\n<center><b>4 Dall. 22</b></center>\n<center><h1>Blaine<br>\nversus<br>\nShip Charles Carter et al.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The COURT decided, that the removal of suits, from the Circuit Court into the Supreme Court, must be by writ of error in every case, whatever may be the original nature of the suits.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T12:17:16.305965", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "fb174e61931eb3922497ed5e318be72a49e40b5e", 
+  "date_modified": "2014-10-29T22:59:12.009847", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620829/blaine-v-ship-clarles-carter/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/24619/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620829/"
+}

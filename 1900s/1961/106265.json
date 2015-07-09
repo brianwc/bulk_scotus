@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106265/hohegan-international-corporation-v-city-of-new/", "blocked": false, "citation": {"case_name": "Hohegan International Corporation v. City of New York", "docket_number": "902", "document_uris": ["/api/rest/v2/document/106265/"], "federal_cite_one": "366 U.S. 764", "federal_cite_three": null, "federal_cite_two": null, "id": 90648, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90648/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-11-06", "date_modified": "2014-12-21T01:51:57.797450", "docket": "/api/rest/v2/docket/2288912/", "download_url": "http://bulk.resource.org/courts.gov/c/US/366/366.US.764.902.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">366 U.S. 764</p>\n    <p class=\"case_cite\">81 S.Ct. 1671</p>\n    <p class=\"case_cite\">6 L.Ed.2d 854</p>\n    <p class=\"parties\">HOHEGAN INTERNATIONAL CORPORATION<br>v.<br>CITY OF NEW YORK et al.</p>\n    <p class=\"docket\">No. 902.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 5, 1961</p>\n    <p class=\"date\">Rehearing Denied Nov. 6, 1961.</p>\n    <div class=\"prelims\">\n      <p>See 82 S.Ct. 168.</p>\n      <p class=\"indent\">Gerald H. Ullman, for appellant.</p>\n      <p class=\"indent\">Leo A. Larkin and Morris L. Health, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">366</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">764</span></span></p>\n    <p class=\"case_cite\">81 S.Ct. 1671</p>\n    <p class=\"case_cite\">6 L.Ed.2d 854</p>\n    <p class=\"parties\">HOHEGAN INTERNATIONAL CORPORATION<br>v.<br>CITY OF NEW YORK et al.</p>\n    <p class=\"docket\">No. 902.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 5, 1961</p>\n    <p class=\"date\">Rehearing Denied Nov. 6, 1961.</p>\n    <div class=\"prelims\">\n      <p>See 82 S.Ct. 168.</p>\n      <p class=\"indent\">Gerald H. Ullman, for appellant.</p>\n      <p class=\"indent\">Leo A. Larkin and Morris L. Health, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "id": 106265, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106265/", "sha1": "7a69f8840f8a63862ea6c0ed581a2090326359fe", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:55:55"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "366 U.S. 764", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/106265/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hohegan International Corporation v. City of New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "902", 
+    "id": 90648, 
+    "resource_uri": "/api/rest/v2/citation/90648/"
+  }, 
+  "id": 106265, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-11-06", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/366/366.US.764.902.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:55", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">366</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">764</span></span></p>\n    <p class=\"case_cite\">81 S.Ct. 1671</p>\n    <p class=\"case_cite\">6 L.Ed.2d 854</p>\n    <p class=\"parties\">HOHEGAN INTERNATIONAL CORPORATION<br>v.<br>CITY OF NEW YORK et al.</p>\n    <p class=\"docket\">No. 902.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 5, 1961</p>\n    <p class=\"date\">Rehearing Denied Nov. 6, 1961.</p>\n    <div class=\"prelims\">\n      <p>See 82 S.Ct. 168.</p>\n      <p class=\"indent\">Gerald H. Ullman, for appellant.</p>\n      <p class=\"indent\">Leo A. Larkin and Morris L. Health, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "sha1": "7a69f8840f8a63862ea6c0ed581a2090326359fe", 
+  "date_modified": "2014-12-21T01:51:57.797450", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106265/hohegan-international-corporation-v-city-of-new/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2288912/", 
+  "html": "<p class=\"case_cite\">366 U.S. 764</p>\n    <p class=\"case_cite\">81 S.Ct. 1671</p>\n    <p class=\"case_cite\">6 L.Ed.2d 854</p>\n    <p class=\"parties\">HOHEGAN INTERNATIONAL CORPORATION<br>v.<br>CITY OF NEW YORK et al.</p>\n    <p class=\"docket\">No. 902.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 5, 1961</p>\n    <p class=\"date\">Rehearing Denied Nov. 6, 1961.</p>\n    <div class=\"prelims\">\n      <p>See 82 S.Ct. 168.</p>\n      <p class=\"indent\">Gerald H. Ullman, for appellant.</p>\n      <p class=\"indent\">Leo A. Larkin and Morris L. Health, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed. Treating the papers whereon the appeal was taken as a petition for writ of certiorari, certiorari is denied.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106265/"
+}

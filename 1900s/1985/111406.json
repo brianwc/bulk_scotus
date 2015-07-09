@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/111406/ramirez-v-indiana/", "blocked": false, "citation": {"case_name": "Ramirez v. Indiana", "docket_number": "84-5059", "document_uris": ["/api/rest/v2/document/111406/"], "federal_cite_one": "471 U.S. 147", "federal_cite_three": "85 L. Ed. 2d 113", "federal_cite_two": "105 S. Ct. 1860", "id": 95765, "lexis_cite": "1985 U.S. LEXIS 201", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/95765/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 12, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1985-05-13", "date_modified": "2014-12-22T05:11:56.934813", "docket": "/api/rest/v2/docket/1265143/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">471 U.S. 147</p>\n    <p class=\"case_cite\">105 S.Ct. 1860</p>\n    <p class=\"case_cite\">85 L.Ed.2d 113</p>\n    <p class=\"parties\">Patrick RAMIREZ, petitioner,<br>v.<br>INDIANA</p>\n    <p class=\"docket\">No. 84-5059</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 1, 1985</p>\n    <p class=\"date\">Rehearing Denied May 13, 1985.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 471 U.S. 1112, 105 S.Ct. 2350.</p>\n      <p class=\"indent\">On Writ of</p>\n      <p>Certiorari to the Court of Appeals of Indiana.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Justice POWELL took no part in the decision of this case.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>471 U.S. 147 (1985)</b></center>\n<center><h1>RAMIREZ<br>\nv.<br>\nINDIANA</h1></center>\n<center>No. 84-5059.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 19, 1985</center>\n<center>Decided April 1, 1985</center>\nCERTIORARI TO THE COURT OF APPEALS OF INDIANA\n<p><i>Kenneth F. Ripple,</i> by appointment of the Court, 469 U. S. 1015, argued the cause for petitioner. With him on the briefs were <i>David T. Link, Douglas W. Kenyon, Mollie A. Murphy,</i> and <i>Richard S. Myers.</i></p>\n<p><i>William E. Daily,</i> Deputy Attorney General of Indiana, argued the cause for respondent. With him on the brief were <i>Linley E. Pearson,</i> Attorney General, and <i>Lisa M. Paunicka,</i> Deputy Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>JUSTICE POWELL took no part in the decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">471</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">147</span></span> (1985)</b></center>\n<center><h1>RAMIREZ<br>\nv.<br>\nINDIANA</h1></center>\n<center>No. 84-5059.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 19, 1985</center>\n<center>Decided April 1, 1985</center>\nCERTIORARI TO THE COURT OF APPEALS OF INDIANA\n<p><i>Kenneth F. Ripple,</i> by appointment of the Court, 469 U. S. 1015, argued the cause for petitioner. With him on the briefs were <i>David T. Link, Douglas W. Kenyon, Mollie A. Murphy,</i> and <i>Richard S. Myers.</i></p>\n<p><i>William E. Daily,</i> Deputy Attorney General of Indiana, argued the cause for respondent. With him on the brief were <i>Linley E. Pearson,</i> Attorney General, and <i>Lisa M. Paunicka,</i> Deputy Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>JUSTICE POWELL took no part in the decision of this case.</p>\n</div>", "id": 111406, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/111406/", "sha1": "94eda35f9579c86753af17bdd4575db19497832f", "source": "LR", "supreme_court_db_id": "1984-074", "time_retrieved": "2010-04-28T10:13:13"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "471 U.S. 147", 
+    "federal_cite_two": "105 S. Ct. 1860", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "85 L. Ed. 2d 113", 
+    "lexis_cite": "1985 U.S. LEXIS 201", 
+    "document_uris": [
+      "/api/rest/v2/document/111406/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ramirez v. Indiana", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "84-5059", 
+    "id": 95765, 
+    "resource_uri": "/api/rest/v2/citation/95765/"
+  }, 
+  "id": 111406, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1985-05-13", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>471 U.S. 147 (1985)</b></center>\n<center><h1>RAMIREZ<br>\nv.<br>\nINDIANA</h1></center>\n<center>No. 84-5059.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 19, 1985</center>\n<center>Decided April 1, 1985</center>\nCERTIORARI TO THE COURT OF APPEALS OF INDIANA\n<p><i>Kenneth F. Ripple,</i> by appointment of the Court, 469 U. S. 1015, argued the cause for petitioner. With him on the briefs were <i>David T. Link, Douglas W. Kenyon, Mollie A. Murphy,</i> and <i>Richard S. Myers.</i></p>\n<p><i>William E. Daily,</i> Deputy Attorney General of Indiana, argued the cause for respondent. With him on the brief were <i>Linley E. Pearson,</i> Attorney General, and <i>Lisa M. Paunicka,</i> Deputy Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>JUSTICE POWELL took no part in the decision of this case.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:13:13", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">471</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">147</span></span> (1985)</b></center>\n<center><h1>RAMIREZ<br>\nv.<br>\nINDIANA</h1></center>\n<center>No. 84-5059.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 19, 1985</center>\n<center>Decided April 1, 1985</center>\nCERTIORARI TO THE COURT OF APPEALS OF INDIANA\n<p><i>Kenneth F. Ripple,</i> by appointment of the Court, 469 U. S. 1015, argued the cause for petitioner. With him on the briefs were <i>David T. Link, Douglas W. Kenyon, Mollie A. Murphy,</i> and <i>Richard S. Myers.</i></p>\n<p><i>William E. Daily,</i> Deputy Attorney General of Indiana, argued the cause for respondent. With him on the brief were <i>Linley E. Pearson,</i> Attorney General, and <i>Lisa M. Paunicka,</i> Deputy Attorney General.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed by an equally divided Court.</p>\n<p>JUSTICE POWELL took no part in the decision of this case.</p>\n</div>", 
+  "sha1": "94eda35f9579c86753af17bdd4575db19497832f", 
+  "date_modified": "2014-12-22T05:11:56.934813", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/111406/ramirez-v-indiana/", 
+  "citation_count": 12, 
+  "supreme_court_db_id": "1984-074", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1265143/", 
+  "html": "<p class=\"case_cite\">471 U.S. 147</p>\n    <p class=\"case_cite\">105 S.Ct. 1860</p>\n    <p class=\"case_cite\">85 L.Ed.2d 113</p>\n    <p class=\"parties\">Patrick RAMIREZ, petitioner,<br>v.<br>INDIANA</p>\n    <p class=\"docket\">No. 84-5059</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 1, 1985</p>\n    <p class=\"date\">Rehearing Denied May 13, 1985.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 471 U.S. 1112, 105 S.Ct. 2350.</p>\n      <p class=\"indent\">On Writ of</p>\n      <p>Certiorari to the Court of Appeals of Indiana.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment is affirmed by an equally divided Court.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Justice POWELL took no part in the decision of this case.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/111406/"
+}

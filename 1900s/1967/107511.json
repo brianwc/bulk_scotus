@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107511/fox-v-oregon/", "blocked": false, "citation": {"case_name": "Fox v. Oregon", "docket_number": "1421, Misc", "document_uris": ["/api/rest/v2/document/107511/"], "federal_cite_one": "388 U.S. 466", "federal_cite_three": null, "federal_cite_two": null, "id": 91870, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91870/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-06-12", "date_modified": "2014-12-21T01:55:31.479568", "docket": "/api/rest/v2/docket/2583476/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">388 U.S. 466</p>\r\n    <p class=\"case_cite\">87 S.Ct. 2129</p>\r\n    <p class=\"case_cite\">18 L.Ed.2d 1324</p>\r\n    <p class=\"parties\">Walter FOX<br>v.<br>OREGON.</p>\r\n    <p class=\"docket\">No. 1421, Misc.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Oregon.</p>\r\n      <p>June 12, 1967.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Oregon for further consideration in light of Anders v. State of California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Mr. Justice BLACK, Mr. Justice HARLAN, and Mr. Justice STEWART are of the opinion that certiorari should be denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "<div>\n<center><b>388 U.S. 466 (1967)</b></center>\n<center><h1>FOX<br>\nv.<br>\nOREGON.</h1></center>\n<center>No. 1421, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF OREGON.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Oregon for further consideration in light of <i>Anders</i> v. <i>California,</i> 386 U. S. 738.</p>\n<p>MR. JUSTICE BLACK, MR. JUSTICE HARLAN, and MR. JUSTICE STEWART are of the opinion that certiorari should be denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">388</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">466</span></span> (1967)</b></center>\n<center><h1>FOX<br>\nv.<br>\nOREGON.</h1></center>\n<center>No. 1421, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF OREGON.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Oregon for further consideration in light of <i>Anders</i> v. <i>California,</i> 386 U. S. 738.</p>\n<p>MR. JUSTICE BLACK, MR. JUSTICE HARLAN, and MR. JUSTICE STEWART are of the opinion that certiorari should be denied.</p>\n</div>", "id": 107511, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107511/", "sha1": "bcee2b0b68345e261c38ea737e09e55b94cf0d95", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:05"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "388 U.S. 466", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107511/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Fox v. Oregon", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1421, Misc", 
+    "id": 91870, 
+    "resource_uri": "/api/rest/v2/citation/91870/"
+  }, 
+  "id": 107511, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-06-12", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>388 U.S. 466 (1967)</b></center>\n<center><h1>FOX<br>\nv.<br>\nOREGON.</h1></center>\n<center>No. 1421, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF OREGON.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Oregon for further consideration in light of <i>Anders</i> v. <i>California,</i> 386 U. S. 738.</p>\n<p>MR. JUSTICE BLACK, MR. JUSTICE HARLAN, and MR. JUSTICE STEWART are of the opinion that certiorari should be denied.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:05", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">388</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">466</span></span> (1967)</b></center>\n<center><h1>FOX<br>\nv.<br>\nOREGON.</h1></center>\n<center>No. 1421, Misc.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF OREGON.\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Oregon for further consideration in light of <i>Anders</i> v. <i>California,</i> 386 U. S. 738.</p>\n<p>MR. JUSTICE BLACK, MR. JUSTICE HARLAN, and MR. JUSTICE STEWART are of the opinion that certiorari should be denied.</p>\n</div>", 
+  "sha1": "bcee2b0b68345e261c38ea737e09e55b94cf0d95", 
+  "date_modified": "2014-12-21T01:55:31.479568", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107511/fox-v-oregon/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2583476/", 
+  "html": "<p class=\"case_cite\">388 U.S. 466</p>\r\n    <p class=\"case_cite\">87 S.Ct. 2129</p>\r\n    <p class=\"case_cite\">18 L.Ed.2d 1324</p>\r\n    <p class=\"parties\">Walter FOX<br>v.<br>OREGON.</p>\r\n    <p class=\"docket\">No. 1421, Misc.</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Oregon.</p>\r\n      <p>June 12, 1967.</p>\r\n      <p class=\"indent\">PER CURIAM.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The motion for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Oregon for further consideration in light of Anders v. State of California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Mr. Justice BLACK, Mr. Justice HARLAN, and Mr. Justice STEWART are of the opinion that certiorari should be denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/107511/"
+}

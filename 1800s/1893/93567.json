@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/93567/ogden-v-united-states/", "blocked": false, "citation": {"case_name": "Ogden v. United States", "docket_number": "1,184", "document_uris": ["/api/rest/v2/document/93567/"], "federal_cite_one": "148 U.S. 390", "federal_cite_three": null, "federal_cite_two": null, "id": 77947, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/77947/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1893-04-03", "date_modified": "2014-12-21T01:31:46.449140", "docket": "/api/rest/v2/docket/1359641/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">148 U.S. 390</p>\n    <p class=\"case_cite\">13 S.Ct. 602</p>\n    <p class=\"case_cite\">37 L.Ed. 493</p>\n    <p class=\"parties\">OGDEN et al.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 1,184.</p>\n    <p class=\"date\">March 27, 1893.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sol. Gen. Aldrich, for the motion.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">THE CHIEF JUSTICE.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">This appeal isdismissed upon the authority of Bank v. Peters, 144 U. S. 570, 12 Sup. Ct. Rep. 767; Hubbard v. Soby, 146 U. S. 56, 13 Sup. Ct. Rep. 13, and cases cited.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>148 U.S. 390 (1893)</b></center>\n<center><h1>OGDEN<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 1184.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 20, 1893.</center>\n<center>Decided March 27, 1893.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Mr. Solicitor General</i> for appellee in support of the motion.</p>\n<p><span class=\"star-pagination\">*391</span> <i>Mr. J.R. Beckwith</i> for appellants, opposing.</p>\n<p>THE CHIEF JUSTICE:</p>\n<p>This appeal is dismissed upon the authority of <i>Bank</i> v. <i>Peters,</i> 144 U.S. 570; <i>Hubbard</i> v. <i>Soby,</i> 146 U.S. 56, and cases cited.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">148</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">390</span></span> (1893)</b></center>\n<center><h1>OGDEN<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 1184.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 20, 1893.</center>\n<center>Decided March 27, 1893.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Mr. Solicitor General</i> for appellee in support of the motion.</p>\n<p><span class=\"star-pagination\">*391</span> <i>Mr. J.R. Beckwith</i> for appellants, opposing.</p>\n<p>THE CHIEF JUSTICE:</p>\n<p>This appeal is dismissed upon the authority of <i>Bank</i> v. <i>Peters,</i> 144 U.S. 570; <i>Hubbard</i> v. <i>Soby,</i> <span class=\"citation\" data-id=\"93416\"><a href=\"/opinion/93416/hubbard-v-soby/\"><span class=\"volume\">146</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">56</span></a></span>, and cases cited.</p>\n</div>", "id": 93567, "judges": "The Chief Justice:", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/93567/", "sha1": "51f2c9d06f6228ba28cf1fa4bb03b6b00b6e8e35", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:07:39"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "148 U.S. 390", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/93567/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ogden v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1,184", 
+    "id": 77947, 
+    "resource_uri": "/api/rest/v2/citation/77947/"
+  }, 
+  "id": 93567, 
+  "blocked": false, 
+  "judges": "The Chief Justice:", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1893-04-03", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>148 U.S. 390 (1893)</b></center>\n<center><h1>OGDEN<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 1184.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 20, 1893.</center>\n<center>Decided March 27, 1893.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Mr. Solicitor General</i> for appellee in support of the motion.</p>\n<p><span class=\"star-pagination\">*391</span> <i>Mr. J.R. Beckwith</i> for appellants, opposing.</p>\n<p>THE CHIEF JUSTICE:</p>\n<p>This appeal is dismissed upon the authority of <i>Bank</i> v. <i>Peters,</i> 144 U.S. 570; <i>Hubbard</i> v. <i>Soby,</i> 146 U.S. 56, and cases cited.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T09:07:39", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">148</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">390</span></span> (1893)</b></center>\n<center><h1>OGDEN<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 1184.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted March 20, 1893.</center>\n<center>Decided March 27, 1893.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Mr. Solicitor General</i> for appellee in support of the motion.</p>\n<p><span class=\"star-pagination\">*391</span> <i>Mr. J.R. Beckwith</i> for appellants, opposing.</p>\n<p>THE CHIEF JUSTICE:</p>\n<p>This appeal is dismissed upon the authority of <i>Bank</i> v. <i>Peters,</i> 144 U.S. 570; <i>Hubbard</i> v. <i>Soby,</i> <span class=\"citation\" data-id=\"93416\"><a href=\"/opinion/93416/hubbard-v-soby/\"><span class=\"volume\">146</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">56</span></a></span>, and cases cited.</p>\n</div>", 
+  "sha1": "51f2c9d06f6228ba28cf1fa4bb03b6b00b6e8e35", 
+  "date_modified": "2014-12-21T01:31:46.449140", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/93567/ogden-v-united-states/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1359641/", 
+  "html": "<p class=\"case_cite\">148 U.S. 390</p>\n    <p class=\"case_cite\">13 S.Ct. 602</p>\n    <p class=\"case_cite\">37 L.Ed. 493</p>\n    <p class=\"parties\">OGDEN et al.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 1,184.</p>\n    <p class=\"date\">March 27, 1893.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Sol. Gen. Aldrich, for the motion.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">THE CHIEF JUSTICE.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">This appeal isdismissed upon the authority of Bank v. Peters, 144 U. S. 570, 12 Sup. Ct. Rep. 767; Hubbard v. Soby, 146 U. S. 56, 13 Sup. Ct. Rep. 13, and cases cited.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/93567/"
+}

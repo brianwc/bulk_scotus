@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/104501/margaret-gately-petitioner-v-edith-hariton-et/", "blocked": false, "citation": {"case_name": "Margaret Gately v. Edith Hariton", "docket_number": "488", "document_uris": ["/api/rest/v2/document/104501/"], "federal_cite_one": "332 U.S. 855", "federal_cite_three": null, "federal_cite_two": null, "id": 88884, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/88884/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 11, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1948-01-19", "date_modified": "2014-12-21T01:48:20.197720", "docket": "/api/rest/v2/docket/2453910/", "download_url": "http://bulk.resource.org/courts.gov/c/US/332/332.US.855.488.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">332 U.S. 855</p>\r\n    <p class=\"case_cite\">68 S.Ct. 388</p>\r\n    <p class=\"case_cite\">92 L.Ed. 424</p>\r\n    <p class=\"parties\">Margaret GATELY, petitioner,<br>v.<br>Edith HARITON et al.</p>\r\n    <p class=\"docket\">No. 488.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 19, 1948</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. James P. Burns, for petitioner.</p>\r\n      <p class=\"indent\">Mr. Milton Strasburger, for respondents.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The motion to dispense with printing the record is granted. The petition for writ of certiorari to the United States Court of Appeals for the District of Columbia is denied.</p>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">332</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">855</span></span></p>\r\n    <p class=\"case_cite\">68 S.Ct. 388</p>\r\n    <p class=\"case_cite\">92 L.Ed. 424</p>\r\n    <p class=\"parties\">Margaret GATELY, petitioner,<br>v.<br>Edith HARITON et al.</p>\r\n    <p class=\"docket\">No. 488.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 19, 1948</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. James P. Burns, for petitioner.</p>\r\n      <p class=\"indent\">Mr. Milton Strasburger, for respondents.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The motion to dispense with printing the record is granted. The petition for writ of certiorari to the United States Court of Appeals for the District of Columbia is denied.</p>\r\n    </div>\r\n    ", "id": 104501, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/104501/", "sha1": "16841a285af61c465cd5f6520921cd2b98e43b6b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:59"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "332 U.S. 855", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/104501/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Margaret Gately v. Edith Hariton", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "488", 
+    "id": 88884, 
+    "resource_uri": "/api/rest/v2/citation/88884/"
+  }, 
+  "id": 104501, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1948-01-19", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/332/332.US.855.488.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:54:59", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">332</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">855</span></span></p>\r\n    <p class=\"case_cite\">68 S.Ct. 388</p>\r\n    <p class=\"case_cite\">92 L.Ed. 424</p>\r\n    <p class=\"parties\">Margaret GATELY, petitioner,<br>v.<br>Edith HARITON et al.</p>\r\n    <p class=\"docket\">No. 488.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 19, 1948</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. James P. Burns, for petitioner.</p>\r\n      <p class=\"indent\">Mr. Milton Strasburger, for respondents.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The motion to dispense with printing the record is granted. The petition for writ of certiorari to the United States Court of Appeals for the District of Columbia is denied.</p>\r\n    </div>\r\n    ", 
+  "sha1": "16841a285af61c465cd5f6520921cd2b98e43b6b", 
+  "date_modified": "2014-12-21T01:48:20.197720", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/104501/margaret-gately-petitioner-v-edith-hariton-et/", 
+  "citation_count": 11, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2453910/", 
+  "html": "<p class=\"case_cite\">332 U.S. 855</p>\r\n    <p class=\"case_cite\">68 S.Ct. 388</p>\r\n    <p class=\"case_cite\">92 L.Ed. 424</p>\r\n    <p class=\"parties\">Margaret GATELY, petitioner,<br>v.<br>Edith HARITON et al.</p>\r\n    <p class=\"docket\">No. 488.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">January 19, 1948</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Mr. James P. Burns, for petitioner.</p>\r\n      <p class=\"indent\">Mr. Milton Strasburger, for respondents.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">The motion to dispense with printing the record is granted. The petition for writ of certiorari to the United States Court of Appeals for the District of Columbia is denied.</p>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/104501/"
+}

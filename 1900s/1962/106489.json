@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106489/lanza-v-wagner/", "blocked": false, "citation": {"case_name": "Lanza v. Wagner", "docket_number": "452", "document_uris": ["/api/rest/v2/document/106489/"], "federal_cite_one": "371 U.S. 74", "federal_cite_three": null, "federal_cite_two": null, "id": 90872, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90872/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 8, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-11-13", "date_modified": "2015-04-15T13:39:37.686219", "docket": "/api/rest/v2/docket/1415649/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">371 U.S. 74</p>\n    <p class=\"case_cite\">83 S.Ct. 177</p>\n    <p class=\"case_cite\">9 L.Ed.2d 163</p>\n    <p class=\"parties\">Vito F. LANZA et al.<br>v.<br>Robert F. WAGNER, as Mayor of City of New York, et al.</p>\n    <p class=\"docket\">No. 452.</p>\n    <p class=\"date\">Decided Nov. 13, 1962.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Lanza, pro se, and Samuel Shapiro, for appellants.</p>\n      <p class=\"indent\">Louis J. Lefkowitz, Atty. Gen. of New York, Irving Galt, Asst. Sol. Gen., Sheldon Raab, Deputy Asst. Atty. Gen., Leo A. Larkin and Seymour B. Quel, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>371 U.S. 74 (1962)</b></center>\n<center><h1>LANZA ET AL.<br>\nv.<br>\nWAGNER, MAYOR OF NEW YORK CITY, ET AL.</h1></center>\n<center>No. 452.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 13, 1962.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Vito F. Lanza, pro se,</i> and <i>Samuel Shapiro</i> for appellants.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, <i>Irving Galt,</i> Assistant Solicitor General, <i>Sheldon Raab,</i> Deputy Assistant Attorney General, <i>Leo A. Larkin</i> and <i>Seymour B. Quel</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">74</span></span> (1962)</b></center>\n<center><h1>LANZA ET AL.<br>\nv.<br>\nWAGNER, MAYOR OF NEW YORK CITY, ET AL.</h1></center>\n<center>No. 452.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 13, 1962.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Vito F. Lanza, pro se,</i> and <i>Samuel Shapiro</i> for appellants.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, <i>Irving Galt,</i> Assistant Solicitor General, <i>Sheldon Raab,</i> Deputy Assistant Attorney General, <i>Leo A. Larkin</i> and <i>Seymour B. Quel</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "id": 106489, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106489/", "sha1": "80a944b6b9c9041f5f641614a4753b50016e29b0", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "371 U.S. 74", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106489/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Lanza v. Wagner", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "452", 
+    "id": 90872, 
+    "resource_uri": "/api/rest/v2/citation/90872/"
+  }, 
+  "id": 106489, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-11-13", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>371 U.S. 74 (1962)</b></center>\n<center><h1>LANZA ET AL.<br>\nv.<br>\nWAGNER, MAYOR OF NEW YORK CITY, ET AL.</h1></center>\n<center>No. 452.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 13, 1962.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Vito F. Lanza, pro se,</i> and <i>Samuel Shapiro</i> for appellants.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, <i>Irving Galt,</i> Assistant Solicitor General, <i>Sheldon Raab,</i> Deputy Assistant Attorney General, <i>Leo A. Larkin</i> and <i>Seymour B. Quel</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">74</span></span> (1962)</b></center>\n<center><h1>LANZA ET AL.<br>\nv.<br>\nWAGNER, MAYOR OF NEW YORK CITY, ET AL.</h1></center>\n<center>No. 452.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided November 13, 1962.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Vito F. Lanza, pro se,</i> and <i>Samuel Shapiro</i> for appellants.</p>\n<p><i>Louis J. Lefkowitz,</i> Attorney General of New York, <i>Irving Galt,</i> Assistant Solicitor General, <i>Sheldon Raab,</i> Deputy Assistant Attorney General, <i>Leo A. Larkin</i> and <i>Seymour B. Quel</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "sha1": "80a944b6b9c9041f5f641614a4753b50016e29b0", 
+  "date_modified": "2015-04-15T13:39:37.686219", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106489/lanza-v-wagner/", 
+  "citation_count": 8, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1415649/", 
+  "html": "<p class=\"case_cite\">371 U.S. 74</p>\n    <p class=\"case_cite\">83 S.Ct. 177</p>\n    <p class=\"case_cite\">9 L.Ed.2d 163</p>\n    <p class=\"parties\">Vito F. LANZA et al.<br>v.<br>Robert F. WAGNER, as Mayor of City of New York, et al.</p>\n    <p class=\"docket\">No. 452.</p>\n    <p class=\"date\">Decided Nov. 13, 1962.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Lanza, pro se, and Samuel Shapiro, for appellants.</p>\n      <p class=\"indent\">Louis J. Lefkowitz, Atty. Gen. of New York, Irving Galt, Asst. Sol. Gen., Sheldon Raab, Deputy Asst. Atty. Gen., Leo A. Larkin and Seymour B. Quel, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to dismiss are granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106489/"
+}

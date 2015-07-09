@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/2621015/chamberlin-v-dade-county-bd-of-public-instruction/", "blocked": false, "citation": {"case_name": "Chamberlin v. Dade County Bd. of Public Instruction", "docket_number": "520", "document_uris": ["/api/rest/v2/document/2621015/"], "federal_cite_one": "374 U.S. 487", "federal_cite_three": null, "federal_cite_two": null, "id": 2593787, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593787/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 4, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1963-06-17", "date_modified": "2014-12-21T13:13:55.426359", "docket": "/api/rest/v2/docket/2580241/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>374 U.S. 487 (1963)</b></center>\n<center><h1>CHAMBERLIN ET AL.<br>\nv.<br>\nDADE COUNTY BOARD OF PUBLIC INSTRUCTION ET AL.</h1></center>\n<center>No. 520.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF FLORIDA.\n<p><i>Leo Pfeffer</i> and <i>Howard W. Dixon</i> for appellants.</p>\n<p><i>George C. Bolles</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is vacated and the case is remanded to the Supreme Court of Florida for further consideration in light of <i>Murray</i> v. <i>Curlett</i> and <i>School District of Abington Township</i> v. <i>Schempp, ante,</i> p. 203, both decided this day.</p>\n</div>", "html_with_citations": "", "id": 2621015, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2621015/", "sha1": "83083890a912bc92000105afc27f7d67f18726da", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-11-01T13:20:46.304182"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "374 U.S. 487", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2621015/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Chamberlin v. Dade County Bd. of Public Instruction", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "520", 
+    "id": 2593787, 
+    "resource_uri": "/api/rest/v2/citation/2593787/"
+  }, 
+  "id": 2621015, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1963-06-17", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>374 U.S. 487 (1963)</b></center>\n<center><h1>CHAMBERLIN ET AL.<br>\nv.<br>\nDADE COUNTY BOARD OF PUBLIC INSTRUCTION ET AL.</h1></center>\n<center>No. 520.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 17, 1963.</center>\nAPPEAL FROM THE SUPREME COURT OF FLORIDA.\n<p><i>Leo Pfeffer</i> and <i>Howard W. Dixon</i> for appellants.</p>\n<p><i>George C. Bolles</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is vacated and the case is remanded to the Supreme Court of Florida for further consideration in light of <i>Murray</i> v. <i>Curlett</i> and <i>School District of Abington Township</i> v. <i>Schempp, ante,</i> p. 203, both decided this day.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:20:46.304182", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "83083890a912bc92000105afc27f7d67f18726da", 
+  "date_modified": "2014-12-21T13:13:55.426359", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2621015/chamberlin-v-dade-county-bd-of-public-instruction/", 
+  "citation_count": 4, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2580241/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2621015/"
+}

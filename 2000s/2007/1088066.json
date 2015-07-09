@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088066/tilton-v-buckley/", "blocked": false, "citation": {"case_name": "Tilton v. Buckley", "docket_number": "05-1623", "document_uris": ["/api/rest/v2/document/1088066/"], "federal_cite_one": "127 S. Ct. 2094", "federal_cite_three": null, "federal_cite_two": null, "id": 1060837, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060837/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2007-04-23", "date_modified": "2014-10-30T02:32:06.442461", "docket": "/api/rest/v2/docket/443748/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 2094 (2007)</b></center>\n<center><h1>James E. TILTON, Secretary, California Department of Corrections and Rehabilitation, petitioner,<br>\nv.<br>\nBrian A. BUCKLEY.</h1></center>\n<center>No. 05-1623.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>April 23, 2007.</center>\n<p>Motion of respondent for leave to proceed <i>in forma pauperis</i> granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b>127 S.Ct. 2094 (2007)</b></center>\n<center><h1>James E. TILTON, Secretary, California Department of Corrections and Rehabilitation, petitioner,<br>\nv.<br>\nBrian A. BUCKLEY.</h1></center>\n<center>No. 05-1623.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>April 23, 2007.</center>\n<p>Motion of respondent for leave to proceed <i>in forma pauperis</i> granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</div>", "id": 1088066, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088066/", "sha1": "7dd911f91d758705f58812e30358291b1484514a", "source": "L", "time_retrieved": "2013-10-29T20:45:10.204025"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 2094", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088066/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Tilton v. Buckley", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-1623", 
+    "id": 1060837, 
+    "resource_uri": "/api/rest/v2/citation/1060837/"
+  }, 
+  "id": 1088066, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2007-04-23", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 2094 (2007)</b></center>\n<center><h1>James E. TILTON, Secretary, California Department of Corrections and Rehabilitation, petitioner,<br>\nv.<br>\nBrian A. BUCKLEY.</h1></center>\n<center>No. 05-1623.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>April 23, 2007.</center>\n<p>Motion of respondent for leave to proceed <i>in forma pauperis</i> granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:45:10.204025", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b>127 S.Ct. 2094 (2007)</b></center>\n<center><h1>James E. TILTON, Secretary, California Department of Corrections and Rehabilitation, petitioner,<br>\nv.<br>\nBrian A. BUCKLEY.</h1></center>\n<center>No. 05-1623.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>April 23, 2007.</center>\n<p>Motion of respondent for leave to proceed <i>in forma pauperis</i> granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</p>\n</div>", 
+  "sha1": "7dd911f91d758705f58812e30358291b1484514a", 
+  "date_modified": "2014-10-30T02:32:06.442461", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088066/tilton-v-buckley/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/443748/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088066/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1290388/tabor-v-united-states/", "blocked": false, "citation": {"case_name": "Tabor v. United States", "docket_number": "06-5244", "document_uris": ["/api/rest/v2/document/1290388/"], "federal_cite_one": "128 S. Ct. 1060", "federal_cite_three": null, "federal_cite_two": null, "id": 1263159, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1263159/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2008-01-14", "date_modified": "2014-10-30T05:06:59.471736", "docket": "/api/rest/v2/docket/763039/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>(2008)</b></center>\n<center><h1>DAVID TABOR<br>\nv.<br>\nUNITED STATES</h1></center>\n<center>No. 06-5244</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>January 14, 2008.\n</center>\n<p>The motion of petitioner for leave to proceed <i>in forma pauperis</i> and the petitions for writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of <i>Kimbrough</i> v. <i>United States,</i> 552 U.S. ___ (2007).</p>\n</div>", "html_with_citations": "", "id": 1290388, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1290388/", "sha1": "17f9018aa29be109be1f0eb094e43ab615afce1b", "source": "L", "time_retrieved": "2013-10-29T22:22:03.727029"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "128 S. Ct. 1060", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1290388/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Tabor v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "06-5244", 
+    "id": 1263159, 
+    "resource_uri": "/api/rest/v2/citation/1263159/"
+  }, 
+  "id": 1290388, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2008-01-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>(2008)</b></center>\n<center><h1>DAVID TABOR<br>\nv.<br>\nUNITED STATES</h1></center>\n<center>No. 06-5244</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>January 14, 2008.\n</center>\n<p>The motion of petitioner for leave to proceed <i>in forma pauperis</i> and the petitions for writ of certiorari are granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of <i>Kimbrough</i> v. <i>United States,</i> 552 U.S. ___ (2007).</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:22:03.727029", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "17f9018aa29be109be1f0eb094e43ab615afce1b", 
+  "date_modified": "2014-10-30T05:06:59.471736", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1290388/tabor-v-united-states/", 
+  "citation_count": 3, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/763039/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1290388/"
+}

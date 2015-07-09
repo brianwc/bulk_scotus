@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117561/comercial-samora-ltda-v-united-states-et-al/", "blocked": false, "citation": {"case_name": "Comercial Samora Ltda. v. United States and Comercial Samora Ltda. v. Banco Atlantico S. A.", "docket_number": "93-1019", "document_uris": ["/api/rest/v2/document/117561/"], "federal_cite_one": "510 U.S. 1191", "federal_cite_three": null, "federal_cite_two": null, "id": 101920, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/101920/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-03-21", "date_modified": "2014-12-21T02:14:11.280662", "docket": "/api/rest/v2/docket/2422865/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1191.93-1019.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1191</p>\n    <p class=\"parties\">Comercial Samora Ltda.<br>v.<br>United States et al.; and<br>Comercial Samora Ltda.<br>v.<br>Banco Atlantico S. A. et al.</p>\n    <p class=\"docket\">No. 93-1019.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 2d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: No. 93-1002 and Nos. 93-1018, 93-1019, 93-1020, 93-1061, and 93-1073 (first cases), 6 F. 3d 37.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1191</span></span></p>\n    <p class=\"parties\">Comercial Samora Ltda.<br>v.<br>United States et al.; and<br>Comercial Samora Ltda.<br>v.<br>Banco Atlantico S. A. et al.</p>\n    <p class=\"docket\">No. 93-1019.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 2d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: No. 93-1002 and Nos. 93-1018, 93-1019, 93-1020, 93-1061, and 93-1073 (first cases), 6 F. 3d 37.</p>\n    </div>\n    ", "id": 117561, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117561/", "sha1": "e279dd5a6bef8b236a9efb6e6d97a7ca186bbcea", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:11"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1191", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117561/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Comercial Samora Ltda. v. United States and Comercial Samora Ltda. v. Banco Atlantico S. A.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-1019", 
+    "id": 101920, 
+    "resource_uri": "/api/rest/v2/citation/101920/"
+  }, 
+  "id": 117561, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-03-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1191.93-1019.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:11", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1191</span></span></p>\n    <p class=\"parties\">Comercial Samora Ltda.<br>v.<br>United States et al.; and<br>Comercial Samora Ltda.<br>v.<br>Banco Atlantico S. A. et al.</p>\n    <p class=\"docket\">No. 93-1019.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 2d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: No. 93-1002 and Nos. 93-1018, 93-1019, 93-1020, 93-1061, and 93-1073 (first cases), 6 F. 3d 37.</p>\n    </div>\n    ", 
+  "sha1": "e279dd5a6bef8b236a9efb6e6d97a7ca186bbcea", 
+  "date_modified": "2014-12-21T02:14:11.280662", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117561/comercial-samora-ltda-v-united-states-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2422865/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1191</p>\n    <p class=\"parties\">Comercial Samora Ltda.<br>v.<br>United States et al.; and<br>Comercial Samora Ltda.<br>v.<br>Banco Atlantico S. A. et al.</p>\n    <p class=\"docket\">No. 93-1019.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 2d Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: No. 93-1002 and Nos. 93-1018, 93-1019, 93-1020, 93-1061, and 93-1073 (first cases), 6 F. 3d 37.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117561/"
+}

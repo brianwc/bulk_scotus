@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107496/keney-v-new-york/", "blocked": false, "citation": {"case_name": "Keney v. New York", "docket_number": "2", "document_uris": ["/api/rest/v2/document/107496/"], "federal_cite_one": "388 U.S. 440", "federal_cite_three": "18 L. Ed. 2d 1302", "federal_cite_two": "87 S. Ct. 2091", "id": 91855, "lexis_cite": "1967 U.S. LEXIS 1090", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91855/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-06-12", "date_modified": "2014-12-21T01:55:30.977413", "docket": "/api/rest/v2/docket/2555995/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">388 U.S. 440</p>\n    <p class=\"case_cite\">87 S.Ct. 2091</p>\n    <p class=\"case_cite\">18 L.Ed.2d 1302</p>\n    <p class=\"parties\">David E. KENEY<br>v.<br>NEW YORK.</p>\n    <p class=\"docket\">No. 2.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 12, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Eugene Gressman, for petitioner.</p>\n      <p class=\"indent\">James H. Biben, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the County Court of Monroe County, New York.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for a writ of certiorari is granted and the judgment of the County Court of Monroe County, New York, is reversed. Redrup v. State of New York, 386 U.S. 767, 87 S.Ct. 1414, 18 L.Ed.2d 515.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN adheres to the views expressed in his separate opinions in Roth v. United States, 354 U.S. 476, 496, 77 S.Ct. 1304, 1 L.Ed.2d 1498, and A Book Named 'John Cleland's' Memoirs of a Woman of Pleasure v. Attorney General of Com. of Massachusetts, 383 U.S. 413, 455, 86 S.Ct. 975, 16 L.Ed.2d 1, and on the basis of the reasoning set forth therein would affirm.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>388 U.S. 440 (1967)</b></center>\n<center><h1>KENEY<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 2.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COUNTY COURT OF MONROE COUNTY, NEW YORK.\n<p><i>Eugene Gressman</i> for petitioner.</p>\n<p><i>James H. Biben</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment of the County Court of Monroe County, New York, is reversed. <i>Redrup</i> v. <i>New York,</i> 386 U. S. 767.</p>\n<p>MR. JUSTICE HARLAN adheres to the views expressed in his separate opinions in <i>Roth</i> v. <i>United States,</i> 354 U. S. 476, 496, and <i>Memoirs</i> v. <i>Massachusetts,</i> 383 U. S. 413, 455, and on the basis of the reasoning set forth therein would affirm.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">388</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">440</span></span> (1967)</b></center>\n<center><h1>KENEY<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 2.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COUNTY COURT OF MONROE COUNTY, NEW YORK.\n<p><i>Eugene Gressman</i> for petitioner.</p>\n<p><i>James H. Biben</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment of the County Court of Monroe County, New York, is reversed. <i>Redrup</i> v. <i>New York,</i> 386 U. S. 767.</p>\n<p>MR. JUSTICE HARLAN adheres to the views expressed in his separate opinions in <i>Roth</i> v. <i>United States,</i> 354 U. S. 476, 496, and <i>Memoirs</i> v. <i>Massachusetts,</i> 383 U. S. 413, 455, and on the basis of the reasoning set forth therein would affirm.</p>\n</div>", "id": 107496, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107496/", "sha1": "c861113fe6a07da2743aaa835f3af09d4e8f78bc", "source": "LR", "supreme_court_db_id": "1966-134", "time_retrieved": "2010-04-28T10:11:04"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "388 U.S. 440", 
+    "federal_cite_two": "87 S. Ct. 2091", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "18 L. Ed. 2d 1302", 
+    "lexis_cite": "1967 U.S. LEXIS 1090", 
+    "document_uris": [
+      "/api/rest/v2/document/107496/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Keney v. New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "2", 
+    "id": 91855, 
+    "resource_uri": "/api/rest/v2/citation/91855/"
+  }, 
+  "id": 107496, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-06-12", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>388 U.S. 440 (1967)</b></center>\n<center><h1>KENEY<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 2.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COUNTY COURT OF MONROE COUNTY, NEW YORK.\n<p><i>Eugene Gressman</i> for petitioner.</p>\n<p><i>James H. Biben</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment of the County Court of Monroe County, New York, is reversed. <i>Redrup</i> v. <i>New York,</i> 386 U. S. 767.</p>\n<p>MR. JUSTICE HARLAN adheres to the views expressed in his separate opinions in <i>Roth</i> v. <i>United States,</i> 354 U. S. 476, 496, and <i>Memoirs</i> v. <i>Massachusetts,</i> 383 U. S. 413, 455, and on the basis of the reasoning set forth therein would affirm.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:04", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">388</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">440</span></span> (1967)</b></center>\n<center><h1>KENEY<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 2.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 12, 1967.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE COUNTY COURT OF MONROE COUNTY, NEW YORK.\n<p><i>Eugene Gressman</i> for petitioner.</p>\n<p><i>James H. Biben</i> for respondent.</p>\n<p>PER CURIAM.</p>\n<p>The petition for a writ of certiorari is granted and the judgment of the County Court of Monroe County, New York, is reversed. <i>Redrup</i> v. <i>New York,</i> 386 U. S. 767.</p>\n<p>MR. JUSTICE HARLAN adheres to the views expressed in his separate opinions in <i>Roth</i> v. <i>United States,</i> 354 U. S. 476, 496, and <i>Memoirs</i> v. <i>Massachusetts,</i> 383 U. S. 413, 455, and on the basis of the reasoning set forth therein would affirm.</p>\n</div>", 
+  "sha1": "c861113fe6a07da2743aaa835f3af09d4e8f78bc", 
+  "date_modified": "2014-12-21T01:55:30.977413", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107496/keney-v-new-york/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": "1966-134", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2555995/", 
+  "html": "<p class=\"case_cite\">388 U.S. 440</p>\n    <p class=\"case_cite\">87 S.Ct. 2091</p>\n    <p class=\"case_cite\">18 L.Ed.2d 1302</p>\n    <p class=\"parties\">David E. KENEY<br>v.<br>NEW YORK.</p>\n    <p class=\"docket\">No. 2.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 12, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Eugene Gressman, for petitioner.</p>\n      <p class=\"indent\">James H. Biben, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the County Court of Monroe County, New York.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for a writ of certiorari is granted and the judgment of the County Court of Monroe County, New York, is reversed. Redrup v. State of New York, 386 U.S. 767, 87 S.Ct. 1414, 18 L.Ed.2d 515.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice HARLAN adheres to the views expressed in his separate opinions in Roth v. United States, 354 U.S. 476, 496, 77 S.Ct. 1304, 1 L.Ed.2d 1498, and A Book Named 'John Cleland's' Memoirs of a Woman of Pleasure v. Attorney General of Com. of Massachusetts, 383 U.S. 413, 455, 86 S.Ct. 975, 16 L.Ed.2d 1, and on the basis of the reasoning set forth therein would affirm.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107496/"
+}

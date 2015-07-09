@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/117658/sharkey-v-department-of-transportation/", "blocked": false, "citation": {"case_name": "Sharkey v. Department of Transportation", "docket_number": "93-7493", "document_uris": ["/api/rest/v2/document/117658/"], "federal_cite_one": "510 U.S. 1199", "federal_cite_three": null, "federal_cite_two": null, "id": 102017, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/102017/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1994-03-21", "date_modified": "2014-12-21T02:14:11.335625", "docket": "/api/rest/v2/docket/2143229/", "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1199.93-7493.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">510 U.S. 1199</p>\n    <p class=\"parties\">Sharkey<br>v.<br>Department of Transportation.</p>\n    <p class=\"docket\">No. 93-7493.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 11 F. 3d 1070.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1199</span></span></p>\n    <p class=\"parties\">Sharkey<br>v.<br>Department of Transportation.</p>\n    <p class=\"docket\">No. 93-7493.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 11 F. 3d 1070.</p>\n    </div>\n    ", "id": 117658, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/117658/", "sha1": "798ce25c7871077c4f76c9ce29c4de0abf01e1a7", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:20:13"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "510 U.S. 1199", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/117658/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Sharkey v. Department of Transportation", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "93-7493", 
+    "id": 102017, 
+    "resource_uri": "/api/rest/v2/citation/102017/"
+  }, 
+  "id": 117658, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1994-03-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/510/510.US.1199.93-7493.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:20:13", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">510</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1199</span></span></p>\n    <p class=\"parties\">Sharkey<br>v.<br>Department of Transportation.</p>\n    <p class=\"docket\">No. 93-7493.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 11 F. 3d 1070.</p>\n    </div>\n    ", 
+  "sha1": "798ce25c7871077c4f76c9ce29c4de0abf01e1a7", 
+  "date_modified": "2014-12-21T02:14:11.335625", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/117658/sharkey-v-department-of-transportation/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2143229/", 
+  "html": "<p class=\"case_cite\">510 U.S. 1199</p>\n    <p class=\"parties\">Sharkey<br>v.<br>Department of Transportation.</p>\n    <p class=\"docket\">No. 93-7493.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">March 21, 1994.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 11 F. 3d 1070.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/117658/"
+}

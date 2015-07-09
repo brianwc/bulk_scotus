@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107417/miller-brewing-co-v-jones/", "blocked": false, "citation": {"case_name": "Miller Brewing Co. v. Jones", "docket_number": "1067", "document_uris": ["/api/rest/v2/document/107417/"], "federal_cite_one": "386 U.S. 684", "federal_cite_three": null, "federal_cite_two": null, "id": 91776, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91776/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-04-24", "date_modified": "2014-12-21T01:55:21.781346", "docket": "/api/rest/v2/docket/2524775/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">386 U.S. 684</p>\n    <p class=\"case_cite\">87 S.Ct. 1325</p>\n    <p class=\"case_cite\">18 L.Ed.2d 405</p>\n    <p class=\"parties\">MILLER BREWING CO.<br>v.<br>Theodore JONES.</p>\n    <p class=\"docket\">No. 1067.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 17, 1967</p>\n    <p class=\"date\">Rehearing Denied May 29, 1967.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 387 U.S. 938, 87 S.Ct. 2048.</p>\n      <p class=\"indent\">Frank H. Uriell and Paul A. Teschner, for appellant.</p>\n      <p class=\"indent\">William G. Clark, Atty. Gen. of Illinois, and Richard A. Michael and John J. O'Toole, Asst. Attys. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>386 U.S. 684 (1967)</b></center>\n<center><h1>MILLER BREWING CO.<br>\nv.<br>\nJONES, DIRECTOR OF REVENUE OF ILLINOIS.</h1></center>\n<center>No. 1067.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 17, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF ILLINOIS.\n<p><i>Frank H. Uriell</i> and <i>Paul A. Teschner</i> for appellant.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, and <i>Richard A. Michael</i> and <i>John J. O'Toole,</i> Assistant Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">684</span></span> (1967)</b></center>\n<center><h1>MILLER BREWING CO.<br>\nv.<br>\nJONES, DIRECTOR OF REVENUE OF ILLINOIS.</h1></center>\n<center>No. 1067.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 17, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF ILLINOIS.\n<p><i>Frank H. Uriell</i> and <i>Paul A. Teschner</i> for appellant.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, and <i>Richard A. Michael</i> and <i>John J. O'Toole,</i> Assistant Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "id": 107417, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107417/", "sha1": "6235e925c2105b7d4d054ae6b4b456529a14e09e", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:01"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "386 U.S. 684", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/107417/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Miller Brewing Co. v. Jones", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1067", 
+    "id": 91776, 
+    "resource_uri": "/api/rest/v2/citation/91776/"
+  }, 
+  "id": 107417, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-04-24", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>386 U.S. 684 (1967)</b></center>\n<center><h1>MILLER BREWING CO.<br>\nv.<br>\nJONES, DIRECTOR OF REVENUE OF ILLINOIS.</h1></center>\n<center>No. 1067.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 17, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF ILLINOIS.\n<p><i>Frank H. Uriell</i> and <i>Paul A. Teschner</i> for appellant.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, and <i>Richard A. Michael</i> and <i>John J. O'Toole,</i> Assistant Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:11:01", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">684</span></span> (1967)</b></center>\n<center><h1>MILLER BREWING CO.<br>\nv.<br>\nJONES, DIRECTOR OF REVENUE OF ILLINOIS.</h1></center>\n<center>No. 1067.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided April 17, 1967.</center>\nAPPEAL FROM THE SUPREME COURT OF ILLINOIS.\n<p><i>Frank H. Uriell</i> and <i>Paul A. Teschner</i> for appellant.</p>\n<p><i>William G. Clark,</i> Attorney General of Illinois, and <i>Richard A. Michael</i> and <i>John J. O'Toole,</i> Assistant Attorneys General, for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "sha1": "6235e925c2105b7d4d054ae6b4b456529a14e09e", 
+  "date_modified": "2014-12-21T01:55:21.781346", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107417/miller-brewing-co-v-jones/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2524775/", 
+  "html": "<p class=\"case_cite\">386 U.S. 684</p>\n    <p class=\"case_cite\">87 S.Ct. 1325</p>\n    <p class=\"case_cite\">18 L.Ed.2d 405</p>\n    <p class=\"parties\">MILLER BREWING CO.<br>v.<br>Theodore JONES.</p>\n    <p class=\"docket\">No. 1067.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 17, 1967</p>\n    <p class=\"date\">Rehearing Denied May 29, 1967.</p>\n    <div class=\"prelims\">\n      <p class=\"center\">See 387 U.S. 938, 87 S.Ct. 2048.</p>\n      <p class=\"indent\">Frank H. Uriell and Paul A. Teschner, for appellant.</p>\n      <p class=\"indent\">William G. Clark, Atty. Gen. of Illinois, and Richard A. Michael and John J. O'Toole, Asst. Attys. Gen., for appellee.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107417/"
+}

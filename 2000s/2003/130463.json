@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/130463/cook-v-principi-secretary-of-veterans-affairs/", "blocked": false, "citation": {"case_name": "Cook v. Principi, Secretary of Veterans Affairs", "docket_number": "02-1317", "document_uris": ["/api/rest/v2/document/130463/"], "federal_cite_one": "539 U.S. 926", "federal_cite_three": null, "federal_cite_two": null, "id": 114816, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/114816/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-06-16", "date_modified": "2014-12-21T02:18:54.736659", "docket": "/api/rest/v2/docket/2274641/", "download_url": "http://bulk.resource.org/courts.gov/c/US/539/539.US.926.02-1317.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">539 U.S. 926</p>\n    <p class=\"parties\">Cook<br>v.<br>Principi, Secretary of Veterans Affairs.</p>\n    <p class=\"docket\">No. 02-1317.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 16, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 318 F. 3d 1334.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">539</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">926</span></span></p>\n    <p class=\"parties\">Cook<br>v.<br>Principi, Secretary of Veterans Affairs.</p>\n    <p class=\"docket\">No. 02-1317.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 16, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 318 F. 3d 1334.</p>\n    </div>\n    ", "id": 130463, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/130463/", "sha1": "5ebcff79700e3f59e5c62ac851f6d9c42a44383e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:11"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "539 U.S. 926", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/130463/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Cook v. Principi, Secretary of Veterans Affairs", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-1317", 
+    "id": 114816, 
+    "resource_uri": "/api/rest/v2/citation/114816/"
+  }, 
+  "id": 130463, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-06-16", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/539/539.US.926.02-1317.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:11", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">539</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">926</span></span></p>\n    <p class=\"parties\">Cook<br>v.<br>Principi, Secretary of Veterans Affairs.</p>\n    <p class=\"docket\">No. 02-1317.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 16, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 318 F. 3d 1334.</p>\n    </div>\n    ", 
+  "sha1": "5ebcff79700e3f59e5c62ac851f6d9c42a44383e", 
+  "date_modified": "2014-12-21T02:18:54.736659", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/130463/cook-v-principi-secretary-of-veterans-affairs/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2274641/", 
+  "html": "<p class=\"case_cite\">539 U.S. 926</p>\n    <p class=\"parties\">Cook<br>v.<br>Principi, Secretary of Veterans Affairs.</p>\n    <p class=\"docket\">No. 02-1317.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 16, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. Fed. Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied. Reported below: 318 F. 3d 1334.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/130463/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1491559/members-of-the-peanut-quota-holders-assn-inc-v-uni/", "blocked": false, "citation": {"case_name": "Members of the Peanut Quota Holders Assn., Inc. v. United States", "docket_number": "05-1225", "document_uris": ["/api/rest/v2/document/1491559/"], "federal_cite_one": "548 U.S. 904", "federal_cite_three": null, "federal_cite_two": null, "id": 1464330, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1464330/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-06-26", "date_modified": "2014-10-30T11:12:39.400201", "docket": "/api/rest/v2/docket/1625840/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>548 U.S. 904 (2006)</b></center>\n<center><h1>MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-1225.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">904</span></span> (2006)</b></center>\n<center><h1>MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-1225.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", "id": 1491559, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1491559/", "sha1": "afeb679ede160d5dc3535da22a6ec489b79b949a", "source": "L", "time_retrieved": "2013-10-29T23:28:14.114505"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "548 U.S. 904", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1491559/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Members of the Peanut Quota Holders Assn., Inc. v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-1225", 
+    "id": 1464330, 
+    "resource_uri": "/api/rest/v2/citation/1464330/"
+  }, 
+  "id": 1491559, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-06-26", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>548 U.S. 904 (2006)</b></center>\n<center><h1>MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-1225.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:28:14.114505", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">904</span></span> (2006)</b></center>\n<center><h1>MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-1225.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>", 
+  "sha1": "afeb679ede160d5dc3535da22a6ec489b79b949a", 
+  "date_modified": "2014-10-30T11:12:39.400201", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1491559/members-of-the-peanut-quota-holders-assn-inc-v-uni/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1625840/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1491559/"
+}

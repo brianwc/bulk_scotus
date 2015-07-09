@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1520448/brazosport-sav-loan-assn-v-phillips/", "blocked": false, "citation": {"case_name": "Brazosport Sav. & Loan Assn. v. Phillips", "docket_number": "565", "document_uris": ["/api/rest/v2/document/1520448/"], "federal_cite_one": "375 U.S. 438", "federal_cite_three": null, "federal_cite_two": null, "id": 1493219, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1493219/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-01-13", "date_modified": "2014-10-30T07:05:12.885372", "docket": "/api/rest/v2/docket/1063916/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>375 U.S. 438 (1964)</b></center>\n<center><h1>BRAZOSPORT SAVINGS &amp; LOAN ASSOCIATION ET AL.<br>\nv.<br>\nPHILLIPS ET AL.</h1></center>\n<center>No. 565.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 13, 1964.</center>\nAPPEAL FROM THE SUPREME COURT OF TEXAS.\n<p><i>John J. McKay</i> for appellants.</p>\n<p><i>Waggoner Carr,</i> Attorney General of Texas, <i>Joe R. Long</i> and <i>Howard W. Mays,</i> Assistant Attorneys General, <i>Edward Clark</i> and <i>Martin Harris</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 1520448, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1520448/", "sha1": "733a1ada96c4df3ed2e906ee3594bfeaab1303eb", "source": "L", "time_retrieved": "2013-10-29T23:33:57.435698"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "375 U.S. 438", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1520448/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Brazosport Sav. & Loan Assn. v. Phillips", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "565", 
+    "id": 1493219, 
+    "resource_uri": "/api/rest/v2/citation/1493219/"
+  }, 
+  "id": 1520448, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-01-13", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>375 U.S. 438 (1964)</b></center>\n<center><h1>BRAZOSPORT SAVINGS &amp; LOAN ASSOCIATION ET AL.<br>\nv.<br>\nPHILLIPS ET AL.</h1></center>\n<center>No. 565.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 13, 1964.</center>\nAPPEAL FROM THE SUPREME COURT OF TEXAS.\n<p><i>John J. McKay</i> for appellants.</p>\n<p><i>Waggoner Carr,</i> Attorney General of Texas, <i>Joe R. Long</i> and <i>Howard W. Mays,</i> Assistant Attorneys General, <i>Edward Clark</i> and <i>Martin Harris</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:33:57.435698", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "733a1ada96c4df3ed2e906ee3594bfeaab1303eb", 
+  "date_modified": "2014-10-30T07:05:12.885372", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1520448/brazosport-sav-loan-assn-v-phillips/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1063916/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1520448/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107503/order-of-railway-conductors-and-brakemen-et-al/", "blocked": false, "citation": {"case_name": "Order of Railway Conductors and Brakemen v. United States", "docket_number": "1093", "document_uris": ["/api/rest/v2/document/107503/"], "federal_cite_one": "388 U.S. 455", "federal_cite_three": null, "federal_cite_two": null, "id": 91862, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91862/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-10-16", "date_modified": "2014-12-21T01:55:31.371938", "docket": "/api/rest/v2/docket/362742/", "download_url": "http://bulk.resource.org/courts.gov/c/US/388/388.US.455.1093.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">388 U.S. 455</p>\n    <p class=\"case_cite\">87 S.Ct. 2108</p>\n    <p class=\"case_cite\">18 L.Ed.2d 1316</p>\n    <p class=\"parties\">ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 1093.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 12, 1967</p>\n    <p class=\"date\">Rehearing Denied Oct. 9, 1967.</p>\n    <div class=\"prelims\">\n      <p>See 88 S.Ct. 15.</p>\n      <p class=\"indent\">Harry Wilmarth, for appellants.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">Robert H. Bierma and David L. Wilson, for appellee Pennsylvania Railroad Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK is of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">388</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">455</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 2108</p>\n    <p class=\"case_cite\">18 L.Ed.2d 1316</p>\n    <p class=\"parties\">ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 1093.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 12, 1967</p>\n    <p class=\"date\">Rehearing Denied Oct. 9, 1967.</p>\n    <div class=\"prelims\">\n      <p>See 88 S.Ct. 15.</p>\n      <p class=\"indent\">Harry Wilmarth, for appellants.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">Robert H. Bierma and David L. Wilson, for appellee Pennsylvania Railroad Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK is of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    ", "id": 107503, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107503/", "sha1": "5fbdeee7f57c9f5a94c73869756004abff37624e", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:04"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "388 U.S. 455", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107503/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Order of Railway Conductors and Brakemen v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1093", 
+    "id": 91862, 
+    "resource_uri": "/api/rest/v2/citation/91862/"
+  }, 
+  "id": 107503, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-10-16", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/388/388.US.455.1093.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:04", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">388</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">455</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 2108</p>\n    <p class=\"case_cite\">18 L.Ed.2d 1316</p>\n    <p class=\"parties\">ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 1093.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 12, 1967</p>\n    <p class=\"date\">Rehearing Denied Oct. 9, 1967.</p>\n    <div class=\"prelims\">\n      <p>See 88 S.Ct. 15.</p>\n      <p class=\"indent\">Harry Wilmarth, for appellants.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">Robert H. Bierma and David L. Wilson, for appellee Pennsylvania Railroad Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK is of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    ", 
+  "sha1": "5fbdeee7f57c9f5a94c73869756004abff37624e", 
+  "date_modified": "2014-12-21T01:55:31.371938", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107503/order-of-railway-conductors-and-brakemen-et-al/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/362742/", 
+  "html": "<p class=\"case_cite\">388 U.S. 455</p>\n    <p class=\"case_cite\">87 S.Ct. 2108</p>\n    <p class=\"case_cite\">18 L.Ed.2d 1316</p>\n    <p class=\"parties\">ORDER OF RAILWAY CONDUCTORS AND BRAKEMEN et al.<br>v.<br>UNITED STATES et al.</p>\n    <p class=\"docket\">No. 1093.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">June 12, 1967</p>\n    <p class=\"date\">Rehearing Denied Oct. 9, 1967.</p>\n    <div class=\"prelims\">\n      <p>See 88 S.Ct. 15.</p>\n      <p class=\"indent\">Harry Wilmarth, for appellants.</p>\n      <p class=\"indent\">Solicitor General Marshall, Assistant Attorney General Turner, Howard E. Shapiro, Robert W. Ginnane and Betty Jo Christian, for the United States and others.</p>\n      <p class=\"indent\">Robert H. Bierma and David L. Wilson, for appellee Pennsylvania Railroad Co.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motions to affirm are granted and the judgment is affirmed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice BLACK is of the opinion that probable jurisdiction should be noted and the case set for oral argument.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107503/"
+}

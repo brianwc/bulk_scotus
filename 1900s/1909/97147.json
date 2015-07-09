@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/97147/mrs-emma-g-mills-and-her-husband-harry-mills/", "blocked": false, "citation": {"case_name": "Mrs. Emma G. Mills, and Her Husband, Harry Mills, in Error v. Mrs. M. E. v. Johnson and Husband, L. A. Johnson, J. H. H. Burk, at Al", "docket_number": "36", "document_uris": ["/api/rest/v2/document/97147/"], "federal_cite_one": "215 U.S. 590", "federal_cite_three": null, "federal_cite_two": null, "id": 81530, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/81530/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1909-12-13", "date_modified": "2014-12-21T01:35:02.086474", "docket": "/api/rest/v2/docket/1080502/", "download_url": "http://bulk.resource.org/courts.gov/c/US/215/215.US.590.36.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">215 U.S. 590</p>\n    <p class=\"case_cite\">30 S.Ct. 407</p>\n    <p class=\"case_cite\">54 L.Ed. 340</p>\n    <p class=\"parties\">MRS. EMMA G. MILLS, and her husband, Harry Mills,  Plaintiffs in Error,<br>v.<br>MRS. M. E. V. JOHNSON and husband, L. A. Johnson, J.  H. H. Burk, at al.</p>\n    <p class=\"docket\">No. 36.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 13, 1909</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Frederic D. McKenney and R. S. Neblett for plaintiffs in error.</p>\n      <p class=\"indent\">Messrs. Richard Mays, Robert E. Prince, and W. S. Simpkins for defendants in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Writ of Error dismissed for want of jurisdiction. Beale v. Johnson, 45 Tex. Civ. App. 119, 99 S. W. 1045; Waters-Pierce Oil Co. v. Texas, 212 U. S. 86, 53 L. ed. 417, 29 Sup. Ct. Rep. 220; Waters Pierce Oil Co. v. Texas, 212 U. S. 112, 53 L. ed. 431, 29 Sup. Ct. Rep. 227; McCorquodale v. Texas, 211 U. S. 432, 53 L. ed. 269, 29 Sup. Ct. Rep. 146; Cox v. Texas, 202 U. S. 446, 50 L. ed. 1099, 26 Sup. Ct. Rep. 671; Harding v. Illinois, 196 U. S. 78, 49 L. ed. 394, 25 Sup. Ct. Rep. 176; Arbuckle v. Blackburn, 191 U. S. 405, 48 L. ed. 239, 24 Sup. Ct. Rep. 148.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">215</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">590</span></span></p>\n    <p class=\"case_cite\">30 S.Ct. 407</p>\n    <p class=\"case_cite\">54 L.Ed. 340</p>\n    <p class=\"parties\">MRS. EMMA G. MILLS, and her husband, Harry Mills,  Plaintiffs in Error,<br>v.<br>MRS. M. E. V. JOHNSON and husband, L. A. Johnson, J.  H. H. Burk, at al.</p>\n    <p class=\"docket\">No. 36.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 13, 1909</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Frederic D. McKenney and R. S. Neblett for plaintiffs in error.</p>\n      <p class=\"indent\">Messrs. Richard Mays, Robert E. Prince, and W. S. Simpkins for defendants in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Writ of Error dismissed for want of jurisdiction. Beale v. Johnson, <span class=\"citation\" data-id=\"88147\"><a href=\"/opinion/88147/the-johnson/\"><span class=\"volume\">45</span> <span class=\"reporter\">Tex. Civ. App.</span> <span class=\"page\">119</span></a></span>, 99 S. W. 1045; Waters-Pierce Oil Co. v. Texas, 212 U. S. 86, 53 L. ed. 417, 29 Sup. Ct. Rep. 220; Waters Pierce Oil Co. v. Texas, 212 U. S. 112, 53 L. ed. 431, 29 Sup. Ct. Rep. 227; McCorquodale v. Texas, 211 U. S. 432, 53 L. ed. 269, 29 Sup. Ct. Rep. 146; Cox v. Texas, 202 U. S. 446, 50 L. ed. 1099, 26 Sup. Ct. Rep. 671; Harding v. Illinois, 196 U. S. 78, 49 L. ed. 394, 25 Sup. Ct. Rep. 176; Arbuckle v. Blackburn, 191 U. S. 405, 48 L. ed. 239, 24 Sup. Ct. Rep. 148.</p>\n    </div>\n    ", "id": 97147, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/97147/", "sha1": "915495e3a896522f7abd32fda52c5eb97715b0de", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:42:19"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "215 U.S. 590", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/97147/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Mrs. Emma G. Mills, and Her Husband, Harry Mills, in Error v. Mrs. M. E. v. Johnson and Husband, L. A. Johnson, J. H. H. Burk, at Al", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "36", 
+    "id": 81530, 
+    "resource_uri": "/api/rest/v2/citation/81530/"
+  }, 
+  "id": 97147, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1909-12-13", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/215/215.US.590.36.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:42:19", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">215</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">590</span></span></p>\n    <p class=\"case_cite\">30 S.Ct. 407</p>\n    <p class=\"case_cite\">54 L.Ed. 340</p>\n    <p class=\"parties\">MRS. EMMA G. MILLS, and her husband, Harry Mills,  Plaintiffs in Error,<br>v.<br>MRS. M. E. V. JOHNSON and husband, L. A. Johnson, J.  H. H. Burk, at al.</p>\n    <p class=\"docket\">No. 36.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 13, 1909</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Frederic D. McKenney and R. S. Neblett for plaintiffs in error.</p>\n      <p class=\"indent\">Messrs. Richard Mays, Robert E. Prince, and W. S. Simpkins for defendants in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Writ of Error dismissed for want of jurisdiction. Beale v. Johnson, <span class=\"citation\" data-id=\"88147\"><a href=\"/opinion/88147/the-johnson/\"><span class=\"volume\">45</span> <span class=\"reporter\">Tex. Civ. App.</span> <span class=\"page\">119</span></a></span>, 99 S. W. 1045; Waters-Pierce Oil Co. v. Texas, 212 U. S. 86, 53 L. ed. 417, 29 Sup. Ct. Rep. 220; Waters Pierce Oil Co. v. Texas, 212 U. S. 112, 53 L. ed. 431, 29 Sup. Ct. Rep. 227; McCorquodale v. Texas, 211 U. S. 432, 53 L. ed. 269, 29 Sup. Ct. Rep. 146; Cox v. Texas, 202 U. S. 446, 50 L. ed. 1099, 26 Sup. Ct. Rep. 671; Harding v. Illinois, 196 U. S. 78, 49 L. ed. 394, 25 Sup. Ct. Rep. 176; Arbuckle v. Blackburn, 191 U. S. 405, 48 L. ed. 239, 24 Sup. Ct. Rep. 148.</p>\n    </div>\n    ", 
+  "sha1": "915495e3a896522f7abd32fda52c5eb97715b0de", 
+  "date_modified": "2014-12-21T01:35:02.086474", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/97147/mrs-emma-g-mills-and-her-husband-harry-mills/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1080502/", 
+  "html": "<p class=\"case_cite\">215 U.S. 590</p>\n    <p class=\"case_cite\">30 S.Ct. 407</p>\n    <p class=\"case_cite\">54 L.Ed. 340</p>\n    <p class=\"parties\">MRS. EMMA G. MILLS, and her husband, Harry Mills,  Plaintiffs in Error,<br>v.<br>MRS. M. E. V. JOHNSON and husband, L. A. Johnson, J.  H. H. Burk, at al.</p>\n    <p class=\"docket\">No. 36.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 13, 1909</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Frederic D. McKenney and R. S. Neblett for plaintiffs in error.</p>\n      <p class=\"indent\">Messrs. Richard Mays, Robert E. Prince, and W. S. Simpkins for defendants in error.</p>\n      <p class=\"indent\">\n        <i>Per Curiam:</i>\n      </p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Writ of Error dismissed for want of jurisdiction. Beale v. Johnson, 45 Tex. Civ. App. 119, 99 S. W. 1045; Waters-Pierce Oil Co. v. Texas, 212 U. S. 86, 53 L. ed. 417, 29 Sup. Ct. Rep. 220; Waters Pierce Oil Co. v. Texas, 212 U. S. 112, 53 L. ed. 431, 29 Sup. Ct. Rep. 227; McCorquodale v. Texas, 211 U. S. 432, 53 L. ed. 269, 29 Sup. Ct. Rep. 146; Cox v. Texas, 202 U. S. 446, 50 L. ed. 1099, 26 Sup. Ct. Rep. 671; Harding v. Illinois, 196 U. S. 78, 49 L. ed. 394, 25 Sup. Ct. Rep. 176; Arbuckle v. Blackburn, 191 U. S. 405, 48 L. ed. 239, 24 Sup. Ct. Rep. 148.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/97147/"
+}

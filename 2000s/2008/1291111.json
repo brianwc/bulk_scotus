@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1291111/sanchez-v-united-states/", "blocked": false, "citation": {"case_name": "Sanchez v. United States", "docket_number": "08-5195", "document_uris": ["/api/rest/v2/document/1291111/"], "federal_cite_one": "128 S. Ct. 1720", "federal_cite_three": null, "federal_cite_two": null, "id": 1263882, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1263882/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2008-10-06", "date_modified": "2014-10-30T10:45:25.973632", "docket": "/api/rest/v2/docket/1569456/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><h1>CESAR SANCHEZ<br>\nv.<br>\nUNITED STATES</h1></center>\n<center>No. 08-5195</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 6, 2008.</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 1291111, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1291111/", "sha1": "5c73fe276e7888a78a7d9ac0c21bf50d3b1494f5", "source": "L", "time_retrieved": "2013-10-29T22:22:11.459830"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "128 S. Ct. 1720", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1291111/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Sanchez v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "08-5195", 
+    "id": 1263882, 
+    "resource_uri": "/api/rest/v2/citation/1263882/"
+  }, 
+  "id": 1291111, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2008-10-06", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><h1>CESAR SANCHEZ<br>\nv.<br>\nUNITED STATES</h1></center>\n<center>No. 08-5195</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>October 6, 2008.</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:22:11.459830", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "5c73fe276e7888a78a7d9ac0c21bf50d3b1494f5", 
+  "date_modified": "2014-10-30T10:45:25.973632", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1291111/sanchez-v-united-states/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1569456/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1291111/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/126925/hunt-v-united-states/", "blocked": false, "citation": {"case_name": "Hunt v. United States", "docket_number": "02-8068", "document_uris": ["/api/rest/v2/document/126925/"], "federal_cite_one": "537 U.S. 1170", "federal_cite_three": null, "federal_cite_two": null, "id": 111278, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/111278/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-01-27", "date_modified": "2014-12-22T10:12:02.291503", "docket": "/api/rest/v2/docket/108563/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1170.02-8068.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 1170</p>\n    <p class=\"parties\">HUNT<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-8068.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Motion of petitioner for leave to proceed <i>in forma pauperis</i> denied. Petitioner is allowed until February 18, 2003, within which to pay the docketing fee required by Rule 38(a) and to submit a petition in compliance with Rule 33.1 of the Rules of this Court.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1170</span></span></p>\n    <p class=\"parties\">HUNT<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-8068.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Motion of petitioner for leave to proceed <i>in forma pauperis</i> denied. Petitioner is allowed until February 18, 2003, within which to pay the docketing fee required by Rule 38(a) and to submit a petition in compliance with Rule 33.1 of the Rules of this Court.</p>\n    </div>\n    ", "id": 126925, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/126925/", "sha1": "75bb5ab1b4a2367da3d8fd7ab3206972b58cb5c5", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:53"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 1170", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/126925/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hunt v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-8068", 
+    "id": 111278, 
+    "resource_uri": "/api/rest/v2/citation/111278/"
+  }, 
+  "id": 126925, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-01-27", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1170.02-8068.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:53", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1170</span></span></p>\n    <p class=\"parties\">HUNT<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-8068.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Motion of petitioner for leave to proceed <i>in forma pauperis</i> denied. Petitioner is allowed until February 18, 2003, within which to pay the docketing fee required by Rule 38(a) and to submit a petition in compliance with Rule 33.1 of the Rules of this Court.</p>\n    </div>\n    ", 
+  "sha1": "75bb5ab1b4a2367da3d8fd7ab3206972b58cb5c5", 
+  "date_modified": "2014-12-22T10:12:02.291503", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/126925/hunt-v-united-states/", 
+  "citation_count": 1, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/108563/", 
+  "html": "<p class=\"case_cite\">537 U.S. 1170</p>\n    <p class=\"parties\">HUNT<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-8068.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">January 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 7th Cir. Motion of petitioner for leave to proceed <i>in forma pauperis</i> denied. Petitioner is allowed until February 18, 2003, within which to pay the docketing fee required by Rule 38(a) and to submit a petition in compliance with Rule 33.1 of the Rules of this Court.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/126925/"
+}

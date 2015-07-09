@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/123402/wilson-v-texas/", "blocked": false, "citation": {"case_name": "Wilson v. Texas", "docket_number": "02-5035", "document_uris": ["/api/rest/v2/document/123402/"], "federal_cite_one": "537 U.S. 891", "federal_cite_three": null, "federal_cite_two": null, "id": 107755, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/107755/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-07", "date_modified": "2014-12-21T02:17:43.416221", "docket": "/api/rest/v2/docket/1706440/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.891.02-5035.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 891</p>\n    <p class=\"parties\">WILSON<br>v.<br>TEXAS.</p>\n    <p class=\"docket\">No. 02-5035.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TEXAS.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. Crim. App. Tex. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">891</span></span></p>\n    <p class=\"parties\">WILSON<br>v.<br>TEXAS.</p>\n    <p class=\"docket\">No. 02-5035.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TEXAS.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. Crim. App. Tex. Certiorari denied.</p>\n    </div>\n    ", "id": 123402, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/123402/", "sha1": "bddeae7ca0121856bde5927083669236f571c6b7", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:01"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 891", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/123402/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Wilson v. Texas", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-5035", 
+    "id": 107755, 
+    "resource_uri": "/api/rest/v2/citation/107755/"
+  }, 
+  "id": 123402, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-07", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.891.02-5035.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:01", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">891</span></span></p>\n    <p class=\"parties\">WILSON<br>v.<br>TEXAS.</p>\n    <p class=\"docket\">No. 02-5035.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TEXAS.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. Crim. App. Tex. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "bddeae7ca0121856bde5927083669236f571c6b7", 
+  "date_modified": "2014-12-21T02:17:43.416221", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/123402/wilson-v-texas/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1706440/", 
+  "html": "<p class=\"case_cite\">537 U.S. 891</p>\n    <p class=\"parties\">WILSON<br>v.<br>TEXAS.</p>\n    <p class=\"docket\">No. 02-5035.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TEXAS.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. Crim. App. Tex. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/123402/"
+}

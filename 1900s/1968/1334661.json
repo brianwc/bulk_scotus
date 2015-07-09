@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1334661/jones-v-united-states/", "blocked": false, "citation": {"case_name": "Jones v. United States", "docket_number": "135", "document_uris": ["/api/rest/v2/document/1334661/"], "federal_cite_one": "392 U.S. 299", "federal_cite_three": "20 L. Ed. 2d 1104", "federal_cite_two": "88 S. Ct. 2050", "id": 1307432, "lexis_cite": "1968 U.S. LEXIS 1360", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1307432/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 27, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-06-10", "date_modified": "2014-12-21T15:19:20.735967", "docket": "/api/rest/v2/docket/661266/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>392 U.S. 299 (1968)</b></center>\n<center><h1>JONES<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 135.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1968.</center>\nON PETITION FOR REHEARING.\n<p><i>Herbert Monte Levy</i> for petitioner.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Vinson,</i> and <i>Philip R. Monahan</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The petition for rehearing is granted and the order denying the petition for writ of certiorari, 389 U. S. 835, is set aside. The petition for a writ of certiorari is granted. The judgment of the Court of Appeals for the Second Circuit is vacated and the case is remanded to that court for further consideration in light of <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123. See <i>Roberts</i> v. <i>Russell, ante,</i> p. 293.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE WHITE dissent for the reasons stated in MR. JUSTICE WHITE'S dissenting opinion in <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123, 138 (1968).</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">392</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">299</span></span> (1968)</b></center>\n<center><h1>JONES<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 135.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1968.</center>\nON PETITION FOR REHEARING.\n<p><i>Herbert Monte Levy</i> for petitioner.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Vinson,</i> and <i>Philip R. Monahan</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The petition for rehearing is granted and the order denying the petition for writ of certiorari, 389 U. S. 835, is set aside. The petition for a writ of certiorari is granted. The judgment of the Court of Appeals for the Second Circuit is vacated and the case is remanded to that court for further consideration in light of <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123. See <i>Roberts</i> v. <i>Russell, ante,</i> p. 293.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE WHITE dissent for the reasons stated in MR. JUSTICE WHITE'S dissenting opinion in <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123, 138 (1968).</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", "id": 1334661, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1334661/", "sha1": "3bfef47a9dcfcdf502b273a06d7e1590ef727454", "source": "L", "supreme_court_db_id": "1967-170", "time_retrieved": "2013-10-29T22:33:38.056607"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "392 U.S. 299", 
+    "federal_cite_two": "88 S. Ct. 2050", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "20 L. Ed. 2d 1104", 
+    "lexis_cite": "1968 U.S. LEXIS 1360", 
+    "document_uris": [
+      "/api/rest/v2/document/1334661/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Jones v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "135", 
+    "id": 1307432, 
+    "resource_uri": "/api/rest/v2/citation/1307432/"
+  }, 
+  "id": 1334661, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-06-10", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>392 U.S. 299 (1968)</b></center>\n<center><h1>JONES<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 135.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1968.</center>\nON PETITION FOR REHEARING.\n<p><i>Herbert Monte Levy</i> for petitioner.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Vinson,</i> and <i>Philip R. Monahan</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The petition for rehearing is granted and the order denying the petition for writ of certiorari, 389 U. S. 835, is set aside. The petition for a writ of certiorari is granted. The judgment of the Court of Appeals for the Second Circuit is vacated and the case is remanded to that court for further consideration in light of <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123. See <i>Roberts</i> v. <i>Russell, ante,</i> p. 293.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE WHITE dissent for the reasons stated in MR. JUSTICE WHITE'S dissenting opinion in <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123, 138 (1968).</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T22:33:38.056607", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">392</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">299</span></span> (1968)</b></center>\n<center><h1>JONES<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 135.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 10, 1968.</center>\nON PETITION FOR REHEARING.\n<p><i>Herbert Monte Levy</i> for petitioner.</p>\n<p><i>Solicitor General Marshall, Assistant Attorney General Vinson,</i> and <i>Philip R. Monahan</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The petition for rehearing is granted and the order denying the petition for writ of certiorari, 389 U. S. 835, is set aside. The petition for a writ of certiorari is granted. The judgment of the Court of Appeals for the Second Circuit is vacated and the case is remanded to that court for further consideration in light of <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123. See <i>Roberts</i> v. <i>Russell, ante,</i> p. 293.</p>\n<p>MR. JUSTICE HARLAN and MR. JUSTICE WHITE dissent for the reasons stated in MR. JUSTICE WHITE'S dissenting opinion in <i>Bruton</i> v. <i>United States,</i> 391 U. S. 123, 138 (1968).</p>\n<p>MR. JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>\n</div>", 
+  "sha1": "3bfef47a9dcfcdf502b273a06d7e1590ef727454", 
+  "date_modified": "2014-12-21T15:19:20.735967", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1334661/jones-v-united-states/", 
+  "citation_count": 27, 
+  "supreme_court_db_id": "1967-170", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/661266/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1334661/"
+}

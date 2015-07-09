@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620770/lindo-v-gardner/", "blocked": false, "citation": {"case_name": "Lindo v. Gardner", "docket_number": null, "document_uris": ["/api/rest/v2/document/2620770/"], "federal_cite_one": "5 U.S. 343", "federal_cite_three": null, "federal_cite_two": null, "id": 2593542, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593542/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1803-02-28", "date_modified": "2014-10-29T22:47:57.930056", "docket": "/api/rest/v2/docket/3976/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>5 U.S. 343 (____)</b></center>\n<center><b>1 Cranch 343</b></center>\n<center><h1>LINDO<br>\nv.<br>\nGARDNER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*344</span> Peacock, for the plaintiff in error.</p>\n<p>THIS was an action of debt brought by the administrators of Archibald Gardner against Abraham Lindo, upon a promissory note, in the circuit court of the district of Columbia, sitting in Washington. The act of congress respecting the district of Columbia had adopted the laws of Maryland as the law of this part of the district. In Maryland the statute of 3 and 4 Anne, c. 9. respecting promissory notes, had been \"introduced, used and practised by the courts of law,\" and thereby, * 344 and *by virtue of the declaration of rights, section 3d, it became the law of the land; and the courts of Maryland, in their construction of that statute, have always respected the adjudications of the English courts. In the court below there was a verdict and judgment for the plaintiffs; to reverse which judgment the defendant sued out the present writ of error.</p>\n<p><span class=\"star-pagination\">*344</span> The declaration is, \"of a plea that he render to them 336 dollars and 97 cents, money of account of the United States of America, for that the defendant, on the 5th of October, 1795, at, &amp;c. by his certain note in writing of that date, subscribed with his proper manuscription, and now here shown to the court, acknowledged himself to owe to Archibald Gardner the said sum of 336 dollars and 97 cents, which the said defendant promised to pay the said Gardner, and to the order of the said Gardner, at sixty days after the date of the said note in writing, it being in consideration of value received.\" It then avers the non-payment, &amp;c. and makes a profert of the letters of administration which are averred to be \"in due form.\" The defendant in the court below pleaded nil debet; and after verdict against him, moved in arrest of judgment, because,</p>\n<p>1. An action of debt cannot be maintained upon the promissory note set forth in the declaration.</p>\n<p>2. It does not appear that the plaintiffs had obtained such letters of administration, as to entitle them to maintain an action upon the said note.</p>\n<p>3. The declaration is in the debet and detinet, and ought to be in the detinet only.<sup>[(a)]</sup></p>\n<p>There was also a bill of exceptions stating the refusal of the court to suffer the defendant to give the statute of limitations in evidence on the plea of nil debet.</p>\n<p>The note was in these words: \"Philadelphia, October 5, 1795. At sixty days, I promise to pay to the order *of Mr. Archibald Gardner, three hundred and thirty-six * 345 dollars and ninety-seven cents, value received.</p>\n                                                      \"A. Lindo.\"\n<h2>NOTES</h2>\n<p>[(a)]  The capias, which, in Maryland, is considered as part of the record, was in the detinet only. The declaration was in neither the debet nor detinet, having omitted those words altogether.</p>\n\n</div>", "html_with_citations": "", "id": 2620770, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620770/", "sha1": "2d2cf5026de0d3fce90da086538b94906c0e3064", "source": "L", "time_retrieved": "2013-11-01T11:54:18.363870"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "5 U.S. 343", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620770/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Lindo v. Gardner", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2593542, 
+    "resource_uri": "/api/rest/v2/citation/2593542/"
+  }, 
+  "id": 2620770, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1803-02-28", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>5 U.S. 343 (____)</b></center>\n<center><b>1 Cranch 343</b></center>\n<center><h1>LINDO<br>\nv.<br>\nGARDNER.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p><span class=\"star-pagination\">*344</span> Peacock, for the plaintiff in error.</p>\n<p>THIS was an action of debt brought by the administrators of Archibald Gardner against Abraham Lindo, upon a promissory note, in the circuit court of the district of Columbia, sitting in Washington. The act of congress respecting the district of Columbia had adopted the laws of Maryland as the law of this part of the district. In Maryland the statute of 3 and 4 Anne, c. 9. respecting promissory notes, had been \"introduced, used and practised by the courts of law,\" and thereby, * 344 and *by virtue of the declaration of rights, section 3d, it became the law of the land; and the courts of Maryland, in their construction of that statute, have always respected the adjudications of the English courts. In the court below there was a verdict and judgment for the plaintiffs; to reverse which judgment the defendant sued out the present writ of error.</p>\n<p><span class=\"star-pagination\">*344</span> The declaration is, \"of a plea that he render to them 336 dollars and 97 cents, money of account of the United States of America, for that the defendant, on the 5th of October, 1795, at, &amp;c. by his certain note in writing of that date, subscribed with his proper manuscription, and now here shown to the court, acknowledged himself to owe to Archibald Gardner the said sum of 336 dollars and 97 cents, which the said defendant promised to pay the said Gardner, and to the order of the said Gardner, at sixty days after the date of the said note in writing, it being in consideration of value received.\" It then avers the non-payment, &amp;c. and makes a profert of the letters of administration which are averred to be \"in due form.\" The defendant in the court below pleaded nil debet; and after verdict against him, moved in arrest of judgment, because,</p>\n<p>1. An action of debt cannot be maintained upon the promissory note set forth in the declaration.</p>\n<p>2. It does not appear that the plaintiffs had obtained such letters of administration, as to entitle them to maintain an action upon the said note.</p>\n<p>3. The declaration is in the debet and detinet, and ought to be in the detinet only.<sup>[(a)]</sup></p>\n<p>There was also a bill of exceptions stating the refusal of the court to suffer the defendant to give the statute of limitations in evidence on the plea of nil debet.</p>\n<p>The note was in these words: \"Philadelphia, October 5, 1795. At sixty days, I promise to pay to the order *of Mr. Archibald Gardner, three hundred and thirty-six * 345 dollars and ninety-seven cents, value received.</p>\n                                                      \"A. Lindo.\"\n<h2>NOTES</h2>\n<p>[(a)]  The capias, which, in Maryland, is considered as part of the record, was in the detinet only. The declaration was in neither the debet nor detinet, having omitted those words altogether.</p>\n\n</div>", 
+  "time_retrieved": "2013-11-01T11:54:18.363870", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "2d2cf5026de0d3fce90da086538b94906c0e3064", 
+  "date_modified": "2014-10-29T22:47:57.930056", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620770/lindo-v-gardner/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/3976/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620770/"
+}

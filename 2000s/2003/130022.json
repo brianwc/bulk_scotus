@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/130022/mcintyre-v-california/", "blocked": false, "citation": {"case_name": "McIntyre v. California", "docket_number": "02-9793", "document_uris": ["/api/rest/v2/document/130022/"], "federal_cite_one": "538 U.S. 1062", "federal_cite_three": null, "federal_cite_two": null, "id": 114375, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/114375/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-05-27", "date_modified": "2014-12-21T02:18:47.151838", "docket": "/api/rest/v2/docket/339261/", "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.1062.02-9793.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">538 U.S. 1062</p>\n    <p class=\"parties\">McINTYRE<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-9793.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA FOR THE SECOND APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 2d App. Dist. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1062</span></span></p>\n    <p class=\"parties\">McINTYRE<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-9793.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA FOR THE SECOND APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 2d App. Dist. Certiorari denied.</p>\n    </div>\n    ", "id": 130022, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/130022/", "sha1": "b1f7c89c9cc24431486e5223932f4f07f4545a8f", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:26:58"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "538 U.S. 1062", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/130022/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "McIntyre v. California", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-9793", 
+    "id": 114375, 
+    "resource_uri": "/api/rest/v2/citation/114375/"
+  }, 
+  "id": 130022, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-05-27", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/538/538.US.1062.02-9793.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:26:58", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">538</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1062</span></span></p>\n    <p class=\"parties\">McINTYRE<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-9793.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA FOR THE SECOND APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 2d App. Dist. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "b1f7c89c9cc24431486e5223932f4f07f4545a8f", 
+  "date_modified": "2014-12-21T02:18:47.151838", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/130022/mcintyre-v-california/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/339261/", 
+  "html": "<p class=\"case_cite\">538 U.S. 1062</p>\n    <p class=\"parties\">McINTYRE<br>v.<br>CALIFORNIA.</p>\n    <p class=\"docket\">No. 02-9793.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 27, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE COURT OF APPEALS OF CALIFORNIA FOR THE SECOND APPELLATE DISTRICT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Ct. App. Cal., 2d App. Dist. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/130022/"
+}

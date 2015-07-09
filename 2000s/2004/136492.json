@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/136492/in-re-simmons/", "blocked": false, "citation": {"case_name": "In Re Simmons", "docket_number": "03-8492", "document_uris": ["/api/rest/v2/document/136492/"], "federal_cite_one": "541 U.S. 1058", "federal_cite_three": null, "federal_cite_two": null, "id": 120845, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/120845/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2004-05-17", "date_modified": "2014-12-21T02:20:09.556227", "docket": "/api/rest/v2/docket/1693050/", "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1058.03-8492.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">541 U.S. 1058</p>\n    <p class=\"parties\">IN RE SIMMONS.</p>\n    <p class=\"docket\">No. 03-8492.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>ante,</i> p. 934. Petitions for rehearing denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1058</span></span></p>\n    <p class=\"parties\">IN RE SIMMONS.</p>\n    <p class=\"docket\">No. 03-8492.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>ante,</i> p. 934. Petitions for rehearing denied.</p>\n    </div>\n    ", "id": 136492, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/136492/", "sha1": "93f8153ef7d471fa2ca6aa71cb8c90b29fc862ba", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:29:47"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "541 U.S. 1058", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/136492/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "In Re Simmons", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-8492", 
+    "id": 120845, 
+    "resource_uri": "/api/rest/v2/citation/120845/"
+  }, 
+  "id": 136492, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2004-05-17", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/541/541.US.1058.03-8492.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:29:47", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">541</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1058</span></span></p>\n    <p class=\"parties\">IN RE SIMMONS.</p>\n    <p class=\"docket\">No. 03-8492.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>ante,</i> p. 934. Petitions for rehearing denied.</p>\n    </div>\n    ", 
+  "sha1": "93f8153ef7d471fa2ca6aa71cb8c90b29fc862ba", 
+  "date_modified": "2014-12-21T02:20:09.556227", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/136492/in-re-simmons/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1693050/", 
+  "html": "<p class=\"case_cite\">541 U.S. 1058</p>\n    <p class=\"parties\">IN RE SIMMONS.</p>\n    <p class=\"docket\">No. 03-8492.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">May 17, 2004.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\"><i>ante,</i> p. 934. Petitions for rehearing denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/136492/"
+}

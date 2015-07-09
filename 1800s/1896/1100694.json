@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1100694/prather-v-united-states/", "blocked": false, "citation": {"case_name": "Prather v. United States", "docket_number": "546", "document_uris": ["/api/rest/v2/document/1100694/"], "federal_cite_one": "164 U.S. 452", "federal_cite_three": null, "federal_cite_two": null, "id": 1073465, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1073465/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1896-11-30", "date_modified": "2014-10-30T17:35:42.256190", "docket": "/api/rest/v2/docket/2535573/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>164 U.S. 452 (1896)</b></center>\n<center><h1>PRATHER<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 546.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 2, 1896.</center>\n<center>Decided November 30, 1896.</center>\nERROR TO THE COURT OF APPEALS OF THE DISTRICT OF COLUMBIA.\n<p><i>Mr. Solicitor General</i> for the motion.</p>\n<p><i>Mr. H.E. Davis</i> and <i>Mr. Jeremiah M. Wilson</i> opposing.</p>\n<p>THE CHIEF JUSTICE:</p>\n<p>On the question of our appellate jurisdiction this case differs in no material respect from <i>Chapman</i> v. <i>United States,</i> just decided, <i>ante,</i> 436. The motion to dismiss the writ of error is sustained.</p>\n<p><i>Writ of error dismissed.</i></p>\n</div>", "html_with_citations": "", "id": 1100694, "judges": "The Chief Justice:", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1100694/", "sha1": "c6dfa3f59ae418a599d79be6f491b07832974206", "source": "L", "time_retrieved": "2013-10-29T20:54:41.684307"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "164 U.S. 452", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1100694/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Prather v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "546", 
+    "id": 1073465, 
+    "resource_uri": "/api/rest/v2/citation/1073465/"
+  }, 
+  "id": 1100694, 
+  "blocked": false, 
+  "judges": "The Chief Justice:", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1896-11-30", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>164 U.S. 452 (1896)</b></center>\n<center><h1>PRATHER<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 546.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Submitted November 2, 1896.</center>\n<center>Decided November 30, 1896.</center>\nERROR TO THE COURT OF APPEALS OF THE DISTRICT OF COLUMBIA.\n<p><i>Mr. Solicitor General</i> for the motion.</p>\n<p><i>Mr. H.E. Davis</i> and <i>Mr. Jeremiah M. Wilson</i> opposing.</p>\n<p>THE CHIEF JUSTICE:</p>\n<p>On the question of our appellate jurisdiction this case differs in no material respect from <i>Chapman</i> v. <i>United States,</i> just decided, <i>ante,</i> 436. The motion to dismiss the writ of error is sustained.</p>\n<p><i>Writ of error dismissed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:54:41.684307", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "c6dfa3f59ae418a599d79be6f491b07832974206", 
+  "date_modified": "2014-10-30T17:35:42.256190", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1100694/prather-v-united-states/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2535573/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1100694/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087716/ampco-printing-advertisers-offset-corp-v-new-york/", "blocked": false, "citation": {"case_name": "Ampco Printing-Advertisers' Offset Corp. v. New York", "docket_number": "152", "document_uris": ["/api/rest/v2/document/1087716/"], "federal_cite_one": "379 U.S. 5", "federal_cite_three": null, "federal_cite_two": null, "id": 1060487, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060487/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1964-10-12", "date_modified": "2014-10-30T17:36:17.417403", "docket": "/api/rest/v2/docket/2537243/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>379 U.S. 5 (1964)</b></center>\n<center><h1>AMPCO PRINTING-ADVERTISERS' OFFSET CORP. ET AL.<br>\nv.<br>\nCITY OF NEW YORK ET AL.</h1></center>\n<center>No. 152.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 12, 1964.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Harold Riegelman</i> and <i>H. H. Nordlinger</i> for appellants.</p>\n<p><i>Leo A. Larkin, Stanley Buchsbaum</i> and <i>Samuel J. Warms</i> for the City of New York et al., and <i>Louis J. Lefkowitz,</i> Attorney General of New York, <i>Samuel A. Hirshowitz,</i> First Assistant Attorney General, and <i>Gustave Soderberg,</i> Assistant Attorney General, for Lefkowitz, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 1087716, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087716/", "sha1": "384ecb2bae388477235bd4cccf9e5ec98adae20d", "source": "L", "time_retrieved": "2013-10-29T19:17:24.179767"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "379 U.S. 5", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087716/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Ampco Printing-Advertisers' Offset Corp. v. New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "152", 
+    "id": 1060487, 
+    "resource_uri": "/api/rest/v2/citation/1060487/"
+  }, 
+  "id": 1087716, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1964-10-12", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>379 U.S. 5 (1964)</b></center>\n<center><h1>AMPCO PRINTING-ADVERTISERS' OFFSET CORP. ET AL.<br>\nv.<br>\nCITY OF NEW YORK ET AL.</h1></center>\n<center>No. 152.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 12, 1964.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Harold Riegelman</i> and <i>H. H. Nordlinger</i> for appellants.</p>\n<p><i>Leo A. Larkin, Stanley Buchsbaum</i> and <i>Samuel J. Warms</i> for the City of New York et al., and <i>Louis J. Lefkowitz,</i> Attorney General of New York, <i>Samuel A. Hirshowitz,</i> First Assistant Attorney General, and <i>Gustave Soderberg,</i> Assistant Attorney General, for Lefkowitz, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T19:17:24.179767", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "384ecb2bae388477235bd4cccf9e5ec98adae20d", 
+  "date_modified": "2014-10-30T17:36:17.417403", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087716/ampco-printing-advertisers-offset-corp-v-new-york/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2537243/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087716/"
+}

@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2098227/moodie-v-ship-phoebe-anne/", "blocked": false, "citation": {"case_name": "Moodie v. Ship Phoebe Anne", "docket_number": null, "document_uris": ["/api/rest/v2/document/2098227/"], "federal_cite_one": "3 U.S. 319", "federal_cite_three": null, "federal_cite_two": null, "id": 2070998, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2070998/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1796-08-09", "date_modified": "2014-10-30T17:51:21.442716", "docket": "/api/rest/v2/docket/2587403/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>3 U.S. 319 (____)</b></center>\n<center><b>3 Dall. 319</b></center>\n<center><h1>MOODIE<br>\nversus<br>\nThe Ship PHOEBE ANNE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The Phbe Anne, a British vessel.</p>\n<p>ELSWORTH, Chief Justice.</p>\n<p>Suggestions of policy and conveniency cannot be considered in the judicial determination of a question of right: the Treaty with France, whatever that is, must have its effect. By the 19th article, it is declared, that French vessels, whether public and of war, or private and of merchants, may, on any urgent necessity, enter our ports, and be supplied with all things needful for repairs. In the present case, the privateer only underwent a repair; and the mere re-placement of her force cannot be a material augmentation; even if an augmentation of force could be deemed (which we do not decide) a sufficient cause for restitution.</p>\n<p>BY THE COURT: Let the decree of the Circuit Court be affirmed.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  See p. 285. ant, Geyer et al. versus, Michael et al. and the ship Den Onzekeren.</p>\n\n</div>", "html_with_citations": "", "id": 2098227, "judges": "Elsworth", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2098227/", "sha1": "3a85d8b0d92b638ad992bfdd09f61a4817988d2b", "source": "L", "time_retrieved": "2013-10-30T01:18:54.783456"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "3 U.S. 319", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2098227/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Moodie v. Ship Phoebe Anne", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": null, 
+    "id": 2070998, 
+    "resource_uri": "/api/rest/v2/citation/2070998/"
+  }, 
+  "id": 2098227, 
+  "blocked": false, 
+  "judges": "Elsworth", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1796-08-09", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>3 U.S. 319 (____)</b></center>\n<center><b>3 Dall. 319</b></center>\n<center><h1>MOODIE<br>\nversus<br>\nThe Ship PHOEBE ANNE.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>The Ph\u009cbe Anne, a British vessel.</p>\n<p>ELSWORTH, Chief Justice.</p>\n<p>Suggestions of policy and conveniency cannot be considered in the judicial determination of a question of right: the Treaty with France, whatever that is, must have its effect. By the 19th article, it is declared, that French vessels, whether public and of war, or private and of merchants, may, on any urgent necessity, enter our ports, and be supplied with all things needful for repairs. In the present case, the privateer only underwent a repair; and the mere re-placement of her force cannot be a material augmentation; even if an augmentation of force could be deemed (which we do not decide) a sufficient cause for restitution.</p>\n<p>BY THE COURT: Let the decree of the Circuit Court be affirmed.<sup>[*]</sup></p>\n<h2>NOTES</h2>\n<p>[*]  See p. 285. ant, Geyer et al. versus, Michael et al. and the ship Den Onzekeren.</p>\n\n</div>", 
+  "time_retrieved": "2013-10-30T01:18:54.783456", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "3a85d8b0d92b638ad992bfdd09f61a4817988d2b", 
+  "date_modified": "2014-10-30T17:51:21.442716", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2098227/moodie-v-ship-phoebe-anne/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2587403/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2098227/"
+}

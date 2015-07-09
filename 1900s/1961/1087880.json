@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1087880/tugwell-v-bush/", "blocked": false, "citation": {"case_name": "Tugwell v. Bush", "docket_number": "1037", "document_uris": ["/api/rest/v2/document/1087880/"], "federal_cite_one": "367 U.S. 907", "federal_cite_three": null, "federal_cite_two": null, "id": 1060651, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060651/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1961-06-19", "date_modified": "2014-10-30T17:31:22.507279", "docket": "/api/rest/v2/docket/2523187/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>367 U.S. 907 (1961)</b></center>\n<center><h1>TUGWELL, TREASURER OF LOUISIANA, ET AL.<br>\nv.<br>\nBUSH ET AL.</h1></center>\n<center>No. 1037.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 19, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Jack P. F. Gremillion,</i> Attorney General of Louisiana, <i>Carroll Buck,</i> First Assistant Attorney General, and <i>M. E. Culligan, George M. Ponder, Weldon A. Cousins, L. K. Clement, John M. Currier, George S. Hesni, Robert S. Link, Jr., Dorothy N. Wolbrette, John E. Jackson, Jr., William P. Schuler</i> and <i>Henry J. Roberts, Jr.,</i> Assistant Attorneys General, for appellants.</p>\n<p><i>Thurgood Marshall</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1087880, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1087880/", "sha1": "be134eea82162b1d4e78833cb1f03a07b08f1bed", "source": "L", "time_retrieved": "2013-10-29T20:00:01.051089"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "367 U.S. 907", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1087880/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Tugwell v. Bush", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1037", 
+    "id": 1060651, 
+    "resource_uri": "/api/rest/v2/citation/1060651/"
+  }, 
+  "id": 1087880, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1961-06-19", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>367 U.S. 907 (1961)</b></center>\n<center><h1>TUGWELL, TREASURER OF LOUISIANA, ET AL.<br>\nv.<br>\nBUSH ET AL.</h1></center>\n<center>No. 1037.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided June 19, 1961.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF LOUISIANA.\n<p><i>Jack P. F. Gremillion,</i> Attorney General of Louisiana, <i>Carroll Buck,</i> First Assistant Attorney General, and <i>M. E. Culligan, George M. Ponder, Weldon A. Cousins, L. K. Clement, John M. Currier, George S. Hesni, Robert S. Link, Jr., Dorothy N. Wolbrette, John E. Jackson, Jr., William P. Schuler</i> and <i>Henry J. Roberts, Jr.,</i> Assistant Attorneys General, for appellants.</p>\n<p><i>Thurgood Marshall</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:00:01.051089", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "be134eea82162b1d4e78833cb1f03a07b08f1bed", 
+  "date_modified": "2014-10-30T17:31:22.507279", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1087880/tugwell-v-bush/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2523187/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1087880/"
+}

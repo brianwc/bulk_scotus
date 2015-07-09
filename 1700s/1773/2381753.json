@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2381753/hurst-v-dippo/", "blocked": false, "citation": {"case_name": "Hurst v. Dippo", "docket_number": null, "document_uris": ["/api/rest/v2/document/2381753/"], "federal_cite_one": "1 U.S. 20", "federal_cite_three": null, "federal_cite_two": null, "id": 2354525, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2354525/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1773-09-01", "date_modified": "2014-10-30T15:45:57.519078", "docket": "/api/rest/v2/docket/2226509/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>1 U.S. 20 (1774)</b></center>\n<center><b>1 Dall. 20</b></center>\n<center><h1>HURST<br>\nversus<br>\nDIPPO.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Before CHEW, Chief Justice.</p>\n<p>WILLING and MORTON, Justices.</p>\n<p><span class=\"star-pagination\">*21</span> After long debate, THE CHIEF JUSTICE gave the opinion of the Court as follows:</p>\n<p>CHEW Chief Justice:</p>\n<p>Though demurrers are disused, yet the law is not uncertain. It is a settled rule, that courts of law determine Law; a Jury Facts. Upon which maxim, every security depends in an English Country.</p>\n<p>When a deed is produced in evidence, it must be shewn in hær Verba on the demurrer. There is a difference between Baker's case as reported in Croke and Coke: but it is law, that when facts are attempted to be proved by witnesses, the fact must be admitted; but previous to the admission of a fact, circumstances or evidence, must be shewn, tending to prove such fact. There may be a demurrer to evidence, either parol or written; and there may be written evidence to prove a fact.</p>\n<p>The difficulty in this case is, whether this list of purchasers, is sufficiently descriptive of the nature of the estate, in the deed refered to. We must for the security of the Province, take notice of the circumstances of this Province. It is well known what kind of a transaction this was. William Penn, soon after his grant from the Crown, sold lands in small parcels. It appears he made deeds for sundry small parcels of land, and received the money. These grants were in the Province at large: the party must do something more to appropriate the land. By this list, he expressly says, it is an account of the lands granted to purchasers; is it not then a proof, that William Penn made a grant, among others, to A. Sonmans, for five thousand acres of land in Pennsylvania?</p>\n<p>It sufficiently appears a deed did exist; but it may be asked, what was the nature of that deed  what kind of an estate passed by it? Whether it is proper to go out of the evidence, may be questionable. The word Purchase, however, implies a purchase in fee; and there is no instance where any other estate was granted. Besides the custom of the Province in the like cases, shews what was the nature of the purchase.</p>\n<p>The Court do not take upon themselves to say, what the deed was: and, under all the circumstances of the case, we think it not proper to insert this list in the demurrer. If the defendant's council will not agree to state an estate in fee in the plaintiff's ancestor, it must go to the jury to draw their inference of the nature of the estate, from the evidence laid before them.</p>\n</div>", "html_with_citations": "", "id": 2381753, "judges": "Chew, Chief Justice", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2381753/", "sha1": "c6d88c6edc251cc4f2127b3c2275b3a38b36220e", "source": "L", "time_retrieved": "2013-10-30T02:18:20.892546"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_two": null, 
+    "resource_uri": "/api/rest/v2/citation/2354525/", 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2381753/"
+    ], 
+    "scotus_early_cite": null, 
+    "federal_cite_one": "1 U.S. 20", 
+    "case_name": "Hurst v. Dippo", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "specialty_cite_one": null, 
+    "state_cite_regional": null, 
+    "id": 2354525, 
+    "docket_number": null, 
+    "state_cite_two": null, 
+    "neutral_cite": null
+  }, 
+  "id": 2381753, 
+  "blocked": false, 
+  "judges": "Chew, Chief Justice", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1773-09-01", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>1 U.S. 20 (1774)</b></center>\n<center><b>1 Dall. 20</b></center>\n<center><h1>HURST<br>\nversus<br>\nDIPPO.</h1></center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center></center>\n<p>Before CHEW, Chief Justice.</p>\n<p>WILLING and MORTON, Justices.</p>\n<p><span class=\"star-pagination\">*21</span> After long debate, THE CHIEF JUSTICE gave the opinion of the Court as follows:</p>\n<p>CHEW Chief Justice:</p>\n<p>Though demurrers are disused, yet the law is not uncertain. It is a settled rule, that courts of law determine Law; a Jury Facts. Upon which maxim, every security depends in an English Country.</p>\n<p>When a deed is produced in evidence, it must be shewn in h\u00e6r Verba on the demurrer. There is a difference between Baker's case as reported in Croke and Coke: but it is law, that when facts are attempted to be proved by witnesses, the fact must be admitted; but previous to the admission of a fact, circumstances or evidence, must be shewn, tending to prove such fact. There may be a demurrer to evidence, either parol or written; and there may be written evidence to prove a fact.</p>\n<p>The difficulty in this case is, whether this list of purchasers, is sufficiently descriptive of the nature of the estate, in the deed refered to. We must for the security of the Province, take notice of the circumstances of this Province. It is well known what kind of a transaction this was. William Penn, soon after his grant from the Crown, sold lands in small parcels. It appears he made deeds for sundry small parcels of land, and received the money. These grants were in the Province at large: the party must do something more to appropriate the land. By this list, he expressly says, it is an account of the lands granted to purchasers; is it not then a proof, that William Penn made a grant, among others, to A. Sonmans, for five thousand acres of land in Pennsylvania?</p>\n<p>It sufficiently appears a deed did exist; but it may be asked, what was the nature of that deed \u0097 what kind of an estate passed by it? Whether it is proper to go out of the evidence, may be questionable. The word Purchase, however, implies a purchase in fee; and there is no instance where any other estate was granted. Besides the custom of the Province in the like cases, shews what was the nature of the purchase.</p>\n<p>The Court do not take upon themselves to say, what the deed was: and, under all the circumstances of the case, we think it not proper to insert this list in the demurrer. If the defendant's council will not agree to state an estate in fee in the plaintiff's ancestor, it must go to the jury to draw their inference of the nature of the estate, from the evidence laid before them.</p>\n</div>", 
+  "time_retrieved": "2013-10-30T02:18:20.892546", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "c6d88c6edc251cc4f2127b3c2275b3a38b36220e", 
+  "date_modified": "2014-10-30T15:45:57.519078", 
+  "precedential_status": "Published", 
+  "extracted_by_ocr": false, 
+  "citation_count": 0, 
+  "absolute_url": "/opinion/2381753/hurst-v-dippo/", 
+  "docket": "/api/rest/v2/docket/2226509/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2381753/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/130361/rosas-v-cockrell-director-texas-department-of/", "blocked": false, "citation": {"case_name": "Rosas v. Cockrell, Director, Texas Department of Criminal Justice, Institutional Division", "docket_number": "02-9958", "document_uris": ["/api/rest/v2/document/130361/"], "federal_cite_one": "539 U.S. 917", "federal_cite_three": null, "federal_cite_two": null, "id": 114714, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/114714/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2003-06-09", "date_modified": "2014-12-21T02:18:53.890787", "docket": "/api/rest/v2/docket/2452873/", "download_url": "http://bulk.resource.org/courts.gov/c/US/539/539.US.917.02-9958.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">539 U.S. 917</p>\n    <p class=\"parties\">Rosas<br>v.<br>Cockrell, Director, Texas Department of Criminal Justice, Institutional Division.</p>\n    <p class=\"docket\">No. 02-9958.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">539</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">917</span></span></p>\n    <p class=\"parties\">Rosas<br>v.<br>Cockrell, Director, Texas Department of Criminal Justice, Institutional Division.</p>\n    <p class=\"docket\">No. 02-9958.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", "id": 130361, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/130361/", "sha1": "1d17a63e7d95e806b72ca4c50e4578da49be273b", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:27:09"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "539 U.S. 917", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/130361/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Rosas v. Cockrell, Director, Texas Department of Criminal Justice, Institutional Division", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-9958", 
+    "id": 114714, 
+    "resource_uri": "/api/rest/v2/citation/114714/"
+  }, 
+  "id": 130361, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2003-06-09", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/539/539.US.917.02-9958.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:27:09", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">539</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">917</span></span></p>\n    <p class=\"parties\">Rosas<br>v.<br>Cockrell, Director, Texas Department of Criminal Justice, Institutional Division.</p>\n    <p class=\"docket\">No. 02-9958.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "1d17a63e7d95e806b72ca4c50e4578da49be273b", 
+  "date_modified": "2014-12-21T02:18:53.890787", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/130361/rosas-v-cockrell-director-texas-department-of/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2452873/", 
+  "html": "<p class=\"case_cite\">539 U.S. 917</p>\n    <p class=\"parties\">Rosas<br>v.<br>Cockrell, Director, Texas Department of Criminal Justice, Institutional Division.</p>\n    <p class=\"docket\">No. 02-9958.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">June 9, 2003.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appeal from the C. A. 5th Cir.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/130361/"
+}

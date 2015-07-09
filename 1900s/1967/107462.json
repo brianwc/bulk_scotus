@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/107462/douglas-fred-barnett-v-nevada/", "blocked": false, "citation": {"case_name": "Douglas Fred Barnett v. Nevada", "docket_number": "48, Misc", "document_uris": ["/api/rest/v2/document/107462/"], "federal_cite_one": "387 U.S. 243", "federal_cite_three": null, "federal_cite_two": null, "id": 91821, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/91821/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-05-22", "date_modified": "2014-12-21T01:55:25.915782", "docket": "/api/rest/v2/docket/2048608/", "download_url": "http://bulk.resource.org/courts.gov/c/US/387/387.US.243.48.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">387 U.S. 243</p>\n    <p class=\"case_cite\">87 S.Ct. 1708</p>\n    <p class=\"case_cite\">18 L.Ed.2d 747</p>\n    <p class=\"parties\">Douglas Fred BARNETT<br>v.<br>NEVADA.</p>\n    <p class=\"docket\">No. 48, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 22, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Douglas Fred Barnett,pro se.</p>\n      <p class=\"indent\">Harvey Dickerson, Atty. Gen. of Nevada, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Nevada.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma au peris</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Nevada for further consideration in light of Anders v. State of California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493, and Long v. District Court of Iowa in and for Lee County, 385 U.S. 192, 87 S.Ct. 362, 17 L.Ed.2d 290.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">387</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">243</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 1708</p>\n    <p class=\"case_cite\">18 L.Ed.2d 747</p>\n    <p class=\"parties\">Douglas Fred BARNETT<br>v.<br>NEVADA.</p>\n    <p class=\"docket\">No. 48, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 22, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Douglas Fred Barnett,pro se.</p>\n      <p class=\"indent\">Harvey Dickerson, Atty. Gen. of Nevada, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Nevada.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma au peris</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Nevada for further consideration in light of Anders v. State of California, <span class=\"citation\" data-id=\"107423\"><a href=\"/opinion/107423/anders-v-california/\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">738</span></a></span>, 87 S.Ct. 1396, 18 L.Ed.2d 493, and Long v. District Court of Iowa in and for Lee County, <span class=\"citation\" data-id=\"107307\"><a href=\"/opinion/107307/long-v-district-court-of-iowa-lee-cty/\"><span class=\"volume\">385</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">192</span></a></span>, 87 S.Ct. 362, 17 L.Ed.2d 290.</p>\n    </div>\n    ", "id": 107462, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/107462/", "sha1": "04302f43ee7ff3ab4517873168da7120dbafe089", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:11:03"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "387 U.S. 243", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/107462/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Douglas Fred Barnett v. Nevada", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "48, Misc", 
+    "id": 91821, 
+    "resource_uri": "/api/rest/v2/citation/91821/"
+  }, 
+  "id": 107462, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-05-22", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/387/387.US.243.48.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:11:03", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">387</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">243</span></span></p>\n    <p class=\"case_cite\">87 S.Ct. 1708</p>\n    <p class=\"case_cite\">18 L.Ed.2d 747</p>\n    <p class=\"parties\">Douglas Fred BARNETT<br>v.<br>NEVADA.</p>\n    <p class=\"docket\">No. 48, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 22, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Douglas Fred Barnett,pro se.</p>\n      <p class=\"indent\">Harvey Dickerson, Atty. Gen. of Nevada, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Nevada.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma au peris</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Nevada for further consideration in light of Anders v. State of California, <span class=\"citation\" data-id=\"107423\"><a href=\"/opinion/107423/anders-v-california/\"><span class=\"volume\">386</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">738</span></a></span>, 87 S.Ct. 1396, 18 L.Ed.2d 493, and Long v. District Court of Iowa in and for Lee County, <span class=\"citation\" data-id=\"107307\"><a href=\"/opinion/107307/long-v-district-court-of-iowa-lee-cty/\"><span class=\"volume\">385</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">192</span></a></span>, 87 S.Ct. 362, 17 L.Ed.2d 290.</p>\n    </div>\n    ", 
+  "sha1": "04302f43ee7ff3ab4517873168da7120dbafe089", 
+  "date_modified": "2014-12-21T01:55:25.915782", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/107462/douglas-fred-barnett-v-nevada/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2048608/", 
+  "html": "<p class=\"case_cite\">387 U.S. 243</p>\n    <p class=\"case_cite\">87 S.Ct. 1708</p>\n    <p class=\"case_cite\">18 L.Ed.2d 747</p>\n    <p class=\"parties\">Douglas Fred BARNETT<br>v.<br>NEVADA.</p>\n    <p class=\"docket\">No. 48, Misc.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 22, 1967</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Douglas Fred Barnett,pro se.</p>\n      <p class=\"indent\">Harvey Dickerson, Atty. Gen. of Nevada, for respondent.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the Supreme Court of Nevada.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed <i>in forma au peris</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Supreme Court of Nevada for further consideration in light of Anders v. State of California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493, and Long v. District Court of Iowa in and for Lee County, 385 U.S. 192, 87 S.Ct. 362, 17 L.Ed.2d 290.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/107462/"
+}

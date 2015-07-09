@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1088096/alaska-v-operating-engineers/", "blocked": false, "citation": {"case_name": "Alaska v. Operating Engineers", "docket_number": "734", "document_uris": ["/api/rest/v2/document/1088096/"], "federal_cite_one": "393 U.S. 405", "federal_cite_three": null, "federal_cite_two": null, "id": 1060867, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1060867/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1969-01-20", "date_modified": "2014-10-30T17:48:48.293585", "docket": "/api/rest/v2/docket/2578692/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>393 U.S. 405 (1969)</b></center>\n<center><h1>ALASKA ET AL.<br>\nv.<br>\nINTERNATIONAL UNION OF OPERATING ENGINEERS, LOCAL 302, AFL-CIO, ET AL.</h1></center>\n<center>No. 734.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 20, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF ALASKA.\n<p><i>G. Kent Edwards,</i> Attorney General of Alaska, and <i>Edgar Paul Boyko</i> for appellants.</p>\n<p><i>J. Duane Vance</i> for the International Union of Operating Engineers et al., and <i>Solicitor General Griswold, Arnold Ordman, Dominick L. Manoli,</i> and <i>Norton J. Come</i> for the National Labor Relations Board, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", "html_with_citations": "", "id": 1088096, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1088096/", "sha1": "58923269e6c7c8f93f7dc9e73f5b4866c5858c70", "source": "L", "time_retrieved": "2013-10-29T20:45:29.016807"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 405", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1088096/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Alaska v. Operating Engineers", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "734", 
+    "id": 1060867, 
+    "resource_uri": "/api/rest/v2/citation/1060867/"
+  }, 
+  "id": 1088096, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1969-01-20", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 405 (1969)</b></center>\n<center><h1>ALASKA ET AL.<br>\nv.<br>\nINTERNATIONAL UNION OF OPERATING ENGINEERS, LOCAL 302, AFL-CIO, ET AL.</h1></center>\n<center>No. 734.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 20, 1969.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF ALASKA.\n<p><i>G. Kent Edwards,</i> Attorney General of Alaska, and <i>Edgar Paul Boyko</i> for appellants.</p>\n<p><i>J. Duane Vance</i> for the International Union of Operating Engineers et al., and <i>Solicitor General Griswold, Arnold Ordman, Dominick L. Manoli,</i> and <i>Norton J. Come</i> for the National Labor Relations Board, appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motions to affirm are granted and the judgment is affirmed.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:45:29.016807", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "58923269e6c7c8f93f7dc9e73f5b4866c5858c70", 
+  "date_modified": "2014-10-30T17:48:48.293585", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1088096/alaska-v-operating-engineers/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2578692/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1088096/"
+}

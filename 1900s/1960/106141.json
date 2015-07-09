@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106141/pekao-trading-corp-v-george-m-bragalini/", "blocked": false, "citation": {"case_name": "Pekao Trading Corp. v. George M. Bragalini", "docket_number": "483", "document_uris": ["/api/rest/v2/document/106141/"], "federal_cite_one": "364 U.S. 478", "federal_cite_three": "5 L. Ed. 2d 222", "federal_cite_two": "81 S. Ct. 243", "id": 90524, "lexis_cite": "1960 U.S. LEXIS 85", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90524/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 3, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1960-12-05", "date_modified": "2014-12-22T05:31:25.054177", "docket": "/api/rest/v2/docket/1748619/", "download_url": "http://bulk.resource.org/courts.gov/c/US/364/364.US.478.483.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">364 U.S. 478</p>\n    <p class=\"case_cite\">81 S.Ct. 243</p>\n    <p class=\"case_cite\">5 L.Ed.2d 222</p>\n    <p class=\"parties\">PEKAO TRADING CORP.<br>v.<br>George M. BRAGALINI et al.</p>\n    <p class=\"docket\">No. 483.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 5, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Arthur C. Fink, for appellant.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER would note probable jurisdiction and hear the case, the more so inasmuch as the transactions which New York has taxed concerned foreign commerce, unlike those which were involved in Northwestern States Portland Cement Co. v. Minnesota, 358 U.S. 450, 79 S.Ct. 357, 3 L.Ed.2d 421.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is also of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">364</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">478</span></span></p>\n    <p class=\"case_cite\">81 S.Ct. 243</p>\n    <p class=\"case_cite\">5 L.Ed.2d 222</p>\n    <p class=\"parties\">PEKAO TRADING CORP.<br>v.<br>George M. BRAGALINI et al.</p>\n    <p class=\"docket\">No. 483.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 5, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Arthur C. Fink, for appellant.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER would note probable jurisdiction and hear the case, the more so inasmuch as the transactions which New York has taxed concerned foreign commerce, unlike those which were involved in Northwestern States Portland Cement Co. v. Minnesota, <span class=\"citation\" data-id=\"105829\"><a href=\"/opinion/105829/northwestern-cement-co-v-minn/\"><span class=\"volume\">358</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">450</span></a></span>, 79 S.Ct. 357, 3 L.Ed.2d 421.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is also of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", "id": 106141, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106141/", "sha1": "86ae4d54d207586fdac85dd574b58759b918fe7c", "source": "R", "supreme_court_db_id": "1960-018", "time_retrieved": "2010-04-28T09:55:52"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "364 U.S. 478", 
+    "federal_cite_two": "81 S. Ct. 243", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": "5 L. Ed. 2d 222", 
+    "lexis_cite": "1960 U.S. LEXIS 85", 
+    "document_uris": [
+      "/api/rest/v2/document/106141/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Pekao Trading Corp. v. George M. Bragalini", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "483", 
+    "id": 90524, 
+    "resource_uri": "/api/rest/v2/citation/90524/"
+  }, 
+  "id": 106141, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1960-12-05", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/364/364.US.478.483.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:55:52", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">364</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">478</span></span></p>\n    <p class=\"case_cite\">81 S.Ct. 243</p>\n    <p class=\"case_cite\">5 L.Ed.2d 222</p>\n    <p class=\"parties\">PEKAO TRADING CORP.<br>v.<br>George M. BRAGALINI et al.</p>\n    <p class=\"docket\">No. 483.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 5, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Arthur C. Fink, for appellant.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER would note probable jurisdiction and hear the case, the more so inasmuch as the transactions which New York has taxed concerned foreign commerce, unlike those which were involved in Northwestern States Portland Cement Co. v. Minnesota, <span class=\"citation\" data-id=\"105829\"><a href=\"/opinion/105829/northwestern-cement-co-v-minn/\"><span class=\"volume\">358</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">450</span></a></span>, 79 S.Ct. 357, 3 L.Ed.2d 421.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is also of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "sha1": "86ae4d54d207586fdac85dd574b58759b918fe7c", 
+  "date_modified": "2014-12-22T05:31:25.054177", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106141/pekao-trading-corp-v-george-m-bragalini/", 
+  "citation_count": 3, 
+  "supreme_court_db_id": "1960-018", 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1748619/", 
+  "html": "<p class=\"case_cite\">364 U.S. 478</p>\n    <p class=\"case_cite\">81 S.Ct. 243</p>\n    <p class=\"case_cite\">5 L.Ed.2d 222</p>\n    <p class=\"parties\">PEKAO TRADING CORP.<br>v.<br>George M. BRAGALINI et al.</p>\n    <p class=\"docket\">No. 483.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 5, 1960</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Arthur C. Fink, for appellant.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal is dismissed for want of a substantial federal question.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Mr. Justice FRANKFURTER would note probable jurisdiction and hear the case, the more so inasmuch as the transactions which New York has taxed concerned foreign commerce, unlike those which were involved in Northwestern States Portland Cement Co. v. Minnesota, 358 U.S. 450, 79 S.Ct. 357, 3 L.Ed.2d 421.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Mr. Justice DOUGLAS is also of the opinion that probable jurisdiction should be noted.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106141/"
+}

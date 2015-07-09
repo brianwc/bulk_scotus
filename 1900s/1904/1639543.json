@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/1639543/huntington-v-city-of-new-york/", "blocked": false, "citation": {"case_name": "Huntington v. City of New York", "docket_number": "172", "document_uris": ["/api/rest/v2/document/1639543/"], "federal_cite_one": "193 U.S. 441", "federal_cite_three": null, "federal_cite_two": null, "id": 1612314, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1612314/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1904-03-21", "date_modified": "2014-12-21T06:44:28.668424", "docket": "/api/rest/v2/docket/1208478/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>193 U.S. 441 (1904)</b></center>\n<center><h1>HUNTINGTON<br>\nv.<br>\nTHE CITY OF NEW YORK ET AL.</h1></center>\n<center>No. 172.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 3, 4, 1904.</center>\n<center>Decided March 21, 1904.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p>THE CHIEF JUSTICE. This case is governed by the decision just announced, and the decree is accordingly</p>\n<p><i>Affirmed.</i></p>\n</div>", "html_with_citations": "", "id": 1639543, "judges": "The Chief Justice. This Case is Governed by the Decision Just Announced", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1639543/", "sha1": "ef431bb4fb24747faaf36cff6b7f7f81e1b8dc2e", "source": "L", "supreme_court_db_id": null, "time_retrieved": "2013-10-29T23:59:46.832472"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "193 U.S. 441", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1639543/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Huntington v. City of New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "172", 
+    "id": 1612314, 
+    "resource_uri": "/api/rest/v2/citation/1612314/"
+  }, 
+  "id": 1639543, 
+  "blocked": false, 
+  "judges": "The Chief Justice. This Case is Governed by the Decision Just Announced", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1904-03-21", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>193 U.S. 441 (1904)</b></center>\n<center><h1>HUNTINGTON<br>\nv.<br>\nTHE CITY OF NEW YORK ET AL.</h1></center>\n<center>No. 172.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued March 3, 4, 1904.</center>\n<center>Decided March 21, 1904.</center>\nAPPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK.\n<p>THE CHIEF JUSTICE. This case is governed by the decision just announced, and the decree is accordingly</p>\n<p><i>Affirmed.</i></p>\n</div>", 
+  "time_retrieved": "2013-10-29T23:59:46.832472", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "ef431bb4fb24747faaf36cff6b7f7f81e1b8dc2e", 
+  "date_modified": "2014-12-21T06:44:28.668424", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1639543/huntington-v-city-of-new-york/", 
+  "citation_count": 2, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1208478/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1639543/"
+}

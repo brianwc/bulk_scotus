@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1860659/prones-v-united-states/", "blocked": false, "citation": {"case_name": "Prones v. United States", "docket_number": "05-7689", "document_uris": ["/api/rest/v2/document/1860659/"], "federal_cite_one": "127 S. Ct. 826", "federal_cite_three": null, "federal_cite_two": "549 U.S. 1093", "id": 1833430, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1833430/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2006-12-11", "date_modified": "2014-10-30T06:32:20.073863", "docket": "/api/rest/v2/docket/978921/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>127 S.Ct. 826 (2006)</b></center>\n<center><b>549 U.S. 1093</b></center>\n<center><h1>Juan Villanueva PRONES, petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-7689.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>December 11, 2006.</center>\n<p>On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed <i>in forma pauperis</i> and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in <span class=\"star-pagination\">*827</span> light of <i>Lopez v. Gonzales,</i> 549 U.S. 47, 127 S.Ct. 625, 166 L.Ed.2d 462 (2006).</p>\n</div>", "html_with_citations": "", "id": 1860659, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1860659/", "sha1": "8159b4048b332baeb7e84e73f9472757e1b8c303", "source": "L", "time_retrieved": "2013-10-30T00:38:59.721853"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "127 S. Ct. 826", 
+    "federal_cite_two": "549 U.S. 1093", 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1860659/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Prones v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "05-7689", 
+    "id": 1833430, 
+    "resource_uri": "/api/rest/v2/citation/1833430/"
+  }, 
+  "id": 1860659, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2006-12-11", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>127 S.Ct. 826 (2006)</b></center>\n<center><b>549 U.S. 1093</b></center>\n<center><h1>Juan Villanueva PRONES, petitioner,<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-7689.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>December 11, 2006.</center>\n<p>On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed <i>in forma pauperis</i> and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in <span class=\"star-pagination\">*827</span> light of <i>Lopez v. Gonzales,</i> 549 U.S. 47, 127 S.Ct. 625, 166 L.Ed.2d 462 (2006).</p>\n</div>", 
+  "time_retrieved": "2013-10-30T00:38:59.721853", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "8159b4048b332baeb7e84e73f9472757e1b8c303", 
+  "date_modified": "2014-10-30T06:32:20.073863", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1860659/prones-v-united-states/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/978921/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1860659/"
+}

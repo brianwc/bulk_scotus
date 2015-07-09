@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2620895/callender-v-new-york/", "blocked": false, "citation": {"case_name": "Callender v. New York", "docket_number": "1103", "document_uris": ["/api/rest/v2/document/2620895/"], "federal_cite_one": "386 U.S. 779", "federal_cite_three": null, "federal_cite_two": null, "id": 2593667, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593667/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1967-05-08", "date_modified": "2014-10-29T23:01:56.465273", "docket": "/api/rest/v2/docket/29923/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>386 U.S. 779 (1967)</b></center>\n<center><h1>CALLENDER<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 1103.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 8, 1967.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Carl Rachlin</i> for appellant.</p>\n<p><i>Frank S. Hogan</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", "html_with_citations": "", "id": 2620895, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2620895/", "sha1": "0203de4bf26815883f329dea7f4d4dc2b68c940d", "source": "L", "time_retrieved": "2013-11-01T13:02:04.250810"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "386 U.S. 779", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2620895/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Callender v. New York", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1103", 
+    "id": 2593667, 
+    "resource_uri": "/api/rest/v2/citation/2593667/"
+  }, 
+  "id": 2620895, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1967-05-08", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>386 U.S. 779 (1967)</b></center>\n<center><h1>CALLENDER<br>\nv.<br>\nNEW YORK.</h1></center>\n<center>No. 1103.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 8, 1967.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Carl Rachlin</i> for appellant.</p>\n<p><i>Frank S. Hogan</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of jurisdiction. Treating the papers whereon the appeal was taken as a petition for a writ of certiorari, certiorari is denied.</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:02:04.250810", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "0203de4bf26815883f329dea7f4d4dc2b68c940d", 
+  "date_modified": "2014-10-29T23:01:56.465273", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2620895/callender-v-new-york/", 
+  "citation_count": 0, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/29923/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2620895/"
+}

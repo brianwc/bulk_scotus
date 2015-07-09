@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1090716/hanover-insurance-co-v-victor/", "blocked": false, "citation": {"case_name": "Hanover Insurance Co. v. Victor", "docket_number": "50", "document_uris": ["/api/rest/v2/document/1090716/"], "federal_cite_one": "393 U.S. 7", "federal_cite_three": null, "federal_cite_two": null, "id": 1063487, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1063487/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 2, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-10-14", "date_modified": "2014-10-30T10:16:27.926346", "docket": "/api/rest/v2/docket/1509266/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>393 U.S. 7 (1968)</b></center>\n<center><h1>HANOVER INSURANCE CO. OF NEW YORK<br>\nv.<br>\nVICTOR.</h1></center>\n<center>No. 50.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1968.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Florindo M. DeRosa, Duncan C. Lee, Frank A. Celentano,</i> and <i>Peter J. Malloy, Jr.,</i> for appellant.</p>\n<p><i>Harriet E. Gair</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", "html_with_citations": "", "id": 1090716, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1090716/", "sha1": "abeb057011d519c1f2435b6839ac6b32a3888254", "source": "L", "time_retrieved": "2013-10-29T20:48:03.976970"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 7", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1090716/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Hanover Insurance Co. v. Victor", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "50", 
+    "id": 1063487, 
+    "resource_uri": "/api/rest/v2/citation/1063487/"
+  }, 
+  "id": 1090716, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-10-14", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 7 (1968)</b></center>\n<center><h1>HANOVER INSURANCE CO. OF NEW YORK<br>\nv.<br>\nVICTOR.</h1></center>\n<center>No. 50.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 14, 1968.</center>\nAPPEAL FROM THE COURT OF APPEALS OF NEW YORK.\n<p><i>Florindo M. DeRosa, Duncan C. Lee, Frank A. Celentano,</i> and <i>Peter J. Malloy, Jr.,</i> for appellant.</p>\n<p><i>Harriet E. Gair</i> for appellee.</p>\n<p>PER CURIAM.</p>\n<p>The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:48:03.976970", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "abeb057011d519c1f2435b6839ac6b32a3888254", 
+  "date_modified": "2014-10-30T10:16:27.926346", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1090716/hanover-insurance-co-v-victor/", 
+  "citation_count": 2, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1509266/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1090716/"
+}

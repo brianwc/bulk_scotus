@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/2621070/fcc-v-cbs-corp/", "blocked": false, "citation": {"case_name": "FCC v. CBS Corp.", "docket_number": "08-653", "document_uris": ["/api/rest/v2/document/2621070/"], "federal_cite_one": "129 S. Ct. 2176", "federal_cite_three": null, "federal_cite_two": null, "id": 2593842, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/2593842/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 6, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2009-05-04", "date_modified": "2014-10-29T23:25:28.317152", "docket": "/api/rest/v2/docket/79214/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><h1>FCC, ET AL.<br>\nv.<br>\nCBS CORP., ET AL.</h1></center>\n<center>No. 08-653</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 4, 2009.</center>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of <i>FCC</i> v. <i>Fox Television Stations, Inc.,</i> 556 U.S. ___ (2009).</p>\n</div>", "html_with_citations": "", "id": 2621070, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/2621070/", "sha1": "20bded4a0ce3ef74b871897ee1d3fe975d00df8e", "source": "L", "time_retrieved": "2013-11-01T13:34:31.186022"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "129 S. Ct. 2176", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/2621070/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "FCC v. CBS Corp.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "08-653", 
+    "id": 2593842, 
+    "resource_uri": "/api/rest/v2/citation/2593842/"
+  }, 
+  "id": 2621070, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2009-05-04", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><h1>FCC, ET AL.<br>\nv.<br>\nCBS CORP., ET AL.</h1></center>\n<center>No. 08-653</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>May 4, 2009.</center>\n<p>The petition for writ of certiorari is granted. The judgment is vacated and the case is remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of <i>FCC</i> v. <i>Fox Television Stations, Inc.,</i> 556 U.S. ___ (2009).</p>\n</div>", 
+  "time_retrieved": "2013-11-01T13:34:31.186022", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "20bded4a0ce3ef74b871897ee1d3fe975d00df8e", 
+  "date_modified": "2014-10-29T23:25:28.317152", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/2621070/fcc-v-cbs-corp/", 
+  "citation_count": 6, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/79214/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/2621070/"
+}

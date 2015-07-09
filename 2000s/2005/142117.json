@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/142117/van-orden-v-perry-in-his-official-capacity-as/", "blocked": false, "citation": {"case_name": "Van Orden v. Perry, in His Official Capacity as Governor of Texas and Chairman, State Preservation Board", "docket_number": "03-1500", "document_uris": ["/api/rest/v2/document/142117/"], "federal_cite_one": "543 U.S. 1135", "federal_cite_three": null, "federal_cite_two": null, "id": 126469, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/126469/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2005-02-18", "date_modified": "2014-12-21T02:21:07.870318", "docket": "/api/rest/v2/docket/1421090/", "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1135.03-1500.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">543 U.S. 1135</p>\n    <p class=\"parties\">VAN ORDEN<br>v.<br>PERRY, IN HIS OFFICIAL CAPACITY AS GOVERNOR OF TEXAS AND CHAIRMAN, STATE PRESERVATION BOARD, ET AL.</p>\n    <p class=\"docket\">No. 03-1500.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. [Certiorari granted, <i>ante,</i> p. 923.] Motion of the Acting Solicitor General for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. Motions of the Foundation for Moral Law, Inc., and Faith and Action et al. for leave to participate in oral argument as <i>amici curiae</i> and for divided argument denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1135</span></span></p>\n    <p class=\"parties\">VAN ORDEN<br>v.<br>PERRY, IN HIS OFFICIAL CAPACITY AS GOVERNOR OF TEXAS AND CHAIRMAN, STATE PRESERVATION BOARD, ET AL.</p>\n    <p class=\"docket\">No. 03-1500.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. [Certiorari granted, <i>ante,</i> p. 923.] Motion of the Acting Solicitor General for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. Motions of the Foundation for Moral Law, Inc., and Faith and Action et al. for leave to participate in oral argument as <i>amici curiae</i> and for divided argument denied.</p>\n    </div>\n    ", "id": 142117, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/142117/", "sha1": "9968e2aabe94e18e5d4c5ba6e4037dc1e9551028", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:34:00"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "543 U.S. 1135", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/142117/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Van Orden v. Perry, in His Official Capacity as Governor of Texas and Chairman, State Preservation Board", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "03-1500", 
+    "id": 126469, 
+    "resource_uri": "/api/rest/v2/citation/126469/"
+  }, 
+  "id": 142117, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2005-02-18", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/543/543.US.1135.03-1500.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:34:00", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">543</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1135</span></span></p>\n    <p class=\"parties\">VAN ORDEN<br>v.<br>PERRY, IN HIS OFFICIAL CAPACITY AS GOVERNOR OF TEXAS AND CHAIRMAN, STATE PRESERVATION BOARD, ET AL.</p>\n    <p class=\"docket\">No. 03-1500.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. [Certiorari granted, <i>ante,</i> p. 923.] Motion of the Acting Solicitor General for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. Motions of the Foundation for Moral Law, Inc., and Faith and Action et al. for leave to participate in oral argument as <i>amici curiae</i> and for divided argument denied.</p>\n    </div>\n    ", 
+  "sha1": "9968e2aabe94e18e5d4c5ba6e4037dc1e9551028", 
+  "date_modified": "2014-12-21T02:21:07.870318", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/142117/van-orden-v-perry-in-his-official-capacity-as/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/1421090/", 
+  "html": "<p class=\"case_cite\">543 U.S. 1135</p>\n    <p class=\"parties\">VAN ORDEN<br>v.<br>PERRY, IN HIS OFFICIAL CAPACITY AS GOVERNOR OF TEXAS AND CHAIRMAN, STATE PRESERVATION BOARD, ET AL.</p>\n    <p class=\"docket\">No. 03-1500.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">February 18, 2005.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">C. A. 5th Cir. [Certiorari granted, <i>ante,</i> p. 923.] Motion of the Acting Solicitor General for leave to participate in oral argument as <i>amicus curiae</i> and for divided argument granted. Motions of the Foundation for Moral Law, Inc., and Faith and Action et al. for leave to participate in oral argument as <i>amici curiae</i> and for divided argument denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/142117/"
+}

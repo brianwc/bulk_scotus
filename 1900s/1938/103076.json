@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/103076/united-states-ex-rel-iver-schmidt-and-james-r/", "blocked": false, "citation": {"case_name": "United States, Ex Rel. Iver Schmidt and James R. Rucker v. Charles W. Miles, United States Marshal.", "docket_number": "1007", "document_uris": ["/api/rest/v2/document/103076/"], "federal_cite_one": "304 U.S. 583", "federal_cite_three": null, "federal_cite_two": null, "id": 87459, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/87459/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 7, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1938-05-31", "date_modified": "2014-12-21T01:42:16.170638", "docket": "/api/rest/v2/docket/2217793/", "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.583.1007.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">304 U.S. 583</p>\r\n    <p class=\"case_cite\">58 S.Ct. 1057</p>\r\n    <p class=\"case_cite\">82 L.Ed. 1545</p>\r\n    <p class=\"parties\">UNITED STATES, ex rel. Iver SCHMIDT and James R.  Rucker, petitioners,<br>v.<br>Charles W. MILES, United States Marshal.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">No. 1007.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 31, 1938</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. W. G. Cavett and Hal S. Buchanan, both of Memphis, Tenn., for petitioners.</p>\r\n      <p class=\"indent\">Messrs. Robert H. Jackson, Sol. Gen., and Hugh A. Fisher, both of Washington, D. C., and William W. Barron, Sp. Asst. to Atty. Gen., and George F. Kneip and W. Marvin Smith, both of Washington, D. C., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">For opinion below, see 95 F.2d 881.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Sixth Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> Rehearing denied 59 S.Ct. 59, 83 L.Ed. &#8212;&#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">583</span></span></p>\r\n    <p class=\"case_cite\">58 S.Ct. 1057</p>\r\n    <p class=\"case_cite\">82 L.Ed. 1545</p>\r\n    <p class=\"parties\">UNITED STATES, ex rel. Iver SCHMIDT and James R.  Rucker, petitioners,<br>v.<br>Charles W. MILES, United States Marshal.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">No. 1007.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 31, 1938</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. W. G. Cavett and Hal S. Buchanan, both of Memphis, Tenn., for petitioners.</p>\r\n      <p class=\"indent\">Messrs. Robert H. Jackson, Sol. Gen., and Hugh A. Fisher, both of Washington, D. C., and William W. Barron, Sp. Asst. to Atty. Gen., and George F. Kneip and W. Marvin Smith, both of Washington, D. C., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">For opinion below, see 95 F.2d 881.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Sixth Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> Rehearing denied 59 S.Ct. 59, 83 L.Ed. &#8212;&#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ", "id": 103076, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/103076/", "sha1": "fbcca856ef47991269ee5ffacbe308f6f2e14f23", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T09:54:15"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "304 U.S. 583", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/103076/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "United States, Ex Rel. Iver Schmidt and James R. Rucker v. Charles W. Miles, United States Marshal.", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "1007", 
+    "id": 87459, 
+    "resource_uri": "/api/rest/v2/citation/87459/"
+  }, 
+  "id": 103076, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1938-05-31", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.583.1007.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T09:54:15", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">583</span></span></p>\r\n    <p class=\"case_cite\">58 S.Ct. 1057</p>\r\n    <p class=\"case_cite\">82 L.Ed. 1545</p>\r\n    <p class=\"parties\">UNITED STATES, ex rel. Iver SCHMIDT and James R.  Rucker, petitioners,<br>v.<br>Charles W. MILES, United States Marshal.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">No. 1007.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 31, 1938</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. W. G. Cavett and Hal S. Buchanan, both of Memphis, Tenn., for petitioners.</p>\r\n      <p class=\"indent\">Messrs. Robert H. Jackson, Sol. Gen., and Hugh A. Fisher, both of Washington, D. C., and William W. Barron, Sp. Asst. to Atty. Gen., and George F. Kneip and W. Marvin Smith, both of Washington, D. C., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">For opinion below, see 95 F.2d 881.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Sixth Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> Rehearing denied 59 S.Ct. 59, 83 L.Ed. &#8212;&#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "sha1": "fbcca856ef47991269ee5ffacbe308f6f2e14f23", 
+  "date_modified": "2014-12-21T01:42:16.170638", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/103076/united-states-ex-rel-iver-schmidt-and-james-r/", 
+  "citation_count": 7, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2217793/", 
+  "html": "<p class=\"case_cite\">304 U.S. 583</p>\r\n    <p class=\"case_cite\">58 S.Ct. 1057</p>\r\n    <p class=\"case_cite\">82 L.Ed. 1545</p>\r\n    <p class=\"parties\">UNITED STATES, ex rel. Iver SCHMIDT and James R.  Rucker, petitioners,<br>v.<br>Charles W. MILES, United States Marshal.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">No. 1007.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 31, 1938</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. W. G. Cavett and Hal S. Buchanan, both of Memphis, Tenn., for petitioners.</p>\r\n      <p class=\"indent\">Messrs. Robert H. Jackson, Sol. Gen., and Hugh A. Fisher, both of Washington, D. C., and William W. Barron, Sp. Asst. to Atty. Gen., and George F. Kneip and W. Marvin Smith, both of Washington, D. C., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">For opinion below, see 95 F.2d 881.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Sixth Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> Rehearing denied 59 S.Ct. 59, 83 L.Ed. &#8212;&#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ", 
+  "resource_uri": "/api/rest/v2/document/103076/"
+}

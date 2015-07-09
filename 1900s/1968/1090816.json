@@ -1,1 +1,46 @@
-{"absolute_url": "/opinion/1090816/bounds-v-crawford/", "blocked": false, "citation": {"case_name": "Bounds v. Crawford", "docket_number": "279", "document_uris": ["/api/rest/v2/document/1090816/"], "federal_cite_one": "393 U.S. 76", "federal_cite_three": null, "federal_cite_two": null, "id": 1063587, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/1063587/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 1, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1968-10-21", "date_modified": "2014-10-30T00:05:20.804213", "docket": "/api/rest/v2/docket/154785/", "download_url": null, "extracted_by_ocr": false, "html": "", "html_lawbox": "<div>\n<center><b>393 U.S. 76 (1968)</b></center>\n<center><h1>BOUNDS, WARDEN<br>\nv.<br>\nCRAWFORD.</h1></center>\n<center>No. 279.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 21, 1968.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p><i>Thomas Wade Bruton,</i> Attorney General of North Carolina, and <i>Andrew A. Vanore, Jr.,</i> for petitioner.</p>\n<p>PER CURIAM.</p>\n<p>The motion of the respondent for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Appeals for further consideration in light of <i>Witherspoon</i> v. <i>Illinois,</i> 391 U. S. 510, and for consideration of the other constitutional questions raised in the case.</p>\n<p>MR. JUSTICE BLACK dissents.</p>\n</div>", "html_with_citations": "", "id": 1090816, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/1090816/", "sha1": "d56d92c120b99965aaa8e14e27061a7431041c59", "source": "L", "time_retrieved": "2013-10-29T20:48:07.464646"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "393 U.S. 76", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/1090816/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Bounds v. Crawford", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "279", 
+    "id": 1063587, 
+    "resource_uri": "/api/rest/v2/citation/1063587/"
+  }, 
+  "id": 1090816, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1968-10-21", 
+  "download_url": null, 
+  "source": "L", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>393 U.S. 76 (1968)</b></center>\n<center><h1>BOUNDS, WARDEN<br>\nv.<br>\nCRAWFORD.</h1></center>\n<center>No. 279.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 21, 1968.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n<p><i>Thomas Wade Bruton,</i> Attorney General of North Carolina, and <i>Andrew A. Vanore, Jr.,</i> for petitioner.</p>\n<p>PER CURIAM.</p>\n<p>The motion of the respondent for leave to proceed <i>in forma pauperis</i> and the petition for a writ of certiorari are granted. The judgment is vacated and the case is remanded to the Court of Appeals for further consideration in light of <i>Witherspoon</i> v. <i>Illinois,</i> 391 U. S. 510, and for consideration of the other constitutional questions raised in the case.</p>\n<p>MR. JUSTICE BLACK dissents.</p>\n</div>", 
+  "time_retrieved": "2013-10-29T20:48:07.464646", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "", 
+  "sha1": "d56d92c120b99965aaa8e14e27061a7431041c59", 
+  "date_modified": "2014-10-30T00:05:20.804213", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/1090816/bounds-v-crawford/", 
+  "citation_count": 1, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/154785/", 
+  "html": "", 
+  "resource_uri": "/api/rest/v2/document/1090816/"
+}

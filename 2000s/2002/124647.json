@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/124647/grullon-v-united-states/", "blocked": false, "citation": {"case_name": "Grullon v. United States", "docket_number": "02-6434", "document_uris": ["/api/rest/v2/document/124647/"], "federal_cite_one": "537 U.S. 985", "federal_cite_three": null, "federal_cite_two": null, "id": 109000, "lexis_cite": "", "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/109000/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 0, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "2002-10-21", "date_modified": "2014-12-21T02:17:55.768107", "docket": "/api/rest/v2/docket/100646/", "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.985.02-6434.html", "extracted_by_ocr": false, "html": "<p class=\"case_cite\">537 U.S. 985</p>\n    <p class=\"parties\">GRULLON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6434.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 21, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied.</p>\n    </div>\n    ", "html_lawbox": "", "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">985</span></span></p>\n    <p class=\"parties\">GRULLON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6434.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 21, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied.</p>\n    </div>\n    ", "id": 124647, "judges": "", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/124647/", "sha1": "a83472104a87b78dd23760d6e6d032f88131b453", "source": "R", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:22:20"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "537 U.S. 985", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": "", 
+    "document_uris": [
+      "/api/rest/v2/document/124647/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Grullon v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "02-6434", 
+    "id": 109000, 
+    "resource_uri": "/api/rest/v2/citation/109000/"
+  }, 
+  "id": 124647, 
+  "blocked": false, 
+  "judges": "", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "2002-10-21", 
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.985.02-6434.html", 
+  "source": "R", 
+  "local_path": null, 
+  "html_lawbox": "", 
+  "time_retrieved": "2010-04-28T10:22:20", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">985</span></span></p>\n    <p class=\"parties\">GRULLON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6434.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 21, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "sha1": "a83472104a87b78dd23760d6e6d032f88131b453", 
+  "date_modified": "2014-12-21T02:17:55.768107", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/124647/grullon-v-united-states/", 
+  "citation_count": 0, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/100646/", 
+  "html": "<p class=\"case_cite\">537 U.S. 985</p>\n    <p class=\"parties\">GRULLON<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-6434.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 21, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 2d Cir. Certiorari denied.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/124647/"
+}

@@ -1,1 +1,47 @@
-{"absolute_url": "/opinion/106482/alabama-v-united-states/", "blocked": false, "citation": {"case_name": "Alabama v. United States", "docket_number": "324", "document_uris": ["/api/rest/v2/document/106482/"], "federal_cite_one": "371 U.S. 37", "federal_cite_three": null, "federal_cite_two": null, "id": 90865, "lexis_cite": null, "neutral_cite": null, "resource_uri": "/api/rest/v2/citation/90865/", "scotus_early_cite": null, "specialty_cite_one": null, "state_cite_one": null, "state_cite_regional": null, "state_cite_three": null, "state_cite_two": null, "westlaw_cite": null}, "citation_count": 47, "court": "/api/rest/v2/jurisdiction/scotus/", "date_blocked": null, "date_filed": "1962-10-22", "date_modified": "2014-12-21T09:55:51.714804", "docket": "/api/rest/v2/docket/2573287/", "download_url": null, "extracted_by_ocr": false, "html": "<p class=\"case_cite\">371 U.S. 37</p>\n    <p class=\"case_cite\">83 S.Ct. 145</p>\n    <p class=\"case_cite\">9 L.Ed.2d 112</p>\n    <p class=\"parties\">ALABAMA et al.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 324.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 22, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">MacDonald Gallion, Atty. Gen. of Alabama, and Willard W. Livingston, Leslie Hall and Gordon Madison, Asst. Attys. Gen., for petitioners.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene and David Rubin, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted and the judgment is affirmed. United States v. Thomas, 362 U.S. 58, 80 S.Ct. 612, 4 L.Ed.2d 535.</p>\n    </div>\n    ", "html_lawbox": "<div>\n<center><b>371 U.S. 37 (1962)</b></center>\n<center><h1>ALABAMA ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 324.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 22, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>MacDonald Gallion,</i> Attorney General of Alabama, and <i>Willard W. Livingston, Leslie Hall</i> and <i>Gordon Madison,</i> Assistant Attorneys General, for petitioners.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene</i> and <i>David Rubin</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is affirmed. <i>United States</i> v. <i>Thomas,</i> 362 U. S. 58.</p>\n</div>", "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">37</span></span> (1962)</b></center>\n<center><h1>ALABAMA ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 324.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 22, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>MacDonald Gallion,</i> Attorney General of Alabama, and <i>Willard W. Livingston, Leslie Hall</i> and <i>Gordon Madison,</i> Assistant Attorneys General, for petitioners.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene</i> and <i>David Rubin</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is affirmed. <i>United States</i> v. <i>Thomas,</i> 362 U. S. 58.</p>\n</div>", "id": 106482, "judges": "Per Curiam", "local_path": null, "nature_of_suit": "", "plain_text": "", "precedential_status": "Published", "resource_uri": "/api/rest/v2/document/106482/", "sha1": "7382cf17a9c83ee4cde19fa593f5c3461b55d54b", "source": "LR", "supreme_court_db_id": null, "time_retrieved": "2010-04-28T10:10:42"}
+{
+  "date_blocked": null, 
+  "citation": {
+    "state_cite_three": null, 
+    "federal_cite_one": "371 U.S. 37", 
+    "federal_cite_two": null, 
+    "specialty_cite_one": null, 
+    "federal_cite_three": null, 
+    "lexis_cite": null, 
+    "document_uris": [
+      "/api/rest/v2/document/106482/"
+    ], 
+    "scotus_early_cite": null, 
+    "case_name": "Alabama v. United States", 
+    "westlaw_cite": null, 
+    "state_cite_one": null, 
+    "neutral_cite": null, 
+    "state_cite_regional": null, 
+    "state_cite_two": null, 
+    "docket_number": "324", 
+    "id": 90865, 
+    "resource_uri": "/api/rest/v2/citation/90865/"
+  }, 
+  "id": 106482, 
+  "blocked": false, 
+  "judges": "Per Curiam", 
+  "court": "/api/rest/v2/jurisdiction/scotus/", 
+  "date_filed": "1962-10-22", 
+  "download_url": null, 
+  "source": "LR", 
+  "local_path": null, 
+  "html_lawbox": "<div>\n<center><b>371 U.S. 37 (1962)</b></center>\n<center><h1>ALABAMA ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 324.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 22, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>MacDonald Gallion,</i> Attorney General of Alabama, and <i>Willard W. Livingston, Leslie Hall</i> and <i>Gordon Madison,</i> Assistant Attorneys General, for petitioners.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene</i> and <i>David Rubin</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is affirmed. <i>United States</i> v. <i>Thomas,</i> 362 U. S. 58.</p>\n</div>", 
+  "time_retrieved": "2010-04-28T10:10:42", 
+  "nature_of_suit": "", 
+  "plain_text": "", 
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">371</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">37</span></span> (1962)</b></center>\n<center><h1>ALABAMA ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 324.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided October 22, 1962.</center>\nON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.\n<p><i>MacDonald Gallion,</i> Attorney General of Alabama, and <i>Willard W. Livingston, Leslie Hall</i> and <i>Gordon Madison,</i> Assistant Attorneys General, for petitioners.</p>\n<p><i>Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene</i> and <i>David Rubin</i> for the United States.</p>\n<p>PER CURIAM.</p>\n<p>The petition for writ of certiorari is granted and the judgment is affirmed. <i>United States</i> v. <i>Thomas,</i> 362 U. S. 58.</p>\n</div>", 
+  "sha1": "7382cf17a9c83ee4cde19fa593f5c3461b55d54b", 
+  "date_modified": "2014-12-21T09:55:51.714804", 
+  "precedential_status": "Published", 
+  "absolute_url": "/opinion/106482/alabama-v-united-states/", 
+  "citation_count": 47, 
+  "supreme_court_db_id": null, 
+  "extracted_by_ocr": false, 
+  "docket": "/api/rest/v2/docket/2573287/", 
+  "html": "<p class=\"case_cite\">371 U.S. 37</p>\n    <p class=\"case_cite\">83 S.Ct. 145</p>\n    <p class=\"case_cite\">9 L.Ed.2d 112</p>\n    <p class=\"parties\">ALABAMA et al.<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 324.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 22, 1962</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">MacDonald Gallion, Atty. Gen. of Alabama, and Willard W. Livingston, Leslie Hall and Gordon Madison, Asst. Attys. Gen., for petitioners.</p>\n      <p class=\"indent\">Solicitor General Cox, Assistant Attorney General Marshall, Harold H. Greene and David Rubin, for the United States.</p>\n      <p class=\"indent\">On Petition for Writ of Certiorari to the United States Court of Appeals for the Fifth Circuit.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The petition for writ of certiorari is granted and the judgment is affirmed. United States v. Thomas, 362 U.S. 58, 80 S.Ct. 612, 4 L.Ed.2d 535.</p>\n    </div>\n    ", 
+  "resource_uri": "/api/rest/v2/document/106482/"
+}
