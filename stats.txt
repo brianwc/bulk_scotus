@@ -1,0 +1,7 @@
+JSON files as of June 30, 2015:
+
+1700s 277 files
+1800s 10,777 files
+1900s 24,633 files
+2000s 28,384 files
+TOTAL 64,071 files
